@@ -3,18 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Product Price Comparison UK</title>
-  <meta name="description" content="A UK product price comparison project in development, built to compare approved retailers and surface meaningful price differences.">
+  <meta name="theme-color" content="#0f172a">
+  <title>Product Price Comparison UK | Verified retailer deals</title>
+  <meta name="description" content="Compare exact products across participating UK retailers. We surface verified price differences and clearly label affiliate links.">
+  <link rel="canonical" href="https://jonnydawsa-beep.github.io/PromotionalSpaceURL/">
   <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
 </head>
 <body>
   <header class="site-header">
     <div class="wrap nav">
-      <a class="brand" href="index.html">Product Price Comparison UK</a>
-      <nav aria-label="Primary navigation">
+      <a class="brand" href="index.html" aria-label="Product Price Comparison UK home">
+        <span class="brand-mark" aria-hidden="true">£</span>
+        <span>Product Price Comparison UK</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+      <nav id="primary-nav" aria-label="Primary navigation">
+        <a href="index.html" aria-current="page">Deals</a>
+        <a href="retailers.html">Retailers</a>
+        <a href="methodology.html">How we compare</a>
         <a href="about.html">About</a>
         <a href="affiliate-disclosure.html">Advertising disclosure</a>
-        <a href="privacy.html">Privacy</a>
       </nav>
     </div>
   </header>
@@ -23,74 +32,142 @@
     <section class="hero">
       <div class="wrap hero-grid">
         <div>
-          <p class="eyebrow">UK comparison project · In development</p>
-          <h1>Compare the same product across approved retailers.</h1>
+          <p class="eyebrow">UK product comparison</p>
+          <h1>Useful price differences. Exact products. No fake “deals”.</h1>
           <p class="lead">
-            We are building a product-comparison service that matches identical products,
-            compares observed prices and highlights meaningful price differences.
+            We compare matching products across participating UK retailers and publish an offer only when the identity, price and retailer link can be checked.
           </p>
-          <div class="notice">
-            <strong>Launch status:</strong> the comparison engine is currently in development.
-            Live retailer offers will be added only after affiliate programme approval and testing.
+          <div class="hero-actions">
+            <a class="button" href="#deals">Browse verified deals</a>
+            <a class="button secondary" href="methodology.html">See our methodology</a>
           </div>
+          <p class="microcopy">Prices and stock can change after we check them. Always confirm the final price on the retailer's website.</p>
         </div>
-        <div class="panel">
-          <p class="panel-kicker">How it will work</p>
-          <ol>
-            <li>Match the same product using reliable identifiers such as GTIN or manufacturer part number.</li>
-            <li>Compare prices from approved online retailers.</li>
-            <li>Highlight unusually competitive offers.</li>
-            <li>Send users to the retailer to complete the purchase.</li>
-          </ol>
-        </div>
+        <aside class="trust-panel" aria-label="Comparison standards">
+          <p class="panel-kicker">Our publishing standard</p>
+          <ul class="check-list">
+            <li>Exact product identity first</li>
+            <li>Price checked before publication</li>
+            <li>Shipping basis shown where known</li>
+            <li>No claim of “cheapest anywhere” without evidence</li>
+            <li>Affiliate links clearly identified</li>
+          </ul>
+        </aside>
       </div>
     </section>
 
-    <section class="wrap section">
-      <h2>What we are building</h2>
-      <div class="cards">
-        <article class="card">
-          <h3>Exact product matching</h3>
-          <p>We aim to compare like with like rather than treating similar product titles as identical.</p>
-        </article>
-        <article class="card">
-          <h3>Price comparison</h3>
-          <p>Observed retailer prices will be compared so users can quickly see meaningful differences.</p>
-        </article>
-        <article class="card">
-          <h3>Retailer checkout</h3>
-          <p>Purchases, payments, delivery, returns and customer service remain with the retailer.</p>
-        </article>
+    <section class="wrap section compact" aria-labelledby="live-status-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Live comparison feed</p>
+          <h2 id="live-status-title">Current verified offers</h2>
+          <p class="section-copy">Only offers that pass our publication checks appear here. The list can be empty when no offer meets the standard.</p>
+        </div>
+        <div id="feed-status" class="status-pill" role="status">Loading feed…</div>
+      </div>
+
+      <div id="deal-controls" class="deal-controls" hidden>
+        <label class="search-box">
+          <span class="sr-only">Search deals</span>
+          <input id="deal-search" type="search" placeholder="Search products, brands or retailers">
+        </label>
+        <label class="filter-box">
+          <span class="sr-only">Filter category</span>
+          <select id="category-filter"><option value="all">All categories</option></select>
+        </label>
+        <label class="filter-box">
+          <span class="sr-only">Sort deals</span>
+          <select id="sort-filter">
+            <option value="newest">Newest checks</option>
+            <option value="saving">Biggest saving</option>
+            <option value="price-low">Lowest price</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="deals" class="deals-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <div class="empty-icon" aria-hidden="true">✓</div>
+        <h3>No verified deals are live right now</h3>
+        <p>That is intentional. We would rather publish nothing than turn a bad feed price or mismatched product into a misleading saving claim.</p>
+        <p>Our comparison engine continues checking participating retailer feeds and will publish offers when they meet the verification standard.</p>
+        <a class="text-link" href="methodology.html">See what an offer must pass →</a>
       </div>
     </section>
 
     <section class="section soft">
       <div class="wrap">
-        <h2>Initial coverage</h2>
-        <p>
-          The project is intended to cover selected UK retail categories where reliable product
-          identifiers allow fair comparison between multiple approved merchants. Categories will be
-          added gradually as data quality and retailer coverage are verified.
-        </p>
+        <div class="section-heading">
+          <p class="eyebrow">Why this is different</p>
+          <h2>We compare products, not just similar-looking titles.</h2>
+          <p class="section-copy">Retailer feeds are noisy. A dramatic price gap can be caused by a different pack size, a bad feed value or an unrelated product. Our process is designed to reject those cases.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <span class="feature-number">01</span>
+            <h3>Identity matching</h3>
+            <p>We prioritise reliable identifiers such as GTIN/EAN and manufacturer part number before treating two listings as the same product.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-number">02</span>
+            <h3>Price sanity checks</h3>
+            <p>Unrealistic or malformed feed prices are excluded from public deal claims rather than being used to manufacture a large percentage saving.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-number">03</span>
+            <h3>Retailer checkout</h3>
+            <p>We do not sell the product. You visit the retailer to confirm stock, final price, delivery, payment and returns.</p>
+          </article>
+        </div>
       </div>
     </section>
 
     <section class="wrap section">
-      <h2>Advertising disclosure</h2>
-      <p>
-        This site is being developed for affiliate marketing. After launch, clearly marked retailer
-        links may be advertising links. If a purchase is made through an eligible advertising link,
-        we can receive a commission from the retailer or affiliate network.
-      </p>
-      <p><a class="text-link" href="affiliate-disclosure.html">Read the full advertising disclosure →</a></p>
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Retailer coverage</p>
+          <h2>Current comparison sources</h2>
+          <p class="section-copy">Coverage expands only when retailer data can be used reliably. A retailer appearing here does not mean every product is comparable.</p>
+        </div>
+        <a class="text-link" href="retailers.html">View retailer coverage →</a>
+      </div>
+      <div class="retailer-strip" aria-label="Current retailer coverage">
+        <span>InStock UK</span>
+        <span>Tooled Up</span>
+        <span>Back to the Office</span>
+        <span>Boxed2me</span>
+      </div>
+    </section>
+
+    <section class="section disclosure-band">
+      <div class="wrap disclosure-grid">
+        <div>
+          <p class="eyebrow">Advertising disclosure</p>
+          <h2>Some retailer links can earn us commission.</h2>
+        </div>
+        <div>
+          <p>Affiliate commission can support the site at no additional cost to you. It does not make an offer “best” or “cheapest”, and we clearly label commission-eligible links as advertising.</p>
+          <a class="text-link" href="affiliate-disclosure.html">Read the full disclosure →</a>
+        </div>
+      </div>
     </section>
   </main>
 
   <footer>
     <div class="wrap footer-grid">
-      <p>© Product Price Comparison UK</p>
-      <p><a href="about.html">About</a> · <a href="affiliate-disclosure.html">Advertising disclosure</a> · <a href="privacy.html">Privacy</a></p>
+      <div>
+        <strong>Product Price Comparison UK</strong>
+        <p>Exact-product comparison for participating UK retailers.</p>
+      </div>
+      <div class="footer-links">
+        <a href="about.html">About</a>
+        <a href="retailers.html">Retailers</a>
+        <a href="methodology.html">How we compare</a>
+        <a href="affiliate-disclosure.html">Advertising disclosure</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
     </div>
+    <div class="wrap footer-note">© <span id="year"></span> Product Price Comparison UK. Retailer prices, stock and terms may change.</div>
   </footer>
 </body>
 </html>
