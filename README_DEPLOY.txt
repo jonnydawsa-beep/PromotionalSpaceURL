@@ -1,4 +1,4 @@
-PRODUCT PRICE COMPARISON UK — GITHUB PAGES DEPLOY
+DEAL BURROW — GITHUB PAGES DEPLOY
 =================================================
 
 WHAT THIS BUILD IS
