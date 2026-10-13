@@ -36,15 +36,18 @@ jobs:
         run: |
           python FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/extract_research.py --self-test
 
-      - name: Check holdout firewall source text
+      - name: Check holdout firewall source structure
         shell: pwsh
         run: |
           $text = Get-Content FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/extract_research.py -Raw
-          if ($text -match 'glob\(' -or $text -match 'iterdir\(') {
+          if ($text -match 'glob\(' -or $text -match 'iterdir\(' -or $text -match 'listdir\(') {
             throw 'Extractor must not glob/list the source directory.'
           }
-          if ($text -match '2025\.tar' -or $text -match '2026\.tar') {
-            throw 'Extractor source must not directly reference holdout filenames.'
+          if ($text -notmatch 'RESEARCH_YEARS\s*=\s*tuple\(range\(2015,\s*2025\)\)') {
+            throw 'Research-year firewall declaration missing or changed.'
+          }
+          if ($text -notmatch 'source_paths\s*=\s*\{year:\s*raw_dir\s*/\s*f"\{year\}\.tar"\s*for\s*year\s*in\s*RESEARCH_YEARS\}') {
+            throw 'Explicit research-source construction missing or changed.'
           }
           Write-Host 'HOLDOUT FIREWALL STATIC CHECK PASS'
 
