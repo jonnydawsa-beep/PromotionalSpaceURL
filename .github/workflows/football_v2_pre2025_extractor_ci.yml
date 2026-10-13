@@ -51,18 +51,21 @@ jobs:
           }
           Write-Host 'HOLDOUT FIREWALL STATIC CHECK PASS'
 
-      - name: Package Windows-ready ZIP
+      - name: Write tested build information
         shell: pwsh
         run: |
-          $source = 'FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR'
-          $zip = 'FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0.zip'
-          Compress-Archive -Path "$source\*" -DestinationPath $zip -CompressionLevel Optimal -Force
-          Get-FileHash $zip -Algorithm SHA256 | Format-List
+          @"
+          BUILD=FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1.0.0
+          COMMIT=${{ github.sha }}
+          WINDOWS_CI=PASS
+          SYNTHETIC_END_TO_END=PASS
+          HOLDOUT_FIREWALL_STATIC_CHECK=PASS
+          "@ | Set-Content FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/BUILD_INFO.txt
 
-      - name: Upload tested package
+      - name: Upload tested unpack-ready package
         uses: actions/upload-artifact@v4
         with:
           name: FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0
-          path: FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0.zip
+          path: FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/
           if-no-files-found: error
           retention-days: 30
