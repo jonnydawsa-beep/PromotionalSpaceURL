@@ -1,9 +1,31 @@
 {
   "meta": {
-    "schema_version": "1.0",
-    "generated_at": null,
-    "publication_mode": "VALIDATED_ONLY",
-    "note": "The public feed is intentionally empty until a real offer passes the publication gate."
+    "schema_version": "1.1",
+    "generated_at": "2026-10-13T20:23:41Z",
+    "publication_mode": "MANUAL_APPROVAL_LIVE_REVALIDATED",
+    "deal_count": 1,
+    "note": "Only manually approved signals that still pass frozen screening, duplicate controls, tracking requirements and pre-publication gates are included."
   },
-  "deals": []
+  "deals": [
+    {
+      "deal_id": "a99da9af-212f-4a3e-b50a-74f63c929ee6",
+      "publishable": true,
+      "signal_type": "HISTORICAL_DROP",
+      "canonical_key": "GTIN:790069269981",
+      "advertiser_id": "61655",
+      "title": "D-Link 16-Port Gigabit Unmanaged Desktop Switch",
+      "brand": "D-Link",
+      "category": null,
+      "retailer": "Back to the Office",
+      "current_price": 58.99,
+      "comparison_price": 81.99,
+      "saving_percent": 28.05,
+      "comparison_count": 7,
+      "price_basis": "ITEM_ONLY",
+      "checked_at": "2026-10-13T20:20:14Z",
+      "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/b2e550b23885e64fdbf025cf11a45226.jpg?v=1756116405",
+      "product_url": "https://www.backtotheoffice.co.uk/products/d-link-16-port-gigabit-unmanaged-desktop-switch?variant=55306492543358",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-a99da9af212f4a3eb50a74f63c929ee6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-16-port-gigabit-unmanaged-desktop-switch%3Fvariant%3D55306492543358&platform=pl"
+    }
+  ]
 }
