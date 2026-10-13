@@ -1,0 +1,65 @@
+name: Football V2 Pre-2025 Extractor CI
+
+on:
+  push:
+    branches:
+      - football-v2-pre2025-extractor-v1
+    paths:
+      - 'FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/**'
+      - '.github/workflows/football_v2_pre2025_extractor_ci.yml'
+  workflow_dispatch:
+
+jobs:
+  test-and-package:
+    runs-on: windows-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile Python files
+        shell: pwsh
+        run: |
+          python -m py_compile `
+            FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/extract_research.py `
+            FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/doctor.py `
+            FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/pack_for_upload.py
+
+      - name: Run synthetic end-to-end extraction test
+        shell: pwsh
+        run: |
+          python FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/extract_research.py --self-test
+
+      - name: Check holdout firewall source text
+        shell: pwsh
+        run: |
+          $text = Get-Content FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR/extract_research.py -Raw
+          if ($text -match 'glob\(' -or $text -match 'iterdir\(') {
+            throw 'Extractor must not glob/list the source directory.'
+          }
+          if ($text -match '2025\.tar' -or $text -match '2026\.tar') {
+            throw 'Extractor source must not directly reference holdout filenames.'
+          }
+          Write-Host 'HOLDOUT FIREWALL STATIC CHECK PASS'
+
+      - name: Package Windows-ready ZIP
+        shell: pwsh
+        run: |
+          $source = 'FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR'
+          $zip = 'FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0.zip'
+          Compress-Archive -Path "$source\*" -DestinationPath $zip -CompressionLevel Optimal -Force
+          Get-FileHash $zip -Algorithm SHA256 | Format-List
+
+      - name: Upload tested package
+        uses: actions/upload-artifact@v4
+        with:
+          name: FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0
+          path: FOOTBALL_V2_0_PRE2025_SQLITE_EXTRACTOR_v1_0_0.zip
+          if-no-files-found: error
+          retention-days: 30
