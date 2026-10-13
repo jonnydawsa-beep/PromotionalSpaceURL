@@ -60,7 +60,8 @@ h1{max-width:760px;margin:0;font-size:clamp(2.15rem,4vw,3.45rem);line-height:1;l
 .deal-body{padding:16px}
 .deal-topline{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:10px}
 .ad-label{font-size:.68rem;color:#6c7076;border:1px solid #dfe1e4;border-radius:3px;padding:2px 5px}
-.saving-badge{font-size:.77rem;font-weight:800;color:#20251f;background:#e4bf52;border:1px solid #caa63e;border-radius:3px;padding:4px 7px}
+.saving-badge{display:inline-flex;align-items:center;gap:4px;font-size:.77rem;font-weight:800;color:#20251f;background:#e4bf52;border:1px solid #caa63e;border-radius:3px;padding:4px 7px}
+.saving-arrow{width:13px;height:13px;display:block;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;flex:0 0 auto}
 .deal-card h3{margin:0;font-size:1rem;line-height:1.33;letter-spacing:-.01em;min-height:2.65em}
 .retailer-name{margin:8px 0 12px;color:#70747a;font-size:.84rem}
 .price-row{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}

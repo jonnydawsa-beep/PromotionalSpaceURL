@@ -87,7 +87,7 @@
         ? `<span class="was-price">Previously tracked ${money(baselineNumber)}</span>`
         : '';
       const saving = Number.isFinite(Number(d.saving_percent)) && Number(d.saving_percent) > 0
-        ? `<span class="saving-badge">↓ ${pct(d.saving_percent)}</span>`
+        ? `<span class="saving-badge"><svg class="saving-arrow" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 2v9M4.5 8.5 8 12l3.5-3.5"/></svg>${pct(d.saving_percent)}</span>`
         : '';
       const savingCash = Number.isFinite(baselineNumber) && Number.isFinite(currentNumber) && baselineNumber > currentNumber
         ? `<p class="deal-saving-copy">${money(baselineNumber - currentNumber)} lower than our tracked price</p>`
