@@ -1,4 +1,4 @@
-# Product Price Comparison UK — public site
+# Deal Burrow — public site
 
 Static GitHub Pages site for the Product Opportunity Miner project.
 

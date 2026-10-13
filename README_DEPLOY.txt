@@ -1,4 +1,4 @@
-PRODUCT PRICE COMPARISON UK — GITHUB PAGES DEPLOY
+DEAL BURROW — GITHUB PAGES DEPLOY
 =================================================
 
 WHAT THIS BUILD IS
@@ -36,8 +36,8 @@ FIRST DEPLOY WITH GITHUB DESKTOP
 
 CURRENT DEAL FEED
 -----------------
-`deals.json` is intentionally empty. The site will show a truthful “No verified deals are live right now” state.
+`deals.json` is generated from publication-approved, live-revalidated signals and may contain zero or more live deals.
 
-NEXT AUTOMATION STEP
---------------------
-Build a separate publisher inside Product Opportunity Miner that writes ONLY publication-approved offers to deals.json, then commits that generated file to the public repository. Do not publish raw SCREENING_ONLY signals automatically.
+PUBLICATION AUTOMATION
+----------------------
+Product Opportunity Miner writes ONLY publication-approved, live-revalidated offers to deals.json. Do not publish raw screening candidates automatically.
