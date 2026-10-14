@@ -93,13 +93,15 @@
         ? `<p class="deal-saving-copy">${money(baselineNumber - currentNumber)} lower than our tracked price</p>`
         : '';
       const href = escapeHtml(d.affiliate_url || d.product_url || '#');
+      const detailHref = d.deal_page_url ? escapeHtml(d.deal_page_url) : '';
+      const titleMarkup = detailHref ? `<a class="deal-title-link" href="${detailHref}">${title}</a>` : title;
       const basis = d.price_basis === 'DELIVERED' ? 'Delivered price' : 'Item price';
 
       return `<article class="deal-card">
         ${image}
         <div class="deal-body">
           <div class="deal-topline"><span class="ad-label">Affiliate link</span>${saving}</div>
-          <h3>${title}</h3>
+          <h3>${titleMarkup}</h3>
           <p class="retailer-name">${retailer}</p>
           <div class="price-row"><strong>${money(d.current_price)}</strong>${baseline}</div>
           ${savingCash}
