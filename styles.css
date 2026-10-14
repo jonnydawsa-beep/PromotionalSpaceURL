@@ -303,3 +303,21 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
   font-size:.71rem;
   line-height:1.4;
 }
+
+
+/* Product detail pages — October 2026 */
+.product-page{padding-top:52px;padding-bottom:72px}
+.product-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(340px,.9fr);gap:42px;align-items:start}
+.product-hero-image{min-height:430px;border:1px solid var(--line);border-radius:8px;background:#fff;padding:34px;display:flex;align-items:center;justify-content:center}
+.product-hero-image img{display:block;max-width:100%;max-height:360px;width:auto;height:auto;object-fit:contain}
+.product-summary{padding-top:8px}
+.product-summary h1{font-size:clamp(2rem,4vw,3rem);line-height:1.04;letter-spacing:-.035em;margin:0 0 14px}
+.product-price-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-top:16px}
+.product-price-row strong{font-size:2.4rem;line-height:1;font-weight:900;letter-spacing:-.045em}
+.product-price-row span{color:#6d7277;font-size:.9rem}
+.product-meta{color:#6e7479;font-size:.8rem;margin:12px 0 0}
+@media(max-width:850px){
+  .product-layout{grid-template-columns:1fr}
+  .product-hero-image{min-height:300px}
+  .product-hero-image img{max-height:260px}
+}
