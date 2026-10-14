@@ -321,3 +321,12 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
   .product-hero-image{min-height:300px}
   .product-hero-image img{max-height:260px}
 }
+
+
+.deal-title-link{color:inherit;text-decoration:none}
+.deal-title-link:hover{text-decoration:underline;text-underline-offset:3px}
+.inactive-offer{margin-top:18px;padding:16px;border-left:3px solid var(--accent);background:#eef4f0}
+.inactive-offer strong{display:block;margin-bottom:4px}
+.inactive-offer p{margin:0;color:#535b56}
+.secondary-button{background:#fff;color:var(--accent);border:1px solid var(--accent)}
+.secondary-button:hover{background:#eef4f0;color:var(--accent-dark)}
