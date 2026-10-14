@@ -1,10 +1,11 @@
 {
   "meta": {
     "schema_version": "1.1",
-    "generated_at": "2026-10-14T15:14:24Z",
-    "publication_mode": "AUTO_POLICY_LIVE_REVALIDATED",
+    "generated_at": "2026-10-14T15:58:24Z",
+    "publication_mode": "AUTO_POLICY_LIVE_REVALIDATED_WITH_DEFERRED_LKG",
     "deal_count": 1,
-    "note": "Autonomously recommended deals are published only after current-cycle source freshness, frozen screening, duplicate/promotion controls, tracking requirements and pre-publication gates pass."
+    "note": "Current PASS deals plus unchanged last-known-good cards preserved only where validation was DEFERRED by insufficient external proof. Confirmed failures are removed.",
+    "preserved_lkg_count": 1
   },
   "deals": [
     {
