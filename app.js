@@ -133,7 +133,7 @@
       if (dealCount) dealCount.textContent = String(count);
       status.textContent = count ? `${count} live` : 'No live deals';
       status.classList.toggle('ok', count > 0);
-      controls.hidden = count <= 1;
+      controls.hidden = count === 0;
       populateCategories();
       render();
     })
