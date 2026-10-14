@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema_version": "1.1",
-    "generated_at": "2026-10-14T08:25:52Z",
-    "publication_mode": "MANUAL_APPROVAL_LIVE_REVALIDATED",
+    "generated_at": "2026-10-14T09:07:32Z",
+    "publication_mode": "AUTO_POLICY_LIVE_REVALIDATED",
     "deal_count": 12,
-    "note": "Only manually approved signals that still pass frozen screening, duplicate controls, tracking requirements and pre-publication gates are included."
+    "note": "Autonomously recommended deals are published only after current-cycle source freshness, frozen screening, duplicate/promotion controls, tracking requirements and pre-publication gates pass."
   },
   "deals": [
     {
@@ -22,7 +22,7 @@
       "saving_percent": 53.81,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:24:04Z",
+      "checked_at": "2026-10-14T08:50:10Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/3f0c97245a36ff7f1a54fa9b68267603.jpg?v=1778664467",
       "product_url": "https://www.backtotheoffice.co.uk/products/eizo-flexscan-ev3895-bk-computer-monitor-952-cm-375-3840-x-1600-pixels-ultrawide-quad-hd-lcd-black?variant=57404624765310",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-e7c6574547844a8ebe2ae43ba77acf0d&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Feizo-flexscan-ev3895-bk-computer-monitor-952-cm-375-3840-x-1600-pixels-ultrawide-quad-hd-lcd-black%3Fvariant%3D57404624765310&platform=pl"
@@ -42,7 +42,7 @@
       "saving_percent": 40.4,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:23:51Z",
+      "checked_at": "2026-10-14T08:50:01Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/31566940d9ee698b407dbb1205cf8516.jpg?v=1763799229",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cc7625-406-cm-16-briefcase-black?variant=55307757584766",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-e4c6ff5d603341dfb304931dff8b46ca&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-cc7625-406-cm-16-briefcase-black%3Fvariant%3D55307757584766&platform=pl"
@@ -62,7 +62,7 @@
       "saving_percent": 34.85,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:24:06Z",
+      "checked_at": "2026-10-14T08:50:11Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/f1a4606b2cd5437445dd0a271202a211558f256227cbdf479ffbf8fadcee1f0f.jpg?v=1782975780",
       "product_url": "https://www.backtotheoffice.co.uk/products/arctic-xtender-vg-black-clear-glass-black-transparent?variant=57633217708414",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-111c2640138448afab95b830d3e538fe&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Farctic-xtender-vg-black-clear-glass-black-transparent%3Fvariant%3D57633217708414&platform=pl"
@@ -82,7 +82,7 @@
       "saving_percent": 33.34,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:24:01Z",
+      "checked_at": "2026-10-14T08:50:08Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/7ca7ad2ccfaad9fe9aac1cb2fcbc91bc.jpg?v=1771923989",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cc5626-406-cm-16-briefcase-black?variant=56836889739646",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-5ec52dd155ff47b690539423e3b8ca05&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-cc5626-406-cm-16-briefcase-black%3Fvariant%3D56836889739646&platform=pl"
@@ -102,7 +102,7 @@
       "saving_percent": 33.34,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:22:54Z",
+      "checked_at": "2026-10-14T08:49:11Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0834/4040/2697/files/Mancitehauthentic.png?v=1781604308",
       "product_url": "https://instock.net/products/manchester-city-2022-2023-authentic-away-shirt-bnwt-m?variant=57135849177353",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=122444&awinaffid=3115871&campaign=&clickref=POM-c8b959e54a4d41d49642f36d3b69f83f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Finstock.net%2Fproducts%2Fmanchester-city-2022-2023-authentic-away-shirt-bnwt-m%3Fvariant%3D57135849177353&platform=pl"
@@ -122,7 +122,7 @@
       "saving_percent": 30.9,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:24:07Z",
+      "checked_at": "2026-10-14T08:50:12Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/05ec2d565678a29b146fd41c798f4f0135af64440b3c38170d8df0e4fcad4725.jpg?v=1790925012",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-loq-15irx10-156-laptop-83je00m0uk-intel-core-i7-13700hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-windows-11-home?variant=58099449069950",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-90c6d30463f74aadbfd91a086d5aadd7&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flenovo-loq-15irx10-156-laptop-83je00m0uk-intel-core-i7-13700hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-windows-11-home%3Fvariant%3D58099449069950&platform=pl"
@@ -142,7 +142,7 @@
       "saving_percent": 29.53,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:23:51Z",
+      "checked_at": "2026-10-14T08:50:01Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/a5681ecf3cd2e52c7e6fa1bc771fe647.jpg?v=1764838977",
       "product_url": "https://www.backtotheoffice.co.uk/products/benq-mx560-standard-throw-projector-4000-ansi-lumens-dlp-xga-1024x768-3d-white?variant=55308224102782",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-6a3b7dfc352f4c16a27183cd05640a79&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fbenq-mx560-standard-throw-projector-4000-ansi-lumens-dlp-xga-1024x768-3d-white%3Fvariant%3D55308224102782&platform=pl"
@@ -162,7 +162,7 @@
       "saving_percent": 28.73,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:23:51Z",
+      "checked_at": "2026-10-14T08:50:01Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/6edda0ed4d1d76d865f70bbe69bba89e_5bb91f44-30cf-4729-823c-f1219ae539c1.jpg?v=1756121133",
       "product_url": "https://www.backtotheoffice.co.uk/products/optoma-zw340e-standard-throw-projector-3600-ansi-lumens-dlp-wxga-1280x800-3d-white?variant=55307544920446",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-5b57b8b505e34401855eba727d03a60d&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Foptoma-zw340e-standard-throw-projector-3600-ansi-lumens-dlp-wxga-1280x800-3d-white%3Fvariant%3D55307544920446&platform=pl"
@@ -182,7 +182,7 @@
       "saving_percent": 28.05,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:23:49Z",
+      "checked_at": "2026-10-14T08:49:59Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/b2e550b23885e64fdbf025cf11a45226.jpg?v=1756116405",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-16-port-gigabit-unmanaged-desktop-switch?variant=55306492543358",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-8a9e35d65c334c999ba479f00b83847b&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-16-port-gigabit-unmanaged-desktop-switch%3Fvariant%3D55306492543358&platform=pl"
@@ -202,7 +202,7 @@
       "saving_percent": 27.85,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:23:48Z",
+      "checked_at": "2026-10-14T08:49:59Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/f97864bc7863e93924052a688c5ee67b.jpg?v=1772797474",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-rally-mounting-kit?variant=55306366189950",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-37fe3f5b589a404196a8b875671ca123&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flogitech-rally-mounting-kit%3Fvariant%3D55306366189950&platform=pl"
@@ -222,7 +222,7 @@
       "saving_percent": 27.28,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:22:54Z",
+      "checked_at": "2026-10-14T08:49:11Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0834/4040/2697/files/Mancitynewish1111.png?v=1781603479",
       "product_url": "https://instock.net/products/manchester-city-2015-2016-home-shirt-bnwt-m?variant=57135817195785",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=122444&awinaffid=3115871&campaign=&clickref=POM-27b27d61266c46e3ac8e999b5b2eb7cd&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Finstock.net%2Fproducts%2Fmanchester-city-2015-2016-home-shirt-bnwt-m%3Fvariant%3D57135817195785&platform=pl"
@@ -242,7 +242,7 @@
       "saving_percent": 20.0,
       "comparison_count": 8,
       "price_basis": "ITEM_ONLY",
-      "checked_at": "2026-10-14T08:22:54Z",
+      "checked_at": "2026-10-14T08:49:11Z",
       "image_url": "https://cdn.shopify.com/s/files/1/0834/4040/2697/files/s-l1600_83_3b5172b0-1cf4-4104-b41f-126c491d8fdc.png?v=1781602978",
       "product_url": "https://instock.net/products/spain-2018-2019-home-shirt-bnwt-l?variant=57135798354185",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=122444&awinaffid=3115871&campaign=&clickref=POM-0b0fa3c6614147598391ce3202cafebd&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Finstock.net%2Fproducts%2Fspain-2018-2019-home-shirt-bnwt-l%3Fvariant%3D57135798354185&platform=pl"
