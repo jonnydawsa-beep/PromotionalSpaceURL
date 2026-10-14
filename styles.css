@@ -344,3 +344,9 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
   .intro h1{font-size:2.15rem}
   .deals-section{padding-top:28px;padding-bottom:38px}
 }
+
+/* Contact page */
+.contact-card{max-width:680px;margin:28px 0 34px;padding:22px;border:1px solid var(--line);border-radius:7px;background:#fff}
+.contact-card strong{display:block;font-size:1.15rem}
+.contact-card strong a{color:var(--accent);text-underline-offset:3px}
+.contact-card p{margin:8px 0 0;color:var(--muted)}
