@@ -196,3 +196,58 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
   .section-heading{align-items:flex-start;flex-direction:column}
   .category-grid,.evidence-grid,.publisher-facts{grid-template-columns:1fr}
 }
+
+
+/* Deal-card image/text separation fix — October 2026 */
+.deal-card{position:relative;isolation:isolate;background:#fff}
+.deal-image{
+  position:relative;
+  z-index:0;
+  flex:0 0 210px;
+  width:100%;
+  height:210px;
+  overflow:hidden;
+  padding:18px;
+  background:#fff;
+  border-bottom:1px solid #ededed;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.deal-image img{
+  display:block;
+  width:auto;
+  max-width:100%;
+  height:auto;
+  max-height:100%;
+  object-fit:contain;
+  object-position:center;
+}
+.deal-body{
+  position:relative;
+  z-index:2;
+  flex:1 1 auto;
+  width:100%;
+  padding:16px;
+  background:#fff;
+  color:var(--ink);
+}
+.deal-body:before{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  top:-1px;
+  height:1px;
+  background:#ededed;
+}
+.deal-topline,.deal-card h3,.retailer-name,.price-row,.deal-saving-copy,.deal-meta,.deal-button,.deal-small{
+  position:relative;
+  z-index:3;
+}
+@media(max-width:720px){
+  .deal-image{
+    flex-basis:230px;
+    height:230px;
+  }
+}
