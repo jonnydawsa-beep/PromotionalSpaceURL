@@ -330,3 +330,17 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
 .inactive-offer p{margin:0;color:#535b56}
 .secondary-button{background:#fff;color:var(--accent);border:1px solid var(--accent)}
 .secondary-button:hover{background:#eef4f0;color:var(--accent-dark)}
+
+
+/* Homepage hierarchy polish — deals first */
+.intro-inner{padding-top:28px;padding-bottom:24px}
+.intro h1{font-size:clamp(2rem,3.3vw,3rem);max-width:720px}
+.intro-copy{margin-top:14px;font-size:1rem;max-width:760px}
+.intro-meta{margin-top:18px}
+.deals-section{padding-top:34px;padding-bottom:46px}
+.category-section{padding-top:38px;padding-bottom:44px}
+@media(max-width:720px){
+  .intro-inner{padding-top:26px;padding-bottom:22px}
+  .intro h1{font-size:2.15rem}
+  .deals-section{padding-top:28px;padding-bottom:38px}
+}
