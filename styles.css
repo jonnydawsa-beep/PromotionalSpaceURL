@@ -350,3 +350,13 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
 .contact-card strong{display:block;font-size:1.15rem}
 .contact-card strong a{color:var(--accent);text-underline-offset:3px}
 .contact-card p{margin:8px 0 0;color:var(--muted)}
+
+/* V1.9 SEO evidence */
+.breadcrumbs{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin:0 0 22px;color:var(--muted);font-size:.79rem}
+.breadcrumbs a{color:var(--accent);text-decoration:none}
+.breadcrumbs a:hover{text-decoration:underline;text-underline-offset:3px}
+.product-evidence{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;margin-top:30px;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--line)}
+.product-evidence div{display:flex;flex-direction:column;gap:4px;padding:15px 16px;background:#fff}
+.product-evidence strong{font-size:.75rem;color:var(--muted)}
+.product-evidence span{font-size:.96rem;font-weight:800;color:var(--ink)}
+@media(max-width:720px){.product-evidence{grid-template-columns:repeat(2,minmax(0,1fr))}}
