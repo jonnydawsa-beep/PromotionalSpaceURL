@@ -96,18 +96,24 @@
       const detailHref = d.deal_page_url ? escapeHtml(d.deal_page_url) : '';
       const titleMarkup = detailHref ? `<a class="deal-title-link" href="${detailHref}">${title}</a>` : title;
       const basis = d.price_basis === 'DELIVERED' ? 'Delivered price' : 'Item price';
+      const isGrace = d.publication_state === 'LKG_COVERAGE_GRACE';
+      const badgeText = isGrace ? 'Recently verified' : 'Affiliate link';
+      const buttonText = isGrace ? `Check current deal at ${retailer}` : `See deal at ${retailer}`;
+      const smallText = isGrace
+        ? 'Revalidation is in progress. Confirm current price, stock, delivery and final price with the retailer.'
+        : 'Check the retailer for current stock, delivery and final price.';
 
       return `<article class="deal-card">
         ${image}
         <div class="deal-body">
-          <div class="deal-topline"><span class="ad-label">Affiliate link</span>${saving}</div>
+          <div class="deal-topline"><span class="ad-label">${badgeText}</span>${saving}</div>
           <h3>${titleMarkup}</h3>
           <p class="retailer-name">${retailer}</p>
           <div class="price-row"><strong>${money(d.current_price)}</strong>${baseline}</div>
           ${savingCash}
           <p class="deal-meta">${escapeHtml(basis)} · ${escapeHtml(checkedText(d.checked_at))}</p>
-          <a class="deal-button" href="${href}" target="_blank" rel="sponsored nofollow noopener">See deal at ${retailer}</a>
-          <p class="deal-small">Check the retailer for current stock, delivery and final price.</p>
+          <a class="deal-button" href="${href}" target="_blank" rel="sponsored nofollow noopener">${buttonText}</a>
+          <p class="deal-small">${smallText}</p>
         </div>
       </article>`;
     }).join('');
