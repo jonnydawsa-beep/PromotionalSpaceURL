@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T20:46:47Z",
+  "generated_at": "2026-10-19T23:11:55Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 1,
   "product_count": 5,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -42,9 +42,9 @@
     "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a": {
       "slug": "endgame-gear-xm2we-mouse.html",
       "first_seen_at": "2026-10-14T17:38:49Z",
-      "active": false,
-      "last_live_at": "2026-10-16T11:31:41Z",
-      "last_seen_at": "2026-10-19T16:23:35Z",
+      "active": true,
+      "last_live_at": "2026-10-19T23:11:55Z",
+      "last_seen_at": "2026-10-19T23:11:55Z",
       "last_changed_date": "2026-10-19",
       "last_deal": {
         "deal_id": "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a",
@@ -69,7 +69,9 @@
         "market_executable_merchant_count": 1,
         "market_coverage_only_merchant_count": 1,
         "market_best_price": 38.99,
-        "market_best_retailer": "Back to the Office"
+        "market_best_retailer": "Back to the Office",
+        "publication_state": "LKG_COVERAGE_GRACE",
+        "revalidation_in_progress": true
       },
       "lkg_grace": true
     },
