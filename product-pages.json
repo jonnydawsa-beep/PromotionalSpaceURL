@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T01:45:31Z",
+  "generated_at": "2026-10-20T02:59:49Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 2,
   "product_count": 5,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -42,9 +42,9 @@
     "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a": {
       "slug": "endgame-gear-xm2we-mouse.html",
       "first_seen_at": "2026-10-14T17:38:49Z",
-      "active": false,
-      "last_live_at": "2026-10-19T23:11:55Z",
-      "last_seen_at": "2026-10-20T00:29:33Z",
+      "active": true,
+      "last_live_at": "2026-10-20T02:59:49Z",
+      "last_seen_at": "2026-10-20T02:59:49Z",
       "last_changed_date": "2026-10-20",
       "last_deal": {
         "deal_id": "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a",
@@ -78,10 +78,10 @@
     "690b7431-0d66-4359-81ab-6535b25367cb": {
       "slug": "ducky-one3-pure-white-keyboard.html",
       "first_seen_at": "2026-10-14T17:39:24Z",
-      "active": false,
-      "last_live_at": "2026-10-15T22:45:45Z",
-      "last_seen_at": "2026-10-15T23:45:11Z",
-      "last_changed_date": "2026-10-15",
+      "active": true,
+      "last_live_at": "2026-10-20T02:59:49Z",
+      "last_seen_at": "2026-10-20T02:59:49Z",
+      "last_changed_date": "2026-10-20",
       "last_deal": {
         "deal_id": "690b7431-0d66-4359-81ab-6535b25367cb",
         "publishable": true,
@@ -105,7 +105,9 @@
         "market_executable_merchant_count": null,
         "market_coverage_only_merchant_count": null,
         "market_best_price": null,
-        "market_best_retailer": null
+        "market_best_retailer": null,
+        "publication_state": "LKG_COVERAGE_GRACE",
+        "revalidation_in_progress": true
       }
     },
     "37fe3f5b-589a-4041-96a8-b875671ca123": {
