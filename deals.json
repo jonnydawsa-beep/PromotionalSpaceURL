@@ -1,10 +1,37 @@
 {
   "meta": {
     "schema_version": "1.1",
-    "generated_at": "2026-10-21T05:24:21Z",
+    "generated_at": "2026-10-21T05:54:14Z",
     "publication_mode": "AUTO_POLICY_LIVE_REVALIDATED",
-    "deal_count": 0,
+    "deal_count": 1,
     "note": "Autonomously recommended deals are published only after current-cycle source freshness, frozen screening, duplicate/promotion controls, tracking requirements and pre-publication gates pass."
   },
-  "deals": []
+  "deals": [
+    {
+      "deal_id": "bce23fe5-0b81-4002-b52f-41738b478a66",
+      "publishable": true,
+      "signal_type": "HISTORICAL_DROP",
+      "canonical_key": "GTIN:5999094004467",
+      "advertiser_id": "61655",
+      "title": "Kolink Stronghold Prime Midi Tower Black",
+      "brand": "Kolink",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "current_price": 28.99,
+      "comparison_price": 69.99,
+      "saving_percent": 58.58,
+      "comparison_count": 15,
+      "price_basis": "ITEM_ONLY",
+      "checked_at": "2026-10-21T05:35:50Z",
+      "image_url": "https://cdn.shopify.com/s/files/1/0607/0190/0965/files/f80a6c2b3855ccae3ef37dd9fddeda96.jpg?v=1781415558",
+      "product_url": "https://www.backtotheoffice.co.uk/products/kolink-stronghold-prime-midi-tower-black?variant=57544385593726",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-bce23fe50b814002b52f41738b478a66&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fkolink-stronghold-prime-midi-tower-black%3Fvariant%3D57544385593726&platform=pl",
+      "market_merchant_count": 4,
+      "market_executable_merchant_count": 3,
+      "market_coverage_only_merchant_count": 1,
+      "market_best_price": 28.99,
+      "market_best_retailer": "Back to the Office",
+      "deal_page_url": "https://dealburrow.co.uk/products/kolink-stronghold-prime-midi-tower-black-bce23fe5.html"
+    }
+  ]
 }
