@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0",
-  "generated_at": "2026-10-21T09:31:22Z",
+  "schema_version": "1.1",
+  "generated_at": "2026-10-21T10:16:36Z",
   "base_url": "https://dealburrow.co.uk",
   "active_count": 0,
   "product_count": 9,
@@ -37,7 +37,8 @@
         "market_best_price": 25.99,
         "market_best_retailer": "Back to the Office"
       },
-      "lkg_grace": true
+      "lkg_grace": true,
+      "canonical_key": "GTIN:5397321024064"
     },
     "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a": {
       "slug": "endgame-gear-xm2we-mouse.html",
@@ -73,7 +74,8 @@
         "publication_state": "LKG_COVERAGE_GRACE",
         "revalidation_in_progress": true
       },
-      "lkg_grace": true
+      "lkg_grace": true,
+      "canonical_key": "GTIN:4251442508753"
     },
     "690b7431-0d66-4359-81ab-6535b25367cb": {
       "slug": "ducky-one3-pure-white-keyboard.html",
@@ -108,7 +110,8 @@
         "market_best_retailer": null,
         "publication_state": "LKG_COVERAGE_GRACE",
         "revalidation_in_progress": true
-      }
+      },
+      "canonical_key": "GTIN:4711281567811"
     },
     "37fe3f5b-589a-4041-96a8-b875671ca123": {
       "slug": "logitech-rally-mounting-kit-37fe3f5b.html",
@@ -145,7 +148,8 @@
       },
       "last_changed_date": "2026-10-20",
       "lkg_grace": true,
-      "lkg_certified_at": "2026-10-20T20:22:00Z"
+      "lkg_certified_at": "2026-10-20T20:22:00Z",
+      "canonical_key": "BRANDMPN:logitech:939001644"
     },
     "7fb7e57a-155c-4087-9019-f9332389a68c": {
       "slug": "kingston-technology-32gb-microsdhc-industrial-c10-a1-pslc-card-sd-adap-7fb7e57a.html",
@@ -179,7 +183,8 @@
         "market_best_retailer": "Back to the Office"
       },
       "last_changed_date": "2026-10-20",
-      "lkg_grace": true
+      "lkg_grace": true,
+      "canonical_key": "GTIN:740617321074"
     },
     "4755fff5-c297-4182-b312-b4bac4c5d40e": {
       "slug": "alphacool-nexxxos-xt45-radiator-block-4755fff5.html",
@@ -216,7 +221,8 @@
       },
       "lkg_grace": true,
       "lkg_certified_at": "2026-10-21T07:24:54Z",
-      "last_changed_date": "2026-10-21"
+      "last_changed_date": "2026-10-21",
+      "canonical_key": "GTIN:4250197142120"
     },
     "bce23fe5-0b81-4002-b52f-41738b478a66": {
       "slug": "kolink-stronghold-prime-midi-tower-black-bce23fe5.html",
@@ -253,7 +259,8 @@
       },
       "lkg_grace": true,
       "lkg_certified_at": "2026-10-21T06:24:21Z",
-      "last_changed_date": "2026-10-21"
+      "last_changed_date": "2026-10-21",
+      "canonical_key": "GTIN:5999094004467"
     },
     "13f9e29f-54ca-42ec-84db-75f9a30520fd": {
       "slug": "aerocool-gladiator-duo-atx-gaming-case-3x-argb-12cm-fans-13f9e29f.html",
@@ -290,7 +297,8 @@
       },
       "lkg_grace": true,
       "lkg_certified_at": "2026-10-21T07:55:07Z",
-      "last_changed_date": "2026-10-21"
+      "last_changed_date": "2026-10-21",
+      "canonical_key": "GTIN:4711099470310"
     },
     "d5fccacf-6234-461d-9f1f-d5b11fc491ca": {
       "slug": "ducky-feather-mouse-gaming-ambidextrous-usb-type-a-optical-16000-dpi-d5fccacf.html",
@@ -327,7 +335,21 @@
       },
       "lkg_grace": true,
       "lkg_certified_at": "2026-10-20T23:53:04Z",
-      "last_changed_date": "2026-10-21"
+      "last_changed_date": "2026-10-21",
+      "canonical_key": "GTIN:4710578304542"
     }
-  }
+  },
+  "canonical_index": {
+    "GTIN:5397321024064": "5ec52dd1-55ff-47b6-9053-9423e3b8ca05",
+    "GTIN:4251442508753": "8b9aeeec-bd0d-4ca6-aba1-f59dcfc2b68a",
+    "GTIN:4711281567811": "690b7431-0d66-4359-81ab-6535b25367cb",
+    "BRANDMPN:logitech:939001644": "37fe3f5b-589a-4041-96a8-b875671ca123",
+    "GTIN:740617321074": "7fb7e57a-155c-4087-9019-f9332389a68c",
+    "GTIN:4250197142120": "4755fff5-c297-4182-b312-b4bac4c5d40e",
+    "GTIN:5999094004467": "bce23fe5-0b81-4002-b52f-41738b478a66",
+    "GTIN:4711099470310": "13f9e29f-54ca-42ec-84db-75f9a30520fd",
+    "GTIN:4710578304542": "d5fccacf-6234-461d-9f1f-d5b11fc491ca"
+  },
+  "product_url_count": 9,
+  "traffic_engine_version": "1.0.0"
 }
