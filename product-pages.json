@@ -1,9 +1,9 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-10-22T21:29:02Z",
+  "generated_at": "2026-10-22T21:58:54Z",
   "base_url": "https://dealburrow.co.uk",
   "active_count": 4,
-  "product_count": 13,
+  "product_count": 15,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
       "slug": "dell-cc5626-briefcase.html",
@@ -343,8 +343,8 @@
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:0888182585603",
       "active": true,
-      "last_live_at": "2026-10-22T21:29:02Z",
-      "last_seen_at": "2026-10-22T21:29:02Z",
+      "last_live_at": "2026-10-22T21:58:54Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
       "last_deal": {
         "deal_id": "7affdfc6-5579-4c3b-97e0-d6537d0a292e",
         "publishable": true,
@@ -373,16 +373,16 @@
         "revalidation_in_progress": null
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-10-22T21:29:02Z",
+      "lkg_certified_at": "2026-10-22T21:58:54Z",
       "last_changed_date": "2026-10-22"
     },
     "323733dd-7482-4ffb-a5d0-ed1f5e89a9b5": {
       "slug": "vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html",
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:4963686000008",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-10-22T21:29:02Z",
-      "last_seen_at": "2026-10-22T21:29:02Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
       "last_deal": {
         "deal_id": "323733dd-7482-4ffb-a5d0-ed1f5e89a9b5",
         "publishable": true,
@@ -418,9 +418,9 @@
       "slug": "startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html",
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:065030865135",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-10-22T21:29:02Z",
-      "last_seen_at": "2026-10-22T21:29:02Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
       "last_deal": {
         "deal_id": "6d8f9a73-ed0f-4026-ac4e-2750d3295f2e",
         "publishable": true,
@@ -457,8 +457,8 @@
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "BRANDMPN:kensington:k75408uk",
       "active": true,
-      "last_live_at": "2026-10-22T21:29:02Z",
-      "last_seen_at": "2026-10-22T21:29:02Z",
+      "last_live_at": "2026-10-22T21:58:54Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
       "last_deal": {
         "deal_id": "ffb0d8b6-387b-4b48-92fc-0bd84fff4922",
         "publishable": true,
@@ -487,7 +487,83 @@
         "revalidation_in_progress": null
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-10-22T21:29:02Z",
+      "lkg_certified_at": "2026-10-22T21:58:54Z",
+      "last_changed_date": "2026-10-22"
+    },
+    "4488fd34-efa1-4ead-92c7-18fdb77e6a10": {
+      "slug": "canon-pgi-1500bk-black-ink-cartridge-4488fd34.html",
+      "first_seen_at": "2026-10-22T21:58:54Z",
+      "canonical_key": "GTIN:4549292004236",
+      "active": true,
+      "last_live_at": "2026-10-22T21:58:54Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
+      "last_deal": {
+        "deal_id": "4488fd34-efa1-4ead-92c7-18fdb77e6a10",
+        "publishable": true,
+        "signal_type": "CROSS_MERCHANT_EXACT",
+        "canonical_key": "GTIN:4549292004236",
+        "advertiser_id": "61655",
+        "title": "Canon PGI-1500BK Black Ink Cartridge",
+        "brand": "Canon",
+        "category": "Other",
+        "retailer": "Back to the Office",
+        "current_price": 25.98,
+        "comparison_price": 41.0,
+        "saving_percent": 36.63,
+        "comparison_count": 3,
+        "price_basis": "DELIVERED",
+        "checked_at": "2026-10-22T18:33:27Z",
+        "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fb05be9a7aea1bc647f0c4da0c2df7b0c.jpg%3Fv%3D1756118987&feedId=102827&k=3c9d441294610005128590165965d021b63c4329",
+        "product_url": "https://www.backtotheoffice.co.uk/products/canon-pgi-1500bk-black-ink-cartridge?variant=55307078304126",
+        "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-4488fd34efa14ead92c718fdb77e6a10&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcanon-pgi-1500bk-black-ink-cartridge%3Fvariant%3D55307078304126&platform=pl",
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
+        "market_coverage_only_merchant_count": 0,
+        "market_best_price": 25.98,
+        "market_best_retailer": "Back to the Office",
+        "publication_state": null,
+        "revalidation_in_progress": null
+      },
+      "lkg_grace": true,
+      "lkg_certified_at": "2026-10-22T21:58:54Z",
+      "last_changed_date": "2026-10-22"
+    },
+    "321f265d-ad90-4275-ae5b-ae5a118bb947": {
+      "slug": "manhattan-wall-mount-for-tv-monitors-full-motion-for-screens-32-to-55-321f265d.html",
+      "first_seen_at": "2026-10-22T21:58:54Z",
+      "canonical_key": "GTIN:0766623462624",
+      "active": true,
+      "last_live_at": "2026-10-22T21:58:54Z",
+      "last_seen_at": "2026-10-22T21:58:54Z",
+      "last_deal": {
+        "deal_id": "321f265d-ad90-4275-ae5b-ae5a118bb947",
+        "publishable": true,
+        "signal_type": "CROSS_MERCHANT_EXACT",
+        "canonical_key": "GTIN:0766623462624",
+        "advertiser_id": "61655",
+        "title": "Manhattan Wall Mount for TV & Monitors (Full Motion), For screens 32\" to 55\", VESA compatability: all between 100x100mm and 400x400mm - check the dimensions of the four mounting holes on back of screen to ensure it fits, Max 30kg, Black, Bracket",
+        "brand": "Manhattan",
+        "category": "Other",
+        "retailer": "Back to the Office",
+        "current_price": 26.98,
+        "comparison_price": 39.9,
+        "saving_percent": 32.38,
+        "comparison_count": 2,
+        "price_basis": "DELIVERED",
+        "checked_at": "2026-10-22T18:34:05Z",
+        "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2727e8483f794fabf5928bca9725ae67.jpg%3Fv%3D1773474367&feedId=102827&k=9fb0e882f59cc6a1c2b74bc3e452bf4095e6e757",
+        "product_url": "https://www.backtotheoffice.co.uk/products/manhattan-wall-mount-for-tv-monitors-full-motion-for-screens-32-to-55-vesa-compatability-all-between-100x100mm-and-400x400mm-check-the-dimensions-of-the-four-mounting-holes-on-back-of-screen-to-ensure-it-fits-max-30kg-black-bracket?variant=56014116520318",
+        "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=POM-321f265dad904275ae5bae5a118bb947&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fmanhattan-wall-mount-for-tv-monitors-full-motion-for-screens-32-to-55-vesa-compatability-all-between-100x100mm-and-400x400mm-check-the-dimensions-of-the-four-mounting-holes-on-back-of-screen-to-ensure-it-fits-max-30kg-black-bracket%3Fvariant%3D56014116520318&platform=pl",
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
+        "market_coverage_only_merchant_count": 0,
+        "market_best_price": 26.98,
+        "market_best_retailer": "Back to the Office",
+        "publication_state": null,
+        "revalidation_in_progress": null
+      },
+      "lkg_grace": true,
+      "lkg_certified_at": "2026-10-22T21:58:54Z",
       "last_changed_date": "2026-10-22"
     }
   },
@@ -504,8 +580,10 @@
     "GTIN:0888182585603": "7affdfc6-5579-4c3b-97e0-d6537d0a292e",
     "GTIN:4963686000008": "323733dd-7482-4ffb-a5d0-ed1f5e89a9b5",
     "GTIN:065030865135": "6d8f9a73-ed0f-4026-ac4e-2750d3295f2e",
-    "BRANDMPN:kensington:k75408uk": "ffb0d8b6-387b-4b48-92fc-0bd84fff4922"
+    "BRANDMPN:kensington:k75408uk": "ffb0d8b6-387b-4b48-92fc-0bd84fff4922",
+    "GTIN:4549292004236": "4488fd34-efa1-4ead-92c7-18fdb77e6a10",
+    "GTIN:0766623462624": "321f265d-ad90-4275-ae5b-ae5a118bb947"
   },
-  "product_url_count": 13,
+  "product_url_count": 15,
   "traffic_engine_version": "1.0.0"
 }
