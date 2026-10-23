@@ -1,3 +1,4 @@
+/* Deal Burrow V3.0.0: evidence-expiry and honest comparison labels. */
 (function () {
   const $ = (id) => document.getElementById(id);
   const dealsRoot = $('deals');
@@ -58,6 +59,7 @@
     const sort = sortFilter?.value || 'newest';
 
     let rows = allDeals.filter((d) => {
+      if (d.valid_until && (!Number.isFinite(Date.parse(d.valid_until)) || Date.parse(d.valid_until) <= Date.now())) return false;
       const haystack = [d.title, d.brand, d.retailer, d.category].filter(Boolean).join(' ').toLowerCase();
       return (!query || haystack.includes(query)) && (category === 'all' || d.category === category);
     });
@@ -84,13 +86,13 @@
       const baselineNumber = Number(d.comparison_price);
       const currentNumber = Number(d.current_price);
       const baseline = Number.isFinite(baselineNumber)
-        ? `<span class="was-price">Previously tracked ${money(baselineNumber)}</span>`
+        ? `<span class="was-price">${d.signal_type === 'CROSS_MERCHANT_EXACT' ? 'Comparison median' : (d.comparison_baseline_basis === 'HISTORICAL_ITEM_LOWER_BOUND' ? 'Previously tracked item price' : 'Previously tracked delivered price')} ${money(baselineNumber)}</span>`
         : '';
       const saving = Number.isFinite(Number(d.saving_percent)) && Number(d.saving_percent) > 0
         ? `<span class="saving-badge"><svg class="saving-arrow" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 2v9M4.5 8.5 8 12l3.5-3.5"/></svg>${pct(d.saving_percent)}</span>`
         : '';
       const savingCash = Number.isFinite(baselineNumber) && Number.isFinite(currentNumber) && baselineNumber > currentNumber
-        ? `<p class="deal-saving-copy">${money(baselineNumber - currentNumber)} lower than our tracked price</p>`
+        ? `<p class="deal-saving-copy">${money(baselineNumber - currentNumber)} lower than ${d.signal_type === 'CROSS_MERCHANT_EXACT' ? 'the checked comparison median' : 'our tracked historical price'}</p>`
         : '';
       const href = escapeHtml(d.affiliate_url || d.product_url || '#');
       const detailHref = d.deal_page_url ? escapeHtml(d.deal_page_url) : '';
@@ -136,7 +138,7 @@
       return r.json();
     })
     .then((payload) => {
-      allDeals = Array.isArray(payload.deals) ? payload.deals.filter((d) => d && d.publishable !== false) : [];
+      allDeals = Array.isArray(payload.deals) ? payload.deals.filter((d) => d && d.publishable !== false && (!d.valid_until || (Number.isFinite(Date.parse(d.valid_until)) && Date.parse(d.valid_until) > Date.now()))) : [];
       const count = allDeals.length;
       if (dealCount) dealCount.textContent = String(count);
       status.textContent = count ? `${count} live` : 'No live deals';
