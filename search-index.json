@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:54:58Z",
+  "generated_at": "2026-10-26T22:03:07Z",
   "items": [
     {
       "title": "Aerocool GLADIATOR DUO ATX Gaming Case 3x ARGB 12cm Fans",
@@ -290,6 +290,15 @@
       "current_price": 39.99
     },
     {
+      "title": "Epson WorkForce DS-800WN",
+      "brand": "Epson",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/epson-workforce-ds-800wn-db3ecdd6.html",
+      "active": true,
+      "current_price": 499.99
+    },
+    {
       "title": "Google Pixel 11 5G Smartphone (GA11818-GB) - 512GB, 12GB RAM, Dual SIM, Pink",
       "brand": "Google",
       "category": "Other",
@@ -297,15 +306,6 @@
       "url": "products/google-pixel-11-5g-smartphone-ga11818-gb-512gb-12gb-ram-dual-sim-pink-db3152d7.html",
       "active": true,
       "current_price": 836.99
-    },
-    {
-      "title": "Hama Wireless Vertical Ergonomic Optical Mouse 6 Button - Left Handed - Black",
-      "brand": "Hama",
-      "category": "Technology",
-      "retailer": "Boxed2me",
-      "url": "products/hama-wireless-vertical-ergonomic-optical-mouse-6-button-left-handed-bl-db3c479a.html",
-      "active": true,
-      "current_price": 23.92
     },
     {
       "title": "HP 130A Yellow Original LaserJet Toner Cartridge",
@@ -407,24 +407,6 @@
       "current_price": 29.99
     },
     {
-      "title": "Lenco MP3/MP4 Player | Bluetooth® | 8GB | Micro SD Card Expansion | Blue",
-      "brand": "Lenco",
-      "category": "Other",
-      "retailer": "Boxed2me",
-      "url": "products/lenco-mp3-mp4-player-bluetooth-8gb-micro-sd-card-expansion-blue-db3dd8ed.html",
-      "active": true,
-      "current_price": 48.99
-    },
-    {
-      "title": "Lenco MP3/MP4 Player | Bluetooth® | 8GB | Micro SD Card Expansion | Blue",
-      "brand": "Lenco",
-      "category": "Other",
-      "retailer": "Boxed2me",
-      "url": "products/lenco-mp3-mp4-player-bluetooth-8gb-micro-sd-card-expansion-blue-db3d4efd.html",
-      "active": true,
-      "current_price": 58.79
-    },
-    {
       "title": "Lenovo 4X41D97727 laptop case 35.6 cm (14\") Toploader bag Black",
       "brand": "Lenovo",
       "category": "Technology",
@@ -470,6 +452,15 @@
       "current_price": 21.99
     },
     {
+      "title": "Microsoft Surface mouse Office Bluetooth BlueTrack",
+      "brand": "Microsoft",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/microsoft-surface-mouse-office-bluetooth-bluetrack-db306d8f.html",
+      "active": true,
+      "current_price": 44.99
+    },
+    {
       "title": "Motorola Moto Buds 2 Headset Wireless In-ear Calls/Music Bluetooth Carbon",
       "brand": "Motorola",
       "category": "Technology",
@@ -486,6 +477,15 @@
       "url": "products/msi-b550-gaming-motherboard-amd-b550-socket-am4-atx-db31b7b9.html",
       "active": true,
       "current_price": 108.99
+    },
+    {
+      "title": "Optoma 3753RK interactive whiteboard 190.5 cm (75\") 3840 x 2160 pixels Touchscreen Black",
+      "brand": "Optoma",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/optoma-3753rk-interactive-whiteboard-190-5-cm-75-3840-x-2160-pixels-to-db3f81d4.html",
+      "active": true,
+      "current_price": 2209.99
     },
     {
       "title": "Origin Storage Inception SSD 2TB 2.5in SATA 3D QLC",
@@ -1154,15 +1154,6 @@
       "current_price": null
     },
     {
-      "title": "Epson WorkForce DS-800WN",
-      "brand": "Epson",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/epson-workforce-ds-800wn-db3ecdd6.html",
-      "active": false,
-      "current_price": null
-    },
-    {
       "title": "Epson WorkForce DS-900WN Sheet-fed scanner 600 x 600 DPI A4 White",
       "brand": "Epson",
       "category": "Technology",
@@ -1195,6 +1186,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/google-pixel-watch-5-amoled-41-mm-digital-touchscreen-pyrite-wi-fi-gps-db3c37d6.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Hama Wireless Vertical Ergonomic Optical Mouse 6 Button - Left Handed - Black",
+      "brand": "Hama",
+      "category": "Technology",
+      "retailer": "Boxed2me",
+      "url": "products/hama-wireless-vertical-ergonomic-optical-mouse-6-button-left-handed-bl-db3c479a.html",
       "active": false,
       "current_price": null
     },
@@ -1316,6 +1316,24 @@
       "current_price": null
     },
     {
+      "title": "Lenco MP3/MP4 Player | Bluetooth® | 8GB | Micro SD Card Expansion | Blue",
+      "brand": "Lenco",
+      "category": "Other",
+      "retailer": "Boxed2me",
+      "url": "products/lenco-mp3-mp4-player-bluetooth-8gb-micro-sd-card-expansion-blue-db3dd8ed.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Lenco MP3/MP4 Player | Bluetooth® | 8GB | Micro SD Card Expansion | Blue",
+      "brand": "Lenco",
+      "category": "Other",
+      "retailer": "Boxed2me",
+      "url": "products/lenco-mp3-mp4-player-bluetooth-8gb-micro-sd-card-expansion-blue-db3d4efd.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Lenovo 4X61U02753 graphics card NVIDIA GeForce RTX 5060 8 GB GDDR7",
       "brand": "Lenovo",
       "category": "Gaming",
@@ -1433,15 +1451,6 @@
       "current_price": null
     },
     {
-      "title": "Microsoft Surface mouse Office Bluetooth BlueTrack",
-      "brand": "Microsoft",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/microsoft-surface-mouse-office-bluetooth-bluetrack-db306d8f.html",
-      "active": false,
-      "current_price": null
-    },
-    {
       "title": "Newland ADP100 power adapter/inverter Indoor Black",
       "brand": "Newland",
       "category": "Other",
@@ -1456,15 +1465,6 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/noblechairs-memory-foam-pillow-set-the-elder-scrolls-online-edition-db39c810.html",
-      "active": false,
-      "current_price": null
-    },
-    {
-      "title": "Optoma 3753RK interactive whiteboard 190.5 cm (75\") 3840 x 2160 pixels Touchscreen Black",
-      "brand": "Optoma",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/optoma-3753rk-interactive-whiteboard-190-5-cm-75-3840-x-2160-pixels-to-db3f81d4.html",
       "active": false,
       "current_price": null
     },
