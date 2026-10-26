@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:55:51Z",
+  "generated_at": "2026-10-26T14:29:31Z",
   "items": [
     {
       "title": "3M PF140W1B display privacy filter 35.6 cm (14\") Laptop Frameless display privacy filter",
@@ -38,6 +38,15 @@
       "current_price": 40.99
     },
     {
+      "title": "AOC 16T3EA portable TV/monitor Black 39.6 cm (15.6\") 1920 x 1080 pixels",
+      "brand": "AOC",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/aoc-16t3ea-portable-tv-monitor-black-39-6-cm-15-6-1920-x-1080-pixels-db35a007.html",
+      "active": true,
+      "current_price": 74.99
+    },
+    {
       "title": "AOC 27\" Full HD 120Hz Monitor (27E4CV)",
       "brand": "AOC",
       "category": "Technology",
@@ -72,6 +81,15 @@
       "url": "products/brother-tn-245c-toner-cartridge-1-pc-s-original-cyan-db3ddda5.html",
       "active": true,
       "current_price": 101.99
+    },
+    {
+      "title": "BTI 043NY4 replacement Dell charger 19.5V 3.34A 65W (4.5mmx3.0mm) includes power cable",
+      "brand": "BTI",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/bti-043ny4-replacement-dell-charger-19-5v-3-34a-65w-4-5mmx3-0mm-includ-db349539.html",
+      "active": true,
+      "current_price": 23.99
     },
     {
       "title": "BTI Alternative to HP 1HE08AA power adapter/inverter Indoor 65 W Black - UK Connection",
@@ -162,24 +180,6 @@
       "url": "products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd-db32b431.html",
       "active": true,
       "current_price": 203.99
-    },
-    {
-      "title": "Cisco Room Bar Pro video conferencing system 48 MP Ethernet LAN Group video conferencing system",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-db30527c.html",
-      "active": true,
-      "current_price": 7432.99
-    },
-    {
-      "title": "Cisco Webex Room Bar video conferencing system 12 MP Ethernet LAN Group video conferencing system",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-webex-room-bar-video-conferencing-system-12-mp-ethernet-lan-grou-db313128.html",
-      "active": true,
-      "current_price": 2986.99
     },
     {
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
@@ -551,15 +551,6 @@
       "current_price": 132.99
     },
     {
-      "title": "SanDisk Ultra 64 GB MicroSDXC UHS-I Class 10",
-      "brand": "Sandisk",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/sandisk-ultra-64-gb-microsdxc-uhs-i-class-10-db3f39da.html",
-      "active": true,
-      "current_price": 26.99
-    },
-    {
       "title": "Siemens 3RP2525 Electronic Timing Relay 12-240V AC/DC - 3RP25251AW30",
       "brand": "Siemens",
       "category": "DIY",
@@ -866,6 +857,15 @@
       "current_price": 25.99
     },
     {
+      "title": "Verbatim CD-R Extra Protection 700 MB 52x 50 pc(s)",
+      "brand": "Verbatim",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/verbatim-cd-r-extra-protection-700-mb-52x-50-pc-s-db3cc5cb.html",
+      "active": true,
+      "current_price": 20.99
+    },
+    {
       "title": "Vision 2m Black DP to HDMI cable 8K",
       "brand": "Vision",
       "category": "Other",
@@ -1087,6 +1087,24 @@
       "category": "Home",
       "retailer": "Back to the Office",
       "url": "products/cisco-desk-camera-1080p-in-carbon-black-with-up-to-1080p-full-hd-video-db3bb118.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Room Bar Pro video conferencing system 48 MP Ethernet LAN Group video conferencing system",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-db30527c.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Webex Room Bar video conferencing system 12 MP Ethernet LAN Group video conferencing system",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-webex-room-bar-video-conferencing-system-12-mp-ethernet-lan-grou-db313128.html",
       "active": false,
       "current_price": null
     },
@@ -1438,6 +1456,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/sandisk-64gb-sdxc-class-4-db3978e6.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "SanDisk Ultra 64 GB MicroSDXC UHS-I Class 10",
+      "brand": "Sandisk",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/sandisk-ultra-64-gb-microsdxc-uhs-i-class-10-db3f39da.html",
       "active": false,
       "current_price": null
     },
