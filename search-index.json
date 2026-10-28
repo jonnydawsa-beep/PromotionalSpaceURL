@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:56:46Z",
+  "generated_at": "2026-10-28T09:41:26Z",
   "items": [
     {
       "title": "Antec NX416L White Midi Tower",
@@ -290,15 +290,6 @@
       "current_price": 31.99
     },
     {
-      "title": "Dunlop K82 Classic Motorcycle Tyre - 300-18 47S T/T",
-      "brand": "Dunlop",
-      "category": "Other",
-      "retailer": "Demon Tweeks",
-      "url": "products/dunlop-k82-classic-motorcycle-tyre-300-18-47s-t-t-db345f63.html",
-      "active": true,
-      "current_price": 89.88
-    },
-    {
       "title": "Durable 293101 folder binding accessory",
       "brand": "Durable",
       "category": "Other",
@@ -351,6 +342,15 @@
       "url": "products/epson-workforce-ds-800wn-db3ecdd6.html",
       "active": true,
       "current_price": 499.99
+    },
+    {
+      "title": "Google Pixel Watch 5 (41 mm) - Smartwatch - Black Case/Obsidian Band, Wi-Fi",
+      "brand": "Google",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/google-pixel-watch-5-41-mm-smartwatch-black-case-obsidian-band-wi-fi-db3976cf.html",
+      "active": true,
+      "current_price": 317.99
     },
     {
       "title": "Google Pixel Watch 5 AMOLED 41 mm Digital Touchscreen Pyrite Wi-Fi GPS (satellite)",
@@ -758,15 +758,6 @@
       "current_price": 69.25
     },
     {
-      "title": "Siemens Ronde (Industrial) Connector - 6GK19010DB206AA0",
-      "brand": "Siemens",
-      "category": "DIY",
-      "retailer": "Tameson UK",
-      "url": "products/siemens-ronde-industrial-connector-6gk19010db206aa0-db3d43b8.html",
-      "active": true,
-      "current_price": 45.51
-    },
-    {
       "title": "Siemens S0 Motor Circuit Breaker 20-25A Class 10 - 3RV20214DA10",
       "brand": "Siemens",
       "category": "DIY",
@@ -846,6 +837,15 @@
       "url": "products/targus-versavu-nordic-bluetooth-black-db3e1062.html",
       "active": true,
       "current_price": 76.99
+    },
+    {
+      "title": "Ubiquiti INS-3AF-O-G PoE adapter Gigabit Ethernet 48 V",
+      "brand": "Ubiquiti Networks",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/ubiquiti-ins-3af-o-g-poe-adapter-gigabit-ethernet-48-v-819ae6be.html",
+      "active": true,
+      "current_price": 21.99
     },
     {
       "title": "Urban Armor Gear Scout mobile phone case 16 cm (6.3\") Shell case Black",
@@ -1150,6 +1150,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/ducky-one3-pure-white-keyboard.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Dunlop K82 Classic Motorcycle Tyre - 300-18 47S T/T",
+      "brand": "Dunlop",
+      "category": "Other",
+      "retailer": "Demon Tweeks",
+      "url": "products/dunlop-k82-classic-motorcycle-tyre-300-18-47s-t-t-db345f63.html",
       "active": false,
       "current_price": null
     },
@@ -1730,6 +1739,15 @@
       "current_price": null
     },
     {
+      "title": "Siemens Ronde (Industrial) Connector - 6GK19010DB206AA0",
+      "brand": "Siemens",
+      "category": "DIY",
+      "retailer": "Tameson UK",
+      "url": "products/siemens-ronde-industrial-connector-6gk19010db206aa0-db3d43b8.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Siemens S7-1500 Digital Input Module DI32 24VDC HF - 6ES75211BL000AB0",
       "brand": "Siemens",
       "category": "DIY",
@@ -1852,15 +1870,6 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/targus-cypress-ecosmart-35-6-cm-14-briefcase-grey-db3f7f8e.html",
-      "active": false,
-      "current_price": null
-    },
-    {
-      "title": "Ubiquiti INS-3AF-O-G PoE adapter Gigabit Ethernet 48 V",
-      "brand": "Ubiquiti Networks",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/ubiquiti-ins-3af-o-g-poe-adapter-gigabit-ethernet-48-v-819ae6be.html",
       "active": false,
       "current_price": null
     },
