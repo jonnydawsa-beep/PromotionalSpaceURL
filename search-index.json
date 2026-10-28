@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:24:09Z",
+  "generated_at": "2026-10-28T18:57:15Z",
   "items": [
     {
       "title": "Antec NX416L White Midi Tower",
@@ -9,15 +9,6 @@
       "url": "products/antec-nx416l-white-midi-tower-db32b836.html",
       "active": true,
       "current_price": 40.99
-    },
-    {
-      "title": "AOC 16T3EA portable TV/monitor Black 39.6 cm (15.6\") 1920 x 1080 pixels",
-      "brand": "AOC",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/aoc-16t3ea-portable-tv-monitor-black-39-6-cm-15-6-1920-x-1080-pixels-db35a007.html",
-      "active": true,
-      "current_price": 74.99
     },
     {
       "title": "Apple Beats iPhone 17e Case with MagSafe – Bedrock Blue",
@@ -106,6 +97,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/bti-alternative-to-hp-1he08aa-power-adapter-inverter-indoor-65-w-black-db31b336.html",
+      "active": true,
+      "current_price": 22.99
+    },
+    {
+      "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH White",
+      "brand": "Cablenet",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white-db396190.html",
       "active": true,
       "current_price": 22.99
     },
@@ -317,13 +317,22 @@
       "current_price": 694.99
     },
     {
-      "title": "Epson WorkForce DS-800WN",
+      "title": "Epson WF-C5390DW",
       "brand": "Epson",
       "category": "Other",
       "retailer": "Back to the Office",
-      "url": "products/epson-workforce-ds-800wn-db3ecdd6.html",
+      "url": "products/epson-wf-c5390dw-db390117.html",
       "active": true,
-      "current_price": 499.99
+      "current_price": 305.99
+    },
+    {
+      "title": "Epson WorkForce Pro WF-C5890DWF Printer",
+      "brand": "Epson",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/epson-workforce-pro-wf-c5890dwf-printer-db3d74f4.html",
+      "active": true,
+      "current_price": 417.99
     },
     {
       "title": "Hama Wireless Vertical Ergonomic Optical Mouse 6 Button - Left Handed - Black",
@@ -830,15 +839,6 @@
       "current_price": 31.99
     },
     {
-      "title": "Targus VersaVu Nordic Bluetooth Black",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-versavu-nordic-bluetooth-black-db3e1062.html",
-      "active": true,
-      "current_price": 76.99
-    },
-    {
       "title": "Ubiquiti INS-3AF-O-G PoE adapter Gigabit Ethernet 48 V",
       "brand": "Ubiquiti Networks",
       "category": "Other",
@@ -934,6 +934,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/anker-powercore-10000-mah-black-db3dd946.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "AOC 16T3EA portable TV/monitor Black 39.6 cm (15.6\") 1920 x 1080 pixels",
+      "brand": "AOC",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/aoc-16t3ea-portable-tv-monitor-black-39-6-cm-15-6-1920-x-1080-pixels-db35a007.html",
       "active": false,
       "current_price": null
     },
@@ -1267,6 +1276,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/epson-111-ecotank-pigment-black-ink-bottle-db3c9ac3.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Epson WorkForce DS-800WN",
+      "brand": "Epson",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/epson-workforce-ds-800wn-db3ecdd6.html",
       "active": false,
       "current_price": null
     },
@@ -2005,6 +2023,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/targus-cypress-ecosmart-35-6-cm-14-briefcase-grey-db3f7f8e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Targus VersaVu Nordic Bluetooth Black",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-versavu-nordic-bluetooth-black-db3e1062.html",
       "active": false,
       "current_price": null
     },
