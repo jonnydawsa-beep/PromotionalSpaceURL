@@ -1,3 +1,4 @@
+/* Deal Burrow V3.1: deadline-enforced visible offers. */
 /* Deal Burrow V3.0.0: evidence-expiry and honest comparison labels. */
 (function () {
   const $ = (id) => document.getElementById(id);
@@ -25,6 +26,8 @@
   if (!dealsRoot) return;
 
   let allDeals = [];
+  let serverTime=NaN,serverStart=0,loading=false;
+  const offerNow=()=>Number.isFinite(serverTime)?Math.max(Date.now(),serverTime+Math.max(0,performance.now()-serverStart)):Date.now();
 
   const money = (value) => {
     const n = Number(value);
@@ -53,17 +56,22 @@
     '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
   }[c]));
 
+  let nextOfferExpiry = Infinity;
   function render() {
+    const deadlines=allDeals.map(d=>Date.parse(d.valid_until)).filter(t=>Number.isFinite(t)&&t>offerNow());
+    nextOfferExpiry=deadlines.length?Math.min(...deadlines):Infinity;
     const query = (search?.value || '').trim().toLowerCase();
     const category = categoryFilter?.value || 'all';
     const sort = sortFilter?.value || 'newest';
 
     let rows = allDeals.filter((d) => {
-      if (d.valid_until && (!Number.isFinite(Date.parse(d.valid_until)) || Date.parse(d.valid_until) <= Date.now())) return false;
+      if (!d.valid_until || !Number.isFinite(Date.parse(d.valid_until)) || Date.parse(d.valid_until) <= offerNow()) return false;
       const haystack = [d.title, d.brand, d.retailer, d.category].filter(Boolean).join(' ').toLowerCase();
       return (!query || haystack.includes(query)) && (category === 'all' || d.category === category);
     });
 
+    if (dealCount) dealCount.textContent=String(rows.length);
+    status.textContent=rows.length?`${rows.length} live`:'No live deals';
     rows.sort((a, b) => {
       if (sort === 'saving') return Number(b.saving_percent || 0) - Number(a.saving_percent || 0);
       if (sort === 'price-low') return Number(a.current_price || Infinity) - Number(b.current_price || Infinity);
@@ -105,7 +113,7 @@
         ? 'Revalidation is in progress. Confirm current price, stock, delivery and final price with the retailer.'
         : 'Check the retailer for current stock, delivery and final price.';
 
-      return `<article class="deal-card">
+      return `<article class="deal-card" data-valid-until="${escapeHtml(d.valid_until || '')}">
         ${image}
         <div class="deal-body">
           <div class="deal-topline"><span class="ad-label">${badgeText}</span>${saving}</div>
@@ -124,21 +132,26 @@
   function populateCategories() {
     const cats = [...new Set(allDeals.map((d) => d.category).filter(Boolean))].sort();
     if (!categoryFilter) return;
+    const previousCategory=categoryFilter.value;
+    categoryFilter.innerHTML='<option value="all">All categories</option>';
     cats.forEach((cat) => {
       const option = document.createElement('option');
       option.value = cat;
       option.textContent = cat;
       categoryFilter.appendChild(option);
     });
+    categoryFilter.value=cats.includes(previousCategory)?previousCategory:'all';
   }
 
-  fetch('deals.json', { cache: 'no-store' })
+  function loadFeed(){ if(loading)return;loading=true;
+  return fetch('deals.json', { cache: 'no-store' })
     .then((r) => {
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const t=Date.parse(r.headers.get('Date'));if(Number.isFinite(t)){serverTime=t;serverStart=performance.now();}
       return r.json();
     })
     .then((payload) => {
-      allDeals = Array.isArray(payload.deals) ? payload.deals.filter((d) => d && d.publishable !== false && (!d.valid_until || (Number.isFinite(Date.parse(d.valid_until)) && Date.parse(d.valid_until) > Date.now()))) : [];
+      allDeals = Array.isArray(payload.deals) ? payload.deals.filter((d) => d && d.publishable !== false && (d.valid_until && Number.isFinite(Date.parse(d.valid_until)) && Date.parse(d.valid_until) > offerNow())) : [];
       const count = allDeals.length;
       if (dealCount) dealCount.textContent = String(count);
       status.textContent = count ? `${count} live` : 'No live deals';
@@ -148,13 +161,23 @@
       render();
     })
     .catch(() => {
+      allDeals=[];render();
       if (dealCount) dealCount.textContent = '—';
       status.textContent = 'Feed unavailable';
       status.classList.add('warning');
       emptyState.hidden = false;
       emptyState.querySelector('h3').textContent = 'Deal feed temporarily unavailable';
       emptyState.querySelector('p').textContent = 'Please check again shortly.';
-    });
+    }).finally(()=>{loading=false;});
+  }
+  loadFeed();
 
+  setInterval(()=>{if(offerNow()>=nextOfferExpiry)render();},1000);
+  setInterval(loadFeed,30000);
+  document.addEventListener('visibilitychange',()=>{if(!document.hidden){render();loadFeed();}});
+  document.addEventListener('click',event=>{
+    const card=event.target.closest?.('[data-valid-until]');
+    if(card&&(!Number.isFinite(Date.parse(card.dataset.validUntil))||Date.parse(card.dataset.validUntil)<=offerNow())){event.preventDefault();event.stopPropagation();render();}
+  },true);
   [search, categoryFilter, sortFilter].forEach((el) => el && el.addEventListener('input', render));
 })();
