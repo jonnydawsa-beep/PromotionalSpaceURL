@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:48:48Z",
+  "generated_at": "2026-11-02T11:49:16Z",
   "items": [
     {
       "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
@@ -36,15 +36,6 @@
       "url": "products/apple-crossbody-strap-neon-yellow-db316453.html",
       "active": true,
       "current_price": 34.99
-    },
-    {
-      "title": "Apple iPhone 17e Clear Case with MagSafe",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-iphone-17e-clear-case-with-magsafe-db3b740f.html",
-      "active": true,
-      "current_price": 32.99
     },
     {
       "title": "ASUS PRIME B760M-A WIFI II Intel B760 LGA 1700 micro ATX",
@@ -99,15 +90,6 @@
       "url": "products/brother-tn-8000-toner-cartridge-1-pc-s-original-black-db3f3caf.html",
       "active": true,
       "current_price": 31.99
-    },
-    {
-      "title": "Canon PT-101 Pro Platinum Photo Paper A4 - 20 Sheets",
-      "brand": "Canon",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/canon-pt-101-pro-platinum-photo-paper-a4-20-sheets-db3c1ab4.html",
-      "active": true,
-      "current_price": 20.99
     },
     {
       "title": "Canon SG-201 Semi-Gloss Photo Paper Plus A3 - 20 Sheets",
@@ -207,15 +189,6 @@
       "url": "products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd-db32b431.html",
       "active": true,
       "current_price": 203.99
-    },
-    {
-      "title": "Cisco Room Bar Pro video conferencing system 48 MP Ethernet LAN Group video conferencing system",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-db30527c.html",
-      "active": true,
-      "current_price": 7415.99
     },
     {
       "title": "Cisco Webex Room Bar video conferencing system 12 MP Ethernet LAN Group video conferencing system",
@@ -573,15 +546,6 @@
       "brand": "Logitech",
       "category": "Other",
       "retailer": "Back to the Office",
-      "url": "products/logitech-zone-learn-db3f6d4d.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "Logitech Zone Learn",
-      "brand": "Logitech",
-      "category": "Other",
-      "retailer": "Back to the Office",
       "url": "products/logitech-zone-learn-db38d84d.html",
       "active": true,
       "current_price": 41.99
@@ -900,15 +864,6 @@
       "url": "products/startech-com-monitor-arm-with-vesa-laptop-tray-for-a-laptop-4-5kg-9-9l-db3cc5eb.html",
       "active": true,
       "current_price": 32.99
-    },
-    {
-      "title": "StarTech.com USB C Multiport Adapter - USB 3.1 Gen 2 10Gbps Type-C Mini Dock with 4K 60Hz HDMI/DisplayPort or 1080p VGA - 75W PD Passthrough, 3-Port USB Hub, GbE - Mobile Docking Station",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-usb-c-multiport-adapter-usb-3-1-gen-2-10gbps-type-c-mini-db3f22cf.html",
-      "active": true,
-      "current_price": 42.99
     },
     {
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
@@ -1276,6 +1231,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/apple-iphone-16e-silicone-case-winter-blue-db3a56db.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Apple iPhone 17e Clear Case with MagSafe",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-iphone-17e-clear-case-with-magsafe-db3b740f.html",
       "active": false,
       "current_price": null
     },
@@ -1964,6 +1928,15 @@
       "current_price": null
     },
     {
+      "title": "Canon PT-101 Pro Platinum Photo Paper A4 - 20 Sheets",
+      "brand": "Canon",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/canon-pt-101-pro-platinum-photo-paper-a4-20-sheets-db3c1ab4.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Canon SG-201 Semi-Gloss Photo Paper Plus 4x6\" - 50 Sheets",
       "brand": "Canon",
       "category": "Other",
@@ -2113,6 +2086,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/cisco-pwr-c6-1kwac-network-switch-component-power-supply-db33219a.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Room Bar Pro video conferencing system 48 MP Ethernet LAN Group video conferencing system",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-db30527c.html",
       "active": false,
       "current_price": null
     },
@@ -4187,6 +4169,15 @@
       "current_price": null
     },
     {
+      "title": "Logitech Zone Learn",
+      "brand": "Logitech",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/logitech-zone-learn-db3f6d4d.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "MAIWO USB3.0 to SATA 2.5/3.5 Inch SSD/HDD External Hard Drive Enclosure Transfer Speed Up to 5Gbps, Tool Free, Slide Deisign, Black",
       "brand": "MAIWO",
       "category": "Technology",
@@ -5164,6 +5155,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/startech-com-travel-a-v-adapter-2-in-1-displayport-to-hdmi-or-vga-db30f7cd.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "StarTech.com USB C Multiport Adapter - USB 3.1 Gen 2 10Gbps Type-C Mini Dock with 4K 60Hz HDMI/DisplayPort or 1080p VGA - 75W PD Passthrough, 3-Port USB Hub, GbE - Mobile Docking Station",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-usb-c-multiport-adapter-usb-3-1-gen-2-10gbps-type-c-mini-db3f22cf.html",
       "active": false,
       "current_price": null
     },
