@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-02T09:23:37Z",
+  "generated_at": "2026-11-02T09:25:39Z",
   "items": [
-    {
-      "title": "3M 6200 M 24 pc(s)",
-      "brand": "3M",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/3m-6200-m-24-pc-s-db35b15d.html",
-      "active": true,
-      "current_price": 22.99
-    },
     {
       "title": "Adesso iMouse M300W mouse Office Bluetooth Optical 1000 DPI",
       "brand": "Adesso",
@@ -432,15 +423,6 @@
       "url": "products/dicota-d32061-interface-hub-usb-type-c-10000-mbit-s-silver-db3ff628.html",
       "active": true,
       "current_price": 20.99
-    },
-    {
-      "title": "DICOTA D3250104 laptop case 43.9 cm (17.3\") Backpack Black",
-      "brand": "Dicota",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dicota-d3250104-laptop-case-43-9-cm-17-3-backpack-black-db35ac4a.html",
-      "active": true,
-      "current_price": 29.99
     },
     {
       "title": "DICOTA D3250202 laptop case 40.6 cm (16\") Briefcase Black",
@@ -902,15 +884,6 @@
       "current_price": 29.99
     },
     {
-      "title": "Manhattan Wall Mount for TV & Monitors (Full Motion), For screens 32\" to 55\", VESA compatability: all between 100x100mm and 400x400mm - check the dimensions of the four mounting holes on back of screen to ensure it fits, Max 50kg, Black, Bracket, Lifetime",
-      "brand": "Manhattan",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/manhattan-wall-mount-for-tv-monitors-full-motion-for-screens-32-to-55-db35f4f5.html",
-      "active": true,
-      "current_price": 21.99
-    },
-    {
       "title": "Motorola Moto Buds 2 Headset Wireless In-ear Calls/Music Bluetooth Carbon",
       "brand": "Motorola",
       "category": "Technology",
@@ -954,15 +927,6 @@
       "url": "products/phanteks-d30-140-computer-case-fan-14-cm-black-1-pc-s-db3d1772.html",
       "active": true,
       "current_price": 24.99
-    },
-    {
-      "title": "Philips 5000 Series 23.8\" Full HD Monitor (24B2G5301/00)",
-      "brand": "Philips",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/philips-5000-series-23-8-full-hd-monitor-24b2g5301-00-db35f2ea.html",
-      "active": true,
-      "current_price": 246.99
     },
     {
       "title": "PORT Designs HOUSTON II TL ECO laptop case",
@@ -1100,15 +1064,6 @@
       "current_price": 20.99
     },
     {
-      "title": "StarTech.com Internal Mini-SAS to SATA Cable - SFF-8643 to 4x SATA - 1 m",
-      "brand": "StarTech.com",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-internal-mini-sas-to-sata-cable-sff-8643-to-4x-sata-1-m-db360198.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
       "title": "StarTech.com M.2 SATA SSD to 2.5in SATA Adapter, M.2 NGFF to SATA Converter, Open-Frame Bracket, 7mm High, M2 Hard Drive Adapter - Not Compatible with NVMe - TAA",
       "brand": "StarTech.com",
       "category": "Technology",
@@ -1136,15 +1091,6 @@
       "current_price": 32.99
     },
     {
-      "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html",
-      "active": true,
-      "current_price": 23.99
-    },
-    {
       "title": "Steelseries Arctis Nova 3 Headset Wired Head-band Gaming USB Type-C Black",
       "brand": "SteelSeries",
       "category": "Gaming",
@@ -1152,15 +1098,6 @@
       "url": "products/steelseries-arctis-nova-3-headset-wired-head-band-gaming-usb-type-c-bl-db3cbd2f.html",
       "active": true,
       "current_price": 123.99
-    },
-    {
-      "title": "Streamplify MIC GO Black Clip-on microphone",
-      "brand": "Streamplify",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
-      "active": true,
-      "current_price": 23.99
     },
     {
       "title": "SumUp Air and Cradle",
@@ -1368,6 +1305,15 @@
       "url": "products/xerox-genuine-versalink-c8000-color-printer-c8000w-color-printer-yello-db3cca01.html",
       "active": true,
       "current_price": 231.99
+    },
+    {
+      "title": "3M 6200 M 24 pc(s)",
+      "brand": "3M",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/3m-6200-m-24-pc-s-db35b15d.html",
+      "active": false,
+      "current_price": null
     },
     {
       "title": "3M BP123C3E display privacy filter 31.2 cm (12.3\") Laptop Frameless display privacy filter",
@@ -2509,6 +2455,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/dicota-d32185-mobile-device-charger-laptop-smartphone-tablet-white-ac-db3732fb.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DICOTA D3250104 laptop case 43.9 cm (17.3\") Backpack Black",
+      "brand": "Dicota",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dicota-d3250104-laptop-case-43-9-cm-17-3-backpack-black-db35ac4a.html",
       "active": false,
       "current_price": null
     },
@@ -4169,6 +4124,15 @@
       "current_price": null
     },
     {
+      "title": "Manhattan Wall Mount for TV & Monitors (Full Motion), For screens 32\" to 55\", VESA compatability: all between 100x100mm and 400x400mm - check the dimensions of the four mounting holes on back of screen to ensure it fits, Max 50kg, Black, Bracket, Lifetime",
+      "brand": "Manhattan",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/manhattan-wall-mount-for-tv-monitors-full-motion-for-screens-32-to-55-db35f4f5.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Metz Connect E-DAT Datacont.-ds Twisted Pair industry - 1309410003-E",
       "brand": "Metz Connect",
       "category": "DIY",
@@ -4606,6 +4570,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/phanteks-m25g2-140-computer-case-fan-14-cm-black-db38d392.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Philips 5000 Series 23.8\" Full HD Monitor (24B2G5301/00)",
+      "brand": "Philips",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/philips-5000-series-23-8-full-hd-monitor-24b2g5301-00-db35f2ea.html",
       "active": false,
       "current_price": null
     },
@@ -5114,6 +5087,15 @@
       "current_price": null
     },
     {
+      "title": "StarTech.com Internal Mini-SAS to SATA Cable - SFF-8643 to 4x SATA - 1 m",
+      "brand": "StarTech.com",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-internal-mini-sas-to-sata-cable-sff-8643-to-4x-sata-1-m-db360198.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "StarTech.com Mobile TV Stand - Heavy Duty TV Cart for 60-100\" Display (100kg/220lb) - Height Adjustable Rolling Flat Screen Floor Standing on Wheels - Universal Television Mount w/Shelves",
       "brand": "StarTech.com",
       "category": "Other",
@@ -5186,11 +5168,29 @@
       "current_price": null
     },
     {
+      "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
       "brand": "Streamplify",
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Streamplify MIC GO Black Clip-on microphone",
+      "brand": "Streamplify",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
       "active": false,
       "current_price": null
     },
