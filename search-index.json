@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:44:59Z",
+  "generated_at": "2026-11-02T11:46:43Z",
   "items": [
-    {
-      "title": "Allied Telesis 2914SX/LC Internal Fiber 1000 Mbit/s",
-      "brand": "Allied Telesis",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/allied-telesis-2914sx-lc-internal-fiber-1000-mbit-s-db393c03.html",
-      "active": true,
-      "current_price": 179.99
-    },
     {
       "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
       "brand": "AMD",
@@ -27,15 +18,6 @@
       "url": "products/antec-ax61-elite-midi-tower-black-db3ae4f4.html",
       "active": true,
       "current_price": 42.99
-    },
-    {
-      "title": "Antec C8 Full Tower Black",
-      "brand": "Antec",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/antec-c8-full-tower-black-db346a2f.html",
-      "active": true,
-      "current_price": 102.99
     },
     {
       "title": "Antec NX416L White Midi Tower",
@@ -164,15 +146,6 @@
       "current_price": 280.99
     },
     {
-      "title": "Cisco C9200-NM-4X= network switch module 10 Gigabit Ethernet, Gigabit Ethernet",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-c9200-nm-4x-network-switch-module-10-gigabit-ethernet-gigabit-et-db368667.html",
-      "active": true,
-      "current_price": 980.99
-    },
-    {
       "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
       "brand": "Cisco",
       "category": "Technology",
@@ -243,15 +216,6 @@
       "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "active": true,
       "current_price": 4013.99
-    },
-    {
-      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db3670d4.html",
-      "active": true,
-      "current_price": 2017.99
     },
     {
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
@@ -569,15 +533,6 @@
       "current_price": 23.99
     },
     {
-      "title": "Kensington UH1400P USB-C 8-in-1 Driverless Mobile Dock",
-      "brand": "Kensington",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/kensington-uh1400p-usb-c-8-in-1-driverless-mobile-dock-db36af80.html",
-      "active": true,
-      "current_price": 60.99
-    },
-    {
       "title": "Lenovo 4X41D97727 laptop case 35.6 cm (14\") Toploader bag Black",
       "brand": "Lenovo",
       "category": "Technology",
@@ -738,15 +693,6 @@
       "url": "products/moza-srp2-rear-wall-support-bracket-db396276.html",
       "active": true,
       "current_price": 29.0
-    },
-    {
-      "title": "NetAlly Test Equipment Holder",
-      "brand": "NetAlly",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/netally-test-equipment-holder-db341b6b.html",
-      "active": true,
-      "current_price": 71.99
     },
     {
       "title": "Rittal 19 Inch Fixed Server Rack Shelf 2U 25kg 250mm - 5501615",
@@ -1028,15 +974,6 @@
       "current_price": 42.99
     },
     {
-      "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html",
-      "active": true,
-      "current_price": 49.99
-    },
-    {
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
       "brand": "Targus",
       "category": "Other",
@@ -1253,6 +1190,15 @@
       "current_price": null
     },
     {
+      "title": "Allied Telesis 2914SX/LC Internal Fiber 1000 Mbit/s",
+      "brand": "Allied Telesis",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/allied-telesis-2914sx-lc-internal-fiber-1000-mbit-s-db393c03.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "ALOGIC 1m Ultra USB-C (Male) to HDMI (Male) Cable - 4K @60Hz",
       "brand": "ALOGIC",
       "category": "Technology",
@@ -1321,6 +1267,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/anker-powercore-10000-mah-black-db3dd946.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Antec C8 Full Tower Black",
+      "brand": "Antec",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/antec-c8-full-tower-black-db346a2f.html",
       "active": false,
       "current_price": null
     },
@@ -2072,6 +2027,15 @@
       "current_price": null
     },
     {
+      "title": "Cisco C9200-NM-4X= network switch module 10 Gigabit Ethernet, Gigabit Ethernet",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-c9200-nm-4x-network-switch-module-10-gigabit-ethernet-gigabit-et-db368667.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco C9300L-24P-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Technology",
@@ -2131,6 +2095,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-9300l-managed-l2-l3-gigabit-ethernet-10-100-1000-grey-db3dbf92.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db3670d4.html",
       "active": false,
       "current_price": null
     },
@@ -3899,6 +3872,15 @@
       "current_price": null
     },
     {
+      "title": "Kensington UH1400P USB-C 8-in-1 Driverless Mobile Dock",
+      "brand": "Kensington",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/kensington-uh1400p-usb-c-8-in-1-driverless-mobile-dock-db36af80.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Kingston Technology 32GB microSDHC Industrial C10 A1 pSLC Card + SD Adapter",
       "brand": "Kingston Technology",
       "category": "Other",
@@ -4462,6 +4444,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/neomounts-wl30-550bl12-tv-mount-wall-24-65-ultra-flat-easy-install-db322672.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "NetAlly Test Equipment Holder",
+      "brand": "NetAlly",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/netally-test-equipment-holder-db341b6b.html",
       "active": false,
       "current_price": null
     },
@@ -5182,6 +5173,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/startech-com-usb-c-to-displayport-adapter-with-power-delivery-8k-60hz-db3af118.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html",
       "active": false,
       "current_price": null
     },
