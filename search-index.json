@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:47:27Z",
+  "generated_at": "2026-11-02T11:48:11Z",
   "items": [
     {
       "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
@@ -9,15 +9,6 @@
       "url": "products/amd-radeon-pro-wx-3200-4-gb-gddr5-db3e81b1.html",
       "active": true,
       "current_price": 146.99
-    },
-    {
-      "title": "Antec AX61 Elite Midi Tower Black",
-      "brand": "Antec",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/antec-ax61-elite-midi-tower-black-db3ae4f4.html",
-      "active": true,
-      "current_price": 42.99
     },
     {
       "title": "Antec NX416L White Midi Tower",
@@ -146,15 +137,6 @@
       "current_price": 280.99
     },
     {
-      "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html",
-      "active": true,
-      "current_price": 5945.99
-    },
-    {
       "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
       "brand": "Cisco",
       "category": "Other",
@@ -198,24 +180,6 @@
       "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
       "active": true,
       "current_price": 1353.99
-    },
-    {
-      "title": "Cisco Catalyst 9300 48-port data Ntw Ess Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9300-48-port-data-ntw-ess-managed-l2-l3-gigabit-etherne-db3b67b8.html",
-      "active": true,
-      "current_price": 5812.99
-    },
-    {
-      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
-      "active": true,
-      "current_price": 4013.99
     },
     {
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
@@ -479,15 +443,6 @@
       "current_price": 20.99
     },
     {
-      "title": "HYPER HS1150GYGL laptop stand Grey 40.6 cm (16\")",
-      "brand": "HYPER",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/hyper-hs1150gygl-laptop-stand-grey-40-6-cm-16-db39907c.html",
-      "active": true,
-      "current_price": 38.99
-    },
-    {
       "title": "Intel Wi-Fi 6E AX210 Internal WLAN 2400 Mbit/s",
       "brand": "Intel",
       "category": "Other",
@@ -540,15 +495,6 @@
       "url": "products/lenovo-4x41d97727-laptop-case-35-6-cm-14-toploader-bag-black-db3c4b11.html",
       "active": true,
       "current_price": 28.99
-    },
-    {
-      "title": "Lenovo 4X61U02753 graphics card NVIDIA GeForce RTX 5060 8 GB GDDR7",
-      "brand": "Lenovo",
-      "category": "Gaming",
-      "retailer": "Back to the Office",
-      "url": "products/lenovo-4x61u02753-graphics-card-nvidia-geforce-rtx-5060-8-gb-gddr7-db3a3d91.html",
-      "active": true,
-      "current_price": 458.99
     },
     {
       "title": "Lenovo 4Y51J62544 mouse Office Right-hand Bluetooth Optical 2400 DPI",
@@ -956,15 +902,6 @@
       "current_price": 32.99
     },
     {
-      "title": "StarTech.com Thunderbolt 3 Dock - Dual Monitor 4K 60Hz TB3 Laptop Docking Station with DisplayPort - 85W Power Delivery Charging - 6-Port USB 3.0 Hub, SD 4.0, GbE, Audio - Windows & Mac",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-thunderbolt-3-dock-dual-monitor-4k-60hz-tb3-laptop-dockin-db39e971.html",
-      "active": true,
-      "current_price": 134.99
-    },
-    {
       "title": "StarTech.com USB C Multiport Adapter - USB 3.1 Gen 2 10Gbps Type-C Mini Dock with 4K 60Hz HDMI/DisplayPort or 1080p VGA - 75W PD Passthrough, 3-Port USB Hub, GbE - Mobile Docking Station",
       "brand": "StarTech.com",
       "category": "Technology",
@@ -1267,6 +1204,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/anker-powercore-10000-mah-black-db3dd946.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Antec AX61 Elite Midi Tower Black",
+      "brand": "Antec",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/antec-ax61-elite-midi-tower-black-db3ae4f4.html",
       "active": false,
       "current_price": null
     },
@@ -2036,6 +1982,15 @@
       "current_price": null
     },
     {
+      "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco C9300L-24P-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Technology",
@@ -2090,11 +2045,29 @@
       "current_price": null
     },
     {
+      "title": "Cisco Catalyst 9300 48-port data Ntw Ess Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9300-48-port-data-ntw-ess-managed-l2-l3-gigabit-etherne-db3b67b8.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco Catalyst 9300L Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-9300l-managed-l2-l3-gigabit-ethernet-10-100-1000-grey-db3dbf92.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "active": false,
       "current_price": null
     },
@@ -3719,6 +3692,15 @@
       "current_price": null
     },
     {
+      "title": "HYPER HS1150GYGL laptop stand Grey 40.6 cm (16\")",
+      "brand": "HYPER",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/hyper-hs1150gygl-laptop-stand-grey-40-6-cm-16-db39907c.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "i-tec Universal KVM HUB 2x USB-C + 2x USB-A 3.0",
       "brand": "i-tec",
       "category": "Technology",
@@ -3976,6 +3958,15 @@
       "category": "Other",
       "retailer": "Boxed2me",
       "url": "products/lenco-mp3-mp4-player-bluetooth-8gb-micro-sd-card-expansion-blue-db3d4efd.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Lenovo 4X61U02753 graphics card NVIDIA GeForce RTX 5060 8 GB GDDR7",
+      "brand": "Lenovo",
+      "category": "Gaming",
+      "retailer": "Back to the Office",
+      "url": "products/lenovo-4x61u02753-graphics-card-nvidia-geforce-rtx-5060-8-gb-gddr7-db3a3d91.html",
       "active": false,
       "current_price": null
     },
@@ -5155,6 +5146,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/startech-com-thunderbolt-3-dock-dual-4k-60hz-monitor-tb3-laptop-dockin-db328637.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "StarTech.com Thunderbolt 3 Dock - Dual Monitor 4K 60Hz TB3 Laptop Docking Station with DisplayPort - 85W Power Delivery Charging - 6-Port USB 3.0 Hub, SD 4.0, GbE, Audio - Windows & Mac",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-thunderbolt-3-dock-dual-monitor-4k-60hz-tb3-laptop-dockin-db39e971.html",
       "active": false,
       "current_price": null
     },
