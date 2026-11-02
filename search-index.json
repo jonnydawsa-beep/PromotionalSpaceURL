@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:31:44Z",
+  "generated_at": "2026-11-02T09:43:25Z",
   "items": [
     {
       "title": "Adesso iMouse M300W mouse Office Bluetooth Optical 1000 DPI",
@@ -18,24 +18,6 @@
       "url": "products/amd-radeon-pro-wx-3200-4-gb-gddr5-db3e81b1.html",
       "active": true,
       "current_price": 146.99
-    },
-    {
-      "title": "Apple AirTag Personal Finder Silver, White",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-airtag-personal-finder-silver-white-db3e1fea.html",
-      "active": true,
-      "current_price": 29.99
-    },
-    {
-      "title": "Apple Beats iPhone 17e Case with MagSafe – Bedrock Blue",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue-db3d74a3.html",
-      "active": true,
-      "current_price": 41.99
     },
     {
       "title": "Apple Crossbody Strap - Neon Yellow",
@@ -90,15 +72,6 @@
       "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "active": true,
       "current_price": 76.99
-    },
-    {
-      "title": "ASUS PRO A620M-C-CSM AMD A620 Socket AM5 micro ATX",
-      "brand": "Asus",
-      "category": "DIY",
-      "retailer": "Back to the Office",
-      "url": "products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html",
-      "active": true,
-      "current_price": 62.99
     },
     {
       "title": "ASUS ROG STRIX B550-F GAMING WIFI II AMD B550 Socket AM4 ATX",
@@ -533,15 +506,6 @@
       "current_price": 746.99
     },
     {
-      "title": "Epson WorkForce Pro WF-C5890DWF Printer",
-      "brand": "Epson",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/epson-workforce-pro-wf-c5890dwf-printer-db3d74f4.html",
-      "active": true,
-      "current_price": 438.99
-    },
-    {
       "title": "Everyday™ Black Toner by Xerox compatible with HP 78A (CE278A), Standard capacity",
       "brand": "Xerox",
       "category": "Other",
@@ -585,15 +549,6 @@
       "url": "products/hp-201x-3-pack-high-yield-cyan-magenta-yellow-original-laserjet-toner-db35291c.html",
       "active": true,
       "current_price": 327.99
-    },
-    {
-      "title": "HP 705 Rechargeable Wireless Mouse",
-      "brand": "HP",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/hp-705-rechargeable-wireless-mouse-db3d2e65.html",
-      "active": true,
-      "current_price": 44.99
     },
     {
       "title": "HP 85A Black Original LaserJet Toner Cartridge",
@@ -1145,15 +1100,6 @@
       "current_price": 26.99
     },
     {
-      "title": "Targus VersaVu Nordic Bluetooth Black",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-versavu-nordic-bluetooth-black-db3e1062.html",
-      "active": true,
-      "current_price": 76.99
-    },
-    {
       "title": "Trust 25674 mouse Universal Ambidextrous Bluetooth 3200 DPI",
       "brand": "Trust",
       "category": "Technology",
@@ -1188,15 +1134,6 @@
       "url": "products/trust-primo-39-6-cm-15-6-monitor-laptop-frameless-display-privacy-filt-db3ffb28.html",
       "active": true,
       "current_price": 25.99
-    },
-    {
-      "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
-      "brand": "Trust",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
-      "active": true,
-      "current_price": 20.99
     },
     {
       "title": "Tucano IDEA Notebook 13\"/14\" and MacBook Pro 14\" Messenger case with mouse included Black",
@@ -1514,6 +1451,24 @@
       "current_price": null
     },
     {
+      "title": "Apple AirTag Personal Finder Silver, White",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-airtag-personal-finder-silver-white-db3e1fea.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Apple Beats iPhone 17e Case with MagSafe – Bedrock Blue",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue-db3d74a3.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Apple iPhone 16e Silicone Case – Fuchsia",
       "brand": "Apple",
       "category": "Other",
@@ -1600,6 +1555,15 @@
       "category": "DIY",
       "retailer": "Back to the Office",
       "url": "products/asus-prime-b850m-k-amd-b850-socket-am5-micro-atx-db33b729.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS PRO A620M-C-CSM AMD A620 Socket AM5 micro ATX",
+      "brand": "Asus",
+      "category": "DIY",
+      "retailer": "Back to the Office",
+      "url": "products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html",
       "active": false,
       "current_price": null
     },
@@ -3224,6 +3188,15 @@
       "current_price": null
     },
     {
+      "title": "Epson WorkForce Pro WF-C5890DWF Printer",
+      "brand": "Epson",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/epson-workforce-pro-wf-c5890dwf-printer-db3d74f4.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Everyday™ Black Toner by Xerox compatible with HP 49A 53A (Q5949A/ Q7553A), Standard capacity",
       "brand": "Xerox",
       "category": "Other",
@@ -3472,6 +3445,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/hp-705-rechargeable-multi-pen-db327940.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "HP 705 Rechargeable Wireless Mouse",
+      "brand": "HP",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/hp-705-rechargeable-wireless-mouse-db3d2e65.html",
       "active": false,
       "current_price": null
     },
@@ -5312,6 +5294,15 @@
       "current_price": null
     },
     {
+      "title": "Targus VersaVu Nordic Bluetooth Black",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-versavu-nordic-bluetooth-black-db3e1062.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Techair TACHS006 Protective Hard Shell case for Lenovo 100e/100w/300e/300w 4th Gen Chromebook, 11.6 black/clear",
       "brand": "Tech air",
       "category": "Other",
@@ -5353,6 +5344,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/trust-primo-35-6-cm-14-monitor-laptop-frameless-display-privacy-filter-db3707b0.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
+      "brand": "Trust",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
       "active": false,
       "current_price": null
     },
