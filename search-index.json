@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:05:26Z",
+  "generated_at": "2026-11-02T11:06:58Z",
   "items": [
     {
       "title": "Alienware PRO-HS-G-DEAM Wireless Gaming Headset - White",
@@ -18,15 +18,6 @@
       "url": "products/alphacool-nexxxos-xt45-radiator-block-4755fff5.html",
       "active": true,
       "current_price": 22.99
-    },
-    {
-      "title": "ASUS 27\" Full HD 120Hz Monitor (VA279QGSE)",
-      "brand": "Asus",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/asus-27-full-hd-120hz-monitor-va279qgse-db300451.html",
-      "active": true,
-      "current_price": 136.99
     },
     {
       "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
@@ -209,15 +200,6 @@
       "current_price": 40.99
     },
     {
-      "title": "DELL Pro 7 KM746 keyboard Mouse included Universal RF Wireless + Bluetooth QWERTY UK English Graphite",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-7-km746-keyboard-mouse-included-universal-rf-wireless-bluetoo-db3df054.html",
-      "active": true,
-      "current_price": 58.99
-    },
-    {
       "title": "DELL Pro Micro All-in-One Stand - MFS22",
       "brand": "Dell",
       "category": "Other",
@@ -297,15 +279,6 @@
       "url": "products/dell-sa224-interface-cards-adapter-rj-45-db3091b5.html",
       "active": true,
       "current_price": 23.99
-    },
-    {
-      "title": "DICOTA Eco SCALE 43.9 cm (17.3\") Backpack Black",
-      "brand": "Dicota",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dicota-eco-scale-43-9-cm-17-3-backpack-black-db3088b8.html",
-      "active": true,
-      "current_price": 35.99
     },
     {
       "title": "DJI SDC to DJI Mavic 3 Charge Cable (CP.DY.00000044)",
@@ -522,15 +495,6 @@
       "url": "products/sandisk-64gb-sdxc-class-4-db3978e6.html",
       "active": true,
       "current_price": 29.99
-    },
-    {
-      "title": "SanDisk Extreme 128 GB MicroSDXC",
-      "brand": "Sandisk",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/sandisk-extreme-128-gb-microsdxc-db320766.html",
-      "active": true,
-      "current_price": 43.99
     },
     {
       "title": "SanDisk Extreme Pro USB flash drive 128 GB USB Type-A 3.2 Gen 1 (3.1 Gen 1) Black",
@@ -776,15 +740,6 @@
       "current_price": 23.99
     },
     {
-      "title": "Streamplify MIC MINI RGB Microphone",
-      "brand": "Streamplify",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
-      "active": true,
-      "current_price": 23.99
-    },
-    {
       "title": "SumUp Air and Cradle",
       "brand": "SumUp",
       "category": "Other",
@@ -830,15 +785,6 @@
       "current_price": 26.99
     },
     {
-      "title": "Trust Ody II keyboard Mouse included Office RF Wireless QWERTY UK English Black",
-      "brand": "Trust",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/trust-ody-ii-keyboard-mouse-included-office-rf-wireless-qwerty-uk-engl-db30c510.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
       "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
       "brand": "Trust",
       "category": "Technology",
@@ -864,15 +810,6 @@
       "url": "products/tucano-smilza-macbook-air-13-before-2018-macbook-pro-13-2016-2020-macb-db3f4b2a.html",
       "active": true,
       "current_price": 20.99
-    },
-    {
-      "title": "Vision HDMI-over-IP Receiver AV receiver Black",
-      "brand": "Vision",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/vision-hdmi-over-ip-receiver-av-receiver-black-db3052d9.html",
-      "active": true,
-      "current_price": 97.99
     },
     {
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
@@ -1240,6 +1177,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/arozzi-arena-small-gaming-desk-pure-black-db302459.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS 27\" Full HD 120Hz Monitor (VA279QGSE)",
+      "brand": "Asus",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/asus-27-full-hd-120hz-monitor-va279qgse-db300451.html",
       "active": false,
       "current_price": null
     },
@@ -2090,6 +2036,15 @@
       "current_price": null
     },
     {
+      "title": "DELL Pro 7 KM746 keyboard Mouse included Universal RF Wireless + Bluetooth QWERTY UK English Graphite",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-7-km746-keyboard-mouse-included-universal-rf-wireless-bluetoo-db3df054.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL Pro Smartcard Keyboard - KB813 - UK (QWERTY)",
       "brand": "Dell",
       "category": "Technology",
@@ -2311,6 +2266,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/dicota-d80543-2ad-mobile-phone-screen-back-protector-privacy-screen-pr-db370e56.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DICOTA Eco SCALE 43.9 cm (17.3\") Backpack Black",
+      "brand": "Dicota",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dicota-eco-scale-43-9-cm-17-3-backpack-black-db3088b8.html",
       "active": false,
       "current_price": null
     },
@@ -4790,6 +4754,15 @@
       "current_price": null
     },
     {
+      "title": "SanDisk Extreme 128 GB MicroSDXC",
+      "brand": "Sandisk",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/sandisk-extreme-128-gb-microsdxc-db320766.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "SanDisk Ultra 64 GB MicroSDXC UHS-I Class 10",
       "brand": "Sandisk",
       "category": "Other",
@@ -5186,6 +5159,15 @@
       "current_price": null
     },
     {
+      "title": "Streamplify MIC MINI RGB Microphone",
+      "brand": "Streamplify",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Synology D4ECSO-2666-16G memory module 16 GB 1 x 16 GB DDR4 ECC",
       "brand": "Synology",
       "category": "Other",
@@ -5362,6 +5344,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/trust-gxt-1246w-muta-white-bluetooth-gamepad-nintendo-switch-nintendo-db300041.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Trust Ody II keyboard Mouse included Office RF Wireless QWERTY UK English Black",
+      "brand": "Trust",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/trust-ody-ii-keyboard-mouse-included-office-rf-wireless-qwerty-uk-engl-db30c510.html",
       "active": false,
       "current_price": null
     },
@@ -5749,6 +5740,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision HDMI-over-IP Receiver AV receiver Black",
+      "brand": "Vision",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/vision-hdmi-over-ip-receiver-av-receiver-black-db3052d9.html",
       "active": false,
       "current_price": null
     },
