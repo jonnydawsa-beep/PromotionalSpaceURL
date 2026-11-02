@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:20:05Z",
+  "generated_at": "2026-11-02T14:21:48Z",
   "items": [
     {
       "title": "3M 6200 M 24 pc(s)",
@@ -135,15 +135,6 @@
       "url": "products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue-db3d74a3.html",
       "active": true,
       "current_price": 41.99
-    },
-    {
-      "title": "Apple Crossbody Strap - Neon Yellow",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-crossbody-strap-neon-yellow-db316453.html",
-      "active": true,
-      "current_price": 34.99
     },
     {
       "title": "Apple iPhone 16e Silicone Case – Fuchsia",
@@ -407,15 +398,6 @@
       "current_price": 27.99
     },
     {
-      "title": "Cablenet 24 Port Cat5e UTP 1u Patch Panel",
-      "brand": "Cablenet",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cablenet-24-port-cat5e-utp-1u-patch-panel-db31a860.html",
-      "active": true,
-      "current_price": 26.99
-    },
-    {
       "title": "Cablenet 25m Braided Sleeving 10mm-21mm (29mm max) LSOH White",
       "brand": "Cablenet",
       "category": "Other",
@@ -657,15 +639,6 @@
       "url": "products/cisco-room-kit-eq-video-conferencing-system-20-mp-ethernet-lan-group-v-db382646.html",
       "active": true,
       "current_price": 16648.99
-    },
-    {
-      "title": "Cisco Webex Room Bar video conferencing system 12 MP Ethernet LAN Group video conferencing system",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-webex-room-bar-video-conferencing-system-12-mp-ethernet-lan-grou-db313128.html",
-      "active": true,
-      "current_price": 2979.99
     },
     {
       "title": "D-Link 52-Port PoE Gigabit Smart Managed Switch including 4 x 100/1000Mbps Combo Ports",
@@ -1060,15 +1033,6 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/google-pixel-11-5g-smartphone-ga11816-gb-512gb-12gb-ram-dual-sim-laven-db392452.html",
-      "active": true,
-      "current_price": 836.99
-    },
-    {
-      "title": "Google Pixel 11 5G Smartphone (GA11818-GB) - 512GB, 12GB RAM, Dual SIM, Pink",
-      "brand": "Google",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/google-pixel-11-5g-smartphone-ga11818-gb-512gb-12gb-ram-dual-sim-pink-db3152d7.html",
       "active": true,
       "current_price": 836.99
     },
@@ -1577,29 +1541,11 @@
       "current_price": 23.99
     },
     {
-      "title": "Lian Li Q58-2W computer case part Computer case light kit",
-      "brand": "Lian Li",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/lian-li-q58-2w-computer-case-part-computer-case-light-kit-db30f44e.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
       "title": "Lian Li UNI FAN SL Wireless 120 Reverse Blade Computer case 12 cm Black 1 pc(s)",
       "brand": "Lian Li",
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/lian-li-uni-fan-sl-wireless-120-reverse-blade-computer-case-12-cm-blac-db3f09ee.html",
-      "active": true,
-      "current_price": 21.99
-    },
-    {
-      "title": "Lian Li UNI FAN SL Wireless 120 Reverse Blade Computer case 12 cm White 1 pc(s)",
-      "brand": "Lian Li",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/lian-li-uni-fan-sl-wireless-120-reverse-blade-computer-case-12-cm-whit-db315ad0.html",
       "active": true,
       "current_price": 21.99
     },
@@ -1737,15 +1683,6 @@
       "url": "products/moza-sr-p-lite-brake-pedal-performance-kit-db322a4e.html",
       "active": true,
       "current_price": 29.0
-    },
-    {
-      "title": "MSI B550 GAMING motherboard AMD B550 Socket AM4 ATX",
-      "brand": "MSI",
-      "category": "Gaming",
-      "retailer": "Back to the Office",
-      "url": "products/msi-b550-gaming-motherboard-amd-b550-socket-am4-atx-db31b7b9.html",
-      "active": true,
-      "current_price": 108.99
     },
     {
       "title": "NetAlly Test Equipment Holder",
@@ -2945,6 +2882,15 @@
       "current_price": null
     },
     {
+      "title": "Apple Crossbody Strap - Neon Yellow",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-crossbody-strap-neon-yellow-db316453.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Apple UK 3 Pin 20W USB-C Power Supply with foldable pins - A2344 (MHJF3B/A)",
       "brand": "Apple",
       "category": "Technology",
@@ -3184,6 +3130,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cablenet-20m-hdmi-1-4b-male-male-1080p-hi-speed-ethernet-24awg-blk-pvc-db3deb6e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cablenet 24 Port Cat5e UTP 1u Patch Panel",
+      "brand": "Cablenet",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cablenet-24-port-cat5e-utp-1u-patch-panel-db31a860.html",
       "active": false,
       "current_price": null
     },
@@ -3517,6 +3472,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-room-kit-eq-video-conferencing-system-20-mp-ethernet-lan-group-v-db362cf6.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Webex Room Bar video conferencing system 12 MP Ethernet LAN Group video conferencing system",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-webex-room-bar-video-conferencing-system-12-mp-ethernet-lan-grou-db313128.html",
       "active": false,
       "current_price": null
     },
@@ -4466,6 +4430,15 @@
       "current_price": null
     },
     {
+      "title": "Google Pixel 11 5G Smartphone (GA11818-GB) - 512GB, 12GB RAM, Dual SIM, Pink",
+      "brand": "Google",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/google-pixel-11-5g-smartphone-ga11818-gb-512gb-12gb-ram-dual-sim-pink-db3152d7.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Hama Wireless Vertical Ergonomic Optical Mouse 6 Button - Left Handed - Black",
       "brand": "Hama",
       "category": "Technology",
@@ -4961,6 +4934,24 @@
       "current_price": null
     },
     {
+      "title": "Lian Li Q58-2W computer case part Computer case light kit",
+      "brand": "Lian Li",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/lian-li-q58-2w-computer-case-part-computer-case-light-kit-db30f44e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Lian Li UNI FAN SL Wireless 120 Reverse Blade Computer case 12 cm White 1 pc(s)",
+      "brand": "Lian Li",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/lian-li-uni-fan-sl-wireless-120-reverse-blade-computer-case-12-cm-whit-db315ad0.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Lindy RJ45 Port Locks Yellow, 10x + 1 Key",
       "brand": "Lindy",
       "category": "Other",
@@ -5200,6 +5191,15 @@
       "category": "Other",
       "retailer": "Demon Tweeks",
       "url": "products/moza-srp2-rear-wall-support-bracket-db396276.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "MSI B550 GAMING motherboard AMD B550 Socket AM4 ATX",
+      "brand": "MSI",
+      "category": "Gaming",
+      "retailer": "Back to the Office",
+      "url": "products/msi-b550-gaming-motherboard-amd-b550-socket-am4-atx-db31b7b9.html",
       "active": false,
       "current_price": null
     },
