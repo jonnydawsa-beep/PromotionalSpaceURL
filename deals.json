@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-02T20:20:35Z",
+    "generated_at": "2026-11-02T20:21:16Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "27e5df62cfaf565ac5cc5e7938310ec699e6ae145bba2be3a17b50410eb2b818",
     "total_catalogue_cap": null,
-    "revision": "6363a6c42e44fe1289aba6d9b237a9299d149d6205f0ffc4bd2c6c9ab88c26dc",
+    "revision": "76ef267de37f0f1061505b9e79089343852cbe3967c88625f3e4b9914dc1b7ac",
     "deal_count": 101,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -1225,7 +1225,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
@@ -1241,7 +1241,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -1253,7 +1253,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -1262,7 +1262,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -2234,7 +2234,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728537841",
       "category": "Other",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 10619.0,
@@ -2250,7 +2250,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "CS-BARPRO-K9",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-video-conferencing-system-1?variant=55468448416126",
@@ -2262,7 +2262,7 @@
           "delivery_price": 3.0,
           "item_price": 10619.0,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -2271,7 +2271,7 @@
           "delivery_price": 0.0,
           "item_price": 10619.0,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -2280,7 +2280,7 @@
           "delivery_price": 0.0,
           "item_price": 12742.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -2676,7 +2676,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711636286435",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 184.88,
@@ -2692,7 +2692,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "VA279QGSE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-va279qgse-computer-monitor-686-cm-27-1920-x-1080-pixels-full-hd-lcd-black?variant=56888395661694",
@@ -2704,7 +2704,7 @@
           "delivery_price": 0.0,
           "item_price": 183.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -2713,7 +2713,7 @@
           "delivery_price": 3.0,
           "item_price": 184.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -2722,7 +2722,7 @@
           "delivery_price": 0.0,
           "item_price": 221.86,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -3533,7 +3533,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439254266",
       "category": "Gaming",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.55,
@@ -3549,7 +3549,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "25426",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-gxt-1246w-muta-white-bluetooth-gamepad-nintendo-switch-nintendo-switch-lite-1?variant=56833171358078",
@@ -3561,7 +3561,7 @@
           "delivery_price": 3.0,
           "item_price": 29.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -3570,7 +3570,7 @@
           "delivery_price": 0.0,
           "item_price": 35.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -3823,7 +3823,7 @@
       "brand": "Panasonic",
       "canonical_key": "GTIN:5025232961023",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.75,
@@ -3839,7 +3839,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "FZ-VDM553U",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/panasonic-fz-vdm553u-laptop-spare-part-dvd-optical-drive?variant=55469028802942",
@@ -3851,7 +3851,7 @@
           "delivery_price": 3.0,
           "item_price": 107.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -3860,7 +3860,7 @@
           "delivery_price": 0.0,
           "item_price": 129.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -4970,7 +4970,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158668740",
       "category": "Other",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 43.43,
@@ -4986,7 +4986,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "D31696-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-eco-scale-439-cm-173-backpack-black?variant=55468208980350",
@@ -4998,7 +4998,7 @@
           "delivery_price": 3.0,
           "item_price": 43.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -5007,7 +5007,7 @@
           "delivery_price": 0.0,
           "item_price": 43.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -5016,7 +5016,7 @@
           "delivery_price": 0.0,
           "item_price": 52.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
@@ -6032,7 +6032,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:6862534000000",
       "category": "Other",
-      "checked_at": "2026-11-02T20:20:34Z",
+      "checked_at": "2026-11-02T20:21:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 116.1,
@@ -6048,7 +6048,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-02T20:20:34Z",
+      "market_verified_at": "2026-11-02T20:21:15Z",
       "mpn": "TC-HDMIIPRX/3",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-hdmi-over-ip-receiver-av-receiver-black?variant=55468989677950",
@@ -6060,7 +6060,7 @@
           "delivery_price": 3.0,
           "item_price": 116.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -6069,7 +6069,7 @@
           "delivery_price": 0.0,
           "item_price": 116.1,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         },
         {
           "availability": null,
@@ -6078,7 +6078,7 @@
           "delivery_price": 0.0,
           "item_price": 139.32,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T20:50:34Z"
+          "valid_until": "2026-11-02T20:51:15Z"
         }
       ],
       "publishable": true,
