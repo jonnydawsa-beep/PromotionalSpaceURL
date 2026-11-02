@@ -1,33 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:54:02Z",
+  "generated_at": "2026-11-02T11:55:57Z",
   "items": [
-    {
-      "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
-      "brand": "AMD",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/amd-radeon-pro-wx-3200-4-gb-gddr5-db3e81b1.html",
-      "active": true,
-      "current_price": 146.99
-    },
-    {
-      "title": "Apple Beats iPhone 17e Case with MagSafe – Bedrock Blue",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue-db3d74a3.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "Apple Crossbody Strap - Neon Yellow",
-      "brand": "Apple",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/apple-crossbody-strap-neon-yellow-db316453.html",
-      "active": true,
-      "current_price": 34.99
-    },
     {
       "title": "ASUS PRIME B760M-A WIFI II Intel B760 LGA 1700 micro ATX",
       "brand": "Asus",
@@ -99,15 +72,6 @@
       "url": "products/cherry-mw-2200-compact-wireless-laptop-mouse-black-db381bd7.html",
       "active": true,
       "current_price": 24.99
-    },
-    {
-      "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db34a58f.html",
-      "active": true,
-      "current_price": 1024.99
     },
     {
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
@@ -306,15 +270,6 @@
       "url": "products/hp-201x-3-pack-high-yield-cyan-magenta-yellow-original-laserjet-toner-db35291c.html",
       "active": true,
       "current_price": 327.99
-    },
-    {
-      "title": "HP 705 Rechargeable Wireless Mouse",
-      "brand": "HP",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/hp-705-rechargeable-wireless-mouse-db3d2e65.html",
-      "active": true,
-      "current_price": 44.99
     },
     {
       "title": "HP 85A Black Original LaserJet Toner Cartridge",
@@ -794,15 +749,6 @@
       "current_price": 22.99
     },
     {
-      "title": "StarTech.com Monitor Arm with VESA Laptop Tray, For a Laptop (4.5kg/9.9lb) and a Single Display up to 32\" (17.6lb/8kg), Black, Vented Tray, Adjustable Laptop Arm Mount, C-clamp/Grommet Mount",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-monitor-arm-with-vesa-laptop-tray-for-a-laptop-4-5kg-9-9l-db3cc5eb.html",
-      "active": true,
-      "current_price": 32.99
-    },
-    {
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
       "brand": "Targus",
       "category": "Other",
@@ -1082,6 +1028,15 @@
       "current_price": null
     },
     {
+      "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
+      "brand": "AMD",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/amd-radeon-pro-wx-3200-4-gb-gddr5-db3e81b1.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Anker Powercore 10000 mAh Black",
       "brand": "Anker",
       "category": "Other",
@@ -1150,6 +1105,24 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/apple-airtag-personal-finder-silver-white-db3e1fea.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Apple Beats iPhone 17e Case with MagSafe – Bedrock Blue",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue-db3d74a3.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Apple Crossbody Strap - Neon Yellow",
+      "brand": "Apple",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/apple-crossbody-strap-neon-yellow-db316453.html",
       "active": false,
       "current_price": null
     },
@@ -1960,6 +1933,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-9105axi-e-wireless-access-point-wi-fi-6-2x2-mu-mimo-con-db3fd768.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db34a58f.html",
       "active": false,
       "current_price": null
     },
@@ -3481,6 +3463,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/hp-705-rechargeable-multi-pen-db327940.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "HP 705 Rechargeable Wireless Mouse",
+      "brand": "HP",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/hp-705-rechargeable-wireless-mouse-db3d2e65.html",
       "active": false,
       "current_price": null
     },
@@ -5110,6 +5101,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/startech-com-mobile-tv-stand-heavy-duty-tv-cart-for-60-100-display-100-db3c87d2.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "StarTech.com Monitor Arm with VESA Laptop Tray, For a Laptop (4.5kg/9.9lb) and a Single Display up to 32\" (17.6lb/8kg), Black, Vented Tray, Adjustable Laptop Arm Mount, C-clamp/Grommet Mount",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-monitor-arm-with-vesa-laptop-tray-for-a-laptop-4-5kg-9-9l-db3cc5eb.html",
       "active": false,
       "current_price": null
     },
