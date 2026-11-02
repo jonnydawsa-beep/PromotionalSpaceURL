@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-02T20:54:34Z",
+    "generated_at": "2026-11-02T20:55:27Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "bd7f8293e8c542ce356a2a18deee0ccc202671443c10140ad9be7fe7ea2a3a07",
+    "revision": "f20ce42154346c2844a982847e3bb5e344228a9d551fc0a547c89003449d76b3",
     "deal_count": 102,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -2051,7 +2051,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:0745883962969",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 12,
       "comparison_price": 36.99,
@@ -2067,7 +2067,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "AUC019HQPK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-soundform-dot-headset-wireless-in-ear-callsmusic-usb-type-c-bluetooth-pink?variant=58091866685822",
@@ -2079,7 +2079,7 @@
           "delivery_price": 3.0,
           "item_price": 31.27,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -4211,7 +4211,7 @@
       "brand": "Cables Direct",
       "canonical_key": "GTIN:5055781241819",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.12,
@@ -4227,7 +4227,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "USB3C-DP-5M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cables-direct-usb-c-to-dp-4k-60hz-5-m-usb-type-c-displayport-black?variant=55467579638142",
@@ -4239,7 +4239,7 @@
           "delivery_price": 3.0,
           "item_price": 24.66,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -4248,7 +4248,7 @@
           "delivery_price": null,
           "item_price": 29.59,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -4269,7 +4269,7 @@
       "brand": "Kingston Technology",
       "canonical_key": "GTIN:740617336634",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 146.44,
@@ -4285,7 +4285,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "IKKP200C/32GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kingston-technology-ironkey-32gb-usb-c-keypad-200c-fips-140-3-lvl-3-aes-256-1?variant=55306778509694",
@@ -4297,7 +4297,7 @@
           "delivery_price": 3.0,
           "item_price": 133.13,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -4306,7 +4306,7 @@
           "delivery_price": null,
           "item_price": 159.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -4327,7 +4327,7 @@
       "brand": "BTI",
       "canonical_key": "GTIN:5056006159186",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.26,
@@ -4343,7 +4343,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "65WUSB-C-BTI-UK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/bti-65w-usb-c-ac-adapter-with-8-output-voltages-for-all-usb-c-devices-up-to-65w-uk-connections-85?variant=56865361527166",
@@ -4355,7 +4355,7 @@
           "delivery_price": 3.0,
           "item_price": 25.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -4364,7 +4364,7 @@
           "delivery_price": null,
           "item_price": 30.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -4635,7 +4635,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728197236",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 952.82,
@@ -4651,7 +4651,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "PWR-C6-600WAC=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-pwr-c6-600wac-network-switch-component-power-supply?variant=55468175163774",
@@ -4663,7 +4663,7 @@
           "delivery_price": 3.0,
           "item_price": 866.2,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -4672,7 +4672,7 @@
           "delivery_price": null,
           "item_price": 1039.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -5764,7 +5764,7 @@
       "brand": "Chief",
       "canonical_key": "GTIN:0841872156194",
       "category": "Other",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 198.72,
@@ -5780,7 +5780,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "MCM1U",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/chief-fusionr-medium-flat-panel-ceiling-mount?variant=57132758139262",
@@ -5792,7 +5792,7 @@
           "delivery_price": 3.0,
           "item_price": 180.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -5801,7 +5801,7 @@
           "delivery_price": null,
           "item_price": 216.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -5880,7 +5880,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:0745883897155",
       "category": "Other",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.16,
@@ -5896,7 +5896,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "OVA160HQ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-ova160hq-mobile-phone-screenback-protector-clear-screen-protector-apple-1-pcs?variant=55307781636478",
@@ -5908,7 +5908,7 @@
           "delivery_price": 3.0,
           "item_price": 23.78,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -5917,7 +5917,7 @@
           "delivery_price": null,
           "item_price": 28.54,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -5938,7 +5938,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239422346",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.96,
@@ -5954,7 +5954,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "D30805-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30805-rpet-laptop-case-406-cm-16-toploader-bag-black?variant=56013356204414",
@@ -5966,7 +5966,7 @@
           "delivery_price": 3.0,
           "item_price": 22.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -5975,7 +5975,7 @@
           "delivery_price": null,
           "item_price": 27.23,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
@@ -5996,7 +5996,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239423602",
       "category": "Technology",
-      "checked_at": "2026-11-02T20:53:30Z",
+      "checked_at": "2026-11-02T20:55:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.96,
@@ -6012,7 +6012,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-02T20:53:30Z",
+      "market_verified_at": "2026-11-02T20:55:25Z",
       "mpn": "D3250201",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d3250201-laptop-case-356-cm-14-briefcase-black?variant=56877979304318",
@@ -6024,7 +6024,7 @@
           "delivery_price": 3.0,
           "item_price": 22.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         },
         {
           "availability": null,
@@ -6033,7 +6033,7 @@
           "delivery_price": null,
           "item_price": 27.23,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-02T21:23:30Z"
+          "valid_until": "2026-11-02T21:25:25Z"
         }
       ],
       "publishable": true,
