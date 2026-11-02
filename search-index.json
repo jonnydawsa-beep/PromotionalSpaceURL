@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:24:45Z",
+  "generated_at": "2026-11-02T11:43:02Z",
   "items": [
-    {
-      "title": "Alienware PRO-HS-G-DEAM Wireless Gaming Headset - White",
-      "brand": "Alienware",
-      "category": "Gaming",
-      "retailer": "Back to the Office",
-      "url": "products/alienware-pro-hs-g-deam-wireless-gaming-headset-white-db30d13e.html",
-      "active": true,
-      "current_price": 124.99
-    },
     {
       "title": "Allied Telesis 2914SX/LC Internal Fiber 1000 Mbit/s",
       "brand": "Allied Telesis",
@@ -326,15 +317,6 @@
       "current_price": 41.99
     },
     {
-      "title": "DELL CG7325L 33.8 cm (13.3\") Cover Black",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-cg7325l-33-8-cm-13-3-cover-black-db3954a6.html",
-      "active": true,
-      "current_price": 25.99
-    },
-    {
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
       "brand": "Dell",
       "category": "Technology",
@@ -351,51 +333,6 @@
       "url": "products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html",
       "active": true,
       "current_price": 26.99
-    },
-    {
-      "title": "DELL Pro 14-16 Premium EcoLoop Slim Backpack - CP7625S",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-14-16-premium-ecoloop-slim-backpack-cp7625s-db316a83.html",
-      "active": true,
-      "current_price": 40.99
-    },
-    {
-      "title": "DELL Pro Micro All-in-One Stand - MFS22",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-micro-all-in-one-stand-mfs22-db376e4a.html",
-      "active": true,
-      "current_price": 77.99
-    },
-    {
-      "title": "DELL Pro Plus Compact Mouse - MS5120W - Black",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-plus-compact-mouse-ms5120w-black-db3b54d9.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
-      "title": "DELL Pro Plus Compact Mouse - MS5120W - Titan Gray",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-plus-compact-mouse-ms5120w-titan-gray-db3460aa.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
-      "title": "DELL Pro Plus Wireless ANC Headset - WL5024",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-plus-wireless-anc-headset-wl5024-db31e463.html",
-      "active": true,
-      "current_price": 136.99
     },
     {
       "title": "DELL Pro Premium Compact Mouse - MS7421W - Platinum Silver",
@@ -1276,6 +1213,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/aerocool-gladiator-duo-atx-gaming-case-3x-argb-12cm-fans-13f9e29f.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Alienware PRO-HS-G-DEAM Wireless Gaming Headset - White",
+      "brand": "Alienware",
+      "category": "Gaming",
+      "retailer": "Back to the Office",
+      "url": "products/alienware-pro-hs-g-deam-wireless-gaming-headset-white-db30d13e.html",
       "active": false,
       "current_price": null
     },
@@ -2243,6 +2189,15 @@
       "current_price": null
     },
     {
+      "title": "DELL CG7325L 33.8 cm (13.3\") Cover Black",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-cg7325l-33-8-cm-13-3-cover-black-db3954a6.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL CP3724 40.6 cm (16\") Backpack Black",
       "brand": "Dell",
       "category": "Other",
@@ -2270,11 +2225,56 @@
       "current_price": null
     },
     {
+      "title": "DELL Pro 14-16 Premium EcoLoop Slim Backpack - CP7625S",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-14-16-premium-ecoloop-slim-backpack-cp7625s-db316a83.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL Pro 7 KM746 keyboard Mouse included Universal RF Wireless + Bluetooth QWERTY UK English Graphite",
       "brand": "Dell",
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/dell-pro-7-km746-keyboard-mouse-included-universal-rf-wireless-bluetoo-db3df054.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL Pro Micro All-in-One Stand - MFS22",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-micro-all-in-one-stand-mfs22-db376e4a.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL Pro Plus Compact Mouse - MS5120W - Black",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-plus-compact-mouse-ms5120w-black-db3b54d9.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL Pro Plus Compact Mouse - MS5120W - Titan Gray",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-plus-compact-mouse-ms5120w-titan-gray-db3460aa.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL Pro Plus Wireless ANC Headset - WL5024",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-plus-wireless-anc-headset-wl5024-db31e463.html",
       "active": false,
       "current_price": null
     },
