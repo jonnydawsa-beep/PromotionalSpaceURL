@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T10:59:37Z",
+    "generated_at": "2026-11-03T11:24:39Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "2b51601a288a0e832f79faf830f65e73eb938d0f6aaa101dbe55f05673b8f21b",
-    "deal_count": 20,
+    "revision": "2531f47df2939e66d87583c650dbe2288a9913e62841298564a300e9e188a923",
+    "deal_count": 16,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -20,7 +20,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:9785519069700",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 116.26,
@@ -36,7 +36,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "981-001389",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn-1?variant=55307556454782",
@@ -48,7 +48,7 @@
           "delivery_price": 0.0,
           "item_price": 105.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -57,7 +57,7 @@
           "delivery_price": 0.0,
           "item_price": 126.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -66,7 +66,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269696",
       "title": "Logitech Zone Learn",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:53:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/logitech-zone-learn-db3f6d4d.html"
@@ -78,7 +78,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 61.99,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -106,7 +106,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -124,7 +124,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -133,59 +133,10 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075454692",
       "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH White",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white-db396190.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-1b7b9379388a244dc12d5f63e0fa&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fmsi-b550-gaming-motherboard-amd-b550-socket-am4-atx%3Fvariant%3D58174202872190&platform=pl",
-      "brand": "MSI",
-      "canonical_key": "GTIN:4711377431118",
-      "category": "Gaming",
-      "checked_at": "2026-11-03T10:59:30Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 241.99,
-      "current_price": 108.99,
-      "deal_id": "db3-1b7b9379388a244dc12d5f63e0fa",
-      "delivery_price": 0.0,
-      "gtin": "4711377431118",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F12643623473844cd4f3c1aad7765b7908ab58b7513340bb5b1ca9fd2bad7a55c.jpg%3Fv%3D1791438649&feedId=102827&k=825d75f2fbd061aeca053cfa845e792ee04fdfcd",
-      "item_price": 108.99,
-      "market_best_price": 108.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 2,
-      "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T10:59:30Z",
-      "mpn": "B550 GAMING",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/msi-b550-gaming-motherboard-amd-b550-socket-am4-atx?variant=58174202872190",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 196.7,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 54.96,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "46256956677",
-      "title": "MSI B550 GAMING motherboard AMD B550 Socket AM4 ATX",
-      "valid_until": "2026-11-03T11:29:30Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/msi-b550-gaming-motherboard-amd-b550-socket-am4-atx-db31b7b9.html"
     },
     {
       "advertiser_id": "61655",
@@ -194,7 +145,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -210,7 +161,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -222,7 +173,7 @@
           "delivery_price": 3.0,
           "item_price": 26.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -231,7 +182,7 @@
           "delivery_price": 0.0,
           "item_price": 26.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -240,7 +191,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -249,7 +200,7 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472319",
       "title": "Streamplify MIC MINI RGB Microphone",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-mini-rgb-microphone-db32578d.html"
@@ -261,7 +212,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513542",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -277,7 +228,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "SPML-MG1C051.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -289,7 +240,7 @@
           "delivery_price": 3.0,
           "item_price": 26.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -298,7 +249,7 @@
           "delivery_price": 0.0,
           "item_price": 26.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -307,7 +258,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -316,7 +267,7 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472136",
       "title": "Streamplify MIC GO Black Clip-on microphone",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html"
@@ -328,7 +279,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:3026981127267",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 149.99,
@@ -344,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "2112726-A1-00009",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-labelwriter-550-label-printer-label-maker-with-direct-thermal-printing-automatic-label-recognition-prints-address-labelsshipping-labelsbarcode-labels-more-uk-3-pin-plug-grade-a1-open-box?variant=58339922739582",
@@ -356,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 102.26,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -365,7 +316,7 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46459530366",
       "title": "DYMO LabelWriter 550 Label Printer – Grade A1 (Open box)",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:54:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-labelwriter-550-label-printer-grade-a1-open-box-db3a334d.html"
@@ -377,7 +328,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030865135",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.14,
@@ -393,7 +344,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "CDP2HD4K60",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
@@ -405,7 +356,7 @@
           "delivery_price": 0.0,
           "item_price": 38.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -414,7 +365,7 @@
           "delivery_price": 0.0,
           "item_price": 45.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -423,7 +374,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278017",
       "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html"
@@ -435,7 +386,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397321024057",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -451,7 +402,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "DELL-CP5626",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cp5626-406-cm-16-backpack-black?variant=56836889313662",
@@ -463,7 +414,7 @@
           "delivery_price": 3.0,
           "item_price": 28.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -472,7 +423,7 @@
           "delivery_price": 0.0,
           "item_price": 28.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -481,7 +432,7 @@
           "delivery_price": 0.0,
           "item_price": 49.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -490,77 +441,10 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43765571898",
       "title": "DELL CP5626 40.6 cm (16\") Backpack Black",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-cp5626-40-6-cm-16-backpack-black-db3a06c9.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-90117e948a230327d9d81c791e0a&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fepson-wf-c5390dw%3Fvariant%3D55306688430462&platform=pl",
-      "brand": "Epson",
-      "canonical_key": "GTIN:8715946711911",
-      "category": "Other",
-      "checked_at": "2026-11-03T10:59:29Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 525.99,
-      "current_price": 305.99,
-      "deal_id": "db3-90117e948a230327d9d81c791e0a",
-      "delivery_price": 0.0,
-      "gtin": "8715946711911",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F958b9680c9fef7690b59d7402455a26c_9bf37974-c67a-4d97-8c0e-cf248d9be026.jpg%3Fv%3D1791005983&feedId=102827&k=956c0e37376517efc9f4c35622a997597ea4e1ab",
-      "item_price": 305.99,
-      "market_best_price": 305.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
-      "mpn": "C11CK25401BY",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/epson-wf-c5390dw?variant=55306688430462",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 424.99,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 424.99,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 509.99,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 41.83,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "41475279902",
-      "title": "Epson WF-C5390DW",
-      "valid_until": "2026-11-03T11:29:29Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/epson-wf-c5390dw-db390117.html"
     },
     {
       "advertiser_id": "61655",
@@ -569,7 +453,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387095119",
       "category": "Gaming",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 168.99,
@@ -585,7 +469,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "90MB1ER0-M1EAY0-A1-00011",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-tuf-gaming-b760-plus-wifi-intel-b760-lga-1700-atx-grade-a1-open-box?variant=58339988210046",
@@ -597,7 +481,7 @@
           "delivery_price": 3.0,
           "item_price": 134.99,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -606,7 +490,7 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46459530458",
       "title": "ASUS TUF Gaming B760-Plus WIFI Intel B760 LGA 1700 ATX – Grade A1 (Open box)",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:54:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/asus-tuf-gaming-b760-plus-wifi-intel-b760-lga-1700-atx-grade-a1-open-b-db39165e.html"
@@ -618,7 +502,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -634,7 +518,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -646,7 +530,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -655,7 +539,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -664,7 +548,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -673,7 +557,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -685,7 +569,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
@@ -701,7 +585,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -713,7 +597,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -722,7 +606,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -731,7 +615,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46424845178",
       "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:53:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html"
@@ -743,7 +627,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 44.99,
@@ -759,7 +643,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -771,7 +655,7 @@
           "delivery_price": 3.0,
           "item_price": 30.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -780,7 +664,7 @@
           "delivery_price": 0.0,
           "item_price": 30.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -789,7 +673,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -798,7 +682,7 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45618341392",
       "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
@@ -810,7 +694,7 @@
       "brand": "Optoma",
       "canonical_key": "GTIN:5055387668683",
       "category": "Other",
-      "checked_at": "2026-11-03T10:59:30Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 3351.99,
@@ -826,7 +710,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T10:59:30Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "3753RK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/optoma-3753rk-interactive-whiteboard-1905-cm-75-3840-x-2160-pixels-touchscreen-black-1?variant=57450402283902",
@@ -838,7 +722,7 @@
           "delivery_price": 3.0,
           "item_price": 2667.99,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -847,59 +731,10 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44848666144",
       "title": "Optoma 3753RK interactive whiteboard 190.5 cm (75\") 3840 x 2160 pixels Touchscreen Black",
-      "valid_until": "2026-11-03T11:29:30Z",
+      "valid_until": "2026-11-03T11:29:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/optoma-3753rk-interactive-whiteboard-190-5-cm-75-3840-x-2160-pixels-to-db3f81d4.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-d949bfc3f6cd5eb2ede3cfdf85d5&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fbelkin-soundform-dot-headset-wireless-in-ear-callsmusic-usb-type-c-bluetooth-pink%3Fvariant%3D58091866685822&platform=pl",
-      "brand": "Belkin",
-      "canonical_key": "GTIN:0745883962969",
-      "category": "Technology",
-      "checked_at": "2026-11-03T10:59:30Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 36.99,
-      "current_price": 24.99,
-      "deal_id": "db3-d949bfc3f6cd5eb2ede3cfdf85d5",
-      "delivery_price": 4.99,
-      "gtin": "0745883962969",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F981a7db00772f08b9d4bcfc7c4e5ecbe373c479d2c28fbac8528f4e434272e88_cf2d0cf3-9459-448f-af38-73be9608f9d5.jpg%3Fv%3D1790318202&feedId=102827&k=7c6213239cdf10da3b6b4a46aaead99fd848d843",
-      "item_price": 24.99,
-      "market_best_price": 24.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 2,
-      "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T10:59:30Z",
-      "mpn": "AUC019HQPK",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/belkin-soundform-dot-headset-wireless-in-ear-callsmusic-usb-type-c-bluetooth-pink?variant=58091866685822",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 31.27,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:30Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 32.44,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "46120432357",
-      "title": "Belkin SoundForm Dot Headset Wireless In-ear Calls/Music USB Type-C Bluetooth Pink",
-      "valid_until": "2026-11-03T11:29:30Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/belkin-soundform-dot-headset-wireless-in-ear-calls-music-usb-type-c-bl-db3d949b.html"
     },
     {
       "advertiser_id": "61655",
@@ -908,7 +743,7 @@
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035194660",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 224.55,
@@ -924,7 +759,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "AT-SP10SR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-mbit-s-sfp-850-nm?variant=58376179941758",
@@ -936,7 +771,7 @@
           "delivery_price": 3.0,
           "item_price": 224.55,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -945,7 +780,7 @@
           "delivery_price": 0.0,
           "item_price": 224.55,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -954,7 +789,7 @@
           "delivery_price": 0.0,
           "item_price": 270.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -963,7 +798,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566616142",
       "title": "Allied Telesis AT-SP10SR network transceiver module Fiber optic 10300 Mbit/s SFP+ 850 nm",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:53:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-db3bccbf.html"
@@ -975,7 +810,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170222",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7810.84,
@@ -991,7 +826,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "C9200L-48PXG-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468170314110",
@@ -1003,7 +838,7 @@
           "delivery_price": 3.0,
           "item_price": 7810.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -1012,7 +847,7 @@
           "delivery_price": 0.0,
           "item_price": 7810.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -1021,7 +856,7 @@
           "delivery_price": 0.0,
           "item_price": 9373.0,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -1030,77 +865,10 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075448098",
       "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:53:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-360ffb6c742d507cd22bae7ade47&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftechair-tachs006-protective-hard-shell-case-for-lenovo-100e100w300e300w-4th-gen-chromebook-116-blackclear%3Fvariant%3D55306862199166&platform=pl",
-      "brand": "Tech air",
-      "canonical_key": "GTIN:5060369675733",
-      "category": "Other",
-      "checked_at": "2026-11-03T10:59:29Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 34.99,
-      "current_price": 26.99,
-      "deal_id": "db3-360ffb6c742d507cd22bae7ade47",
-      "delivery_price": 4.99,
-      "gtin": "5060369675733",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fa3b356bb8bf90067821bd63c25adee1f.jpg%3Fv%3D1770539178&feedId=102827&k=9e8cc16fcc551884c23515da282d3f6ec83563ef",
-      "item_price": 26.99,
-      "market_best_price": 26.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
-      "mpn": "TACHS006",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/techair-tachs006-protective-hard-shell-case-for-lenovo-100e100w300e300w-4th-gen-chromebook-116-blackclear?variant=55306862199166",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 32.78,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 32.78,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 39.34,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 22.86,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "41476160437",
-      "title": "Techair TACHS006 Protective Hard Shell case for Lenovo 100e/100w/300e/300w 4th Gen Chromebook, 11.6 black/clear",
-      "valid_until": "2026-11-03T11:29:29Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/techair-tachs006-protective-hard-shell-case-for-lenovo-100e-100w-300e-db3360ff.html"
     },
     {
       "advertiser_id": "496",
@@ -1109,7 +877,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -1125,7 +893,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -1137,7 +905,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -1146,7 +914,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": 1,
@@ -1155,7 +923,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -1164,7 +932,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:54:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -1176,7 +944,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:0844668156569",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:59:29Z",
+      "checked_at": "2026-11-03T11:24:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.65,
@@ -1192,7 +960,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:59:29Z",
+      "market_verified_at": "2026-11-03T11:24:33Z",
       "mpn": "HSNI-MBNEO-TR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent?variant=58375841218942",
@@ -1204,7 +972,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -1213,7 +981,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         },
         {
           "availability": null,
@@ -1222,7 +990,7 @@
           "delivery_price": 0.0,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:29:29Z"
+          "valid_until": "2026-11-03T11:54:33Z"
         }
       ],
       "publishable": true,
@@ -1231,7 +999,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566615135",
       "title": "Tucano HSNI-MBNEO-TR laptop case 33 cm (13\") Hardshell case Transparent",
-      "valid_until": "2026-11-03T11:29:29Z",
+      "valid_until": "2026-11-03T11:53:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent-db30171c.html"
