@@ -369,3 +369,30 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
 /* Deal Burrow growth 3.4 */
 [data-db-growth]{border-top:1px solid var(--line);margin-top:32px;padding-top:24px}#db-alerts form{display:grid;gap:16px;margin:24px 0}#db-alerts label{display:grid;gap:8px}#db-alerts select,#db-alerts input,#db-share textarea{max-width:100%;width:100%;box-sizing:border-box;padding:12px;border:1px solid var(--line);border-radius:6px;background:#fff;color:inherit;font:inherit}#db-alerts select{white-space:normal}#db-alerts input{max-width:220px}#db-alerts button,#db-share button,[data-db-growth] button{padding:10px 16px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--accent);font:inherit;cursor:pointer;justify-self:start}#db-alerts li,#db-roundup li,#db-share section{padding:16px 0;border-bottom:1px solid var(--line)}#db-share textarea{display:block;min-height:150px;margin:12px 0;resize:vertical}button:disabled{opacity:.55;cursor:default}
 /* /Deal Burrow growth 3.4 */
+/* Deal Burrow compact product layout */
+
+.product-page .product-heading{margin:12px 0 18px}
+.product-page .product-heading h1{font-size:clamp(1.4rem,2.4vw,2rem);line-height:1.2;letter-spacing:-.02em;margin:0 0 8px}
+.product-page .product-heading p{margin:0;font-size:.88rem}
+.product-page .product-layout{grid-template-columns:minmax(150px,260px) minmax(0,1fr);gap:24px;align-items:start}
+.product-page .product-hero-image{min-height:0;height:210px;padding:14px}
+.product-page .product-hero-image img{max-height:180px;max-width:100%}
+.product-page .product-summary{padding-top:0}
+.product-page .product-summary p{margin:8px 0;font-size:.9rem;line-height:1.45}
+.product-page .product-price-row{margin-top:8px}
+.product-page .product-price-row strong{font-size:1.85rem}
+.product-page .deal-button{padding:10px 16px;font-size:.92rem}
+.product-page .content-block{margin-top:22px}
+.product-page .content-block h2{font-size:1.15rem;margin:0 0 10px}
+.product-page .content-block p{font-size:.9rem;line-height:1.5;margin:8px 0}
+.product-page .product-sections{margin:12px 0;font-size:.88rem}
+.product-page .retailer-evidence{margin-top:12px;font-size:.88rem}
+.product-page .retailer-evidence summary{cursor:pointer;color:var(--accent);font-weight:650}
+.product-page .retailer-evidence .content-block{margin-top:12px}
+.product-page .history-table{font-size:.85rem}
+.product-page dl{display:grid;grid-template-columns:minmax(110px,160px) minmax(0,1fr);gap:7px 16px;font-size:.9rem}
+.product-page dt{font-weight:650}.product-page dd{margin:0;overflow-wrap:anywhere}
+.deal-card .deal-image{height:160px;padding:12px}.deal-card .deal-body{padding:14px}
+.deal-card h3{font-size:1.03rem;line-height:1.3}
+@media(max-width:640px){.product-page .product-layout{grid-template-columns:1fr;gap:16px}.product-page .product-hero-image{height:170px}.product-page .product-hero-image img{max-height:145px}.product-page dl{grid-template-columns:110px minmax(0,1fr)}}
+/* /Deal Burrow compact product layout */
