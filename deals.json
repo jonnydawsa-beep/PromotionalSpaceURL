@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T11:25:10Z",
+    "generated_at": "2026-11-03T11:25:40Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "17128c4a5dba31be9b11429ddebd29e0ef46ff66f4d067bf545054e208b7c199",
+    "revision": "e4b122bb97b869ef970688f8907eeda0f457e12afd288a29543395ac0f127e9d",
     "deal_count": 16,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -78,7 +78,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 61.99,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -106,7 +106,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -124,7 +124,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -145,7 +145,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -161,7 +161,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -173,7 +173,7 @@
           "delivery_price": 3.0,
           "item_price": 26.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -182,7 +182,7 @@
           "delivery_price": 0.0,
           "item_price": 26.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -191,7 +191,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -212,7 +212,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513542",
       "category": "Other",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -228,7 +228,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "SPML-MG1C051.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -240,7 +240,7 @@
           "delivery_price": 3.0,
           "item_price": 26.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -249,7 +249,7 @@
           "delivery_price": 0.0,
           "item_price": 26.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -258,7 +258,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -328,7 +328,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030865135",
       "category": "Technology",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.14,
@@ -344,7 +344,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "CDP2HD4K60",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
@@ -356,7 +356,7 @@
           "delivery_price": 0.0,
           "item_price": 38.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -365,7 +365,7 @@
           "delivery_price": 0.0,
           "item_price": 45.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -386,7 +386,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397321024057",
       "category": "Other",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -402,7 +402,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "DELL-CP5626",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cp5626-406-cm-16-backpack-black?variant=56836889313662",
@@ -414,7 +414,7 @@
           "delivery_price": 3.0,
           "item_price": 28.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -423,7 +423,7 @@
           "delivery_price": 0.0,
           "item_price": 28.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -432,7 +432,7 @@
           "delivery_price": 0.0,
           "item_price": 49.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -502,7 +502,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -518,7 +518,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -530,7 +530,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -539,7 +539,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -548,7 +548,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -627,7 +627,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 44.99,
@@ -643,7 +643,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -655,7 +655,7 @@
           "delivery_price": 3.0,
           "item_price": 30.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -664,7 +664,7 @@
           "delivery_price": 0.0,
           "item_price": 30.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         },
         {
           "availability": null,
@@ -673,7 +673,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
@@ -694,7 +694,7 @@
       "brand": "Optoma",
       "canonical_key": "GTIN:5055387668683",
       "category": "Other",
-      "checked_at": "2026-11-03T11:25:09Z",
+      "checked_at": "2026-11-03T11:25:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 3351.99,
@@ -710,7 +710,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T11:25:09Z",
+      "market_verified_at": "2026-11-03T11:25:40Z",
       "mpn": "3753RK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/optoma-3753rk-interactive-whiteboard-1905-cm-75-3840-x-2160-pixels-touchscreen-black-1?variant=57450402283902",
@@ -722,7 +722,7 @@
           "delivery_price": 3.0,
           "item_price": 2667.99,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T11:55:09Z"
+          "valid_until": "2026-11-03T11:55:40Z"
         }
       ],
       "publishable": true,
