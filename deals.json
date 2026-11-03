@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:01:28Z",
+    "generated_at": "2026-11-03T05:03:17Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "939f38b9867090c7112c4b64aad35b311c6cbe7ee6bee64d569607a45d9d8b6d",
+    "revision": "359bfb227851fe123d50c77d652c8aa4aa9ae2dffcbc5cc8adb24c197b8f4dec",
     "deal_count": 276,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -667,7 +667,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:8715946711911",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 525.99,
@@ -683,7 +683,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "C11CK25401BY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-wf-c5390dw?variant=55306688430462",
@@ -695,7 +695,7 @@
           "delivery_price": 3.0,
           "item_price": 424.99,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -704,7 +704,7 @@
           "delivery_price": 0.0,
           "item_price": 424.99,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -713,7 +713,7 @@
           "delivery_price": 0.0,
           "item_price": 509.99,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -792,7 +792,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3480006000001",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -808,7 +808,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "TC 10MVGAP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white?variant=55468876562814",
@@ -820,7 +820,7 @@
           "delivery_price": 3.0,
           "item_price": 43.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -829,7 +829,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -1930,7 +1930,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 35.98,
@@ -1946,7 +1946,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -1958,7 +1958,7 @@
           "delivery_price": 3.0,
           "item_price": 32.71,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -1967,7 +1967,7 @@
           "delivery_price": 0.0,
           "item_price": 39.25,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -2104,7 +2104,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:04Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 44.99,
@@ -2120,7 +2120,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:04Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -2132,7 +2132,7 @@
           "delivery_price": 3.0,
           "item_price": 30.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -2141,7 +2141,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -2220,7 +2220,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158661437",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:02Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 35.43,
@@ -2236,7 +2236,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T04:59:02Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "D30933-V1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -2248,7 +2248,7 @@
           "delivery_price": 3.0,
           "item_price": 35.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:02Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -2257,7 +2257,7 @@
           "delivery_price": 0.0,
           "item_price": 35.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:02Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -2266,7 +2266,7 @@
           "delivery_price": 0.0,
           "item_price": 42.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:02Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -3166,7 +3166,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353958401",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1717.35,
@@ -3182,7 +3182,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "GA12073-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-11-pro-xl-173-cm-68-dual-sim-android-17-5g-usb-type-c-16-gb-512-gb-5115-mah-orange?variant=57842645795198",
@@ -3194,7 +3194,7 @@
           "delivery_price": null,
           "item_price": 1557.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -3203,7 +3203,7 @@
           "delivery_price": 0.0,
           "item_price": 1876.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -3831,7 +3831,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640186416542",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 44.44,
@@ -3847,7 +3847,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "D31888",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d31888-webcam-3840-x-2160-pixels-usb-20-black?variant=55468215501182",
@@ -3859,7 +3859,7 @@
           "delivery_price": 3.0,
           "item_price": 44.44,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -3868,7 +3868,7 @@
           "delivery_price": 0.0,
           "item_price": 44.44,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -3877,7 +3877,7 @@
           "delivery_price": 0.0,
           "item_price": 53.33,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -4014,7 +4014,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0195908323013",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 31.64,
@@ -4030,7 +4030,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "3E5F8AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-renew-business-156-inch-laptop-bag-1?variant=55307695522174",
@@ -4042,7 +4042,7 @@
           "delivery_price": 0.0,
           "item_price": 24.95,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -4051,7 +4051,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -4060,7 +4060,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -4148,7 +4148,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -4164,7 +4164,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -4176,7 +4176,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -4185,7 +4185,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -4911,7 +4911,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4740219000007",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 82.95,
@@ -4927,7 +4927,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "VFM-DPD2B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-686-cm-27-desk-black?variant=55468880396670",
@@ -4939,7 +4939,7 @@
           "delivery_price": 3.0,
           "item_price": 75.41,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -4948,7 +4948,7 @@
           "delivery_price": 0.0,
           "item_price": 90.49,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -6272,7 +6272,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:071701184832",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.45,
@@ -6288,7 +6288,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "18483",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-rhino-industrial-permanent-polyester-labels-12-mm-x-55-m-black-print-on-white-self-adhesive-for-rhino-labelmanager-label-makers?variant=55306357473662",
@@ -6300,7 +6300,7 @@
           "delivery_price": 0.0,
           "item_price": 25.86,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -6309,7 +6309,7 @@
           "delivery_price": 0.0,
           "item_price": 31.03,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
@@ -11818,7 +11818,7 @@
       "brand": "Xerox",
       "canonical_key": "GTIN:0095205894912",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:01:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.38,
@@ -11834,7 +11834,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:01:42Z",
       "mpn": "006R03665",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/everydaytm-black-toner-by-xerox-compatible-with-hp-49a-53a-q5949a-q7553a-standard-capacity?variant=55307244568958",
@@ -11846,7 +11846,7 @@
           "delivery_price": 0.0,
           "item_price": 23.07,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         },
         {
           "availability": null,
@@ -11855,7 +11855,7 @@
           "delivery_price": 0.0,
           "item_price": 27.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:31:42Z"
         }
       ],
       "publishable": true,
