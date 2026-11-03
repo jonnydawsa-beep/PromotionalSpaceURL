@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:29:05Z",
+    "generated_at": "2026-11-03T05:29:49Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "3fb5001fa9644355c84ba6a3dee860405bc1087bd71a57bae5164d23c40d96f3",
-    "deal_count": 115,
+    "revision": "5689e1926a9b1ef8689dc8edd34b1a385ffc2636e4813a673a003284ce565ea8",
+    "deal_count": 114,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -1698,7 +1698,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 129.07,
@@ -1714,7 +1714,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -1726,7 +1726,7 @@
           "delivery_price": 0.0,
           "item_price": 117.34,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -1735,7 +1735,7 @@
           "delivery_price": null,
           "item_price": 140.81,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -1756,7 +1756,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -1772,7 +1772,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -1784,7 +1784,7 @@
           "delivery_price": 0.0,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -1793,7 +1793,7 @@
           "delivery_price": null,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -1997,7 +1997,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342308",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.34,
@@ -2013,7 +2013,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "60-1030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375359889790",
@@ -2025,7 +2025,7 @@
           "delivery_price": 0.0,
           "item_price": 25.76,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2034,7 +2034,7 @@
           "delivery_price": null,
           "item_price": 30.91,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -2113,7 +2113,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331548",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.21,
@@ -2129,7 +2129,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "PE65-6010",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375359857022",
@@ -2141,7 +2141,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2150,7 +2150,7 @@
           "delivery_price": null,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -2296,7 +2296,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343374",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.07,
@@ -2312,7 +2312,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "L60-1030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58376124334462",
@@ -2324,7 +2324,7 @@
           "delivery_price": 0.0,
           "item_price": 26.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2333,7 +2333,7 @@
           "delivery_price": null,
           "item_price": 31.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -2470,7 +2470,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331555",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.84,
@@ -2486,7 +2486,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "PE65-6020",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375356350846",
@@ -2498,7 +2498,7 @@
           "delivery_price": 0.0,
           "item_price": 26.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2507,7 +2507,7 @@
           "delivery_price": null,
           "item_price": 31.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -2528,7 +2528,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320382",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.82,
@@ -2544,7 +2544,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "CN-DAC-10G-5-CIS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-5-cis-infiniband-fibre-optic-cable-5-m-sfp?variant=58376067940734",
@@ -2556,7 +2556,7 @@
           "delivery_price": 0.0,
           "item_price": 26.2,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2565,7 +2565,7 @@
           "delivery_price": null,
           "item_price": 31.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -2943,7 +2943,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343909",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.9,
@@ -2959,7 +2959,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "L60-9030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-orange-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58375346651518",
@@ -2971,7 +2971,7 @@
           "delivery_price": 0.0,
           "item_price": 28.09,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -2980,7 +2980,7 @@
           "delivery_price": null,
           "item_price": 33.71,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3001,7 +3001,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342773",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.82,
@@ -3017,7 +3017,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "60-9030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-orange-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375346553214",
@@ -3029,7 +3029,7 @@
           "delivery_price": 0.0,
           "item_price": 28.02,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3038,7 +3038,7 @@
           "delivery_price": null,
           "item_price": 33.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3059,7 +3059,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342957",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.79,
@@ -3075,7 +3075,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "65-3020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-green-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375346585982",
@@ -3087,7 +3087,7 @@
           "delivery_price": 0.0,
           "item_price": 27.99,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3096,7 +3096,7 @@
           "delivery_price": null,
           "item_price": 33.59,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3117,7 +3117,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343787",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.79,
@@ -3133,7 +3133,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "L60-7030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-violet-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58376121647486",
@@ -3145,7 +3145,7 @@
           "delivery_price": 0.0,
           "item_price": 27.99,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3154,7 +3154,7 @@
           "delivery_price": null,
           "item_price": 33.59,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3175,7 +3175,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315890",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.49,
@@ -3191,7 +3191,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "72-2695",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375655588222",
@@ -3203,7 +3203,7 @@
           "delivery_price": 0.0,
           "item_price": 26.81,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3212,7 +3212,7 @@
           "delivery_price": null,
           "item_price": 32.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3425,7 +3425,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343275",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.5,
@@ -3441,7 +3441,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "65-9020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-orange-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58376119124350",
@@ -3453,7 +3453,7 @@
           "delivery_price": 0.0,
           "item_price": 27.73,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3462,7 +3462,7 @@
           "delivery_price": null,
           "item_price": 33.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3535,71 +3535,13 @@
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-3m-cat6-rj45-green-u-utp-pvc-24awg-flush-moulded-booted-patch-db3fd207.html"
     },
     {
-      "advertiser_id": "496",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=496&awinaffid=3115871&campaign=&clickref=DB3-db3-86c3c9554012ca01c0bd45c65cad&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.tooled-up.com%2Fmakita-djr186-18v-lxt-cordless-reciprocating-saw%2Fprod%2F290980%2F%3FvarId%3D290981%26Referrer%3Daffwin&platform=pl",
-      "brand": "Makita",
-      "canonical_key": "GTIN:088381806640",
-      "category": "DIY",
-      "checked_at": "2026-11-03T05:29:03Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 118.03,
-      "current_price": 92.95,
-      "deal_id": "db3-86c3c9554012ca01c0bd45c65cad",
-      "delivery_price": 5.95,
-      "gtin": "088381806640",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DJR186Z_C2L0.jpg&feedId=89987&k=1cbed889f41650a5a6b1e8e5e65d9a6d9d6c01a5",
-      "item_price": 92.95,
-      "market_best_price": 92.95,
-      "market_best_retailer": "Tooled Up",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
-      "mpn": "DJR186Z",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 115.07,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
-        },
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-03T04:21:10Z",
-          "delivery_price": 0.0,
-          "item_price": 120.99,
-          "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T05:59:03Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Tooled Up",
-      "saving_percent": 21.25,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "36655696489",
-      "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-03T05:31:23Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
-    },
-    {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c35819e7a7aa60039ea1d6fa8e71&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-3m-cat6-rj45-pink-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10%3Fvariant%3D58375939817854&platform=pl",
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750338110",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.41,
@@ -3615,7 +3557,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "60-0030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-pink-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375939817854",
@@ -3627,7 +3569,7 @@
           "delivery_price": 0.0,
           "item_price": 27.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3636,7 +3578,7 @@
           "delivery_price": null,
           "item_price": 33.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -3813,7 +3755,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331579",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.56,
@@ -3829,7 +3771,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "PE65-6050",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-5m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375844200830",
@@ -3841,7 +3783,7 @@
           "delivery_price": 0.0,
           "item_price": 28.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -3850,7 +3792,7 @@
           "delivery_price": null,
           "item_price": 34.43,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -4219,7 +4161,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320320",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.07,
@@ -4235,7 +4177,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "CN-DAC-10G-2-HP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-2-hp-infiniband-fibre-optic-cable-2-m-sfp?variant=58375964721534",
@@ -4247,7 +4189,7 @@
           "delivery_price": 0.0,
           "item_price": 28.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -4256,7 +4198,7 @@
           "delivery_price": null,
           "item_price": 33.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -4335,7 +4277,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344432",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.23,
@@ -4351,7 +4293,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "SL65-9020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-orange-u-ftp-lsoh-30awg-slim-snagless-booted-patch-lead-pk10?variant=58375648772478",
@@ -4363,7 +4305,7 @@
           "delivery_price": 0.0,
           "item_price": 29.3,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -4372,7 +4314,7 @@
           "delivery_price": null,
           "item_price": 35.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -4518,7 +4460,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343008",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.82,
@@ -4534,7 +4476,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "65-4020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-blue-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375340786046",
@@ -4546,7 +4488,7 @@
           "delivery_price": 0.0,
           "item_price": 28.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -4555,7 +4497,7 @@
           "delivery_price": null,
           "item_price": 34.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -4576,7 +4518,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728521758",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 788.21,
@@ -4592,7 +4534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "C1200-48P-4X",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-1200-48p-4x-smart-switch-48-port-ge-poe-4x10ge-sfp-limited-lifetime-protection-c1200-48p-4x?variant=55469014843774",
@@ -4604,7 +4546,7 @@
           "delivery_price": 0.0,
           "item_price": 716.55,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -4613,7 +4555,7 @@
           "delivery_price": null,
           "item_price": 859.86,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -4933,7 +4875,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750309189",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.83,
@@ -4949,7 +4891,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "52-0030",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3u-300mm-hinged-wall-bracket?variant=58375659913598",
@@ -4961,7 +4903,7 @@
           "delivery_price": 0.0,
           "item_price": 30.75,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -4970,7 +4912,7 @@
           "delivery_price": null,
           "item_price": 36.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -5223,7 +5165,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344449",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.67,
@@ -5239,7 +5181,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "SL65-9030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6a-rj45-orange-u-ftp-lsoh-30awg-slim-snagless-booted-patch-lead-pk10?variant=58376067613054",
@@ -5251,7 +5193,7 @@
           "delivery_price": 0.0,
           "item_price": 30.61,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -5260,7 +5202,7 @@
           "delivery_price": null,
           "item_price": 36.73,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -5339,7 +5281,7 @@
       "brand": "Canon",
       "canonical_key": "GTIN:4549292182552",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 165.72,
@@ -5355,7 +5297,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "4937C001",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/canon-064-toner-cartridge-1-pcs-original-black?variant=55307320131966",
@@ -5367,7 +5309,7 @@
           "delivery_price": 3.0,
           "item_price": 150.66,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -5376,7 +5318,7 @@
           "delivery_price": 0.0,
           "item_price": 180.79,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -5513,7 +5455,7 @@
       "brand": "Kingston Technology",
       "canonical_key": "GTIN:740617315981",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.75,
@@ -5529,7 +5471,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "SKC600MS/256G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kingston-technology-256g-ssd-kc600-sata3-msata?variant=55306576298366",
@@ -5541,7 +5483,7 @@
           "delivery_price": 3.0,
           "item_price": 107.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -5550,7 +5492,7 @@
           "delivery_price": 0.0,
           "item_price": 129.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
@@ -5629,7 +5571,7 @@
       "brand": "Lindy",
       "canonical_key": "GTIN:4002888738248",
       "category": "Other",
-      "checked_at": "2026-11-03T05:29:03Z",
+      "checked_at": "2026-11-03T05:29:48Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.36,
@@ -5645,7 +5587,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:29:03Z",
+      "market_verified_at": "2026-11-03T05:29:48Z",
       "mpn": "73824",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lindy-5vdc-3a-multi-country-power-supply-35135mm?variant=55307059593598",
@@ -5657,7 +5599,7 @@
           "delivery_price": 3.0,
           "item_price": 23.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         },
         {
           "availability": null,
@@ -5666,7 +5608,7 @@
           "delivery_price": 0.0,
           "item_price": 28.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:59:03Z"
+          "valid_until": "2026-11-03T05:59:48Z"
         }
       ],
       "publishable": true,
