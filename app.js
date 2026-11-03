@@ -1,3 +1,4 @@
+/* Deal Burrow V3.5.1: product-page-first navigation. */
 /* Deal Burrow V3.1: deadline-enforced visible offers. */
 /* Deal Burrow V3.0.0: evidence-expiry and honest comparison labels. */
 (function () {
@@ -103,7 +104,8 @@
         ? `<p class="deal-saving-copy">${money(baselineNumber - currentNumber)} lower than ${d.signal_type === 'CROSS_MERCHANT_EXACT' ? 'the checked comparison median' : 'our tracked historical price'}</p>`
         : '';
       const href = escapeHtml(d.affiliate_url || d.product_url || '#');
-      const detailHref = d.deal_page_url ? escapeHtml(d.deal_page_url) : '';
+      const detailPath = String(d.deal_page_url || '').replace(/^https:\/\/dealburrow\.co\.uk(?=\/)/i, '');
+      const detailHref = /^\/products\/[a-z0-9][a-z0-9-]*\.html$/.test(detailPath) ? escapeHtml(detailPath) : '';
       const titleMarkup = detailHref ? `<a class="deal-title-link" href="${detailHref}">${title}</a>` : title;
       const basis = d.price_basis === 'DELIVERED' ? 'Delivered price' : 'Item price';
       const isGrace = d.publication_state === 'LKG_COVERAGE_GRACE';
@@ -114,7 +116,7 @@
         : 'Check the retailer for current stock, delivery and final price.';
 
       return `<article class="deal-card" data-valid-until="${escapeHtml(d.valid_until || '')}">
-        ${image}
+        ${detailHref ? `<a class="deal-image-link" href="${detailHref}" aria-label="View ${title} details and price history">${image}</a>` : image}
         <div class="deal-body">
           <div class="deal-topline"><span class="ad-label">${badgeText}</span>${saving}</div>
           <h3>${titleMarkup}</h3>
@@ -122,7 +124,7 @@
           <div class="price-row"><strong>${money(d.current_price)}</strong>${baseline}</div>
           ${savingCash}
           <p class="deal-meta">${escapeHtml(basis)} · ${escapeHtml(checkedText(d.checked_at))}</p>
-          <a class="deal-button" href="${href}" target="_blank" rel="sponsored nofollow noopener">${buttonText}</a>
+          ${detailHref ? `<a class="deal-button" href="${detailHref}">Details &amp; price history</a>` : `<span class="deal-small">Product details are being prepared</span>`}
           <p class="deal-small">${smallText}</p>
         </div>
       </article>`;
