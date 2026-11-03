@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T03:49:24Z",
+    "generated_at": "2026-11-03T03:50:17Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "4f1f24fab7f5d5f83ecbac87ab5b480f1c05f9571ba3a99f9d3a0360f392541d",
+    "revision": "2faaea687b5d7e2b2168867226931452dea196e798a1095509f65db3e6c2c106",
     "deal_count": 70,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -2885,7 +2885,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137271398",
       "category": "Other",
-      "checked_at": "2026-11-03T03:49:23Z",
+      "checked_at": "2026-11-03T03:50:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.27,
@@ -2901,7 +2901,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T03:49:23Z",
+      "market_verified_at": "2026-11-03T03:50:15Z",
       "mpn": "RS100",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-srp2-rear-wall-support-bracket-mzars100/",
@@ -2913,7 +2913,7 @@
           "delivery_price": 3.0,
           "item_price": 32.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T04:19:23Z"
+          "valid_until": "2026-11-03T04:20:15Z"
         },
         {
           "availability": null,
@@ -2922,7 +2922,7 @@
           "delivery_price": 0.0,
           "item_price": 39.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T04:19:23Z"
+          "valid_until": "2026-11-03T04:20:15Z"
         }
       ],
       "publishable": true,
