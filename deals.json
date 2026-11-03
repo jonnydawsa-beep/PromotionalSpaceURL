@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T09:27:36Z",
+    "generated_at": "2026-11-03T09:54:50Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e190fc6b9dc2ab488df129b72934681d28f20d71aedfa4281c5085d6c919d932",
-    "deal_count": 96,
+    "revision": "0983912914acd0b73cab2fce1d137ca151facb400227a12e4922d367ec786219",
+    "deal_count": 95,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -20,13 +20,13 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:9785519069700",
       "category": "Other",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 116.26,
       "current_price": 41.99,
       "deal_id": "db3-f6d4dd6229c6690dc2eace9edb48",
-      "delivery_price": 4.99,
+      "delivery_price": null,
       "gtin": "9785519069700",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F8c691ed7367e57362f3d12a7cda0ada7_62ca11da-d5aa-4e13-b014-31ff791b1f7e.jpg%3Fv%3D1776324472&feedId=102827&k=7f63048e481f7b6eed3b07b3046ef11ecff98c90",
       "item_price": 41.99,
@@ -36,7 +36,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "981-001389",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn-1?variant=55307556454782",
@@ -48,7 +48,7 @@
           "delivery_price": 0.0,
           "item_price": 105.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -57,7 +57,7 @@
           "delivery_price": 0.0,
           "item_price": 126.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -66,7 +66,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269696",
       "title": "Logitech Zone Learn",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:59:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/logitech-zone-learn-db3f6d4d.html"
@@ -1024,7 +1024,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381459129",
       "category": "Other",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 97.28,
@@ -1040,7 +1040,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "BL1850B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah/prod/301753/?varId=301753&Referrer=affwin",
@@ -1052,7 +1052,7 @@
           "delivery_price": 0.0,
           "item_price": 88.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -1061,7 +1061,7 @@
           "delivery_price": 0.0,
           "item_price": 106.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -1070,7 +1070,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655697609",
       "title": "Makita BL1850B 18v LXT Cordless Li-ion Battery 5ah",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:58:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah-db3af324.html"
@@ -1341,13 +1341,13 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
       "current_price": 49.99,
       "deal_id": "db3-0684fcaed7ca68dd9f1deb07709b",
-      "delivery_price": 4.99,
+      "delivery_price": null,
       "gtin": "065030887014",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F8ed2785aa5ed215b2481d0967fd68d48.jpg%3Fv%3D1792723842&feedId=102827&k=758a67b8a21cfc27a4167c5d32105a21b7906088",
       "item_price": 49.99,
@@ -1357,7 +1357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -1369,7 +1369,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -1378,7 +1378,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -1387,7 +1387,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46424845178",
       "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:59:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html"
@@ -2712,75 +2712,17 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f22cf96d92ae85fa47cec45440bf&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstartechcom-usb-c-multiport-adapter-usb-31-gen-2-10gbps-type-c-mini-dock-with-4k-60hz-hdmidisplayport-or-1080p-vga-75w-pd-passthrough-3-port-usb-hub-gbe-mobile-docking-station%3Fvariant%3D55306546184574&platform=pl",
-      "brand": "StarTech.com",
-      "canonical_key": "GTIN:065030882552",
-      "category": "Technology",
-      "checked_at": "2026-11-03T09:27:28Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 57.51,
-      "current_price": 42.99,
-      "deal_id": "db3-f22cf96d92ae85fa47cec45440bf",
-      "delivery_price": 4.99,
-      "gtin": "065030882552",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F522889cad167c928cc8b05b5574981a2.jpg%3Fv%3D1756116653&feedId=102827&k=ea1acdd33f9569df211f05821e7877604aa33a44",
-      "item_price": 42.99,
-      "market_best_price": 42.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T09:27:28Z",
-      "mpn": "DKT31CHDVCM",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-multiport-adapter-usb-31-gen-2-10gbps-type-c-mini-dock-with-4k-60hz-hdmidisplayport-or-1080p-vga-75w-pd-passthrough-3-port-usb-hub-gbe-mobile-docking-station?variant=55306546184574",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 52.28,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 62.74,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 25.25,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "41475278917",
-      "title": "StarTech.com USB C Multiport Adapter - USB 3.1 Gen 2 10Gbps Type-C Mini Dock with 4K 60Hz HDMI/DisplayPort or 1080p VGA - 75W PD Passthrough, 3-Port USB Hub, GbE - Mobile Docking Station",
-      "valid_until": "2026-11-03T09:57:28Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-multiport-adapter-usb-3-1-gen-2-10gbps-type-c-mini-db3f22cf.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-bccbf1510ac848a23db01b45742f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fallied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-mbit-s-sfp-850-nm%3Fvariant%3D58376179941758&platform=pl",
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035194660",
       "category": "Technology",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 224.55,
       "current_price": 168.99,
       "deal_id": "db3-bccbf1510ac848a23db01b45742f",
-      "delivery_price": 0.0,
+      "delivery_price": null,
       "gtin": "0767035194660",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FrStAGnPMYCKqAOQ6AlKgLw.c-r_f7e8dd37-d8a4-4915-a886-1da090b56c64.png%3Fv%3D1793678540&feedId=102827&k=f9dd8e75d5a8c00e4a5de1c8f79d1b24b355d276",
       "item_price": 168.99,
@@ -2790,7 +2732,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "AT-SP10SR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-mbit-s-sfp-850-nm?variant=58376179941758",
@@ -2802,7 +2744,7 @@
           "delivery_price": 3.0,
           "item_price": 224.55,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -2811,7 +2753,7 @@
           "delivery_price": 0.0,
           "item_price": 224.55,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -2820,7 +2762,7 @@
           "delivery_price": null,
           "item_price": 270.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -2829,7 +2771,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566616142",
       "title": "Allied Telesis AT-SP10SR network transceiver module Fiber optic 10300 Mbit/s SFP+ 850 nm",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:58:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-db3bccbf.html"
@@ -2966,13 +2908,13 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170222",
       "category": "Technology",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7810.84,
       "current_price": 5945.99,
       "deal_id": "db3-98906219375129a1a92f3630ba62",
-      "delivery_price": 0.0,
+      "delivery_price": null,
       "gtin": "0889728170222",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0c73a0f9b84faba2057eaa4a589b9099_49b231e8-e1c1-4dc0-a2f9-49a786304ad8.jpg%3Fv%3D1778992514&feedId=102827&k=78b2cdee33752b6cd4acb8f69b224d556fa1b8ea",
       "item_price": 5945.99,
@@ -2982,7 +2924,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "C9200L-48PXG-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468170314110",
@@ -2994,7 +2936,7 @@
           "delivery_price": 3.0,
           "item_price": 7810.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -3003,7 +2945,7 @@
           "delivery_price": 0.0,
           "item_price": 7810.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -3012,7 +2954,7 @@
           "delivery_price": null,
           "item_price": 9373.0,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -3021,7 +2963,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075448098",
       "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:58:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html"
@@ -4452,7 +4394,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-03T09:27:26Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -4468,7 +4410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T09:27:26Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -4480,7 +4422,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:26Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -4489,16 +4431,16 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:26Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": 1,
           "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-03T04:21:10Z",
+          "checked_at": "2026-11-02 18:28:04",
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T09:57:26Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -4507,7 +4449,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-03T09:57:26Z",
+      "valid_until": "2026-11-03T10:23:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -4827,13 +4769,13 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:0844668156569",
       "category": "Technology",
-      "checked_at": "2026-11-03T09:27:28Z",
+      "checked_at": "2026-11-03T09:53:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.65,
       "current_price": 20.99,
       "deal_id": "db3-0171c5e1213a4dde448e71196e8c",
-      "delivery_price": 4.99,
+      "delivery_price": null,
       "gtin": "0844668156569",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fsa0n_N1sWkuEZrPImail8A.c-r.jpg%3Fv%3D1793660638&feedId=102827&k=f4f14c56e0354dcaf3f84e5003e0482c452d1357",
       "item_price": 20.99,
@@ -4843,7 +4785,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T09:27:28Z",
+      "market_verified_at": "2026-11-03T09:53:01Z",
       "mpn": "HSNI-MBNEO-TR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent?variant=58375841218942",
@@ -4855,7 +4797,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -4864,7 +4806,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         },
         {
           "availability": null,
@@ -4873,7 +4815,7 @@
           "delivery_price": null,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T09:57:28Z"
+          "valid_until": "2026-11-03T10:23:01Z"
         }
       ],
       "publishable": true,
@@ -4882,7 +4824,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566615135",
       "title": "Tucano HSNI-MBNEO-TR laptop case 33 cm (13\") Hardshell case Transparent",
-      "valid_until": "2026-11-03T09:57:28Z",
+      "valid_until": "2026-11-03T09:58:06Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent-db30171c.html"
