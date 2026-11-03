@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T12:10:58Z",
+    "generated_at": "2026-11-03T12:11:32Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "47102bb6c31826e1b1930d5bf21ba7d99b47bf1962df0b42a65c2364b979d582",
+    "revision": "5dcf57a956dd8cbf4b6a720100c131899f965b8f6ff45e31fc75fbe18d4c6554",
     "deal_count": 118,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -5077,7 +5077,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:2418655000005",
       "category": "Other",
-      "checked_at": "2026-11-03T12:10:40Z",
+      "checked_at": "2026-11-03T12:11:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 84.09,
@@ -5093,7 +5093,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T12:10:40Z",
+      "market_verified_at": "2026-11-03T12:11:31Z",
       "mpn": "TM-TELE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tm-tele-project-mount-ceiling-white?variant=58375843774846",
@@ -5105,7 +5105,7 @@
           "delivery_price": 3.0,
           "item_price": 84.09,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:40:40Z"
+          "valid_until": "2026-11-03T12:41:31Z"
         },
         {
           "availability": null,
@@ -5114,7 +5114,7 @@
           "delivery_price": 0.0,
           "item_price": 84.09,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T12:40:40Z"
+          "valid_until": "2026-11-03T12:41:31Z"
         },
         {
           "availability": null,
@@ -5123,7 +5123,7 @@
           "delivery_price": 0.0,
           "item_price": 102.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:40:40Z"
+          "valid_until": "2026-11-03T12:41:31Z"
         }
       ],
       "publishable": true,
