@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-03T19:09:47Z",
+  "generated_at": "2026-11-03T19:14:12Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 58,
+  "active_count": 38,
   "product_count": 730,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -1054,8 +1054,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:065030836531",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-8e859aa2567cf7a72162dfb6ad16",
         "publishable": true,
@@ -1114,7 +1114,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-f7f8ecd25be92dd463dfebaa4a10": {
@@ -1160,8 +1160,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5397184877838",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-9a66031d665c8188aa07cf72332e",
         "publishable": true,
@@ -1220,7 +1220,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-8e9c9d5d36b6eaa3ff093408006e": {
@@ -1266,8 +1266,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:0808736472647",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-b83450f6f75a1d7ab0942fac2f9b",
         "publishable": true,
@@ -1326,7 +1326,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-57feab2efb36ea85108c85ad3526": {
@@ -1487,9 +1487,9 @@
       "slug": "sumup-air-and-cradle-db3e3292.html",
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:4260325422543",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-e3292e536aa93963d98e4bc61936",
         "publishable": true,
@@ -1743,8 +1743,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5397184725467",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-3105dbfec0dddd4c11e7acda793a",
         "publishable": true,
@@ -1803,7 +1803,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-f22cf96d92ae85fa47cec45440bf": {
@@ -1875,8 +1875,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5397184822555",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-832672d92485e31ea239795e8bc5",
         "publishable": true,
@@ -1935,7 +1935,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-2c86556fbcbeb257eaa6c46504f5": {
@@ -2757,8 +2757,8 @@
       "first_seen_at": "2026-10-23T16:32:59Z",
       "canonical_key": "GTIN:619659099954",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-978e65a0799f43451c0ed81ee8a1",
         "publishable": true,
@@ -2826,7 +2826,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-c21755dc741ffe4b2715323adf3d": {
@@ -4091,8 +4091,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170178",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-eb49a32eff171514ad69ed1e27f4",
         "publishable": true,
@@ -4151,7 +4151,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-4ee51a423ad2fd80d086b3fdb826": {
@@ -4159,8 +4159,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170192",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-4ee51a423ad2fd80d086b3fdb826",
         "publishable": true,
@@ -4219,7 +4219,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-7fd4b77b4a407b85d73e3fac369a": {
@@ -4768,9 +4768,9 @@
       "slug": "motorola-moto-buds-2-headset-wireless-in-ear-calls-music-bluetooth-car-db3cdf7d.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:840493613628",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-cdf7d8d384900dd422a60ae4b24a",
         "publishable": true,
@@ -4909,9 +4909,9 @@
       "slug": "asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711387239704",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-d6eafca849374e76e90b11b2ca10",
         "publishable": true,
@@ -5109,9 +5109,9 @@
       "slug": "asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711387259795",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f936943a5c1de8e2faf79e79f94e",
         "publishable": true,
@@ -5532,8 +5532,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728227674",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-98e3e423310fed6d04931d1fbd3f",
         "publishable": true,
@@ -5592,7 +5592,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-6866713fc50c3f90f9a717ac4519": {
@@ -5746,8 +5746,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728051651",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-ab0b7ca962074c22017d151a683c",
         "publishable": true,
@@ -5806,7 +5806,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-9d62252eb4e25d7030cf1bcfb272": {
@@ -6215,8 +6215,8 @@
       "first_seen_at": "2026-10-23T22:13:35Z",
       "canonical_key": "BRANDMPN:energizer:636107",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-e5719b40ed5e18c3498416498ff6",
         "publishable": true,
@@ -6275,7 +6275,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-1b336e200cddcbdac83429521f2c": {
@@ -6389,8 +6389,8 @@
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:735858547291",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-548921a8e306d690b204ac669242",
         "publishable": true,
@@ -6449,7 +6449,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-7e7d818abf85a58e51e968ef9464": {
@@ -6457,8 +6457,8 @@
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:5397063961771",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-7e7d818abf85a58e51e968ef9464",
         "publishable": true,
@@ -6517,7 +6517,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-7f1416a5b12400a1f50ca26e1428": {
@@ -6826,8 +6826,8 @@
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:0195892022022",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c4b117f431aea85264d6e08b8492",
         "publishable": true,
@@ -6886,7 +6886,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-4c2e7d900fbc59b2335d59945447": {
@@ -8935,9 +8935,9 @@
       "slug": "google-pixel-watch-5-amoled-41-mm-digital-touchscreen-pyrite-wi-fi-gps-db3c37d6.html",
       "first_seen_at": "2026-10-25T21:44:07Z",
       "canonical_key": "GTIN:840353961937",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c37d6ca9b8cf3e2a979498277bff",
         "publishable": true,
@@ -10541,8 +10541,8 @@
       "first_seen_at": "2026-10-27T21:26:25Z",
       "canonical_key": "GTIN:0196786147531",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-1187964b1fc974082c61afc7fb95",
         "publishable": true,
@@ -10601,7 +10601,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-9546408525f0e3dd986f86869c7c": {
@@ -11407,8 +11407,8 @@
       "first_seen_at": "2026-10-28T14:59:28Z",
       "canonical_key": "BRANDMPN:verbatim:43548",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-09c7e35ed43af88b6149870864ff",
         "publishable": true,
@@ -11467,7 +11467,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-8bd9152eb33755b68923e45b125d": {
@@ -11764,9 +11764,9 @@
       "slug": "razer-gigantus-v2-xxl-gaming-mouse-pad-black-green-db3eed7c.html",
       "first_seen_at": "2026-10-28T21:29:27Z",
       "canonical_key": "GTIN:8886419318552",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-eed7c2f951c0092988eede30de90",
         "publishable": true,
@@ -12084,9 +12084,9 @@
       "slug": "hp-reversible-protective-15-6-inch-mauve-laptop-sleeve-db3c196f.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:195161357398",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c196fdc8e7f171fb9a18fd32c765",
         "publishable": true,
@@ -12152,9 +12152,9 @@
       "slug": "epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0010343830073",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f6704b37993501d823a0af024d56",
         "publishable": true,
@@ -12221,8 +12221,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0889728035736",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-08be6674abb4a892836a2d9ec522",
         "publishable": true,
@@ -12281,7 +12281,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-7de7adf61f78a025ee6b808823a5": {
@@ -12394,9 +12394,9 @@
       "slug": "tucano-smilza-macbook-air-13-before-2018-macbook-pro-13-2016-2020-macb-db3f4b2a.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8020252199378",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f4b2afaa6fb6af84c91ce25ea6b7",
         "publishable": true,
@@ -12598,9 +12598,9 @@
       "slug": "trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8713439255485",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-de1709b04b5e3a39a6e61d46c1b6",
         "publishable": true,
@@ -12870,9 +12870,9 @@
       "slug": "cablenet-rj45-snagless-boot-8mm-clear-for-use-with-22-2096-db3ccb2e.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:5056750300537",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-ccb2e924cd9109dd97dcd5217ebe",
         "publishable": true,
@@ -13205,8 +13205,8 @@
       "first_seen_at": "2026-10-29T09:33:31Z",
       "canonical_key": "BRANDMPN:verbatim:49071",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-983b6da8824c3a63a2cbbca8d8f0",
         "publishable": true,
@@ -13265,7 +13265,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-9a3d2a9a738f990217d9fffcd303": {
@@ -13337,8 +13337,8 @@
       "first_seen_at": "2026-10-29T13:26:31Z",
       "canonical_key": "GTIN:5397184877142",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-091b5a08c026cf9887facf4e0be4",
         "publishable": true,
@@ -13397,7 +13397,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-b771aafbf86461fa28bf8a4dd123": {
@@ -13516,8 +13516,8 @@
       "first_seen_at": "2026-10-29T14:55:19Z",
       "canonical_key": "GTIN:0884420588689",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-3e3aef35e418deb55d57270c22a7",
         "publishable": true,
@@ -13585,7 +13585,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-816149e4de52ff5fbe25860248ab": {
@@ -13742,8 +13742,8 @@
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0887037480414",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-d90e447707b0267e803366c190c8",
         "publishable": true,
@@ -13811,7 +13811,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-13b2e52479583026fc51325aebf3": {
@@ -14248,8 +14248,8 @@
       "first_seen_at": "2026-10-30T14:58:20Z",
       "canonical_key": "GTIN:4977766601115",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f3caf55d2b20358be97e0dcc7eac",
         "publishable": true,
@@ -14317,7 +14317,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-360ffb6c742d507cd22bae7ade47": {
@@ -15407,9 +15407,9 @@
       "slug": "cablenet-15m-hdmi-1-4b-male-male-1080p-hi-speed-ethernet-24awg-blk-pvc-db3ce09e.html",
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:5056750302685",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-ce09e677e6d8d0130e1166df2096",
         "publishable": true,
@@ -15540,8 +15540,8 @@
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:190021094680",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-8f3a6755d4da7cd8ad4f53957025",
         "publishable": true,
@@ -15600,7 +15600,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-b8f01d5f04050c7ec82692c177cc": {
@@ -16774,9 +16774,9 @@
       "slug": "cablenet-3m-usb-3-1c-male-hdmi-1-4b-4kx2k-60hz-male-db3ed553.html",
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:5056750305891",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-ed55361da6024c38913e3d666f21",
         "publishable": true,
@@ -17131,8 +17131,8 @@
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:5028252643924",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-83286f70f851bbf44534344c55f9",
         "publishable": true,
@@ -17191,7 +17191,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-307ed501d57e1d709fa9d11b2561": {
@@ -17353,9 +17353,9 @@
       "slug": "hp-reversible-protective-15-6-inch-silver-laptop-sleeve-db3c8d2e.html",
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:195161359590",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c8d2e0b4be0de20485e08ea6d3ac",
         "publishable": true,
@@ -19247,8 +19247,8 @@
       "first_seen_at": "2026-10-30T19:56:33Z",
       "canonical_key": "GTIN:5063603349421",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c103928b974538839983880601f6",
         "publishable": true,
@@ -19298,7 +19298,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-4175935219aed714c268766b04b0": {
@@ -19423,8 +19423,8 @@
       "first_seen_at": "2026-10-30T21:44:17Z",
       "canonical_key": "GTIN:5024442896606",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c22d571044b2a8bb64c8e084aefa",
         "publishable": true,
@@ -19483,7 +19483,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-4ebbc54c4c3502f4431747495e21": {
@@ -19841,8 +19841,8 @@
       "first_seen_at": "2026-10-30T21:44:17Z",
       "canonical_key": "GTIN:5411313409179",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-dddac8242e2ea8a05ebda693dfff",
         "publishable": true,
@@ -19901,7 +19901,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-717bc12ee9d98ca76a0b834af545": {
@@ -20041,8 +20041,8 @@
       "first_seen_at": "2026-10-30T21:44:17Z",
       "canonical_key": "GTIN:4977766692588",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-4d3b88f098005481aa54e53d14a3",
         "publishable": true,
@@ -20101,7 +20101,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-5f4f57c62f269e9b376bf61a4a12": {
@@ -20428,9 +20428,9 @@
       "slug": "tucano-idea-notebook-13-14-and-macbook-pro-14-messenger-case-with-mous-db3f7d1d.html",
       "first_seen_at": "2026-10-30T22:51:50Z",
       "canonical_key": "GTIN:8020252096196",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f7d1d77962bd626846dbfedd74ea",
         "publishable": true,
@@ -20779,8 +20779,8 @@
       "first_seen_at": "2026-10-30T22:51:50Z",
       "canonical_key": "GTIN:843367135325",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c3123e17107939d86f7bddc566be",
         "publishable": true,
@@ -20839,7 +20839,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-02f4fc0e81fbbdb14090abade8d9": {
@@ -31333,8 +31333,8 @@
       "first_seen_at": "2026-10-31T21:36:01Z",
       "canonical_key": "GTIN:5051794029741",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-2c37213860ad960421c94f07c20c",
         "publishable": true,
@@ -31393,7 +31393,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-56af6732b8c2c49faffd604b2def": {
@@ -33626,8 +33626,8 @@
       "first_seen_at": "2026-11-02T13:51:09Z",
       "canonical_key": "GTIN:0195908812531",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c0880989ff678e2739fe87056823",
         "publishable": true,
@@ -33686,7 +33686,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-0f4408ed2484f6291f1100e16176": {
@@ -33694,8 +33694,8 @@
       "first_seen_at": "2026-11-02T13:51:09Z",
       "canonical_key": "GTIN:0194850442308",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-0f4408ed2484f6291f1100e16176",
         "publishable": true,
@@ -33754,7 +33754,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-a4abeddbb479f2857bd5c66f5c54": {
@@ -34942,8 +34942,8 @@
       "first_seen_at": "2026-11-02T15:52:45Z",
       "canonical_key": "GTIN:5411313450140",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-319c0594dbefb47bfb258c2fed1f",
         "publishable": true,
@@ -35002,7 +35002,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-f3bba645a162d02ddf2c57a6e876": {
@@ -35010,8 +35010,8 @@
       "first_seen_at": "2026-11-02T15:52:45Z",
       "canonical_key": "GTIN:5411313169578",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-f3bba645a162d02ddf2c57a6e876",
         "publishable": true,
@@ -35070,7 +35070,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-881b835970453db2b6a75ec1df00": {
@@ -35078,8 +35078,8 @@
       "first_seen_at": "2026-11-02T16:23:35Z",
       "canonical_key": "GTIN:5411313169592",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-881b835970453db2b6a75ec1df00",
         "publishable": true,
@@ -35138,7 +35138,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-b359383e4d94826e9731565e725e": {
@@ -35283,8 +35283,8 @@
       "first_seen_at": "2026-11-02T19:55:00Z",
       "canonical_key": "GTIN:5063603748835",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-83b9b47b81ba8d685db9bc9c5aaf",
         "publishable": true,
@@ -35334,7 +35334,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-3f1943b7220f92a35e4301fff7b1": {
@@ -35790,8 +35790,8 @@
       "first_seen_at": "2026-11-02T20:27:50Z",
       "canonical_key": "GTIN:4977766692465",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-b7404c66e08daa89eebd52ed0555",
         "publishable": true,
@@ -35850,7 +35850,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-d2835b6da3980eb6dfa10f1bbbe4": {
@@ -36041,8 +36041,8 @@
       "first_seen_at": "2026-11-02T23:51:47Z",
       "canonical_key": "GTIN:065030834216",
       "active": true,
-      "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_live_at": "2026-11-03T19:14:12Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-78b22abac49c5d8b411901dbb1a8",
         "publishable": true,
@@ -36101,7 +36101,7 @@
         "stock_valid_until": "2026-11-03T19:31:59Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T19:09:47Z",
+      "lkg_certified_at": "2026-11-03T19:14:12Z",
       "last_changed_date": "2026-11-03"
     },
     "db3-28b2483345dbdb70ae5549c3d69e": {
@@ -36665,9 +36665,9 @@
       "slug": "jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5706991029185",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-d8f6c676cd15956cc0f99724371c",
         "publishable": true,
@@ -37082,9 +37082,9 @@
       "slug": "cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-pat-db3c2f66.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750331555",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c2f6613a42959e0d3448a7edf6cf",
         "publishable": true,
@@ -37422,9 +37422,9 @@
       "slug": "cablenet-3m-cat6-rj45-white-u-utp-pvc-24awg-flush-moulded-booted-patch-db3e3ec4.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750342711",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-e3ec49cbff15e63fb37089f85740",
         "publishable": true,
@@ -39350,9 +39350,9 @@
       "slug": "sandisk-high-endurance-32-gb-microsdhc-uhs-i-class-10-db3c6652.html",
       "first_seen_at": "2026-11-03T06:55:16Z",
       "canonical_key": "GTIN:619659173067",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c6652d5b6e9fc4e57a697b62f168",
         "publishable": true,
@@ -39627,9 +39627,9 @@
       "slug": "vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
       "first_seen_at": "2026-11-03T06:55:16Z",
       "canonical_key": "GTIN:2418655000005",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-03T19:09:47Z",
-      "last_seen_at": "2026-11-03T19:09:47Z",
+      "last_seen_at": "2026-11-03T19:14:12Z",
       "last_deal": {
         "deal_id": "db3-c9c31e9f218ea332f7d4e4f19170",
         "publishable": true,
