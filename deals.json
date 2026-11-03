@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T14:01:39Z",
+    "generated_at": "2026-11-03T14:05:08Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "6879bfe0f7d6e7d06e673686ecbf7556077cd4c80ccbf4dcdd3ddb1634e3b88c",
+    "revision": "2f4070baaaaf62803acc4927a3ed5ac780b000f436d92469a660f6014af39ad7",
     "deal_count": 185,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -20,7 +20,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:9785519069700",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 116.26,
@@ -36,7 +36,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "981-001389",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn-1?variant=55307556454782",
@@ -48,7 +48,7 @@
           "delivery_price": 0.0,
           "item_price": 105.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -57,7 +57,7 @@
           "delivery_price": 0.0,
           "item_price": 126.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -1011,7 +1011,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728594967",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 340.78,
@@ -1027,7 +1027,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "DP-9851-K9=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd?variant=55469025427838",
@@ -1039,7 +1039,7 @@
           "delivery_price": 3.0,
           "item_price": 340.78,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1048,7 +1048,7 @@
           "delivery_price": 0.0,
           "item_price": 340.78,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1057,7 +1057,7 @@
           "delivery_price": 0.0,
           "item_price": 408.94,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -1145,7 +1145,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728594974",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 465.45,
@@ -1161,7 +1161,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "DP-9861-K9=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-9861-ip-phone-black-carbon-10-lines-lcd-wi-fi?variant=55469034668414",
@@ -1173,7 +1173,7 @@
           "delivery_price": 3.0,
           "item_price": 465.45,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1182,7 +1182,7 @@
           "delivery_price": 0.0,
           "item_price": 465.45,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1191,7 +1191,7 @@
           "delivery_price": 0.0,
           "item_price": 558.53,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -1471,7 +1471,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
@@ -1487,7 +1487,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -1499,7 +1499,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1508,7 +1508,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -1721,7 +1721,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950653229",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.31,
@@ -1737,7 +1737,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "MGGE4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-crossbody-strap-neon-yellow?variant=56246706569598",
@@ -1749,7 +1749,7 @@
           "delivery_price": 3.0,
           "item_price": 54.31,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1758,7 +1758,7 @@
           "delivery_price": 0.0,
           "item_price": 54.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -1767,7 +1767,7 @@
           "delivery_price": 0.0,
           "item_price": 65.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -2248,7 +2248,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2069.66,
@@ -2264,7 +2264,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -2276,7 +2276,7 @@
           "delivery_price": 3.0,
           "item_price": 2069.66,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -2285,7 +2285,7 @@
           "delivery_price": 0.0,
           "item_price": 2069.66,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -2294,7 +2294,7 @@
           "delivery_price": 0.0,
           "item_price": 2483.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -3150,7 +3150,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728453981",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 4280.14,
@@ -3166,7 +3166,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "CS-BAR-T-C-K9",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-webex-room-bar-video-conferencing-system-12-mp-ethernet-lan-group-video-conferencing-system?variant=55468221563262",
@@ -3178,7 +3178,7 @@
           "delivery_price": 3.0,
           "item_price": 4280.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -3187,7 +3187,7 @@
           "delivery_price": 0.0,
           "item_price": 4280.14,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -3196,7 +3196,7 @@
           "delivery_price": 0.0,
           "item_price": 5136.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -4780,7 +4780,7 @@
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035194660",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 224.55,
@@ -4796,7 +4796,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "AT-SP10SR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-mbit-s-sfp-850-nm?variant=58376179941758",
@@ -4808,7 +4808,7 @@
           "delivery_price": 3.0,
           "item_price": 224.55,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -4817,7 +4817,7 @@
           "delivery_price": 0.0,
           "item_price": 224.55,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -4826,7 +4826,7 @@
           "delivery_price": 0.0,
           "item_price": 270.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -4981,7 +4981,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659189488",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 58.05,
@@ -4997,7 +4997,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "SDSQXAA-128G-GN6AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-extreme-128-gb-microsdxc?variant=55306633544062",
@@ -5009,7 +5009,7 @@
           "delivery_price": 3.0,
           "item_price": 58.05,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -5018,7 +5018,7 @@
           "delivery_price": 0.0,
           "item_price": 58.05,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -5027,7 +5027,7 @@
           "delivery_price": 0.0,
           "item_price": 69.66,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -7155,7 +7155,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353956469",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 1035.71,
@@ -7171,7 +7171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "GA11818-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-11-dual-sim-android-17-5g-usb-type-c-12-gb-512-gb-4985-mah-pink?variant=57842644418942",
@@ -7183,7 +7183,7 @@
           "delivery_price": 3.0,
           "item_price": 1035.71,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7192,7 +7192,7 @@
           "delivery_price": 0.0,
           "item_price": 1035.71,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7201,7 +7201,7 @@
           "delivery_price": 0.0,
           "item_price": 1247.99,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -7356,7 +7356,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439250220",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.9,
@@ -7372,7 +7372,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "25022",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-ody-ii-keyboard-mouse-included-office-rf-wireless-qwerty-uk-english-black?variant=55306830741886",
@@ -7384,7 +7384,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7393,7 +7393,7 @@
           "delivery_price": 0.0,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7402,7 +7402,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
@@ -7941,7 +7941,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:0844668156569",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:05:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.65,
@@ -7957,7 +7957,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:05:07Z",
       "mpn": "HSNI-MBNEO-TR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent?variant=58375841218942",
@@ -7969,7 +7969,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7978,7 +7978,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         },
         {
           "availability": null,
@@ -7987,7 +7987,7 @@
           "delivery_price": 0.0,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:35:07Z"
         }
       ],
       "publishable": true,
