@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:50:52Z",
+  "generated_at": "2026-11-03T11:51:22Z",
   "items": [
     {
       "title": "Acer 67W PD Charger, USB Port: 2C+1A, UK Plug, 100W USB-C Cable, Black",
@@ -18,15 +18,6 @@
       "url": "products/allied-telesis-2914sx-lc-internal-fiber-1000-mbit-s-db393c03.html",
       "active": true,
       "current_price": 179.99
-    },
-    {
-      "title": "Allied Telesis AT-SP10SR network transceiver module Fiber optic 10300 Mbit/s SFP+ 850 nm",
-      "brand": "Allied Telesis",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-db3bccbf.html",
-      "active": true,
-      "current_price": 168.99
     },
     {
       "title": "AMD Radeon Pro WX 3200 4 GB GDDR5",
@@ -360,15 +351,6 @@
       "url": "products/cisco-c9200-nm-4x-network-switch-module-10-gigabit-ethernet-gigabit-et-db368667.html",
       "active": true,
       "current_price": 978.99
-    },
-    {
-      "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html",
-      "active": true,
-      "current_price": 5945.99
     },
     {
       "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
@@ -1005,15 +987,6 @@
       "brand": "Logitech",
       "category": "Other",
       "retailer": "Back to the Office",
-      "url": "products/logitech-zone-learn-db3f6d4d.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "Logitech Zone Learn",
-      "brand": "Logitech",
-      "category": "Other",
-      "retailer": "Back to the Office",
       "url": "products/logitech-zone-learn-db38d84d.html",
       "active": true,
       "current_price": 41.99
@@ -1172,15 +1145,6 @@
       "current_price": 42.99
     },
     {
-      "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
-      "brand": "StarTech.com",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html",
-      "active": true,
-      "current_price": 49.99
-    },
-    {
       "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
       "brand": "StarTech.com",
       "category": "Technology",
@@ -1303,15 +1267,6 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
-      "title": "Tucano HSNI-MBNEO-TR laptop case 33 cm (13\") Hardshell case Transparent",
-      "brand": "Tucano",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent-db30171c.html",
       "active": true,
       "current_price": 20.99
     },
@@ -1627,6 +1582,15 @@
       "category": "Gaming",
       "retailer": "Back to the Office",
       "url": "products/alienware-pro-hs-g-deam-wireless-gaming-headset-white-db30d13e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Allied Telesis AT-SP10SR network transceiver module Fiber optic 10300 Mbit/s SFP+ 850 nm",
+      "brand": "Allied Telesis",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-db3bccbf.html",
       "active": false,
       "current_price": null
     },
@@ -2716,6 +2680,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/chief-fusion-medium-flat-panel-ceiling-mount-db3d2835.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html",
       "active": false,
       "current_price": null
     },
@@ -4997,6 +4970,15 @@
       "current_price": null
     },
     {
+      "title": "Logitech Zone Learn",
+      "brand": "Logitech",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/logitech-zone-learn-db3f6d4d.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "MAIWO USB3.0 to SATA 2.5/3.5 Inch SSD/HDD External Hard Drive Enclosure Transfer Speed Up to 5Gbps, Tool Free, Slide Deisign, Black",
       "brand": "MAIWO",
       "category": "Technology",
@@ -5987,6 +5969,15 @@
       "current_price": null
     },
     {
+      "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
+      "brand": "StarTech.com",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Steelseries Arctis Nova 3 Headset Wired Head-band Gaming USB Type-C Black",
       "brand": "SteelSeries",
       "category": "Gaming",
@@ -6217,6 +6208,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/tucano-global-2-laptop-15-6-macbook-pro-16-backpack-case-2-compartment-db3c7091.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Tucano HSNI-MBNEO-TR laptop case 33 cm (13\") Hardshell case Transparent",
+      "brand": "Tucano",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent-db30171c.html",
       "active": false,
       "current_price": null
     },
