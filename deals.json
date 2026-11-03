@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T14:21:54Z",
+    "generated_at": "2026-11-03T14:22:34Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b159b3522ff45c8e80d60b0372aa79b664efd4259c591fedea229856478a9b12",
+    "revision": "51438a7beab9d3c38740e23099fee1121fe378b00a7dab3bdc8f429cc5358a14",
     "deal_count": 97,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -78,7 +78,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 61.99,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -106,7 +106,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -124,7 +124,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -493,7 +493,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030865135",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.14,
@@ -509,7 +509,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "CDP2HD4K60",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
@@ -521,7 +521,7 @@
           "delivery_price": 0.0,
           "item_price": 38.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -530,7 +530,7 @@
           "delivery_price": 0.0,
           "item_price": 45.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -551,7 +551,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397321024057",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -567,7 +567,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "DELL-CP5626",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cp5626-406-cm-16-backpack-black?variant=56836889313662",
@@ -579,7 +579,7 @@
           "delivery_price": 3.0,
           "item_price": 28.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -588,7 +588,7 @@
           "delivery_price": 0.0,
           "item_price": 28.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -597,7 +597,7 @@
           "delivery_price": 0.0,
           "item_price": 49.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -1145,7 +1145,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 44.99,
@@ -1161,7 +1161,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -1173,7 +1173,7 @@
           "delivery_price": 3.0,
           "item_price": 30.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -1182,7 +1182,7 @@
           "delivery_price": 0.0,
           "item_price": 30.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -1191,7 +1191,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -4662,7 +4662,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750316163",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.87,
@@ -4678,7 +4678,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "72-3384",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-16-port-cat5e-utp-1u-coupler-panel?variant=55468647416190",
@@ -4690,7 +4690,7 @@
           "delivery_price": 3.0,
           "item_price": 30.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -4699,7 +4699,7 @@
           "delivery_price": 0.0,
           "item_price": 36.95,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -4778,7 +4778,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466010834",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -4794,7 +4794,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "Q58-2W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-q58-2w-computer-case-part-computer-case-light-kit?variant=55425000538494",
@@ -4806,7 +4806,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -4815,7 +4815,7 @@
           "delivery_price": null,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -4952,7 +4952,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056194519",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -4968,7 +4968,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "702312718",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-cases-denali-snap-ks-apple-iphone-15-pro-black-enfr?variant=56717524107646",
@@ -4980,7 +4980,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -4989,7 +4989,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -5010,7 +5010,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:840390366610",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -5026,7 +5026,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "702319711",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-crystal-palace-snap-kickstand-button-cover-case-for-apple-iphone-17-1?variant=56539922235774",
@@ -5038,7 +5038,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -5047,7 +5047,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -5242,7 +5242,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951382098",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -5258,7 +5258,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "MKFC4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-taupe?variant=58019523363198",
@@ -5270,7 +5270,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -5279,7 +5279,7 @@
           "delivery_price": null,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -5474,7 +5474,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239423572",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.08,
@@ -5490,7 +5490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "D3250104",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d3250104-laptop-case-439-cm-173-backpack-black?variant=56877978976638",
@@ -5502,7 +5502,7 @@
           "delivery_price": 3.0,
           "item_price": 32.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -5511,7 +5511,7 @@
           "delivery_price": null,
           "item_price": 39.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -5648,7 +5648,7 @@
       "brand": "Mophie",
       "canonical_key": "GTIN:840056185678",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.25,
@@ -5664,7 +5664,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "409911855",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/mophie-essentials-409911855-mobile-device-charger-universal-white-ac-indoor?variant=55306943496574",
@@ -5676,7 +5676,7 @@
           "delivery_price": 3.0,
           "item_price": 22.95,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -5685,7 +5685,7 @@
           "delivery_price": null,
           "item_price": 27.54,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
@@ -5706,7 +5706,7 @@
       "brand": "Samsung",
       "canonical_key": "GTIN:8806097644200",
       "category": "Other",
-      "checked_at": "2026-11-03T14:21:53Z",
+      "checked_at": "2026-11-03T14:22:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 181.93,
@@ -5722,7 +5722,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:21:53Z",
+      "market_verified_at": "2026-11-03T14:22:33Z",
       "mpn": "MB-MK512T/WW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/samsung-p9-express-microsd-express-card-1?variant=56888395170174",
@@ -5734,7 +5734,7 @@
           "delivery_price": 3.0,
           "item_price": 163.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         },
         {
           "availability": null,
@@ -5743,7 +5743,7 @@
           "delivery_price": null,
           "item_price": 200.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:51:53Z"
+          "valid_until": "2026-11-03T14:52:33Z"
         }
       ],
       "publishable": true,
