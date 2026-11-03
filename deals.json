@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T07:16:17Z",
+    "generated_at": "2026-11-03T07:18:37Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "ada6a67157719360e0bf9256a5e5743daaf22dbc9516685eb830078aed5c214e",
+    "revision": "fc59a0c028a733066995a4d1695df9ffed26a049275d4f009c74976473ad1274",
     "deal_count": 84,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3291,7 +3291,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270414",
       "category": "Other",
-      "checked_at": "2026-11-03T07:16:16Z",
+      "checked_at": "2026-11-03T07:16:54Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.27,
@@ -3307,7 +3307,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T07:16:16Z",
+      "market_verified_at": "2026-11-03T07:16:54Z",
       "mpn": "RS22",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-sr-p-lite-brake-pedal-performance-kit-mzars22/",
@@ -3319,7 +3319,7 @@
           "delivery_price": 3.0,
           "item_price": 32.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T07:46:16Z"
+          "valid_until": "2026-11-03T07:46:54Z"
         },
         {
           "availability": null,
@@ -3328,7 +3328,7 @@
           "delivery_price": 0.0,
           "item_price": 39.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T07:46:16Z"
+          "valid_until": "2026-11-03T07:46:54Z"
         }
       ],
       "publishable": true,
