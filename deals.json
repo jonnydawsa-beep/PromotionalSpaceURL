@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T10:23:15Z",
+    "generated_at": "2026-11-03T10:26:15Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "0afcd6ad35a75b80e14ddf8055e061993a216c7e9ddef187faacf6e6dff97759",
+    "revision": "a0839e5e6bbc1a62b7d3dc1ae56cad6355664eed4c2d98c7409e3250f157b4e4",
     "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -78,7 +78,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381459129",
       "category": "Other",
-      "checked_at": "2026-11-03T10:00:59Z",
+      "checked_at": "2026-11-03T10:26:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 97.28,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:00:59Z",
+      "market_verified_at": "2026-11-03T10:26:15Z",
       "mpn": "BL1850B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah/prod/301753/?varId=301753&Referrer=affwin",
@@ -106,7 +106,7 @@
           "delivery_price": 0.0,
           "item_price": 88.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:30:59Z"
+          "valid_until": "2026-11-03T10:56:15Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 106.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T10:30:59Z"
+          "valid_until": "2026-11-03T10:56:15Z"
         }
       ],
       "publishable": true,
@@ -124,7 +124,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655697609",
       "title": "Makita BL1850B 18v LXT Cordless Li-ion Battery 5ah",
-      "valid_until": "2026-11-03T10:30:59Z",
+      "valid_until": "2026-11-03T10:44:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah-db3af324.html"
@@ -310,7 +310,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-03T10:00:59Z",
+      "checked_at": "2026-11-03T10:26:15Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -326,7 +326,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T10:00:59Z",
+      "market_verified_at": "2026-11-03T10:26:15Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -338,7 +338,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:30:59Z"
+          "valid_until": "2026-11-03T10:56:15Z"
         },
         {
           "availability": null,
@@ -347,7 +347,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T10:30:59Z"
+          "valid_until": "2026-11-03T10:56:15Z"
         },
         {
           "availability": 1,
@@ -356,7 +356,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T10:30:59Z"
+          "valid_until": "2026-11-03T10:56:15Z"
         }
       ],
       "publishable": true,
@@ -365,7 +365,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-03T10:30:59Z",
+      "valid_until": "2026-11-03T10:56:15Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
