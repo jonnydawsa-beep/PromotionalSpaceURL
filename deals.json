@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T12:28:26Z",
+    "generated_at": "2026-11-03T12:29:00Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "f0d52b95745a99fdef4640180a3a565c5089d50dcc77e23af5371d2af94384ef",
+    "revision": "4c9178c339832d6857424c05c7a2010ac3142bccaf185345eb6c5f128b052402",
     "deal_count": 97,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4644,7 +4644,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950217322",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.56,
@@ -4660,7 +4660,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "MD3W4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-iphone-16e-silicone-case-fuchsia?variant=55307933188478",
@@ -4672,7 +4672,7 @@
           "delivery_price": 3.0,
           "item_price": 39.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -4681,7 +4681,7 @@
           "delivery_price": null,
           "item_price": 47.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -4702,7 +4702,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950217346",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.56,
@@ -4718,7 +4718,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "MD3X4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-md3x4zma-mobile-phone-case-155-cm-61-cover-green?variant=55307932762494",
@@ -4730,7 +4730,7 @@
           "delivery_price": 3.0,
           "item_price": 39.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -4739,7 +4739,7 @@
           "delivery_price": null,
           "item_price": 47.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -4760,7 +4760,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950217308",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.56,
@@ -4776,7 +4776,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "MD3Q4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-iphone-16e-silicone-case-winter-blue?variant=55307930665342",
@@ -4788,7 +4788,7 @@
           "delivery_price": 3.0,
           "item_price": 39.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -4797,7 +4797,7 @@
           "delivery_price": null,
           "item_price": 47.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -4818,7 +4818,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728174589",
       "category": "Technology",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 5552.77,
@@ -4834,7 +4834,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "C9300L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300l-24p-4x-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145148286",
@@ -4846,7 +4846,7 @@
           "delivery_price": 3.0,
           "item_price": 5047.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -4855,7 +4855,7 @@
           "delivery_price": null,
           "item_price": 6057.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -4934,7 +4934,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750309189",
       "category": "Other",
-      "checked_at": "2026-11-03T12:25:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.83,
@@ -4950,7 +4950,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:25:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "52-0030",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3u-300mm-hinged-wall-bracket?variant=58375659913598",
@@ -4962,7 +4962,7 @@
           "delivery_price": 3.0,
           "item_price": 30.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:55:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -4971,7 +4971,7 @@
           "delivery_price": null,
           "item_price": 36.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:55:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -4992,7 +4992,7 @@
       "brand": "Phanteks",
       "canonical_key": "GTIN:0886523003557",
       "category": "Technology",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -5008,7 +5008,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "PH-F140M25_G2_BBK01_3P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/phanteks-m25g2-140-computer-case-fan-14-cm-black?variant=57686863511934",
@@ -5020,7 +5020,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5029,7 +5029,7 @@
           "delivery_price": null,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5050,7 +5050,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197185127",
       "category": "Technology",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -5066,7 +5066,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "18512",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-18512-computer-cooling-system-partaccessory-tube?variant=57927060193662",
@@ -5078,7 +5078,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5087,7 +5087,7 @@
           "delivery_price": null,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5108,7 +5108,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056194496",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -5124,7 +5124,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "702312716",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-cases-denali-snap-ks-apple-iphone-15iphone-1413-black-enfr?variant=56800625295742",
@@ -5136,7 +5136,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5145,7 +5145,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5166,7 +5166,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056185050",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -5182,7 +5182,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "200111800",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-invisibleshield-glass-xtr3-am-apple-iphone-15-screen-intl?variant=56724349387134",
@@ -5194,7 +5194,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5203,7 +5203,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5224,7 +5224,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951381947",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -5240,7 +5240,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "MKF64ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-magenta?variant=58019522576766",
@@ -5252,7 +5252,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5261,7 +5261,7 @@
           "delivery_price": null,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5282,7 +5282,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951382005",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -5298,7 +5298,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "MKF84ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-crisp-blue?variant=58019522871678",
@@ -5310,7 +5310,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5319,7 +5319,7 @@
           "delivery_price": null,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5398,7 +5398,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466013163",
       "category": "Technology",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.66,
@@ -5414,7 +5414,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "UF-SLIN140-1W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-uf-slin140-1w-computer-cooling-system-computer-case-fan-14-cm-white-1-pcs?variant=55425021084030",
@@ -5426,7 +5426,7 @@
           "delivery_price": 3.0,
           "item_price": 25.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5435,7 +5435,7 @@
           "delivery_price": null,
           "item_price": 30.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5456,7 +5456,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:5032037283564",
       "category": "Other",
-      "checked_at": "2026-11-03T12:26:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 648.46,
@@ -5472,7 +5472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:26:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "E835XXVDA4OC3M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-e835-xxvda4-ocp-30-internal-fiber-25000-mbits-1?variant=57360209772926",
@@ -5484,7 +5484,7 @@
           "delivery_price": 3.0,
           "item_price": 589.51,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5493,7 +5493,7 @@
           "delivery_price": null,
           "item_price": 707.41,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:56:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
@@ -5514,7 +5514,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344449",
       "category": "Other",
-      "checked_at": "2026-11-03T12:25:35Z",
+      "checked_at": "2026-11-03T12:28:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.67,
@@ -5530,7 +5530,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:25:35Z",
+      "market_verified_at": "2026-11-03T12:28:59Z",
       "mpn": "SL65-9030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6a-rj45-orange-u-ftp-lsoh-30awg-slim-snagless-booted-patch-lead-pk10?variant=58376067613054",
@@ -5542,7 +5542,7 @@
           "delivery_price": 3.0,
           "item_price": 30.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:55:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         },
         {
           "availability": null,
@@ -5551,7 +5551,7 @@
           "delivery_price": null,
           "item_price": 36.73,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:55:35Z"
+          "valid_until": "2026-11-03T12:58:59Z"
         }
       ],
       "publishable": true,
