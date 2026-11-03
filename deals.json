@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T22:38:43Z",
+    "generated_at": "2026-11-03T22:54:09Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "d4b7d64bf325d522656a2c6dc160afa02fe0a32679c11fb03a19f84cd9d70617",
+    "revision": "3bef8d789c3df6756fd4089625914304a7084febf4c82c638e639fdb8f6611bf",
     "deal_count": 86,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4365,7 +4365,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270384",
       "category": "Technology",
-      "checked_at": "2026-11-03T22:38:37Z",
+      "checked_at": "2026-11-03T22:54:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.23,
@@ -4381,7 +4381,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T22:38:37Z",
+      "market_verified_at": "2026-11-03T22:54:07Z",
       "mpn": "RS063",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-e-stop-switch-mzars063/",
@@ -4393,7 +4393,7 @@
           "delivery_price": 4.99,
           "item_price": 40.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T23:08:37Z"
+          "valid_until": "2026-11-03T23:24:07Z"
         },
         {
           "availability": null,
@@ -4402,7 +4402,7 @@
           "delivery_price": null,
           "item_price": 45.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T23:08:37Z"
+          "valid_until": "2026-11-03T23:24:07Z"
         }
       ],
       "publishable": true,
