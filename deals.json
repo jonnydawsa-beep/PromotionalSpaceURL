@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T15:03:51Z",
+    "generated_at": "2026-11-03T15:04:36Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b49ac4647b1ab18657379db4ea5cddeed50bace79c85b66c05575e5265305e65",
+    "revision": "20831852dba1adba7736cd059f686e05704962edd2325df0661c81f68213eae5",
     "deal_count": 41,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -1015,7 +1015,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0196188549902",
       "category": "Technology",
-      "checked_at": "2026-11-03T15:03:50Z",
+      "checked_at": "2026-11-03T15:04:35Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.64,
@@ -1031,7 +1031,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T15:03:50Z",
+      "market_verified_at": "2026-11-03T15:04:35Z",
       "mpn": "4Z527AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-usb-c-to-rj45-adapter-g2?variant=55307448877438",
@@ -1043,7 +1043,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T15:33:50Z"
+          "valid_until": "2026-11-03T15:34:35Z"
         },
         {
           "availability": null,
@@ -1052,7 +1052,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T15:33:50Z"
+          "valid_until": "2026-11-03T15:34:35Z"
         }
       ],
       "publishable": true,
@@ -1778,7 +1778,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:745883866335",
       "category": "Technology",
-      "checked_at": "2026-11-03T15:03:50Z",
+      "checked_at": "2026-11-03T15:04:35Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 115.69,
@@ -1794,7 +1794,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T15:03:50Z",
+      "market_verified_at": "2026-11-03T15:04:35Z",
       "mpn": "INC018VFBK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-inc018vfbk-wired-usb-32-gen-1-31-gen-1-type-c-black?variant=55306807509374",
@@ -1806,7 +1806,7 @@
           "delivery_price": 3.0,
           "item_price": 115.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T15:33:50Z"
+          "valid_until": "2026-11-03T15:34:35Z"
         },
         {
           "availability": null,
@@ -1815,7 +1815,7 @@
           "delivery_price": 0.0,
           "item_price": 115.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T15:33:50Z"
+          "valid_until": "2026-11-03T15:34:35Z"
         }
       ],
       "publishable": true,
