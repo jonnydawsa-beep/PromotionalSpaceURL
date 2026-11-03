@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:09:35Z",
+    "generated_at": "2026-11-03T05:10:24Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "6cc44672b8df61f1cb59eca81b374f3b3899e39c0a1119abfd1dffae00ed5179",
+    "revision": "757f23911e98d6a3623f68485786ce7c1fc25093c70c9f48a0008f43ddbeeba1",
     "deal_count": 224,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -1015,7 +1015,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -1031,7 +1031,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -1043,7 +1043,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -1052,7 +1052,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1207,7 +1207,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387259795",
       "category": "Other",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.69,
@@ -1223,7 +1223,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "90MB1G10-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx?variant=55308897976702",
@@ -1235,7 +1235,7 @@
           "delivery_price": 3.0,
           "item_price": 107.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -1244,7 +1244,7 @@
           "delivery_price": 0.0,
           "item_price": 129.48,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1390,7 +1390,7 @@
       "brand": "Optoma",
       "canonical_key": "GTIN:5055387668683",
       "category": "Other",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 3351.99,
@@ -1406,7 +1406,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "3753RK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/optoma-3753rk-interactive-whiteboard-1905-cm-75-3840-x-2160-pixels-touchscreen-black-1?variant=57450402283902",
@@ -1418,7 +1418,7 @@
           "delivery_price": 3.0,
           "item_price": 2667.99,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1622,7 +1622,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711636286435",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 202.83,
@@ -1638,7 +1638,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "VA279QGSE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-va279qgse-computer-monitor-686-cm-27-1920-x-1080-pixels-full-hd-lcd-black?variant=56888395661694",
@@ -1650,7 +1650,7 @@
           "delivery_price": null,
           "item_price": 183.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -1659,7 +1659,7 @@
           "delivery_price": 0.0,
           "item_price": 221.86,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1680,7 +1680,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:0745883962969",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:04Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 36.99,
@@ -1696,7 +1696,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T04:59:04Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "AUC019HQPK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-soundform-dot-headset-wireless-in-ear-callsmusic-usb-type-c-bluetooth-pink?variant=58091866685822",
@@ -1708,7 +1708,7 @@
           "delivery_price": 3.0,
           "item_price": 31.27,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1796,7 +1796,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728537841",
       "category": "Other",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 10619.0,
@@ -1812,7 +1812,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "CS-BARPRO-K9",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-room-bar-pro-video-conferencing-system-48-mp-ethernet-lan-group-video-conferencing-system-1?variant=55468448416126",
@@ -1824,7 +1824,7 @@
           "delivery_price": 3.0,
           "item_price": 10619.0,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -1833,7 +1833,7 @@
           "delivery_price": 0.0,
           "item_price": 10619.0,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -1842,7 +1842,7 @@
           "delivery_price": 0.0,
           "item_price": 12742.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -1988,7 +1988,7 @@
       "brand": "PDT",
       "canonical_key": "GTIN:5025087005088",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.94,
@@ -2004,7 +2004,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "RJ649",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/rockjam-rj649-49-key-midi-keyboard?variant=55308690850174",
@@ -2016,7 +2016,7 @@
           "delivery_price": 3.0,
           "item_price": 54.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -2025,7 +2025,7 @@
           "delivery_price": 0.0,
           "item_price": 65.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -2568,7 +2568,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252096196",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.02,
@@ -2584,7 +2584,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "BU-BIDEA1314-WM-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-idea-notebook-1314-and-macbook-pro-14-messenger-case-with-mouse-included-black?variant=56897268875646",
@@ -2596,7 +2596,7 @@
           "delivery_price": 3.0,
           "item_price": 25.47,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -2605,7 +2605,7 @@
           "delivery_price": 0.0,
           "item_price": 30.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -3456,7 +3456,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:6862534000000",
       "category": "Other",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 127.71,
@@ -3472,7 +3472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "TC-HDMIIPRX/3",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-hdmi-over-ip-receiver-av-receiver-black?variant=55468989677950",
@@ -3484,7 +3484,7 @@
           "delivery_price": 3.0,
           "item_price": 116.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -3493,7 +3493,7 @@
           "delivery_price": 0.0,
           "item_price": 139.32,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -5370,7 +5370,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439254266",
       "category": "Gaming",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.55,
@@ -5386,7 +5386,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "25426",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-gxt-1246w-muta-white-bluetooth-gamepad-nintendo-switch-nintendo-switch-lite-1?variant=56833171358078",
@@ -5398,7 +5398,7 @@
           "delivery_price": 3.0,
           "item_price": 29.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -5407,7 +5407,7 @@
           "delivery_price": 0.0,
           "item_price": 35.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -5834,7 +5834,7 @@
       "brand": "Panasonic",
       "canonical_key": "GTIN:5025232961023",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.75,
@@ -5850,7 +5850,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "FZ-VDM553U",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/panasonic-fz-vdm553u-laptop-spare-part-dvd-optical-drive?variant=55469028802942",
@@ -5862,7 +5862,7 @@
           "delivery_price": 3.0,
           "item_price": 107.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -5871,7 +5871,7 @@
           "delivery_price": 0.0,
           "item_price": 129.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -5999,7 +5999,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728329149",
       "category": "Gaming",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 447.16,
@@ -6015,7 +6015,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "C9105AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9105axi-e-wireless-access-point-wi-fi-6-2x2-mu-mimo-controller-managed-poe-internal-antenna-ceiling-or-desk-mount-c9105axi-e?variant=55468193612158",
@@ -6027,7 +6027,7 @@
           "delivery_price": 3.0,
           "item_price": 406.51,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -6036,7 +6036,7 @@
           "delivery_price": 0.0,
           "item_price": 487.81,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -6820,7 +6820,7 @@
       "brand": "Kingston Technology",
       "canonical_key": "GTIN:740617336634",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 146.44,
@@ -6836,7 +6836,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "IKKP200C/32GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kingston-technology-ironkey-32gb-usb-c-keypad-200c-fips-140-3-lvl-3-aes-256-1?variant=55306778509694",
@@ -6848,7 +6848,7 @@
           "delivery_price": 3.0,
           "item_price": 133.13,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -6857,7 +6857,7 @@
           "delivery_price": 0.0,
           "item_price": 159.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -6936,7 +6936,7 @@
       "brand": "BTI",
       "canonical_key": "GTIN:5056006159186",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.26,
@@ -6952,7 +6952,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "65WUSB-C-BTI-UK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/bti-65w-usb-c-ac-adapter-with-8-output-voltages-for-all-usb-c-devices-up-to-65w-uk-connections-85?variant=56865361527166",
@@ -6964,7 +6964,7 @@
           "delivery_price": 3.0,
           "item_price": 25.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -6973,7 +6973,7 @@
           "delivery_price": 0.0,
           "item_price": 30.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -7177,7 +7177,7 @@
       "brand": "Arozzi",
       "canonical_key": "GTIN:0850054766588",
       "category": "Gaming",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 181.44,
@@ -7193,7 +7193,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "ARENA-SMALL-PBK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/arozzi-arena-small-gaming-desk-pure-black?variant=57756327346558",
@@ -7205,7 +7205,7 @@
           "delivery_price": 3.0,
           "item_price": 164.94,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -7214,7 +7214,7 @@
           "delivery_price": 0.0,
           "item_price": 197.93,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -8810,7 +8810,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158668740",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 43.43,
@@ -8826,7 +8826,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "D31696-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-eco-scale-439-cm-173-backpack-black?variant=55468208980350",
@@ -8838,7 +8838,7 @@
           "delivery_price": 3.0,
           "item_price": 43.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -8847,7 +8847,7 @@
           "delivery_price": 0.0,
           "item_price": 43.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -8856,7 +8856,7 @@
           "delivery_price": 0.0,
           "item_price": 52.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -8877,7 +8877,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466010834",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -8893,7 +8893,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "Q58-2W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-q58-2w-computer-case-part-computer-case-light-kit?variant=55425000538494",
@@ -8905,7 +8905,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -8914,7 +8914,7 @@
           "delivery_price": 0.0,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -9051,7 +9051,7 @@
       "brand": "Samsung",
       "canonical_key": "GTIN:8806097644200",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 183.39,
@@ -9067,7 +9067,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "MB-MK512T/WW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/samsung-p9-express-microsd-express-card-1?variant=56888395170174",
@@ -9079,7 +9079,7 @@
           "delivery_price": 3.0,
           "item_price": 166.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -9088,7 +9088,7 @@
           "delivery_price": 0.0,
           "item_price": 200.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -9167,7 +9167,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056194519",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -9183,7 +9183,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "702312718",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-cases-denali-snap-ks-apple-iphone-15-pro-black-enfr?variant=56717524107646",
@@ -9195,7 +9195,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -9204,7 +9204,7 @@
           "delivery_price": 0.0,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -9225,7 +9225,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:840390366610",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -9241,7 +9241,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "702319711",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-crystal-palace-snap-kickstand-button-cover-case-for-apple-iphone-17-1?variant=56539922235774",
@@ -9253,7 +9253,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -9262,7 +9262,7 @@
           "delivery_price": 0.0,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -10037,7 +10037,7 @@
       "brand": "Mophie",
       "canonical_key": "GTIN:840056185678",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.25,
@@ -10053,7 +10053,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "409911855",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/mophie-essentials-409911855-mobile-device-charger-universal-white-ac-indoor?variant=55306943496574",
@@ -10065,7 +10065,7 @@
           "delivery_price": 3.0,
           "item_price": 22.95,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -10074,7 +10074,7 @@
           "delivery_price": 0.0,
           "item_price": 27.54,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -12241,7 +12241,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659152512",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:07:48Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 82.15,
@@ -12257,7 +12257,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T05:07:48Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "SDCZ880-128G-G46",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-extreme-pro-usb-flash-drive-128-gb-usb-type-a-32-gen-1-31-gen-1-black?variant=55306406658430",
@@ -12269,7 +12269,7 @@
           "delivery_price": 3.0,
           "item_price": 82.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -12278,7 +12278,7 @@
           "delivery_price": 0.0,
           "item_price": 82.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -12287,7 +12287,7 @@
           "delivery_price": 0.0,
           "item_price": 98.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:37:48Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -12830,7 +12830,7 @@
       "brand": "Chief",
       "canonical_key": "GTIN:0841872156194",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:04Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 198.72,
@@ -12846,7 +12846,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:04Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "MCM1U",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/chief-fusionr-medium-flat-panel-ceiling-mount?variant=57132758139262",
@@ -12858,7 +12858,7 @@
           "delivery_price": 3.0,
           "item_price": 180.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -12867,7 +12867,7 @@
           "delivery_price": 0.0,
           "item_price": 216.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
@@ -12888,7 +12888,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239423602",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:04Z",
+      "checked_at": "2026-11-03T05:10:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.96,
@@ -12904,7 +12904,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:04Z",
+      "market_verified_at": "2026-11-03T05:10:22Z",
       "mpn": "D3250201",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d3250201-laptop-case-356-cm-14-briefcase-black?variant=56877979304318",
@@ -12916,7 +12916,7 @@
           "delivery_price": 3.0,
           "item_price": 22.69,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         },
         {
           "availability": null,
@@ -12925,7 +12925,7 @@
           "delivery_price": 0.0,
           "item_price": 27.23,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:40:22Z"
         }
       ],
       "publishable": true,
