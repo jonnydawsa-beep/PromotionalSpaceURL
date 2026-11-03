@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:32:08Z",
+    "generated_at": "2026-11-03T05:32:48Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "89cf65069f68f88d4b5b46497e7a5f0f3dd15af3d9cfd219d837df9ad3cec8df",
+    "revision": "1d3ce242f685d9354be269bdb0f87dc05463331afb9864e1b2856aa72e301eef",
     "deal_count": 90,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -698,7 +698,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 44.97,
@@ -714,7 +714,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -726,7 +726,7 @@
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -735,7 +735,7 @@
           "delivery_price": null,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -2305,7 +2305,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342711",
       "category": "Other",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.0,
@@ -2321,7 +2321,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "60-8030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-white-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375964852606",
@@ -2333,7 +2333,7 @@
           "delivery_price": 0.0,
           "item_price": 27.27,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -2342,7 +2342,7 @@
           "delivery_price": null,
           "item_price": 32.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -2729,7 +2729,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342414",
       "category": "Other",
-      "checked_at": "2026-11-03T05:28:49Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.48,
@@ -2745,7 +2745,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:28:49Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "60-3030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-green-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375346487678",
@@ -2757,7 +2757,7 @@
           "delivery_price": 0.0,
           "item_price": 27.71,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:58:49Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -2766,7 +2766,7 @@
           "delivery_price": null,
           "item_price": 33.25,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:58:49Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -2787,7 +2787,7 @@
       "brand": "Kingston Technology",
       "canonical_key": "GTIN:740617334036",
       "category": "Other",
-      "checked_at": "2026-11-03T05:28:49Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 604.45,
@@ -2803,7 +2803,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:28:49Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "KVR56S46BD8-32",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kingston-technology-valueram-memory-module-32-gb-1-x-32-gb-ddr5-5600-mts-262-pin-so-dimm?variant=55306310058366",
@@ -2815,7 +2815,7 @@
           "delivery_price": 0.0,
           "item_price": 548.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T05:58:49Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -2824,7 +2824,7 @@
           "delivery_price": null,
           "item_price": 660.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:58:49Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -3416,7 +3416,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750343527",
       "category": "Other",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.86,
@@ -3432,7 +3432,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "L60-3030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-green-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58375341310334",
@@ -3444,7 +3444,7 @@
           "delivery_price": 0.0,
           "item_price": 28.97,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -3453,7 +3453,7 @@
           "delivery_price": null,
           "item_price": 34.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -3474,7 +3474,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342797",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.92,
@@ -3490,7 +3490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "40-4043",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cnl-3m-usb-c-3-2-usb-a-rj45-1g-networking-cable-cat6-u-ftp-stp?variant=58375215939966",
@@ -3502,7 +3502,7 @@
           "delivery_price": 0.0,
           "item_price": 29.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -3511,7 +3511,7 @@
           "delivery_price": null,
           "item_price": 35.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4121,7 +4121,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239421998",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:28:50Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.4,
@@ -4137,7 +4137,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:28:50Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "D31189-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-laptop-sleeve-perfect-16-173-1?variant=55469046432126",
@@ -4149,7 +4149,7 @@
           "delivery_price": 3.0,
           "item_price": 24.0,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:58:50Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4158,7 +4158,7 @@
           "delivery_price": 0.0,
           "item_price": 28.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:58:50Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4237,7 +4237,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:0745883891009",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.36,
@@ -4253,7 +4253,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "WCA008KQWH",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-boostcharge-laptop-smartphone-tablet-white-ac-fast-charging-indoor?variant=55307799036286",
@@ -4265,7 +4265,7 @@
           "delivery_price": 3.0,
           "item_price": 23.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4274,7 +4274,7 @@
           "delivery_price": 0.0,
           "item_price": 28.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4469,7 +4469,7 @@
       "brand": "Manhattan",
       "canonical_key": "GTIN:0766623190237",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.29,
@@ -4485,7 +4485,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "190237",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/manhattan-ergonomic-wireless-mouse-right-handed-adjustable-80012001600dpi-24ghz-up-to-10m-six-button-with-scroll-wheel-combo-usba-and-usb-c-receiver-black-aa-battery-included-three-year-warranty?variant=56014004683134",
@@ -4497,7 +4497,7 @@
           "delivery_price": 3.0,
           "item_price": 23.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4506,7 +4506,7 @@
           "delivery_price": 0.0,
           "item_price": 28.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4527,7 +4527,7 @@
       "brand": "ALOGIC",
       "canonical_key": "GTIN:9350784016270",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.08,
@@ -4543,7 +4543,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "ULCDP02-SGR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alogic-2m-ultra-usb-c-male-to-dp-male-cable-4k-60hz-with-led-white-box-packaging?variant=55468291916158",
@@ -4555,7 +4555,7 @@
           "delivery_price": 3.0,
           "item_price": 22.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4564,7 +4564,7 @@
           "delivery_price": 0.0,
           "item_price": 27.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4643,7 +4643,7 @@
       "brand": "V7",
       "canonical_key": "GTIN:0662919117165",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:28:50Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.05,
@@ -4659,7 +4659,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:28:50Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "CKW350FR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/v7-ckw350fr-wireless-keyboard-and-mouse-combo-fr-layout?variant=55479407673726",
@@ -4671,7 +4671,7 @@
           "delivery_price": 3.0,
           "item_price": 22.77,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:58:50Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4680,7 +4680,7 @@
           "delivery_price": 0.0,
           "item_price": 27.32,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:58:50Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4701,7 +4701,7 @@
       "brand": "ALOGIC",
       "canonical_key": "GTIN:9350784024060",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.23,
@@ -4717,7 +4717,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "AAL6APNS-SGR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alogic-metro-adjustable-portable-laptop-riser?variant=55468364759422",
@@ -4729,7 +4729,7 @@
           "delivery_price": 3.0,
           "item_price": 23.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4738,7 +4738,7 @@
           "delivery_price": 0.0,
           "item_price": 28.61,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
@@ -4759,7 +4759,7 @@
       "brand": "Manhattan",
       "canonical_key": "GTIN:0766623162746",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:30:28Z",
+      "checked_at": "2026-11-03T05:32:46Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.2,
@@ -4775,7 +4775,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:30:28Z",
+      "market_verified_at": "2026-11-03T05:32:46Z",
       "mpn": "162746",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/manhattan-usb-c-dockhub-ports-x4-usb-a-x4-5-gbps-usb-32-gen1-aka-usb-30-usb-powered-no-external-power-supply-required-cable-20cm-equivalent-to-hb30c4ab?variant=56013889372542",
@@ -4787,7 +4787,7 @@
           "delivery_price": 3.0,
           "item_price": 23.82,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         },
         {
           "availability": null,
@@ -4796,7 +4796,7 @@
           "delivery_price": 0.0,
           "item_price": 28.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T06:00:28Z"
+          "valid_until": "2026-11-03T06:02:46Z"
         }
       ],
       "publishable": true,
