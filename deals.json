@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T12:29:32Z",
+    "generated_at": "2026-11-03T12:30:06Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "4dc8cc6e9da0d0480404338e89c3a31967112d8c2f615bfe1b8f81d27d3bfd01",
+    "revision": "1b35622ca7ce0812b70f7dbc05a79427ba74cc7e26d05fa5b83b1c513f924ea0",
     "deal_count": 85,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4702,7 +4702,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750309189",
       "category": "Other",
-      "checked_at": "2026-11-03T12:29:31Z",
+      "checked_at": "2026-11-03T12:30:05Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.83,
@@ -4718,7 +4718,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:29:31Z",
+      "market_verified_at": "2026-11-03T12:30:05Z",
       "mpn": "52-0030",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3u-300mm-hinged-wall-bracket?variant=58375659913598",
@@ -4730,7 +4730,7 @@
           "delivery_price": 3.0,
           "item_price": 30.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:59:31Z"
+          "valid_until": "2026-11-03T13:00:05Z"
         },
         {
           "availability": null,
@@ -4739,7 +4739,7 @@
           "delivery_price": null,
           "item_price": 36.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:59:31Z"
+          "valid_until": "2026-11-03T13:00:05Z"
         }
       ],
       "publishable": true,
@@ -4818,7 +4818,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344449",
       "category": "Other",
-      "checked_at": "2026-11-03T12:29:31Z",
+      "checked_at": "2026-11-03T12:30:05Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.67,
@@ -4834,7 +4834,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T12:29:31Z",
+      "market_verified_at": "2026-11-03T12:30:05Z",
       "mpn": "SL65-9030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6a-rj45-orange-u-ftp-lsoh-30awg-slim-snagless-booted-patch-lead-pk10?variant=58376067613054",
@@ -4846,7 +4846,7 @@
           "delivery_price": 3.0,
           "item_price": 30.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T12:59:31Z"
+          "valid_until": "2026-11-03T13:00:05Z"
         },
         {
           "availability": null,
@@ -4855,7 +4855,7 @@
           "delivery_price": null,
           "item_price": 36.73,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T12:59:31Z"
+          "valid_until": "2026-11-03T13:00:05Z"
         }
       ],
       "publishable": true,
