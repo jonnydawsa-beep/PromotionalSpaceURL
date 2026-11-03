@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T00:18:08Z",
+    "generated_at": "2026-11-03T00:18:39Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "c016b2a049e678059341a53cfdb4d8e24b1de01c6be87ce09ee99525bcfbc350",
+    "revision": "baf57cd12f26f38e25f1a0b77d70de04ab64a17836810ae7d0f366e03f7088dc",
     "deal_count": 150,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -2537,7 +2537,7 @@
       "brand": "LG",
       "canonical_key": "GTIN:8809484672466",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.95,
@@ -2553,7 +2553,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "GP57EW40.AHLE10B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lg-gp57ew40-optical-disc-drive-dvd-super-multi-white-1?variant=57668214587774",
@@ -2565,7 +2565,7 @@
           "delivery_price": 3.0,
           "item_price": 28.13,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -2574,7 +2574,7 @@
           "delivery_price": 0.0,
           "item_price": 33.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -3920,7 +3920,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466016720",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.4,
@@ -3936,7 +3936,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "12RSL1W1W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-uni-fan-sl-wireless-120-reverse-blade-computer-case-12-cm-white-1-pcs?variant=55425046413694",
@@ -3948,7 +3948,7 @@
           "delivery_price": 3.0,
           "item_price": 24.91,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -3957,7 +3957,7 @@
           "delivery_price": 0.0,
           "item_price": 29.89,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -4518,7 +4518,7 @@
       "brand": "Arozzi",
       "canonical_key": "GTIN:0850054766588",
       "category": "Gaming",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 181.44,
@@ -4534,7 +4534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "ARENA-SMALL-PBK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/arozzi-arena-small-gaming-desk-pure-black?variant=57756327346558",
@@ -4546,7 +4546,7 @@
           "delivery_price": 3.0,
           "item_price": 164.94,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -4555,7 +4555,7 @@
           "delivery_price": 0.0,
           "item_price": 197.93,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -5281,7 +5281,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750316231",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.76,
@@ -5297,7 +5297,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "72-3391",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-24-port-cat5e-utp-1u-patch-panel?variant=55468672319870",
@@ -5309,7 +5309,7 @@
           "delivery_price": 3.0,
           "item_price": 29.78,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -5318,7 +5318,7 @@
           "delivery_price": 0.0,
           "item_price": 35.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -5919,7 +5919,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466010834",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -5935,7 +5935,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "Q58-2W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-q58-2w-computer-case-part-computer-case-light-kit?variant=55425000538494",
@@ -5947,7 +5947,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -5956,7 +5956,7 @@
           "delivery_price": 0.0,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -6093,7 +6093,7 @@
       "brand": "Samsung",
       "canonical_key": "GTIN:8806097644200",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 183.39,
@@ -6109,7 +6109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "MB-MK512T/WW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/samsung-p9-express-microsd-express-card-1?variant=56888395170174",
@@ -6121,7 +6121,7 @@
           "delivery_price": 3.0,
           "item_price": 166.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -6130,7 +6130,7 @@
           "delivery_price": 0.0,
           "item_price": 200.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -6209,7 +6209,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056194519",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -6225,7 +6225,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "702312718",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-cases-denali-snap-ks-apple-iphone-15-pro-black-enfr?variant=56717524107646",
@@ -6237,7 +6237,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -6246,7 +6246,7 @@
           "delivery_price": 0.0,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -6267,7 +6267,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:840390366610",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -6283,7 +6283,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "702319711",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-crystal-palace-snap-kickstand-button-cover-case-for-apple-iphone-17-1?variant=56539922235774",
@@ -6295,7 +6295,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -6304,7 +6304,7 @@
           "delivery_price": 0.0,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -6557,7 +6557,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951382098",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -6573,7 +6573,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "MKFC4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-taupe?variant=58019523363198",
@@ -6585,7 +6585,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -6594,7 +6594,7 @@
           "delivery_price": 0.0,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -6963,7 +6963,7 @@
       "brand": "Mophie",
       "canonical_key": "GTIN:840056185678",
       "category": "Other",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.25,
@@ -6979,7 +6979,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "409911855",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/mophie-essentials-409911855-mobile-device-charger-universal-white-ac-indoor?variant=55306943496574",
@@ -6991,7 +6991,7 @@
           "delivery_price": 3.0,
           "item_price": 22.95,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -7000,7 +7000,7 @@
           "delivery_price": 0.0,
           "item_price": 27.54,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
@@ -7659,7 +7659,7 @@
       "brand": "Thermalright",
       "canonical_key": "GTIN:0814256003780",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:18:06Z",
+      "checked_at": "2026-11-03T00:18:38Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.7,
@@ -7675,7 +7675,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:18:06Z",
+      "market_verified_at": "2026-11-03T00:18:38Z",
       "mpn": "AX120 R SE ARGB 1700",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/thermalright-ax120-r-se-argb-1700-computer-cooling-system-processor-air-cooler-12-cm-black-silver-1-pcs?variant=56130929361278",
@@ -7687,7 +7687,7 @@
           "delivery_price": 3.0,
           "item_price": 26.09,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         },
         {
           "availability": null,
@@ -7696,7 +7696,7 @@
           "delivery_price": 0.0,
           "item_price": 31.31,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:48:06Z"
+          "valid_until": "2026-11-03T00:48:38Z"
         }
       ],
       "publishable": true,
