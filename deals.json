@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:21:51Z",
+    "generated_at": "2026-11-03T05:22:22Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "64861e15c565205e1b54e81fe99f844ae38f61f372b8afde6812381a09e043dc",
+    "revision": "60710bc00444878d4949a3d43f7c6b7b9b5809678f5ad1e53aaeeb4fe1aabfcc",
     "deal_count": 127,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4219,7 +4219,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439251951",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:21:49Z",
+      "checked_at": "2026-11-03T05:22:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.55,
@@ -4235,7 +4235,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:21:49Z",
+      "market_verified_at": "2026-11-03T05:22:21Z",
       "mpn": "25195",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-primo-396-cm-156-monitorlaptop-frameless-display-privacy-filter?variant=56973155434878",
@@ -4247,7 +4247,7 @@
           "delivery_price": 3.0,
           "item_price": 29.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:51:49Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         },
         {
           "availability": null,
@@ -4256,7 +4256,7 @@
           "delivery_price": 0.0,
           "item_price": 35.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:51:49Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         }
       ],
       "publishable": true,
@@ -4393,7 +4393,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270414",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:22:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.27,
@@ -4409,7 +4409,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:22:21Z",
       "mpn": "RS22",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-sr-p-lite-brake-pedal-performance-kit-mzars22/",
@@ -4421,7 +4421,7 @@
           "delivery_price": 3.0,
           "item_price": 32.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         },
         {
           "availability": null,
@@ -4430,7 +4430,7 @@
           "delivery_price": 0.0,
           "item_price": 39.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         }
       ],
       "publishable": true,
@@ -5272,7 +5272,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239421387",
       "category": "Technology",
-      "checked_at": "2026-11-03T05:21:49Z",
+      "checked_at": "2026-11-03T05:22:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.51,
@@ -5288,7 +5288,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T05:21:49Z",
+      "market_verified_at": "2026-11-03T05:22:21Z",
       "mpn": "D32061",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d32061-interface-hub-usb-type-c-10000-mbits-silver?variant=55469025984894",
@@ -5300,7 +5300,7 @@
           "delivery_price": 3.0,
           "item_price": 23.19,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:51:49Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         },
         {
           "availability": null,
@@ -5309,7 +5309,7 @@
           "delivery_price": 0.0,
           "item_price": 27.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:51:49Z"
+          "valid_until": "2026-11-03T05:52:21Z"
         }
       ],
       "publishable": true,
