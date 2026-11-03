@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T10:26:30Z",
+    "generated_at": "2026-11-03T10:40:08Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "abd37dec68dde56e76866e5ab90531c897e01b418be503a48ccb827ad0330088",
+    "revision": "a32243243fbd1c3ef6f68f2aa2dc9e9c858e602afce025da40cd3f579fc37f09",
     "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -78,7 +78,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381459129",
       "category": "Other",
-      "checked_at": "2026-11-03T10:26:27Z",
+      "checked_at": "2026-11-03T10:40:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 97.28,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:26:27Z",
+      "market_verified_at": "2026-11-03T10:40:08Z",
       "mpn": "BL1850B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah/prod/301753/?varId=301753&Referrer=affwin",
@@ -106,7 +106,7 @@
           "delivery_price": 0.0,
           "item_price": 88.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:56:27Z"
+          "valid_until": "2026-11-03T11:10:08Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 106.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T10:56:27Z"
+          "valid_until": "2026-11-03T11:10:08Z"
         }
       ],
       "publishable": true,
