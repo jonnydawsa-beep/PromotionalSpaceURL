@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T14:21:05Z",
+    "generated_at": "2026-11-03T14:21:54Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "70ef012350ab1bfe65f45d16c230b09f7f1b0820f4d7f3192b7bf0020f257e23",
-    "deal_count": 109,
+    "revision": "b159b3522ff45c8e80d60b0372aa79b664efd4259c591fedea229856478a9b12",
+    "deal_count": 97,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -78,7 +78,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 61.99,
@@ -94,7 +94,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -106,7 +106,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -115,7 +115,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -124,7 +124,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -431,140 +431,6 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2578d2d1830c0228a4f3ba798676&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-mini-rgb-microphone%3Fvariant%3D57079280894334&platform=pl",
-      "brand": "Streamplify",
-      "canonical_key": "GTIN:4251442513559",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 46.99,
-      "current_price": 23.99,
-      "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
-      "delivery_price": 4.99,
-      "gtin": "4251442513559",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
-      "item_price": 23.99,
-      "market_best_price": 23.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "SPMC-MM1C327.11",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 26.33,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 26.33,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 31.6,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 48.95,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "44215472319",
-      "title": "Streamplify MIC MINI RGB Microphone",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-mini-rgb-microphone-db32578d.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5c85df3251bc8502eebcfc4bbe00&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-go-black-clip-on-microphone%3Fvariant%3D57079273947518&platform=pl",
-      "brand": "Streamplify",
-      "canonical_key": "GTIN:4251442513542",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
-      "comparison_count": 13,
-      "comparison_price": 46.99,
-      "current_price": 23.99,
-      "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
-      "delivery_price": 4.99,
-      "gtin": "4251442513542",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
-      "item_price": 23.99,
-      "market_best_price": 23.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "SPML-MG1C051.11",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 26.33,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 26.33,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 31.6,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 48.95,
-      "signal_type": "HISTORICAL_DROP",
-      "source_item_id": "44215472136",
-      "title": "Streamplify MIC GO Black Clip-on microphone",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-cb978abb78f50ad158a8e1aee9de&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fyealink-mp56-microsoft-teams-edition-1%3Fvariant%3D58375196901758&platform=pl",
       "brand": "Yealink",
       "canonical_key": "BRANDMPN:yealink:mp56teams",
@@ -627,7 +493,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030865135",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.14,
@@ -643,7 +509,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "CDP2HD4K60",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
@@ -655,7 +521,7 @@
           "delivery_price": 0.0,
           "item_price": 38.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -664,7 +530,7 @@
           "delivery_price": 0.0,
           "item_price": 45.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -685,7 +551,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397321024057",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:23Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 46.99,
@@ -701,7 +567,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:23Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "DELL-CP5626",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-cp5626-406-cm-16-backpack-black?variant=56836889313662",
@@ -713,7 +579,7 @@
           "delivery_price": 3.0,
           "item_price": 28.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -722,7 +588,7 @@
           "delivery_price": 0.0,
           "item_price": 28.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -731,7 +597,7 @@
           "delivery_price": 0.0,
           "item_price": 49.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:23Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -744,73 +610,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-cp5626-40-6-cm-16-backpack-black-db3a06c9.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-51477812b0671f12bafc2f01eef9&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black%3Fvariant%3D55468880888190&platform=pl",
-      "brand": "Vision",
-      "canonical_key": "GTIN:4963686000008",
-      "category": "Technology",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 38.7,
-      "current_price": 22.99,
-      "deal_id": "db3-51477812b0671f12bafc2f01eef9",
-      "delivery_price": 4.99,
-      "gtin": "4963686000008",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F50192463ef2530a67cf93d80fdfca705.jpg%3Fv%3D1756137344&feedId=102827&k=0aafcaa87ef618327504914fc10bace4634ac0bc",
-      "item_price": 22.99,
-      "market_best_price": 22.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "VFM-WA1X1B",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 38.7,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 38.7,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 46.44,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 40.59,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "43075458476",
-      "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
     },
     {
       "advertiser_id": "61655",
@@ -1346,7 +1145,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 44.99,
@@ -1362,7 +1161,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -1374,7 +1173,7 @@
           "delivery_price": 3.0,
           "item_price": 30.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -1383,7 +1182,7 @@
           "delivery_price": 0.0,
           "item_price": 30.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -1392,7 +1191,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -1726,73 +1525,6 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-d8f6c676cd15956cc0f99724371c&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fjabra-evolve2-65-flex-ear-cushion%3Fvariant%3D58375650410878&platform=pl",
-      "brand": "Jabra",
-      "canonical_key": "GTIN:5706991029185",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 40.88,
-      "current_price": 26.99,
-      "deal_id": "db3-d8f6c676cd15956cc0f99724371c",
-      "delivery_price": 4.99,
-      "gtin": "5706991029185",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FEPuv4EsEUEGoe9hqbT_Y8w.c-r.jpg%3Fv%3D1793656956&feedId=102827&k=1d5e1883af2914f64261fba84410d9484b57a8bb",
-      "item_price": 26.99,
-      "market_best_price": 26.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "14101-89",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 40.88,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 40.88,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 49.06,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 33.98,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566614911",
-      "title": "Jabra Evolve2 65 Flex Ear Cushion",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-983b6da8824c3a63a2cbbca8d8f0&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fverbatim-pinstripe-usb-drive-128-gb-black%3Fvariant%3D56668028764542&platform=pl",
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:49071",
@@ -2097,73 +1829,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-prelude-pro-15-6-inch-recycled-backpack-db30f440.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c6652d5b6e9fc4e57a697b62f168&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsandisk-high-endurance-32-gb-microsdhc-uhs-i-class-10-1%3Fvariant%3D55306466328958&platform=pl",
-      "brand": "Sandisk",
-      "canonical_key": "GTIN:619659173067",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 40.79,
-      "current_price": 27.99,
-      "deal_id": "db3-c6652d5b6e9fc4e57a697b62f168",
-      "delivery_price": 4.99,
-      "gtin": "619659173067",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe09a3143aad38acd6731b63594142434.jpg%3Fv%3D1775716588&feedId=102827&k=2188451d091438e5cf88b1dc160bfea5c729616e",
-      "item_price": 27.99,
-      "market_best_price": 27.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "SDSQQNR-032G-GN6IA",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-high-endurance-32-gb-microsdhc-uhs-i-class-10-1?variant=55306466328958",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 40.79,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 40.79,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 48.96,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 31.38,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "41476151751",
-      "title": "SanDisk High Endurance 32 GB MicroSDHC UHS-I Class 10",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/sandisk-high-endurance-32-gb-microsdhc-uhs-i-class-10-db3c6652.html"
     },
     {
       "advertiser_id": "61655",
@@ -3168,73 +2833,6 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9c290b12194bcc0e66f19407aa8c&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-tm-cc-project-mount-ceiling-white%3Fvariant%3D58375937950078&platform=pl",
-      "brand": "Vision",
-      "canonical_key": "GTIN:1932372000007",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 60.22,
-      "current_price": 46.99,
-      "deal_id": "db3-9c290b12194bcc0e66f19407aa8c",
-      "delivery_price": 4.99,
-      "gtin": "1932372000007",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fh8EEOu0brkaSSUae8dPaAA.c-r.jpg%3Fv%3D1793664270&feedId=102827&k=99fb425c54ffb40abfb4516b079c5f4a862b67e9",
-      "item_price": 46.99,
-      "market_best_price": 46.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "TM-CC",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/vision-tm-cc-project-mount-ceiling-white?variant=58375937950078",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 60.22,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 60.22,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 72.26,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 21.97,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566615364",
-      "title": "Vision TM-CC project mount Ceiling White",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/vision-tm-cc-project-mount-ceiling-white-db39c290.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-917fba05847a9833991cd34d1a30&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fintel-xeon-6337p-processor-35-ghz-18-mb-tray%3Fvariant%3D56764321825150&platform=pl",
       "brand": "Intel",
       "canonical_key": "BRANDMPN:intel:cm8071506036501",
@@ -3472,73 +3070,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-w-db3c1039.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a1c265341a31533ca6aa2d2201a7&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-vfm-w8x6-signage-display-mount-2-29-m-90-black%3Fvariant%3D58375201423742&platform=pl",
-      "brand": "Vision",
-      "canonical_key": "GTIN:4934295000000",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 91.68,
-      "current_price": 72.99,
-      "deal_id": "db3-a1c265341a31533ca6aa2d2201a7",
-      "delivery_price": 0.0,
-      "gtin": "4934295000000",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2fnJgXG4eU61WAPgKDlGhA.c-r.jpg%3Fv%3D1793649882&feedId=102827&k=79fcde036b673b67d3410e7536f6a88f055d79db",
-      "item_price": 72.99,
-      "market_best_price": 72.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "VFM-W8X6",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 91.68,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 91.68,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 110.02,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 20.39,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566614531",
-      "title": "Vision VFM-W8X6 signage display mount 2.29 m (90\") Black",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black-db3a1c26.html"
     },
     {
       "advertiser_id": "61655",
@@ -4364,73 +3895,6 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-b755c34817755885fb903f320a1e&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10%3Fvariant%3D58375359889790&platform=pl",
-      "brand": "Cablenet",
-      "canonical_key": "GTIN:5056750342308",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 25.76,
-      "current_price": 20.99,
-      "deal_id": "db3-b755c34817755885fb903f320a1e",
-      "delivery_price": 4.99,
-      "gtin": "5056750342308",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ff2ujREORZEemb9AKsKKWIA.c-r_6cb8e3af-5ed5-4765-b818-35478b1e6c5e.jpg%3Fv%3D1793654005&feedId=102827&k=727c2f97570664f935ee693dd1a5bf33fa1c48dd",
-      "item_price": 20.99,
-      "market_best_price": 20.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "60-1030P",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375359889790",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 25.76,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 25.76,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 30.91,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 18.52,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566614810",
-      "title": "Cablenet 3m Cat6 RJ45 Grey U/UTP PVC 24AWG Flush Moulded Booted Patch Lead (PK10)",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-db3b755c.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-19768ff8d6aca9dff672d1112d65&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fverbatim-plectra-usb-c-flash-drive-blue-128gb%3Fvariant%3D56013885211006&platform=pl",
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:30233",
@@ -4543,73 +4007,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/lindy-rj45-port-locks-yellow-10x-1-key-db3c49b8.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c9c31e9f218ea332f7d4e4f19170&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-tm-tele-project-mount-ceiling-white%3Fvariant%3D58375843774846&platform=pl",
-      "brand": "Vision",
-      "canonical_key": "GTIN:2418655000005",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 84.09,
-      "current_price": 68.99,
-      "deal_id": "db3-c9c31e9f218ea332f7d4e4f19170",
-      "delivery_price": 0.0,
-      "gtin": "2418655000005",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FIiq4ItGk1kyE9rmzgLKFLg.c-r.jpg%3Fv%3D1793660768&feedId=102827&k=1b23f64cc86659317175ad9536377c04794aa6e8",
-      "item_price": 68.99,
-      "market_best_price": 68.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "TM-TELE",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/vision-tm-tele-project-mount-ceiling-white?variant=58375843774846",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 84.09,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 84.09,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 102.2,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 17.96,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566615190",
-      "title": "Vision TM-TELE project mount Ceiling White",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/vision-tm-tele-project-mount-ceiling-white-db3c9c31.html"
     },
     {
       "advertiser_id": "61655",
@@ -5265,7 +4662,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750316163",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.87,
@@ -5281,7 +4678,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "72-3384",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-16-port-cat5e-utp-1u-coupler-panel?variant=55468647416190",
@@ -5293,7 +4690,7 @@
           "delivery_price": 3.0,
           "item_price": 30.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -5302,7 +4699,7 @@
           "delivery_price": 0.0,
           "item_price": 36.95,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -5381,7 +4778,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466010834",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -5397,7 +4794,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "Q58-2W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-q58-2w-computer-case-part-computer-case-light-kit?variant=55425000538494",
@@ -5409,7 +4806,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -5418,7 +4815,7 @@
           "delivery_price": null,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -5555,7 +4952,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056194519",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -5571,7 +4968,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "702312718",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-cases-denali-snap-ks-apple-iphone-15-pro-black-enfr?variant=56717524107646",
@@ -5583,7 +4980,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -5592,7 +4989,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -5613,7 +5010,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:840390366610",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -5629,7 +5026,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "702319711",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-crystal-palace-snap-kickstand-button-cover-case-for-apple-iphone-17-1?variant=56539922235774",
@@ -5641,7 +5038,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -5650,7 +5047,7 @@
           "delivery_price": null,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -5845,7 +5242,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951382098",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -5861,7 +5258,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "MKFC4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-taupe?variant=58019523363198",
@@ -5873,7 +5270,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -5882,7 +5279,7 @@
           "delivery_price": null,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -6077,7 +5474,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239423572",
       "category": "Technology",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.08,
@@ -6093,7 +5490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "D3250104",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d3250104-laptop-case-439-cm-173-backpack-black?variant=56877978976638",
@@ -6105,7 +5502,7 @@
           "delivery_price": 3.0,
           "item_price": 32.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -6114,7 +5511,7 @@
           "delivery_price": null,
           "item_price": 39.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -6251,7 +5648,7 @@
       "brand": "Mophie",
       "canonical_key": "GTIN:840056185678",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.25,
@@ -6267,7 +5664,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "409911855",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/mophie-essentials-409911855-mobile-device-charger-universal-white-ac-indoor?variant=55306943496574",
@@ -6279,7 +5676,7 @@
           "delivery_price": 3.0,
           "item_price": 22.95,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -6288,7 +5685,7 @@
           "delivery_price": null,
           "item_price": 27.54,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -6305,78 +5702,11 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9cade4394f652be0b9ab4d77d239&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-3m-cat6-rj45-grey-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10%3Fvariant%3D58376124334462&platform=pl",
-      "brand": "Cablenet",
-      "canonical_key": "GTIN:5056750343374",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 26.43,
-      "current_price": 21.99,
-      "deal_id": "db3-9cade4394f652be0b9ab4d77d239",
-      "delivery_price": 4.99,
-      "gtin": "5056750343374",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ff2ujREORZEemb9AKsKKWIA.c-r_fed5c182-ffad-41f5-9c88-5f12f5d75907.jpg%3Fv%3D1793671810&feedId=102827&k=39fc7c3d0075fc0cd9dfdb6687ae196557d976c5",
-      "item_price": 21.99,
-      "market_best_price": 21.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "L60-1030P",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58376124334462",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 26.43,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 26.43,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 31.72,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 16.8,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566615874",
-      "title": "Cablenet 3m Cat6 RJ45 Grey U/UTP LSOH 24AWG Snagless Booted Patch Lead (PK10)",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-lsoh-24awg-snagless-booted-patch-lead-db39cade.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-0d2491d6e5091ca2c773cb25a6b7&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsamsung-p9-express-microsd-express-card-1%3Fvariant%3D56888395170174&platform=pl",
       "brand": "Samsung",
       "canonical_key": "GTIN:8806097644200",
       "category": "Other",
-      "checked_at": "2026-11-03T14:01:24Z",
+      "checked_at": "2026-11-03T14:21:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 181.93,
@@ -6392,7 +5722,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T14:01:24Z",
+      "market_verified_at": "2026-11-03T14:21:53Z",
       "mpn": "MB-MK512T/WW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/samsung-p9-express-microsd-express-card-1?variant=56888395170174",
@@ -6404,7 +5734,7 @@
           "delivery_price": 3.0,
           "item_price": 163.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         },
         {
           "availability": null,
@@ -6413,7 +5743,7 @@
           "delivery_price": null,
           "item_price": 200.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:31:24Z"
+          "valid_until": "2026-11-03T14:51:53Z"
         }
       ],
       "publishable": true,
@@ -6426,73 +5756,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/samsung-p9-express-microsd-express-card-db30d249.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c2f6613a42959e0d3448a7edf6cf&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead%3Fvariant%3D58375356350846&platform=pl",
-      "brand": "Cablenet",
-      "canonical_key": "GTIN:5056750331555",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 26.22,
-      "current_price": 21.99,
-      "deal_id": "db3-c2f6613a42959e0d3448a7edf6cf",
-      "delivery_price": 4.99,
-      "gtin": "5056750331555",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FsPRaZhlwiUGkEm0WoHhfSA.c-r_53894647-1149-4bec-a2eb-7688f9ce00c8.jpg%3Fv%3D1793653936&feedId=102827&k=a1163421b0c234f4ea879ab6823c21d0d2cc0889",
-      "item_price": 21.99,
-      "market_best_price": 21.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "PE65-6020",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375356350846",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 26.22,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 26.22,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 31.46,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 16.13,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566614779",
-      "title": "Cablenet 2m Cat6a RJ45 Black F/FTP PE External Flush Moulded Solid Patch Lead",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-pat-db3c2f66.html"
     },
     {
       "advertiser_id": "61655",
@@ -6560,73 +5823,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card-db3c3123.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-e3ec49cbff15e63fb37089f85740&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-3m-cat6-rj45-white-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10%3Fvariant%3D58375964852606&platform=pl",
-      "brand": "Cablenet",
-      "canonical_key": "GTIN:5056750342711",
-      "category": "Other",
-      "checked_at": "2026-11-03T14:19:01Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 27.27,
-      "current_price": 22.99,
-      "deal_id": "db3-e3ec49cbff15e63fb37089f85740",
-      "delivery_price": 4.99,
-      "gtin": "5056750342711",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FPRUJj6-W2kqXImM8ikcKgg.c-r_00475b9b-df3f-4033-aca7-819e6b6752b7.jpg%3Fv%3D1793664610&feedId=102827&k=b81f8953831894c9c93527ce648196978470c3a8",
-      "item_price": 22.99,
-      "market_best_price": 22.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T14:19:01Z",
-      "mpn": "60-8030P",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-white-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375964852606",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 07:23:25",
-          "delivery_price": 3.0,
-          "item_price": 27.27,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 09:22:52",
-          "delivery_price": 0.0,
-          "item_price": 27.27,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T14:49:01Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-01 21:08:13",
-          "delivery_price": 0.0,
-          "item_price": 32.72,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-03T14:49:01Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 15.69,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46566615474",
-      "title": "Cablenet 3m Cat6 RJ45 White U/UTP PVC 24AWG Flush Moulded Booted Patch Lead (PK10)",
-      "valid_until": "2026-11-03T14:23:46Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
-      "deal_page_url": "https://dealburrow.co.uk/products/cablenet-3m-cat6-rj45-white-u-utp-pvc-24awg-flush-moulded-booted-patch-db3e3ec4.html"
     },
     {
       "advertiser_id": "61655",
