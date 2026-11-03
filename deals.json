@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T00:25:22Z",
+    "generated_at": "2026-11-03T00:25:34Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "386a56d28812c88576a103a280f58a7d73a201006126bac321ab4a65638a4b48",
+    "revision": "cdfbf1bacb495a10237a5793e13c3c7b27eabdcf18bf2494f7f42f713ac19809",
     "deal_count": 108,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -2305,7 +2305,7 @@
       "brand": "HYPER",
       "canonical_key": "GTIN:6941921148935",
       "category": "Gaming",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 99.58,
@@ -2321,7 +2321,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "HJ1001WHWWGL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hyper-hj1001whwwgl-mobile-device-charger-gaming-controller-mobile-phone-netbook-laptop-smartphone-tablet-white-ac-fast-charging-indoor?variant=55307799888254",
@@ -2333,7 +2333,7 @@
           "delivery_price": 3.0,
           "item_price": 90.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -2342,7 +2342,7 @@
           "delivery_price": 0.0,
           "item_price": 108.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -2421,7 +2421,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353956360",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1080.4,
@@ -2437,7 +2437,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "GA11816-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-11-dual-sim-android-17-5g-usb-type-c-12-gb-512-gb-4985-mah-lavender?variant=57842643861886",
@@ -2449,7 +2449,7 @@
           "delivery_price": 3.0,
           "item_price": 982.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -2458,7 +2458,7 @@
           "delivery_price": 0.0,
           "item_price": 1178.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -2537,7 +2537,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:0619659146924",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.48,
@@ -2553,7 +2553,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "SDCZ50C-032G-B35BE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-cruzer-blade-32-gb-usb-flash-drive-usb-type-a-20-blue?variant=55308505121150",
@@ -2565,7 +2565,7 @@
           "delivery_price": 3.0,
           "item_price": 31.35,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -2574,7 +2574,7 @@
           "delivery_price": 0.0,
           "item_price": 37.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -2595,7 +2595,7 @@
       "brand": "Kioxia",
       "canonical_key": "GTIN:4582563850040",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.62,
@@ -2611,7 +2611,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "LU301W128GG4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kioxia-transmemory-u301-usb-flash-drive-128-gb-usb-type-a-32-gen-1-31-gen-1-white?variant=55468661997950",
@@ -2623,7 +2623,7 @@
           "delivery_price": 3.0,
           "item_price": 27.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -2632,7 +2632,7 @@
           "delivery_price": 0.0,
           "item_price": 33.41,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -3639,7 +3639,7 @@
       "brand": "Bic",
       "canonical_key": "GTIN:3086123740297",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.24,
@@ -3655,7 +3655,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "517320",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/bic-4-colours-multicolour-medium-12-pcs?variant=57519728066942",
@@ -3667,7 +3667,7 @@
           "delivery_price": 3.0,
           "item_price": 33.86,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -3676,7 +3676,7 @@
           "delivery_price": 0.0,
           "item_price": 40.63,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -3697,7 +3697,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252192560",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.16,
@@ -3713,7 +3713,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "BKBTK2-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-global-2-laptop-156-macbook-pro-16-backpack-case-2-compartment-black-1?variant=56897275855230",
@@ -3725,7 +3725,7 @@
           "delivery_price": 3.0,
           "item_price": 29.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -3734,7 +3734,7 @@
           "delivery_price": 0.0,
           "item_price": 35.09,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -3880,7 +3880,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252208698",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.97,
@@ -3896,7 +3896,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "IPD1022ST-BBK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-satin-ipad-a16-11th-gen-10th-gen-folio-case-super-protective-blue-black?variant=56822300475774",
@@ -3908,7 +3908,7 @@
           "delivery_price": 3.0,
           "item_price": 29.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -3917,7 +3917,7 @@
           "delivery_price": 0.0,
           "item_price": 35.96,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -3996,7 +3996,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252226470",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.1,
@@ -4012,7 +4012,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "MA-STY3-W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-pencil-50-hours-autonomy-white?variant=56897273627006",
@@ -4024,7 +4024,7 @@
           "delivery_price": 3.0,
           "item_price": 31.0,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4033,7 +4033,7 @@
           "delivery_price": 0.0,
           "item_price": 37.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -4411,7 +4411,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950217346",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.56,
@@ -4427,7 +4427,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "MD3X4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-md3x4zma-mobile-phone-case-155-cm-61-cover-green?variant=55307932762494",
@@ -4439,7 +4439,7 @@
           "delivery_price": 3.0,
           "item_price": 39.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4448,7 +4448,7 @@
           "delivery_price": 0.0,
           "item_price": 47.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -4469,7 +4469,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950217308",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.56,
@@ -4485,7 +4485,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "MD3Q4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-iphone-16e-silicone-case-winter-blue?variant=55307930665342",
@@ -4497,7 +4497,7 @@
           "delivery_price": 3.0,
           "item_price": 39.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4506,7 +4506,7 @@
           "delivery_price": 0.0,
           "item_price": 47.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -4643,7 +4643,7 @@
       "brand": "Phanteks",
       "canonical_key": "GTIN:0886523003557",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -4659,7 +4659,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "PH-F140M25_G2_BBK01_3P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/phanteks-m25g2-140-computer-case-fan-14-cm-black?variant=57686863511934",
@@ -4671,7 +4671,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4680,7 +4680,7 @@
           "delivery_price": 0.0,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -4701,7 +4701,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197185127",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.74,
@@ -4717,7 +4717,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "18512",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-18512-computer-cooling-system-partaccessory-tube?variant=57927060193662",
@@ -4729,7 +4729,7 @@
           "delivery_price": 3.0,
           "item_price": 25.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4738,7 +4738,7 @@
           "delivery_price": 0.0,
           "item_price": 30.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -4933,7 +4933,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951382005",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.12,
@@ -4949,7 +4949,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "MKF84ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-wrist-strap-crisp-blue?variant=58019522871678",
@@ -4961,7 +4961,7 @@
           "delivery_price": 3.0,
           "item_price": 32.83,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -4970,7 +4970,7 @@
           "delivery_price": 0.0,
           "item_price": 39.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5049,7 +5049,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466013163",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.66,
@@ -5065,7 +5065,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "UF-SLIN140-1W",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-uf-slin140-1w-computer-cooling-system-computer-case-fan-14-cm-white-1-pcs?variant=55425021084030",
@@ -5077,7 +5077,7 @@
           "delivery_price": 3.0,
           "item_price": 25.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5086,7 +5086,7 @@
           "delivery_price": 0.0,
           "item_price": 30.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5165,7 +5165,7 @@
       "brand": "Xerox",
       "canonical_key": "GTIN:0095205894264",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.23,
@@ -5181,7 +5181,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "006R03688",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/everydaytm-black-toner-by-xerox-compatible-with-hp-201a-cf400a-standard-capacity?variant=55307980734846",
@@ -5193,7 +5193,7 @@
           "delivery_price": 0.0,
           "item_price": 22.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5202,7 +5202,7 @@
           "delivery_price": 0.0,
           "item_price": 27.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5281,7 +5281,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239423879",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.21,
@@ -5297,7 +5297,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "D32183",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d32183-mobile-device-charger-laptop-smartphone-tablet-white-ac-fast-charging-indoor?variant=57921421050238",
@@ -5309,7 +5309,7 @@
           "delivery_price": 3.0,
           "item_price": 22.92,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5318,7 +5318,7 @@
           "delivery_price": 0.0,
           "item_price": 27.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5629,7 +5629,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197174909",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.7,
@@ -5645,7 +5645,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "17490",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-17490-computer-cooling-system-partaccessory-tube?variant=57837888045438",
@@ -5657,7 +5657,7 @@
           "delivery_price": 3.0,
           "item_price": 26.09,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5666,7 +5666,7 @@
           "delivery_price": 0.0,
           "item_price": 31.31,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5687,7 +5687,7 @@
       "brand": "HAVN",
       "canonical_key": "GTIN:4251442512910",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.7,
@@ -5703,7 +5703,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "HVN-AS-HS420-06-36A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/havn-hs-420-fan-brackets-for-360mm-radiator-alignment?variant=57079273259390",
@@ -5715,7 +5715,7 @@
           "delivery_price": 3.0,
           "item_price": 26.09,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5724,7 +5724,7 @@
           "delivery_price": 0.0,
           "item_price": 31.31,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5745,7 +5745,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197186339",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.7,
@@ -5761,7 +5761,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "18633",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-18633-computer-cooling-system-partaccessory-tubing?variant=57927061799294",
@@ -5773,7 +5773,7 @@
           "delivery_price": 3.0,
           "item_price": 26.09,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5782,7 +5782,7 @@
           "delivery_price": 0.0,
           "item_price": 31.31,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5861,7 +5861,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:5099206112438",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 206.8,
@@ -5877,7 +5877,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "920-011613",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-mx-keys-s-combo?variant=55306752557438",
@@ -5889,7 +5889,7 @@
           "delivery_price": 3.0,
           "item_price": 188.0,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5898,7 +5898,7 @@
           "delivery_price": 0.0,
           "item_price": 225.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -5919,7 +5919,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239421516",
       "category": "Other",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.08,
@@ -5935,7 +5935,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "D32074",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d32074-stylus-pen-white?variant=55469047185790",
@@ -5947,7 +5947,7 @@
           "delivery_price": 3.0,
           "item_price": 22.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -5956,7 +5956,7 @@
           "delivery_price": 0.0,
           "item_price": 27.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -6035,7 +6035,7 @@
       "brand": "Acer",
       "canonical_key": "GTIN:4711721089781",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 454.43,
@@ -6051,7 +6051,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "NX.BEPEK.006",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-travelmate-b3-11-laptop-nxbepek006-intel-n150-8gb-ram-128gb-emmc-windows-11-pro-education?variant=57871135474046",
@@ -6063,7 +6063,7 @@
           "delivery_price": 3.0,
           "item_price": 413.12,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -6072,7 +6072,7 @@
           "delivery_price": 0.0,
           "item_price": 495.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
@@ -6151,7 +6151,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030883641",
       "category": "Technology",
-      "checked_at": "2026-11-03T00:25:18Z",
+      "checked_at": "2026-11-03T00:25:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.18,
@@ -6167,7 +6167,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T00:25:18Z",
+      "market_verified_at": "2026-11-03T00:25:32Z",
       "mpn": "CDP2DP14UCPB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-displayport-adapter-with-power-delivery-8k-60hz-4k-120hz-usb-type-c-to-dp-14-video-converter-w-60w-pd-pass-through-charging-hbr3-thunderbolt-3-compatible?variant=55306517610878",
@@ -6179,7 +6179,7 @@
           "delivery_price": 0.0,
           "item_price": 23.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         },
         {
           "availability": null,
@@ -6188,7 +6188,7 @@
           "delivery_price": 0.0,
           "item_price": 28.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T00:55:18Z"
+          "valid_until": "2026-11-03T00:55:32Z"
         }
       ],
       "publishable": true,
