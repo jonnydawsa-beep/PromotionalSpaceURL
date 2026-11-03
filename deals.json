@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T10:22:16Z",
+    "generated_at": "2026-11-03T10:23:15Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "8fa1684391274f42b959bf886968377c03834725be69686199ecfac11703f52a",
+    "revision": "0afcd6ad35a75b80e14ddf8055e061993a216c7e9ddef187faacf6e6dff97759",
     "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -20,7 +20,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:9785519069700",
       "category": "Other",
-      "checked_at": "2026-11-03T10:22:16Z",
+      "checked_at": "2026-11-03T10:23:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 116.26,
@@ -36,7 +36,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:22:16Z",
+      "market_verified_at": "2026-11-03T10:23:14Z",
       "mpn": "981-001389",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn-1?variant=55307556454782",
@@ -48,7 +48,7 @@
           "delivery_price": 0.0,
           "item_price": 105.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         },
         {
           "availability": null,
@@ -57,7 +57,7 @@
           "delivery_price": 0.0,
           "item_price": 126.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         }
       ],
       "publishable": true,
@@ -66,7 +66,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269696",
       "title": "Logitech Zone Learn",
-      "valid_until": "2026-11-03T10:25:16Z",
+      "valid_until": "2026-11-03T10:53:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/logitech-zone-learn-db3f6d4d.html"
@@ -136,7 +136,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:22:16Z",
+      "checked_at": "2026-11-03T10:23:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
@@ -152,7 +152,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:22:16Z",
+      "market_verified_at": "2026-11-03T10:23:14Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -164,7 +164,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         },
         {
           "availability": null,
@@ -173,7 +173,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         }
       ],
       "publishable": true,
@@ -182,7 +182,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46424845178",
       "title": "StarTech.com USB-C Dual Monitor Multiport Adapter up to 4K 60Hz USB-C DP Alt Mode Video Output & HDMI 2.0, or 1080p VGA, 100W PD Pass-Through, USB Type C Mini Dock, USB-C Docking Station, MST Hub",
-      "valid_until": "2026-11-03T10:25:16Z",
+      "valid_until": "2026-11-03T10:53:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-db30684f.html"
@@ -194,7 +194,7 @@
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035194660",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:22:16Z",
+      "checked_at": "2026-11-03T10:23:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 224.55,
@@ -210,7 +210,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:22:16Z",
+      "market_verified_at": "2026-11-03T10:23:14Z",
       "mpn": "AT-SP10SR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-mbit-s-sfp-850-nm?variant=58376179941758",
@@ -222,7 +222,7 @@
           "delivery_price": 3.0,
           "item_price": 224.55,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         },
         {
           "availability": null,
@@ -231,7 +231,7 @@
           "delivery_price": 0.0,
           "item_price": 224.55,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         }
       ],
       "publishable": true,
@@ -240,7 +240,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566616142",
       "title": "Allied Telesis AT-SP10SR network transceiver module Fiber optic 10300 Mbit/s SFP+ 850 nm",
-      "valid_until": "2026-11-03T10:25:16Z",
+      "valid_until": "2026-11-03T10:53:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/allied-telesis-at-sp10sr-network-transceiver-module-fiber-optic-10300-db3bccbf.html"
@@ -252,7 +252,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170222",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:22:16Z",
+      "checked_at": "2026-11-03T10:23:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 7810.84,
@@ -268,7 +268,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:22:16Z",
+      "market_verified_at": "2026-11-03T10:23:14Z",
       "mpn": "C9200L-48PXG-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468170314110",
@@ -280,7 +280,7 @@
           "delivery_price": 3.0,
           "item_price": 7810.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         },
         {
           "availability": null,
@@ -289,7 +289,7 @@
           "delivery_price": 0.0,
           "item_price": 7810.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         }
       ],
       "publishable": true,
@@ -298,7 +298,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075448098",
       "title": "Cisco C9200L-48PXG-4X-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T10:25:16Z",
+      "valid_until": "2026-11-03T10:53:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9200l-48pxg-4x-e-network-switch-managed-l2-l3-gigabit-ethernet-db398906.html"
@@ -377,7 +377,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:0844668156569",
       "category": "Technology",
-      "checked_at": "2026-11-03T10:22:16Z",
+      "checked_at": "2026-11-03T10:23:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.65,
@@ -393,7 +393,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T10:22:16Z",
+      "market_verified_at": "2026-11-03T10:23:14Z",
       "mpn": "HSNI-MBNEO-TR",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent?variant=58375841218942",
@@ -405,7 +405,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         },
         {
           "availability": null,
@@ -414,7 +414,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T10:52:16Z"
+          "valid_until": "2026-11-03T10:53:14Z"
         }
       ],
       "publishable": true,
@@ -423,7 +423,7 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566615135",
       "title": "Tucano HSNI-MBNEO-TR laptop case 33 cm (13\") Hardshell case Transparent",
-      "valid_until": "2026-11-03T10:25:16Z",
+      "valid_until": "2026-11-03T10:53:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.4.1",
       "deal_page_url": "https://dealburrow.co.uk/products/tucano-hsni-mbneo-tr-laptop-case-33-cm-13-hardshell-case-transparent-db30171c.html"
