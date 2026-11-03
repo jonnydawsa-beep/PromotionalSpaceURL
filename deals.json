@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T19:24:34Z",
+    "generated_at": "2026-11-03T19:32:07Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "7f695be0d0475f2ed5550a68ab5d2e99e3f72d4fd08870bac3c011b008d19818",
+    "revision": "e52b16d60ea04c7dcb180462819ac313285b98437c0687d9f2564ef9391ab8ad",
     "deal_count": 39,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -713,7 +713,7 @@
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:49071",
       "category": "Technology",
-      "checked_at": "2026-11-03T19:17:20Z",
+      "checked_at": "2026-11-03T19:32:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T19:17:20Z",
+      "market_verified_at": "2026-11-03T19:32:07Z",
       "mpn": "49071",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black?variant=56668028764542",
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T19:47:20Z"
+          "valid_until": "2026-11-03T20:02:07Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T19:47:20Z"
+          "valid_until": "2026-11-03T20:02:07Z"
         }
       ],
       "publishable": true,
@@ -763,7 +763,7 @@
       "title": "Verbatim PinStripe - USB Drive 128 GB - Black",
       "valid_until": "2026-11-03T19:36:56Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.1",
+      "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black-db3983b6.html"
     },
     {
