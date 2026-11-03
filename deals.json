@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T20:10:33Z",
+    "generated_at": "2026-11-03T20:22:44Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "652c2c695a3d8f9742f1106c2bf9e0dd9790029c7288ac576cde332def4828a8",
+    "revision": "b77382b1d3addcad58a2725e73881de57e7b5865246f2e3abe08f84970d70718",
     "deal_count": 68,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -1696,7 +1696,7 @@
       "brand": "Nvidia",
       "canonical_key": "GTIN:7290107192286",
       "category": "Technology",
-      "checked_at": "2026-11-03T20:10:28Z",
+      "checked_at": "2026-11-03T20:22:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 185.85,
@@ -1712,7 +1712,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T20:10:28Z",
+      "market_verified_at": "2026-11-03T20:22:14Z",
       "mpn": "930-9O000-0000-409",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-930-9o000-0000-409-network-transceiver-module-fiber-optic-10000-mbit-s-sfp?variant=58379288510846",
@@ -1724,7 +1724,7 @@
           "delivery_price": null,
           "item_price": 185.85,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         },
         {
           "availability": null,
@@ -1733,7 +1733,7 @@
           "delivery_price": null,
           "item_price": 185.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         }
       ],
       "publishable": true,
@@ -1829,7 +1829,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:5099206064225",
       "category": "Technology",
-      "checked_at": "2026-11-03T20:10:28Z",
+      "checked_at": "2026-11-03T20:22:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.52,
@@ -1845,7 +1845,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T20:10:28Z",
+      "market_verified_at": "2026-11-03T20:22:14Z",
       "mpn": "960-001065",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-c310-hd-webcam?variant=55306262577534",
@@ -1857,7 +1857,7 @@
           "delivery_price": null,
           "item_price": 36.52,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         },
         {
           "availability": null,
@@ -1866,7 +1866,7 @@
           "delivery_price": null,
           "item_price": 36.52,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         }
       ],
       "publishable": true,
@@ -3069,7 +3069,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439253733",
       "category": "Technology",
-      "checked_at": "2026-11-03T20:10:28Z",
+      "checked_at": "2026-11-03T20:22:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.9,
@@ -3085,7 +3085,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T20:10:28Z",
+      "market_verified_at": "2026-11-03T20:22:14Z",
       "mpn": "25373",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-hs-201-headset-wired-head-band-officecall-center-usb-type-a-black-1?variant=56833175290238",
@@ -3097,7 +3097,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         },
         {
           "availability": null,
@@ -3106,7 +3106,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T20:40:28Z"
+          "valid_until": "2026-11-03T20:52:14Z"
         }
       ],
       "publishable": true,
