@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T05:20:09Z",
+    "generated_at": "2026-11-03T05:20:23Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "97348c7d1f82c528b80b93591ba1dbcf7550947e014ae1be3b4f96bfcf20507a",
+    "revision": "b2dfc456f5c38b6d75d3165b699f02fc6fe630e41defebc51f36c0939c014741",
     "deal_count": 139,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4219,7 +4219,7 @@
       "brand": "Lian Li",
       "canonical_key": "GTIN:4718466016713",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.57,
@@ -4235,7 +4235,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "12RSL1W1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lian-li-uni-fan-sl-wireless-120-reverse-blade-computer-case-12-cm-black-1-pcs?variant=55425049002366",
@@ -4247,7 +4247,7 @@
           "delivery_price": 3.0,
           "item_price": 25.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -4256,7 +4256,7 @@
           "delivery_price": 0.0,
           "item_price": 30.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -4277,7 +4277,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439256741",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.55,
@@ -4293,7 +4293,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "25674",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-25674-mouse-universal-ambidextrous-bluetooth-3200-dpi-1?variant=56833175355774",
@@ -4305,7 +4305,7 @@
           "delivery_price": 3.0,
           "item_price": 29.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -4314,7 +4314,7 @@
           "delivery_price": 0.0,
           "item_price": 35.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -4335,7 +4335,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439251951",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.55,
@@ -4351,7 +4351,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "25195",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-primo-396-cm-156-monitorlaptop-frameless-display-privacy-filter?variant=56973155434878",
@@ -4363,7 +4363,7 @@
           "delivery_price": 3.0,
           "item_price": 29.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -4372,7 +4372,7 @@
           "delivery_price": 0.0,
           "item_price": 35.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -4451,7 +4451,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950667363",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.51,
@@ -4467,7 +4467,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "MFE94ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-airtag-personal-finder-silver-white?variant=56893714203006",
@@ -4479,7 +4479,7 @@
           "delivery_price": 3.0,
           "item_price": 34.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -4488,7 +4488,7 @@
           "delivery_price": 0.0,
           "item_price": 40.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -4732,7 +4732,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:8715946732701",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 930.35,
@@ -4748,7 +4748,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "C11CL35401BY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-workforce-pro-em-c7100dwf?variant=55306961420670",
@@ -4760,7 +4760,7 @@
           "delivery_price": 3.0,
           "item_price": 845.77,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -4769,7 +4769,7 @@
           "delivery_price": 0.0,
           "item_price": 1014.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -5330,7 +5330,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:5099206125292",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 134.84,
@@ -5346,7 +5346,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "984-001977",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/ultimate-ears-boom-4-stereo-portable-speaker-blue?variant=56607254086014",
@@ -5358,7 +5358,7 @@
           "delivery_price": 3.0,
           "item_price": 122.58,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -5367,7 +5367,7 @@
           "delivery_price": 0.0,
           "item_price": 147.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -5446,7 +5446,7 @@
       "brand": "Arozzi",
       "canonical_key": "GTIN:0850054766571",
       "category": "Gaming",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 249.13,
@@ -5462,7 +5462,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "ARENA-MEDIUM-PBK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/arozzi-arena-medium-gaming-desk-pure-black?variant=57756327149950",
@@ -5474,7 +5474,7 @@
           "delivery_price": 3.0,
           "item_price": 226.48,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -5483,7 +5483,7 @@
           "delivery_price": 0.0,
           "item_price": 271.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -5620,7 +5620,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640239421387",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.51,
@@ -5636,7 +5636,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "D32061",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d32061-interface-hub-usb-type-c-10000-mbits-silver?variant=55469025984894",
@@ -5648,7 +5648,7 @@
           "delivery_price": 3.0,
           "item_price": 23.19,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -5657,7 +5657,7 @@
           "delivery_price": 0.0,
           "item_price": 27.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -5861,7 +5861,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:5099206115255",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 119.99,
@@ -5877,7 +5877,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "984-001897",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/ultimate-ears-wonderboom-4-stereo-portable-speaker-grey-yellow?variant=56607255069054",
@@ -5889,7 +5889,7 @@
           "delivery_price": 3.0,
           "item_price": 109.08,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -5898,7 +5898,7 @@
           "delivery_price": 0.0,
           "item_price": 130.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -6209,7 +6209,7 @@
       "brand": "Zagg",
       "canonical_key": "GTIN:0840056185050",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.28,
@@ -6225,7 +6225,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "200111800",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/zagg-invisibleshield-glass-xtr3-am-apple-iphone-15-screen-intl?variant=56724349387134",
@@ -6237,7 +6237,7 @@
           "delivery_price": 3.0,
           "item_price": 22.98,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -6246,7 +6246,7 @@
           "delivery_price": 0.0,
           "item_price": 27.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -6325,7 +6325,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:5032037283564",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 648.46,
@@ -6341,7 +6341,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "E835XXVDA4OC3M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-e835-xxvda4-ocp-30-internal-fiber-25000-mbits-1?variant=57360209772926",
@@ -6353,7 +6353,7 @@
           "delivery_price": 3.0,
           "item_price": 589.51,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -6362,7 +6362,7 @@
           "delivery_price": 0.0,
           "item_price": 707.41,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -6441,7 +6441,7 @@
       "brand": "Leitz",
       "canonical_key": "GTIN:4002432138449",
       "category": "Home",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.06,
@@ -6457,7 +6457,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "65480000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/leitz-ergo-small-pegboard-desk-organiser-42x25-cm?variant=57519726821758",
@@ -6469,7 +6469,7 @@
           "delivery_price": 3.0,
           "item_price": 32.78,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -6478,7 +6478,7 @@
           "delivery_price": 0.0,
           "item_price": 39.34,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -7137,7 +7137,7 @@
       "brand": "Lindy",
       "canonical_key": "GTIN:4002888382847",
       "category": "Other",
-      "checked_at": "2026-11-03T04:59:03Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.31,
@@ -7153,7 +7153,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:03Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "38284",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lindy-vga-and-audio-to-hdmi-converter?variant=55307406934398",
@@ -7165,7 +7165,7 @@
           "delivery_price": 3.0,
           "item_price": 23.92,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -7174,7 +7174,7 @@
           "delivery_price": 0.0,
           "item_price": 28.7,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:03Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
@@ -7543,7 +7543,7 @@
       "brand": "PORT DESIGNS",
       "canonical_key": "GTIN:3567041102850",
       "category": "Technology",
-      "checked_at": "2026-11-03T04:59:04Z",
+      "checked_at": "2026-11-03T05:20:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.04,
@@ -7559,7 +7559,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T04:59:04Z",
+      "market_verified_at": "2026-11-03T05:20:22Z",
       "mpn": "110285",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/port-designs-houston-ii-tl-eco-laptop-case?variant=57902305182078",
@@ -7571,7 +7571,7 @@
           "delivery_price": 3.0,
           "item_price": 22.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         },
         {
           "availability": null,
@@ -7580,7 +7580,7 @@
           "delivery_price": 0.0,
           "item_price": 27.31,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T05:29:04Z"
+          "valid_until": "2026-11-03T05:50:22Z"
         }
       ],
       "publishable": true,
