@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T17:28:46Z",
+    "generated_at": "2026-11-03T17:32:57Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.1-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b9ea756cf6ee16703eaa7d9205c16563ffd2b0348b1770bceb4d4cfeed6bc49b",
+    "revision": "462541116766f2b7eb2e65a5e66ac0b73e492b99e15e5f3afb567e54b46d66b9",
     "deal_count": 39,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -17,10 +17,12 @@
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-8e859aa2567cf7a72162dfb6ad16&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstartechcom-7-port-pci-usb-card-adapter-taa%3Fvariant%3D55306449846654&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030836531",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -36,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "PCIUSB7",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-7-port-pci-usb-card-adapter-taa?variant=55306449846654",
@@ -48,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 43.06,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -57,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -65,20 +67,24 @@
       "saving_percent": 51.46,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278704",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "StarTech.com 7 Port PCI USB Card Adapter - TAA",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-7-port-pci-usb-card-adapter-taa-db38e859.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9a66031d665c8188aa07cf72332e&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-pro-13-14-plus-ecoloop-briefcase-cc5425c%3Fvariant%3D55307672551806&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877838",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 45.24,
@@ -94,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "DELL-CC5425C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c?variant=55307672551806",
@@ -106,7 +112,7 @@
           "delivery_price": 0.0,
           "item_price": 45.24,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -115,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 45.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -123,20 +129,24 @@
       "saving_percent": 40.34,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271571",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c22d571044b2a8bb64c8e084aefa&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-privacy-screen-22w-1610-1%3Fvariant%3D55307009753470&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Targus",
       "canonical_key": "GTIN:5024442896606",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 72.93,
@@ -152,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "ASF220WEU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-privacy-screen-22w-1610-1?variant=55307009753470",
@@ -164,7 +174,7 @@
           "delivery_price": 0.0,
           "item_price": 72.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -173,7 +183,7 @@
           "delivery_price": 3.0,
           "item_price": 72.93,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -181,20 +191,24 @@
       "saving_percent": 39.68,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269412",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Targus Privacy Screen 22\"W (16:10)",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-privacy-screen-22-w-16-10-db3c22d5.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-d90e447707b0267e803366c190c8&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flenovo-hdmi-vga-02-m-black%3Fvariant%3D55306358358398&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Lenovo",
       "canonical_key": "GTIN:0887037480414",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -210,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "0B47069",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -222,7 +236,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -231,7 +245,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -240,7 +254,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -248,20 +262,24 @@
       "saving_percent": 38.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475275850",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Lenovo HDMI / VGA 0.2 m Black",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-hdmi-vga-0-2-m-black-db3d90e4.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-b83450f6f75a1d7ab0942fac2f9b&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fhp-everyday-photo-paper-glossy-200-gm2-a4-210-x-297-mm-100-sheets%3Fvariant%3D55308490572158&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HP",
       "canonical_key": "GTIN:0808736472647",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.65,
@@ -277,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "Q2510A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-everyday-photo-paper-glossy-200-gm2-a4-210-x-297-mm-100-sheets?variant=55308490572158",
@@ -289,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 36.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -298,7 +316,7 @@
           "delivery_price": 3.0,
           "item_price": 36.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -306,20 +324,24 @@
       "saving_percent": 37.27,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266303",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HP Everyday Photo Paper Glossy 200 g/m2 A4 (210 x 297 mm) 100 sheets",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-everyday-photo-paper-glossy-200-g-m2-a4-210-x-297-mm-100-sheets-db3b8345.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-548921a8e306d690b204ac669242&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fintel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits%3Fvariant%3D55308927861118&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Intel",
       "canonical_key": "GTIN:735858547291",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 39.79,
@@ -335,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "BE200.NGWG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits?variant=55308927861118",
@@ -347,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -356,7 +378,7 @@
           "delivery_price": 3.0,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -364,20 +386,24 @@
       "saving_percent": 37.2,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285755",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-eb49a32eff171514ad69ed1e27f4&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey%3Fvariant%3D55468143378814&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170178",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3170.76,
@@ -393,7 +419,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "C9200L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -405,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 3170.76,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -414,7 +440,7 @@
           "delivery_price": 3.0,
           "item_price": 3170.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -422,20 +448,24 @@
       "saving_percent": 36.55,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447705",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Cisco Catalyst 9200L Managed L3 10G Ethernet (100/1000/10000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4ee51a423ad2fd80d086b3fdb826&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3%3Fvariant%3D55468144066942&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 5467.17,
@@ -451,7 +481,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -463,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 5467.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -472,7 +502,7 @@
           "delivery_price": 3.0,
           "item_price": 5467.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -480,20 +510,24 @@
       "saving_percent": 36.48,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447716",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-1187964b1fc974082c61afc7fb95&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fhp-937-cyan-original-ink-cartridge-1%3Fvariant%3D55308915900798&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HP",
       "canonical_key": "GTIN:0196786147531",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.7,
@@ -509,7 +543,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "4S6W2NE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-937-cyan-original-ink-cartridge-1?variant=55308915900798",
@@ -521,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -530,7 +564,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -538,20 +572,24 @@
       "saving_percent": 35.43,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285662",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HP 937 Cyan Original Ink Cartridge",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-937-cyan-original-ink-cartridge-db311879.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c0880989ff678e2739fe87056823&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fhp-stereo-usb-headset-g2%3Fvariant%3D55307379868030&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HP",
       "canonical_key": "GTIN:0195908812531",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 35.43,
@@ -567,7 +605,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "428K6AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-stereo-usb-headset-g2?variant=55307379868030",
@@ -579,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 35.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -588,7 +626,7 @@
           "delivery_price": 3.0,
           "item_price": 35.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -596,20 +634,24 @@
       "saving_percent": 35.11,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271109",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HP Stereo USB Headset G2",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-stereo-usb-headset-g2-db3c0880.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-3105dbfec0dddd4c11e7acda793a&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-pro-rugged-18-premium-backpack%3Fvariant%3D55307410833790&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dell",
       "canonical_key": "GTIN:5397184725467",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 102.53,
@@ -625,7 +667,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "DELL-DNHTM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-rugged-18-premium-backpack?variant=55307410833790",
@@ -637,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 102.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -646,7 +688,7 @@
           "delivery_price": 3.0,
           "item_price": 102.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -654,20 +696,24 @@
       "saving_percent": 34.66,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271319",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DELL Pro Rugged 18 Premium Backpack",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-rugged-18-premium-backpack-db33105d.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-983b6da8824c3a63a2cbbca8d8f0&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fverbatim-pinstripe-usb-drive-128-gb-black%3Fvariant%3D56668028764542&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:49071",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -683,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "49071",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black?variant=56668028764542",
@@ -695,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -704,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -712,20 +758,24 @@
       "saving_percent": 33.95,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43380116933",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Verbatim PinStripe - USB Drive 128 GB - Black",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black-db3983b6.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7e7d818abf85a58e51e968ef9464&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black%3Fvariant%3D55467273912702&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.87,
@@ -741,7 +791,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -753,7 +803,7 @@
           "delivery_price": 0.0,
           "item_price": 52.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -762,7 +812,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -770,20 +820,24 @@
       "saving_percent": 33.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43071993398",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-0f4408ed2484f6291f1100e16176&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fhp-prelude-pro-156-inch-recycled-backpack%3Fvariant%3D55307241783678&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HP",
       "canonical_key": "GTIN:0194850442308",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.88,
@@ -799,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "1X644AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-prelude-pro-156-inch-recycled-backpack?variant=55307241783678",
@@ -811,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 37.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -820,7 +874,7 @@
           "delivery_price": 3.0,
           "item_price": 37.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -828,20 +882,24 @@
       "saving_percent": 31.39,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475274019",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HP Prelude Pro 15.6-inch Recycled Backpack",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-prelude-pro-15-6-inch-recycled-backpack-db30f440.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-091b5a08c026cf9887facf4e0be4&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-sa224-interface-cardsadapter-rj-45-1%3Fvariant%3D55307673764222&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877142",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 39.79,
@@ -857,7 +915,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "DELL-SA224-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-sa224-interface-cardsadapter-rj-45-1?variant=55307673764222",
@@ -869,7 +927,7 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -878,7 +936,7 @@
           "delivery_price": 3.0,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -886,20 +944,24 @@
       "saving_percent": 29.66,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271621",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DELL SA224 interface cards/adapter RJ-45",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-sa224-interface-cards-adapter-rj-45-db3091b5.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c4b117f431aea85264d6e08b8492&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flenovo-4x41d97727-laptop-case-356-cm-14-toploader-bag-black%3Fvariant%3D55307346772350&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Lenovo",
       "canonical_key": "GTIN:0195892022022",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 40.88,
@@ -915,7 +977,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "4X41D97727",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x41d97727-laptop-case-356-cm-14-toploader-bag-black?variant=55307346772350",
@@ -927,7 +989,7 @@
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -936,7 +998,7 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -944,20 +1006,24 @@
       "saving_percent": 29.09,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476149145",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Lenovo 4X41D97727 laptop case 35.6 cm (14\") Toploader bag Black",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-4x41d97727-laptop-case-35-6-cm-14-toploader-bag-black-db3c4b11.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-09c7e35ed43af88b6149870864ff&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fverbatim-dvd-r-matt-silver-47-gb-50-pcs%3Fvariant%3D55308618629502&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:43548",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.59,
@@ -973,7 +1039,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "43548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-dvd-r-matt-silver-47-gb-50-pcs?variant=55308618629502",
@@ -985,7 +1051,7 @@
           "delivery_price": 0.0,
           "item_price": 30.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -994,7 +1060,7 @@
           "delivery_price": 0.0,
           "item_price": 36.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1002,20 +1068,24 @@
       "saving_percent": 28.57,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266733",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Verbatim DVD-R Matt Silver 4.7 GB 50 pc(s)",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-dvd-r-matt-silver-4-7-gb-50-pc-s-db309c7e.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-98e3e423310fed6d04931d1fbd3f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e%3Fvariant%3D55468141248894&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1432.96,
@@ -1031,7 +1101,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -1043,7 +1113,7 @@
           "delivery_price": 0.0,
           "item_price": 1432.96,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1052,7 +1122,7 @@
           "delivery_price": 3.0,
           "item_price": 1432.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1060,20 +1130,24 @@
       "saving_percent": 26.31,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447697",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f3caf55d2b20358be97e0dcc7eac&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fbrother-tn-8000-toner-cartridge-1-pcs-original-black%3Fvariant%3D55308816089470&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Brother",
       "canonical_key": "GTIN:4977766601115",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 41.97,
@@ -1089,7 +1163,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "TN-8000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-8000-toner-cartridge-1-pcs-original-black?variant=55308816089470",
@@ -1101,7 +1175,7 @@
           "delivery_price": 0.0,
           "item_price": 41.97,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1110,7 +1184,7 @@
           "delivery_price": 3.0,
           "item_price": 41.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1119,7 +1193,7 @@
           "delivery_price": 0.0,
           "item_price": 50.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1127,20 +1201,24 @@
       "saving_percent": 26.16,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476162711",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Brother TN-8000 toner cartridge 1 pc(s) Original Black",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-tn-8000-toner-cartridge-1-pc-s-original-black-db3f3caf.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-3e3aef35e418deb55d57270c22a7&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fhp-85a-black-original-laserjet-toner-cartridge%3Fvariant%3D55306420289918&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HP",
       "canonical_key": "GTIN:0884420588689",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 136.34,
@@ -1156,7 +1234,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "CE285A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-85a-black-original-laserjet-toner-cartridge?variant=55306420289918",
@@ -1168,7 +1246,7 @@
           "delivery_price": 0.0,
           "item_price": 136.34,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1177,7 +1255,7 @@
           "delivery_price": 3.0,
           "item_price": 136.34,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1186,7 +1264,7 @@
           "delivery_price": 0.0,
           "item_price": 163.61,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1194,20 +1272,24 @@
       "saving_percent": 25.19,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475277290",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HP 85A Black Original LaserJet Toner Cartridge",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-85a-black-original-laserjet-toner-cartridge-db33e3ae.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-978e65a0799f43451c0ed81ee8a1&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsandisk-64gb-sdxc-class-4-1%3Fvariant%3D55306455908734&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.76,
@@ -1223,7 +1305,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -1235,7 +1317,7 @@
           "delivery_price": 0.0,
           "item_price": 39.76,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1244,7 +1326,7 @@
           "delivery_price": 3.0,
           "item_price": 39.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1253,7 +1335,7 @@
           "delivery_price": 0.0,
           "item_price": 47.71,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1261,20 +1343,24 @@
       "saving_percent": 24.57,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-e5719b40ed5e18c3498416498ff6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fenergizer-industrial-single-use-battery-c-alkaline%3Fvariant%3D57519768699262&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Energizer",
       "canonical_key": "BRANDMPN:energizer:636107",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.88,
@@ -1290,7 +1376,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "636107",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/energizer-industrial-single-use-battery-c-alkaline?variant=57519768699262",
@@ -1302,7 +1388,7 @@
           "delivery_price": 0.0,
           "item_price": 29.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1311,7 +1397,7 @@
           "delivery_price": 0.0,
           "item_price": 35.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1319,20 +1405,24 @@
       "saving_percent": 24.0,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "44970739902",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Energizer Industrial Single-use battery C Alkaline",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/energizer-industrial-single-use-battery-c-alkaline-db3e5719.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-ab0b7ca962074c22017d151a683c&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468144886142&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 7665.37,
@@ -1348,7 +1438,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -1360,7 +1450,7 @@
           "delivery_price": 0.0,
           "item_price": 7665.37,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1369,7 +1459,7 @@
           "delivery_price": 3.0,
           "item_price": 7665.37,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1377,20 +1467,24 @@
       "saving_percent": 23.87,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447741",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-832672d92485e31ea239795e8bc5&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-5rgky%3Fvariant%3D55307545903486&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.79,
@@ -1406,7 +1500,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -1418,7 +1512,7 @@
           "delivery_price": 0.0,
           "item_price": 54.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1427,7 +1521,7 @@
           "delivery_price": 3.0,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1435,20 +1529,24 @@
       "saving_percent": 23.36,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269400",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DELL 5RGKY",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-5rgky-db383267.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2c37213860ad960421c94f07c20c&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-cypress-ecosmart-396-cm-156-backpack-grey%3Fvariant%3D55307227398526&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029741",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.84,
@@ -1464,7 +1562,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "TBB58702GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-backpack-grey?variant=55307227398526",
@@ -1476,7 +1574,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1485,7 +1583,7 @@
           "delivery_price": 3.0,
           "item_price": 54.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1493,20 +1591,24 @@
       "saving_percent": 21.61,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273943",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-backpack-grey-db32c372.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-56af6732b8c2c49faffd604b2def&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fistorage-diskashur-m2-ssd-500gb-secure-portable-solid-state-drive-fips-140-3-level-3-compliant-common-criteria-eal-5-os-platform-independent-gdpr-taa-compliantbrute-force-hack-defence-dustwater-resistant-1%3Fvariant%3D55468668617086&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "iStorage",
       "canonical_key": "GTIN:5060220253377",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 274.13,
@@ -1522,7 +1624,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "IS-DAM2-256-500",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/istorage-diskashur-m2-ssd-500gb-secure-portable-solid-state-drive-fips-140-3-level-3-compliant-common-criteria-eal-5-os-platform-independent-gdpr-taa-compliantbrute-force-hack-defence-dustwater-resistant-1?variant=55468668617086",
@@ -1534,7 +1636,7 @@
           "delivery_price": 0.0,
           "item_price": 274.13,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1543,7 +1645,7 @@
           "delivery_price": 3.0,
           "item_price": 274.13,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1551,20 +1653,24 @@
       "saving_percent": 21.57,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075454922",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "iStorage diskAshur M² SSD 500GB | Secure Portable Solid State Drive | FIPS 140-3 Level 3 Compliant | Common Criteria EAL 5+ | OS & Platform Independent |GDPR, TAA Compliant|Brute force hack defence | Dust/Water Resistant",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/istorage-diskashur-m2-ssd-500gb-secure-portable-solid-state-drive-fips-db356af6.html"
     },
     {
       "advertiser_id": "17151",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=17151&awinaffid=3115871&campaign=&clickref=DB3-db3-c103928b974538839983880601f6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.aosom.co.uk%2Fitem%2Fhomcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white%7E28BIH3TSPUO01.html%3Futm_source%3Dawin%26utm_medium%3Daffiliate&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349421",
       "category": "Home",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 12,
       "comparison_price": 109.99,
@@ -1580,7 +1686,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "920-106V00WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -1592,7 +1698,7 @@
           "delivery_price": 0.0,
           "item_price": 110.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1600,20 +1706,24 @@
       "saving_percent": 20.91,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45953893120",
+      "stock_checked_at": "2026-11-03T11:22:30Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HOMCOM 105 x 51 cm Foldable Office Deskwith 3 Drawers, Extendable Top, Wheels, White",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-w-db3c1039.html"
     },
     {
       "advertiser_id": "17151",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=17151&awinaffid=3115871&campaign=&clickref=DB3-db3-83b9b47b81ba8d685db9bc9c5aaf&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.aosom.co.uk%2Fitem%2Fhomcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study%7E1RKS053KHT800.html%3Futm_source%3Dawin%26utm_medium%3Daffiliate&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 12,
       "comparison_price": 49.99,
@@ -1629,7 +1739,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -1641,7 +1751,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1649,20 +1759,24 @@
       "saving_percent": 20.0,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
+      "stock_checked_at": "2026-11-03T11:22:30Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-08be6674abb4a892836a2d9ec522&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468144427390&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 7665.37,
@@ -1678,7 +1792,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -1690,7 +1804,7 @@
           "delivery_price": 0.0,
           "item_price": 7665.37,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1699,7 +1813,7 @@
           "delivery_price": 3.0,
           "item_price": 7665.37,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1707,20 +1821,24 @@
       "saving_percent": 19.63,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447727",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-dddac8242e2ea8a05ebda693dfff&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe%3Fvariant%3D55479242424702&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313409179",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.46,
@@ -1736,7 +1854,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "S0720720",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe?variant=55479242424702",
@@ -1748,7 +1866,7 @@
           "delivery_price": 3.0,
           "item_price": 23.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1757,7 +1875,7 @@
           "delivery_price": 0.0,
           "item_price": 27.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1765,20 +1883,24 @@
       "saving_percent": 17.57,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462875",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DYMO Authentic D1 Labels | Black Print on Red Tape | 9 mm x 7 m | Self-Adhesive Labels for LabelManager Label Makers | Made in Europe",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhes-db3dddac.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-78b22abac49c5d8b411901dbb1a8&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstartechcom-10-ft-usb-to-parallel-printer-adapter-mm%3Fvariant%3D55306444112254&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030834216",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.45,
@@ -1794,7 +1916,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "ICUSB128410",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-10-ft-usb-to-parallel-printer-adapter-mm?variant=55306444112254",
@@ -1806,7 +1928,7 @@
           "delivery_price": 0.0,
           "item_price": 23.13,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1815,7 +1937,7 @@
           "delivery_price": 0.0,
           "item_price": 27.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1823,20 +1945,24 @@
       "saving_percent": 17.51,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278454",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "StarTech.com 10 ft USB to Parallel Printer Adapter - M/M",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-10-ft-usb-to-parallel-printer-adapter-m-m-db378b22.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-8f3a6755d4da7cd8ad4f53957025&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044%3Fvariant%3D55308678005118&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.42,
@@ -1852,7 +1978,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -1864,7 +1990,7 @@
           "delivery_price": 0.0,
           "item_price": 25.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1873,7 +1999,7 @@
           "delivery_price": 3.0,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1881,20 +2007,24 @@
       "saving_percent": 17.43,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475267259",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DJI SDC to DJI Mavic 3 Charge Cable (CP.DY.00000044)",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cp-dy-00000044-db38f3a6.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-319c0594dbefb47bfb258c2fed1f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdymo-authentic-d1-labels-blue-print-on-white-tape-12-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe%3Fvariant%3D55479242260862&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313450140",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -1910,7 +2040,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "S0720540",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-authentic-d1-labels-blue-print-on-white-tape-12-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe?variant=55479242260862",
@@ -1922,7 +2052,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1931,7 +2061,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1939,20 +2069,24 @@
       "saving_percent": 16.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462871",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DYMO Authentic D1 Labels | Blue Print on White Tape | 12 mm x 7 m | Self-Adhesive Labels for LabelManager Label Makers | Made in Europe",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-authentic-d1-labels-blue-print-on-white-tape-12-mm-x-7-m-self-adh-db3319c0.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4d3b88f098005481aa54e53d14a3&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fbrother-tze-m951-label-making-tape-black-on-silver%3Fvariant%3D55307067883902&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Brother",
       "canonical_key": "GTIN:4977766692588",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -1968,7 +2102,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "TZE-M951",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tze-m951-label-making-tape-black-on-silver?variant=55307067883902",
@@ -1980,7 +2114,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -1989,7 +2123,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -1997,20 +2131,24 @@
       "saving_percent": 16.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475272940",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Brother TZE-M951 label-making tape Black on silver",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-tze-m951-label-making-tape-black-on-silver-db34d3b8.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-881b835970453db2b6a75ec1df00&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdymo-d1-high-performance-permanent-polyester-labels-12-mm-x-55m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic%3Fvariant%3D55307941511550&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313169592",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -2026,7 +2164,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "S0718060",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-d1-high-performance-permanent-polyester-labels-12-mm-x-55m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic?variant=55307941511550",
@@ -2038,7 +2176,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -2047,7 +2185,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -2055,20 +2193,24 @@
       "saving_percent": 16.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475284053",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DYMO D1 High-Performance Permanent Polyester Labels | 12 mm x 5.5m Roll | Black Print on White | Self-Adhesive Labels for LabelManager Label Printers | Authentic",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-d1-high-performance-permanent-polyester-labels-12-mm-x-5-5m-roll-db3881b8.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-b7404c66e08daa89eebd52ed0555&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fbrother-laminated-tape%3Fvariant%3D55306411999614&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Brother",
       "canonical_key": "GTIN:4977766692465",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -2084,7 +2226,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "TZE-B51",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-laminated-tape?variant=55306411999614",
@@ -2096,7 +2238,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -2105,7 +2247,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -2113,20 +2255,24 @@
       "saving_percent": 16.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475277034",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Brother Laminated tape",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-laminated-tape-db3b7404.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f3bba645a162d02ddf2c57a6e876&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdymo-d1-high-performance-flexible-nylon-labels-authentic-19-mm-x-35-m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic%3Fvariant%3D55479241245054&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313169578",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:28Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -2142,7 +2288,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:28Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "S0718040",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-d1-high-performance-flexible-nylon-labels-authentic-19-mm-x-35-m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic?variant=55479241245054",
@@ -2154,7 +2300,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -2163,7 +2309,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T17:34:28Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -2171,20 +2317,24 @@
       "saving_percent": 16.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462840",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "DYMO D1 High-Performance Flexible Nylon Labels | Authentic | 19 mm x 3.5 m Roll | Black Print on White | Self-Adhesive Labels for LabelManager Label Printers | Authentic",
-      "valid_until": "2026-11-03T17:34:28Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-d1-high-performance-flexible-nylon-labels-authentic-19-mm-x-3-5-m-db3f3bba.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-c3123e17107939d86f7bddc566be&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flexar-professional-silver-plus-microsdxc-uhs-i-card%3Fvariant%3D56014830600574&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Lexar",
       "canonical_key": "GTIN:843367135325",
       "category": "Other",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.17,
@@ -2200,7 +2350,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "LMSSIPL064G-BNANG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card?variant=56014830600574",
@@ -2212,7 +2362,7 @@
           "delivery_price": 0.0,
           "item_price": 26.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -2221,7 +2371,7 @@
           "delivery_price": 3.0,
           "item_price": 26.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -2229,20 +2379,24 @@
       "saving_percent": 15.97,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42008114749",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Lexar Professional SILVER PLUS microSDXC UHS-I Card",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card-db3c3123.html"
     },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-83286f70f851bbf44534344c55f9&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fkensington-my430-eq-rechargeable-mouse%3Fvariant%3D55307720393086&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-03T17:04:27Z",
+      "checked_at": "2026-11-03T17:32:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.42,
@@ -2258,7 +2412,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T17:04:27Z",
+      "market_verified_at": "2026-11-03T17:32:45Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -2270,7 +2424,7 @@
           "delivery_price": 0.0,
           "item_price": 28.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         },
         {
           "availability": null,
@@ -2279,7 +2433,7 @@
           "delivery_price": 3.0,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-03T17:34:27Z"
+          "valid_until": "2026-11-03T18:02:45Z"
         }
       ],
       "publishable": true,
@@ -2287,10 +2441,12 @@
       "saving_percent": 15.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475282506",
+      "stock_checked_at": "2026-11-03T13:27:02Z",
+      "stock_valid_until": "2026-11-03T18:02:45Z",
       "title": "Kensington MY430 EQ Rechargeable Mouse",
-      "valid_until": "2026-11-03T17:34:27Z",
+      "valid_until": "2026-11-03T18:02:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.4.1",
+      "verification_version": "3.5.1",
       "deal_page_url": "https://dealburrow.co.uk/products/kensington-my430-eq-rechargeable-mouse-db383286.html"
     }
   ]
