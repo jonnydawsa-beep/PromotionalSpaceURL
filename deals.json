@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.4.1",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-03T06:51:16Z",
+    "generated_at": "2026-11-03T06:51:46Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.4.1-unified-native.20261102.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "2a6abddfb53d6a052a3d26af29ee0a330cf69e977d7f43d5a6558b85cd09365a",
+    "revision": "703e262e4db9c997737027ff90dce704a490107d6260f7fd81b17c4059f026db",
     "deal_count": 77,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3715,7 +3715,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331586",
       "category": "Other",
-      "checked_at": "2026-11-03T06:51:14Z",
+      "checked_at": "2026-11-03T06:51:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.81,
@@ -3731,7 +3731,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-03T06:51:14Z",
+      "market_verified_at": "2026-11-03T06:51:45Z",
       "mpn": "PE65-6100",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-10m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375212040574",
@@ -3743,7 +3743,7 @@
           "delivery_price": 0.0,
           "item_price": 31.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-03T07:21:14Z"
+          "valid_until": "2026-11-03T07:21:45Z"
         },
         {
           "availability": null,
@@ -3752,7 +3752,7 @@
           "delivery_price": null,
           "item_price": 37.98,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-03T07:21:14Z"
+          "valid_until": "2026-11-03T07:21:45Z"
         }
       ],
       "publishable": true,
