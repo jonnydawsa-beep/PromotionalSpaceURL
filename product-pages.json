@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-04T13:36:31Z",
+  "generated_at": "2026-11-04T13:59:07Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 3,
+  "active_count": 7,
   "product_count": 793,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -3976,9 +3976,9 @@
       "slug": "simucube-70mm-adaptor-for-simucube-3-db38a5be.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "BRANDMPN:simucube:sc3wb70a",
-      "active": false,
-      "last_live_at": "2026-11-03T13:49:29Z",
-      "last_seen_at": "2026-11-03T13:52:14Z",
+      "active": true,
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-8a5be222b7c1c5f209af2d6f25b3",
         "publishable": true,
@@ -3995,8 +3995,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-03T13:49:26Z",
-        "valid_until": "2026-11-03T13:52:10Z",
+        "checked_at": "2026-11-04T13:59:03Z",
+        "valid_until": "2026-11-04T14:29:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Amedia.demon-tweeks.com%2Fcatalog%2Fproduct%2Fcache%2F8768da9ee7ab3e070044b9ef7dd8689d%2Fs%2Fm%2Fsmr_sc3_70mm_adapter_01-sep25.jpg&feedId=26915&k=17e03f0d1a6b615bd0c2ced09dc64181d8a05215",
         "delivery_price": 7.94,
         "item_price": 49.0,
@@ -4006,20 +4006,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-03 09:22:52",
+            "checked_at": "2026-11-04 09:09:10",
             "delivery_price": 0.0,
             "item_price": 73.48,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-03T14:19:26Z"
+            "valid_until": "2026-11-04T14:29:03Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-01 21:08:13",
+            "checked_at": "2026-11-03 21:07:47",
             "delivery_price": 0.0,
             "item_price": 88.18,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-03T14:19:26Z"
+            "valid_until": "2026-11-04T14:29:03Z"
           }
         ],
         "product_url": "https://www.demon-tweeks.com/simucube-70mm-adaptor-for-simucube-3-smrsc3wb70a/",
@@ -4030,11 +4030,15 @@
         "market_best_price": 49.0,
         "market_best_retailer": "Demon Tweeks",
         "publication_state": null,
-        "revalidation_in_progress": null
+        "revalidation_in_progress": null,
+        "availability": 1,
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-04T13:55:25Z",
+        "stock_valid_until": "2026-11-04T14:29:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T13:49:29Z",
-      "last_changed_date": "2026-11-03"
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
+      "last_changed_date": "2026-11-04"
     },
     "db3-255dabb4f18b0a3e11f49743439f": {
       "slug": "cisco-9861-ip-phone-black-carbon-10-lines-lcd-wi-fi-db3255da.html",
@@ -8394,9 +8398,9 @@
       "slug": "makita-dtm52-18v-lxt-cordless-brushless-starlock-max-oscillating-multi-db35d561.html",
       "first_seen_at": "2026-10-24T09:51:13Z",
       "canonical_key": "GTIN:088381741316",
-      "active": false,
-      "last_live_at": "2026-11-02T06:48:39Z",
-      "last_seen_at": "2026-11-02T06:49:23Z",
+      "active": true,
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-5d5619d1b8b5f22f80bee0a6ac39",
         "publishable": true,
@@ -8411,10 +8415,35 @@
         "comparison_price": 217.49,
         "saving_percent": 21.86,
         "comparison_count": 2,
+        "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-02T06:48:37Z",
-        "valid_until": "2026-11-02T06:50:56Z",
+        "checked_at": "2026-11-04T13:59:02Z",
+        "valid_until": "2026-11-04T14:26:15Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DTM52Z_C2L0.jpg&feedId=89987&k=0ea26fc07d72793a1517c99c724c0d04234fe87d",
+        "delivery_price": 5.95,
+        "item_price": 169.95,
+        "gtin": "088381741316",
+        "mpn": "DTM52Z",
+        "public_comparisons": [
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-04T13:50:14Z",
+            "delivery_price": null,
+            "item_price": 214.98,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-04T14:29:02Z"
+          },
+          {
+            "availability": 1,
+            "availability_basis": "CONFIRMED_IN_STOCK",
+            "checked_at": "2026-11-04T13:56:15.117347+00:00",
+            "delivery_price": 0.0,
+            "item_price": 219.99,
+            "retailer": "Back to the Office",
+            "valid_until": "2026-11-04T14:26:15Z"
+          }
+        ],
         "product_url": "https://www.tooled-up.com/makita-dtm52-18v-lxt-cordless-brushless-starlock-max-oscillating-multi-tool/prod/543735/?varId=543735&Referrer=affwin",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=496&awinaffid=3115871&campaign=&clickref=DB3-db3-5d5619d1b8b5f22f80bee0a6ac39&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.tooled-up.com%2Fmakita-dtm52-18v-lxt-cordless-brushless-starlock-max-oscillating-multi-tool%2Fprod%2F543735%2F%3FvarId%3D543735%26Referrer%3Daffwin&platform=pl",
         "market_merchant_count": 3,
@@ -8423,11 +8452,15 @@
         "market_best_price": 169.95,
         "market_best_retailer": "Tooled Up",
         "publication_state": null,
-        "revalidation_in_progress": null
+        "revalidation_in_progress": null,
+        "availability": 1,
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-04T05:46:46Z",
+        "stock_valid_until": "2026-11-04T14:29:02Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-02T06:48:39Z",
-      "last_changed_date": "2026-11-02"
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
+      "last_changed_date": "2026-11-04"
     },
     "db3-5357f7f693af22e1cb95ec9085f0": {
       "slug": "siemens-logo-network-switch-6gk71771ma200aa0-db35357f.html",
@@ -8512,9 +8545,9 @@
       "slug": "makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html",
       "first_seen_at": "2026-10-24T09:51:13Z",
       "canonical_key": "GTIN:088381806640",
-      "active": false,
-      "last_live_at": "2026-11-03T14:29:45Z",
-      "last_seen_at": "2026-11-03T14:33:36Z",
+      "active": true,
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-86c3c9554012ca01c0bd45c65cad",
         "publishable": true,
@@ -8526,13 +8559,13 @@
         "category": "DIY",
         "retailer": "Tooled Up",
         "current_price": 92.95,
-        "comparison_price": 115.07,
-        "saving_percent": 19.22,
-        "comparison_count": 3,
+        "comparison_price": 118.03,
+        "saving_percent": 21.25,
+        "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-03T14:26:44Z",
-        "valid_until": "2026-11-03T14:56:44Z",
+        "checked_at": "2026-11-04T13:59:02Z",
+        "valid_until": "2026-11-04T14:29:02Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DJR186Z_C2L0.jpg&feedId=89987&k=1cbed889f41650a5a6b1e8e5e65d9a6d9d6c01a5",
         "delivery_price": 5.95,
         "item_price": 92.95,
@@ -8542,44 +8575,39 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-03 09:22:52",
-            "delivery_price": 0.0,
-            "item_price": 95.89,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-03T14:56:44Z"
+            "checked_at": "2026-11-04T13:50:14Z",
+            "delivery_price": null,
+            "item_price": 115.07,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-04T14:29:02Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-01 21:08:13",
-            "delivery_price": 0.0,
-            "item_price": 115.07,
-            "retailer": "GamingKit",
-            "valid_until": "2026-11-03T14:56:44Z"
-          },
-          {
-            "availability": 1,
-            "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-03T13:27:02Z",
+            "checked_at": "2026-11-04 10:28:33",
             "delivery_price": 0.0,
             "item_price": 120.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-03T14:56:44Z"
+            "valid_until": "2026-11-04T14:29:02Z"
           }
         ],
         "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=496&awinaffid=3115871&campaign=&clickref=DB3-db3-86c3c9554012ca01c0bd45c65cad&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.tooled-up.com%2Fmakita-djr186-18v-lxt-cordless-reciprocating-saw%2Fprod%2F290980%2F%3FvarId%3D290981%26Referrer%3Daffwin&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 92.95,
         "market_best_retailer": "Tooled Up",
         "publication_state": null,
-        "revalidation_in_progress": null
+        "revalidation_in_progress": null,
+        "availability": 1,
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-04T05:46:46Z",
+        "stock_valid_until": "2026-11-04T14:29:02Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-03T14:29:45Z",
-      "last_changed_date": "2026-11-03"
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
+      "last_changed_date": "2026-11-04"
     },
     "db3-66adff7bb24bcf58105422cc8bfb": {
       "slug": "bosch-91-piece-drill-and-screwdriver-bit-set-db366adf.html",
@@ -19927,8 +19955,8 @@
       "first_seen_at": "2026-10-30T19:56:33Z",
       "canonical_key": "GTIN:5063603349421",
       "active": true,
-      "last_live_at": "2026-11-04T13:36:31Z",
-      "last_seen_at": "2026-11-04T13:36:31Z",
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-c103928b974538839983880601f6",
         "publishable": true,
@@ -19945,8 +19973,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T13:36:27Z",
-        "valid_until": "2026-11-04T14:06:27Z",
+        "checked_at": "2026-11-04T13:58:58Z",
+        "valid_until": "2026-11-04T14:28:58Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F07%2F2WX7221a079d1d5c3.jpg&feedId=37469&k=d2d2639ff459a6cabffcdb46e57ab18da2683210",
         "delivery_price": 0.0,
         "item_price": 86.99,
@@ -19960,7 +19988,7 @@
             "delivery_price": 0.0,
             "item_price": 110.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T14:06:27Z"
+            "valid_until": "2026-11-04T14:28:58Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -19975,10 +20003,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T14:06:27Z"
+        "stock_valid_until": "2026-11-04T14:28:58Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T13:36:31Z",
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-4175935219aed714c268766b04b0": {
@@ -20524,9 +20552,9 @@
       "slug": "makita-dtd153-18v-lxt-cordless-brushless-impact-driver-db33b146.html",
       "first_seen_at": "2026-10-30T21:44:17Z",
       "canonical_key": "GTIN:088381823883",
-      "active": false,
-      "last_live_at": "2026-11-02T10:45:59Z",
-      "last_seen_at": "2026-11-02T10:46:47Z",
+      "active": true,
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-3b1461d8fbfbb2675675bf895852",
         "publishable": true,
@@ -20541,10 +20569,35 @@
         "comparison_price": 122.44,
         "saving_percent": 18.33,
         "comparison_count": 2,
+        "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-02T10:44:57Z",
-        "valid_until": "2026-11-02T10:48:22Z",
+        "checked_at": "2026-11-04T13:59:02Z",
+        "valid_until": "2026-11-04T14:29:02Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DTD153Z_C2L0.jpg&feedId=89987&k=81102bccf0f3918d672f1f8a1d17b786bae4d6ce",
+        "delivery_price": 5.95,
+        "item_price": 99.99,
+        "gtin": "088381823883",
+        "mpn": "DTD153Z",
+        "public_comparisons": [
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-04T13:50:14Z",
+            "delivery_price": null,
+            "item_price": 118.88,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-04T14:29:02Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-04 10:28:33",
+            "delivery_price": 0.0,
+            "item_price": 125.99,
+            "retailer": "Back to the Office",
+            "valid_until": "2026-11-04T14:29:02Z"
+          }
+        ],
         "product_url": "https://www.tooled-up.com/makita-dtd153-18v-lxt-cordless-brushless-impact-driver/prod/291060/?varId=291060&Referrer=affwin",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=496&awinaffid=3115871&campaign=&clickref=DB3-db3-3b1461d8fbfbb2675675bf895852&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.tooled-up.com%2Fmakita-dtd153-18v-lxt-cordless-brushless-impact-driver%2Fprod%2F291060%2F%3FvarId%3D291060%26Referrer%3Daffwin&platform=pl",
         "market_merchant_count": 3,
@@ -20553,11 +20606,15 @@
         "market_best_price": 99.99,
         "market_best_retailer": "Tooled Up",
         "publication_state": null,
-        "revalidation_in_progress": null
+        "revalidation_in_progress": null,
+        "availability": 1,
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-04T05:46:46Z",
+        "stock_valid_until": "2026-11-04T14:29:02Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-02T10:45:59Z",
-      "last_changed_date": "2026-11-02"
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
+      "last_changed_date": "2026-11-04"
     },
     "db3-dddac8242e2ea8a05ebda693dfff": {
       "slug": "dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhes-db3dddac.html",
@@ -36209,8 +36266,8 @@
       "first_seen_at": "2026-11-02T19:55:00Z",
       "canonical_key": "GTIN:5063603748835",
       "active": true,
-      "last_live_at": "2026-11-04T13:36:31Z",
-      "last_seen_at": "2026-11-04T13:36:31Z",
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-83b9b47b81ba8d685db9bc9c5aaf",
         "publishable": true,
@@ -36227,8 +36284,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T13:36:27Z",
-        "valid_until": "2026-11-04T14:06:27Z",
+        "checked_at": "2026-11-04T13:58:58Z",
+        "valid_until": "2026-11-04T14:28:58Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F03%2FT9dfed1a068cfece0.jpg&feedId=37469&k=add31e7a7f933d7e17b64781b441d46106cad1bf",
         "delivery_price": 0.0,
         "item_price": 39.99,
@@ -36242,7 +36299,7 @@
             "delivery_price": 0.0,
             "item_price": 63.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T14:06:27Z"
+            "valid_until": "2026-11-04T14:28:58Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -36257,10 +36314,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T14:06:27Z"
+        "stock_valid_until": "2026-11-04T14:28:58Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T13:36:31Z",
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-3f1943b7220f92a35e4301fff7b1": {
@@ -41453,8 +41510,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:5056602946821",
       "active": true,
-      "last_live_at": "2026-11-04T13:36:31Z",
-      "last_seen_at": "2026-11-04T13:36:31Z",
+      "last_live_at": "2026-11-04T13:59:07Z",
+      "last_seen_at": "2026-11-04T13:59:07Z",
       "last_deal": {
         "deal_id": "db3-85f1c1e8b98130b17224b09ff091",
         "publishable": true,
@@ -41471,8 +41528,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T13:36:27Z",
-        "valid_until": "2026-11-04T14:06:27Z",
+        "checked_at": "2026-11-04T13:58:58Z",
+        "valid_until": "2026-11-04T14:28:58Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F03%2FBlh1981a06767fcac.jpg&feedId=37469&k=2419d699598adf550ffe9328b66c74a0b5dd8743",
         "delivery_price": 0.0,
         "item_price": 54.99,
@@ -41486,7 +41543,7 @@
             "delivery_price": 0.0,
             "item_price": 101.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T14:06:27Z"
+            "valid_until": "2026-11-04T14:28:58Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-360-degree-swivel-seat-footrest-removable~1DSE9PDKI1O00.html?utm_source=awin&utm_medium=affiliate",
@@ -41501,10 +41558,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T14:06:27Z"
+        "stock_valid_until": "2026-11-04T14:28:58Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T13:36:31Z",
+      "lkg_certified_at": "2026-11-04T13:59:07Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-02d502d0902f9e0d71ecaf16df20": {
