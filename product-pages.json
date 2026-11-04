@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-04T15:15:41Z",
+  "generated_at": "2026-11-04T15:23:05Z",
   "base_url": "https://dealburrow.co.uk",
   "active_count": 12,
   "product_count": 793,
@@ -410,8 +410,8 @@
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:4963686000008",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-51477812b0671f12bafc2f01eef9",
         "publishable": true,
@@ -428,8 +428,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F50192463ef2530a67cf93d80fdfca705.jpg%3Fv%3D1756137344&feedId=102827&k=0aafcaa87ef618327504914fc10bace4634ac0bc",
         "delivery_price": 4.99,
         "item_price": 22.99,
@@ -443,7 +443,7 @@
             "delivery_price": 3.0,
             "item_price": 38.7,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -452,7 +452,7 @@
             "delivery_price": 0.0,
             "item_price": 38.7,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -461,7 +461,7 @@
             "delivery_price": 0.0,
             "item_price": 46.44,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -474,12 +474,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "6d8f9a73-ed0f-4026-ac4e-2750d3295f2e": {
@@ -487,8 +487,8 @@
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:065030865135",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-5f4a13e1b2448b41b649c86f1b24",
         "publishable": true,
@@ -500,13 +500,13 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 23.99,
-        "comparison_price": 42.14,
-        "saving_percent": 43.07,
+        "comparison_price": 34.2,
+        "saving_percent": 29.84,
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:35Z",
-        "valid_until": "2026-11-04T15:27:35Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F17a0c00645f04b427916ada6576c34dc.jpg%3Fv%3D1756116017&feedId=102827&k=a6c7f26f8342ec2e2322981748b017e7b9014a34",
         "delivery_price": 4.99,
         "item_price": 23.99,
@@ -516,20 +516,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-04 09:09:10",
-            "delivery_price": 0.0,
-            "item_price": 38.31,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "checked_at": "2026-11-04T15:08:27Z",
+            "delivery_price": null,
+            "item_price": 30.08,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-03 21:07:47",
+            "checked_at": "2026-11-04 09:09:10",
             "delivery_price": 0.0,
-            "item_price": 45.97,
-            "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "item_price": 38.31,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
@@ -542,12 +542,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:35Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "ffb0d8b6-387b-4b48-92fc-0bd84fff4922": {
@@ -8546,8 +8546,8 @@
       "first_seen_at": "2026-10-24T09:51:13Z",
       "canonical_key": "GTIN:088381806640",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-86c3c9554012ca01c0bd45c65cad",
         "publishable": true,
@@ -8564,8 +8564,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:35Z",
-        "valid_until": "2026-11-04T15:27:35Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DJR186Z_C2L0.jpg&feedId=89987&k=1cbed889f41650a5a6b1e8e5e65d9a6d9d6c01a5",
         "delivery_price": 5.95,
         "item_price": 92.95,
@@ -8575,11 +8575,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-04T13:50:14Z",
+            "checked_at": "2026-11-04T15:08:27Z",
             "delivery_price": null,
             "item_price": 115.07,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": 1,
@@ -8588,7 +8588,7 @@
             "delivery_price": 0.0,
             "item_price": 120.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -8603,10 +8603,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T05:46:46Z",
-        "stock_valid_until": "2026-11-04T15:27:35Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-66adff7bb24bcf58105422cc8bfb": {
@@ -11992,8 +11992,8 @@
       "first_seen_at": "2026-10-28T18:57:15Z",
       "canonical_key": "GTIN:5056750336918",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-9619091bf34de09d9b43e1c902f0",
         "publishable": true,
@@ -12010,8 +12010,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F12cf5227b9af0470e8ed36ad77daa507_71499485-0920-44a4-aa44-bc0a227ed2d7.jpg%3Fv%3D1762008347&feedId=102827&k=fb536073cc6acd4cba2388c067d254a87ae16332",
         "delivery_price": 4.99,
         "item_price": 22.99,
@@ -12025,7 +12025,7 @@
             "delivery_price": 3.0,
             "item_price": 27.18,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -12034,7 +12034,7 @@
             "delivery_price": 0.0,
             "item_price": 27.18,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -12043,7 +12043,7 @@
             "delivery_price": 0.0,
             "item_price": 32.62,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -12056,12 +12056,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-90117e948a230327d9d81c791e0a": {
@@ -19955,8 +19955,8 @@
       "first_seen_at": "2026-10-30T19:56:33Z",
       "canonical_key": "GTIN:5063603349421",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-c103928b974538839983880601f6",
         "publishable": true,
@@ -19973,8 +19973,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:35Z",
-        "valid_until": "2026-11-04T15:27:35Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F07%2F2WX7221a079d1d5c3.jpg&feedId=37469&k=d2d2639ff459a6cabffcdb46e57ab18da2683210",
         "delivery_price": 0.0,
         "item_price": 86.99,
@@ -19988,7 +19988,7 @@
             "delivery_price": 0.0,
             "item_price": 110.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -20003,10 +20003,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T15:27:35Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-4175935219aed714c268766b04b0": {
@@ -32372,8 +32372,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -32390,8 +32390,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": 4.99,
         "item_price": 23.99,
@@ -32405,7 +32405,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32414,7 +32414,7 @@
             "delivery_price": 0.0,
             "item_price": 26.07,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32423,7 +32423,7 @@
             "delivery_price": 0.0,
             "item_price": 31.6,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -32436,12 +32436,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
@@ -32449,8 +32449,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513542",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
         "publishable": true,
@@ -32467,8 +32467,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
         "delivery_price": 4.99,
         "item_price": 23.99,
@@ -32482,7 +32482,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32491,7 +32491,7 @@
             "delivery_price": 0.0,
             "item_price": 26.07,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32500,7 +32500,7 @@
             "delivery_price": 0.0,
             "item_price": 31.6,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -32513,12 +32513,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-7a8118b86faaa6b9dfac450da837": {
@@ -32526,8 +32526,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513528",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
         "publishable": true,
@@ -32544,8 +32544,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:28:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
         "delivery_price": 4.99,
         "item_price": 28.99,
@@ -32559,7 +32559,7 @@
             "delivery_price": 3.0,
             "item_price": 30.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32568,7 +32568,7 @@
             "delivery_price": 0.0,
             "item_price": 30.01,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
@@ -32577,7 +32577,7 @@
             "delivery_price": 0.0,
             "item_price": 36.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -32590,12 +32590,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "availability_basis": "EXACT_PRODUCT_PAGE",
+        "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+        "stock_valid_until": "2026-11-04T15:28:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-aacb89771c2c06505b7b68da6dd2": {
@@ -36266,8 +36266,8 @@
       "first_seen_at": "2026-11-02T19:55:00Z",
       "canonical_key": "GTIN:5063603748835",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-83b9b47b81ba8d685db9bc9c5aaf",
         "publishable": true,
@@ -36284,8 +36284,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:35Z",
-        "valid_until": "2026-11-04T15:27:35Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F03%2FT9dfed1a068cfece0.jpg&feedId=37469&k=add31e7a7f933d7e17b64781b441d46106cad1bf",
         "delivery_price": 0.0,
         "item_price": 39.99,
@@ -36299,7 +36299,7 @@
             "delivery_price": 0.0,
             "item_price": 63.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -36314,10 +36314,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T15:27:35Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-3f1943b7220f92a35e4301fff7b1": {
@@ -41510,8 +41510,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:5056602946821",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-85f1c1e8b98130b17224b09ff091",
         "publishable": true,
@@ -41528,8 +41528,8 @@
         "comparison_count": 13,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:35Z",
-        "valid_until": "2026-11-04T15:27:35Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimg.aosomcdn.com%2F100%2Fproduct%2F2026%2F09%2F03%2FBlh1981a06767fcac.jpg&feedId=37469&k=2419d699598adf550ffe9328b66c74a0b5dd8743",
         "delivery_price": 0.0,
         "item_price": 54.99,
@@ -41543,7 +41543,7 @@
             "delivery_price": 0.0,
             "item_price": 101.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T15:27:35Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.aosom.co.uk/item/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-360-degree-swivel-seat-footrest-removable~1DSE9PDKI1O00.html?utm_source=awin&utm_medium=affiliate",
@@ -41558,10 +41558,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T10:17:54Z",
-        "stock_valid_until": "2026-11-04T15:27:35Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-02d502d0902f9e0d71ecaf16df20": {
@@ -43568,8 +43568,8 @@
       "first_seen_at": "2026-11-03T20:35:27Z",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-429ba83492e99f56cba9900c93a8",
         "publishable": true,
@@ -43586,8 +43586,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7b65490a84ecfa207c07e99f248c00ee.jpg%3Fv%3D1782283742&feedId=102827&k=7a9f5c8b64239fb724554eda67d20460850f180a",
         "delivery_price": 0.0,
         "item_price": 488.99,
@@ -43601,16 +43601,16 @@
             "delivery_price": 0.0,
             "item_price": 510.97,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-03 21:07:47",
-            "delivery_price": 0.0,
-            "item_price": 614.53,
+            "checked_at": "2026-11-04T15:08:27Z",
+            "delivery_price": null,
+            "item_price": 613.16,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -43625,10 +43625,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-033c41812e405d1d1967f4506ecc": {
@@ -43636,8 +43636,8 @@
       "first_seen_at": "2026-11-03T20:35:27Z",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "active": true,
-      "last_live_at": "2026-11-04T15:15:41Z",
-      "last_seen_at": "2026-11-04T15:15:41Z",
+      "last_live_at": "2026-11-04T15:23:05Z",
+      "last_seen_at": "2026-11-04T15:23:05Z",
       "last_deal": {
         "deal_id": "db3-033c41812e405d1d1967f4506ecc",
         "publishable": true,
@@ -43654,8 +43654,8 @@
         "comparison_count": 14,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:57:36Z",
-        "valid_until": "2026-11-04T15:27:36Z",
+        "checked_at": "2026-11-04T15:23:03Z",
+        "valid_until": "2026-11-04T15:53:03Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc801998af64baeb01655458b90c92888_a1b21619-6858-43f0-bff0-601cd76c931b.jpg%3Fv%3D1756134903&feedId=102827&k=d416229994cb83d9b1cada3b3f1bed22a3126cfd",
         "delivery_price": 0.0,
         "item_price": 330.99,
@@ -43669,16 +43669,16 @@
             "delivery_price": 0.0,
             "item_price": 348.56,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-03 21:07:47",
-            "delivery_price": 0.0,
-            "item_price": 419.18,
+            "checked_at": "2026-11-04T15:08:27Z",
+            "delivery_price": null,
+            "item_price": 418.27,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T15:27:36Z"
+            "valid_until": "2026-11-04T15:53:03Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -43693,10 +43693,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-04T14:53:34Z",
-        "stock_valid_until": "2026-11-04T15:27:36Z"
+        "stock_valid_until": "2026-11-04T15:53:03Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T15:15:41Z",
+      "lkg_certified_at": "2026-11-04T15:23:05Z",
       "last_changed_date": "2026-11-04"
     },
     "db3-515828e84c891e8ef2e7d5d920ce": {

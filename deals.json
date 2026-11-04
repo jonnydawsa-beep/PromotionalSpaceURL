@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T15:15:39Z",
+    "generated_at": "2026-11-04T15:23:03Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "990e2df6b408b8367c1ac57c662139c7e4cae0ed5ce56fceed30d9610a81aefc",
+    "revision": "94f60ebbdb82920580e6ac95e9e24dd5aed9a43085a9229c3c06c9f09447aec1",
     "deal_count": 12,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -18,11 +18,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9619091bf34de09d9b43e1c902f0&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white%3Fvariant%3D55468658229630&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 61.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -76,10 +76,10 @@
       "saving_percent": 62.91,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075454692",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
       "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH White",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:28:12Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white-db396190.html"
@@ -89,11 +89,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2578d2d1830c0228a4f3ba798676&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-mini-rgb-microphone%3Fvariant%3D57079280894334&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 46.99,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 26.07,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -139,7 +139,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -147,10 +147,10 @@
       "saving_percent": 48.95,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472319",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
       "title": "Streamplify MIC MINI RGB Microphone",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:28:12Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-mini-rgb-microphone-db32578d.html"
@@ -160,11 +160,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5c85df3251bc8502eebcfc4bbe00&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-go-black-clip-on-microphone%3Fvariant%3D57079273947518&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513542",
       "category": "Other",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 46.99,
@@ -180,7 +180,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "SPML-MG1C051.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -192,7 +192,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -201,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 26.07,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -210,7 +210,7 @@
           "delivery_price": 0.0,
           "item_price": 31.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -218,10 +218,10 @@
       "saving_percent": 48.95,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472136",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
       "title": "Streamplify MIC GO Black Clip-on microphone",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:28:12Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html"
@@ -235,7 +235,7 @@
       "brand": "Vinsetto",
       "canonical_key": "GTIN:5056602946821",
       "category": "Gaming",
-      "checked_at": "2026-11-04T14:57:35Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 105.99,
@@ -251,7 +251,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T14:57:35Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "921-618V71WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-360-degree-swivel-seat-footrest-removable~1DSE9PDKI1O00.html?utm_source=awin&utm_medium=affiliate",
@@ -263,7 +263,7 @@
           "delivery_price": 0.0,
           "item_price": 101.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -272,9 +272,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "35984301173",
       "stock_checked_at": "2026-11-04T10:17:54Z",
-      "stock_valid_until": "2026-11-04T15:27:35Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "Vinsetto Racing Gaming Chair, Reclining PU Leather Computer Chair with 360 Degree Swivel Seat, Footrest, Removable Headrest White and Black   Aosom UK",
-      "valid_until": "2026-11-04T15:27:35Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-db385f1c.html"
@@ -282,75 +282,13 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5f4a13e1b2448b41b649c86f1b24&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstartechcom-usb-c-to-hdmi-adapter-4k-60hz%3Fvariant%3D55306435363198&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "StarTech.com",
-      "canonical_key": "GTIN:065030865135",
-      "category": "Technology",
-      "checked_at": "2026-11-04T14:57:35Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 42.14,
-      "current_price": 23.99,
-      "deal_id": "db3-5f4a13e1b2448b41b649c86f1b24",
-      "delivery_price": 4.99,
-      "gtin": "065030865135",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F17a0c00645f04b427916ada6576c34dc.jpg%3Fv%3D1756116017&feedId=102827&k=a6c7f26f8342ec2e2322981748b017e7b9014a34",
-      "item_price": 23.99,
-      "market_best_price": 23.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T14:57:35Z",
-      "mpn": "CDP2HD4K60",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-04 09:09:10",
-          "delivery_price": 0.0,
-          "item_price": 38.31,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:35Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 21:07:47",
-          "delivery_price": 0.0,
-          "item_price": 45.97,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:35Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 43.07,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "41475278017",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:35Z",
-      "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
-      "valid_until": "2026-11-04T15:27:35Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-51477812b0671f12bafc2f01eef9&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black%3Fvariant%3D55468880888190&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -366,7 +304,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -378,7 +316,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -387,7 +325,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -396,7 +334,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -404,10 +342,10 @@
       "saving_percent": 40.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:28:12Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -417,11 +355,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7a8118b86faaa6b9dfac450da837&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black%3Fvariant%3D57837881590142&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 44.99,
@@ -437,7 +375,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -449,7 +387,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -458,7 +396,7 @@
           "delivery_price": 0.0,
           "item_price": 30.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
@@ -467,7 +405,7 @@
           "delivery_price": 0.0,
           "item_price": 36.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -475,13 +413,75 @@
       "saving_percent": 35.56,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45618341392",
-      "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
       "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:28:12Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5f4a13e1b2448b41b649c86f1b24&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstartechcom-usb-c-to-hdmi-adapter-4k-60hz%3Fvariant%3D55306435363198&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "StarTech.com",
+      "canonical_key": "GTIN:065030865135",
+      "category": "Technology",
+      "checked_at": "2026-11-04T15:23:03Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 2,
+      "comparison_price": 34.2,
+      "current_price": 23.99,
+      "deal_id": "db3-5f4a13e1b2448b41b649c86f1b24",
+      "delivery_price": 4.99,
+      "gtin": "065030865135",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F17a0c00645f04b427916ada6576c34dc.jpg%3Fv%3D1756116017&feedId=102827&k=a6c7f26f8342ec2e2322981748b017e7b9014a34",
+      "item_price": 23.99,
+      "market_best_price": 23.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-04T15:23:03Z",
+      "mpn": "CDP2HD4K60",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-to-hdmi-adapter-4k-60hz?variant=55306435363198",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-04T15:08:27Z",
+          "delivery_price": null,
+          "item_price": 30.08,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-04T15:53:03Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-04 09:09:10",
+          "delivery_price": 0.0,
+          "item_price": 38.31,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-04T15:53:03Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 29.84,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "41475278017",
+      "stock_checked_at": "2026-11-04T14:58:12.028440+00:00",
+      "stock_valid_until": "2026-11-04T15:28:12Z",
+      "title": "StarTech.com USB-C to HDMI Adapter - 4K 60Hz",
+      "valid_until": "2026-11-04T15:28:12Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html"
     },
     {
       "advertiser_id": "61655",
@@ -492,7 +492,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 640.99,
@@ -508,7 +508,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -520,16 +520,16 @@
           "delivery_price": 0.0,
           "item_price": 510.97,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 21:07:47",
-          "delivery_price": 0.0,
-          "item_price": 614.53,
+          "checked_at": "2026-11-04T15:08:27Z",
+          "delivery_price": null,
+          "item_price": 613.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -538,9 +538,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
       "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
@@ -554,7 +554,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "category": "Technology",
-      "checked_at": "2026-11-04T14:57:36Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 432.99,
@@ -570,7 +570,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T14:57:36Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "C9300-NM-4G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -582,16 +582,16 @@
           "delivery_price": 0.0,
           "item_price": 348.56,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-03 21:07:47",
-          "delivery_price": 0.0,
-          "item_price": 419.18,
+          "checked_at": "2026-11-04T15:08:27Z",
+          "delivery_price": null,
+          "item_price": 418.27,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:36Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -600,9 +600,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450565",
       "stock_checked_at": "2026-11-04T14:53:34Z",
-      "stock_valid_until": "2026-11-04T15:27:36Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "Cisco C9300-NM-4G network switch module Gigabit Ethernet",
-      "valid_until": "2026-11-04T15:27:36Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html"
@@ -616,7 +616,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-04T14:57:35Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.03,
@@ -632,7 +632,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T14:57:35Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -640,11 +640,11 @@
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-04T13:50:14Z",
+          "checked_at": "2026-11-04T15:08:27Z",
           "delivery_price": null,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         },
         {
           "availability": 1,
@@ -653,7 +653,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -662,9 +662,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "stock_checked_at": "2026-11-04T05:46:46Z",
-      "stock_valid_until": "2026-11-04T15:27:35Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-04T15:27:35Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -678,7 +678,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349421",
       "category": "Home",
-      "checked_at": "2026-11-04T14:57:35Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 109.99,
@@ -694,7 +694,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T14:57:35Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "920-106V00WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -706,7 +706,7 @@
           "delivery_price": 0.0,
           "item_price": 110.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -715,9 +715,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45953893120",
       "stock_checked_at": "2026-11-04T10:17:54Z",
-      "stock_valid_until": "2026-11-04T15:27:35Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "HOMCOM 105 x 51 cm Foldable Office Deskwith 3 Drawers, Extendable Top, Wheels, White",
-      "valid_until": "2026-11-04T15:27:35Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-w-db3c1039.html"
@@ -731,7 +731,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-04T14:57:35Z",
+      "checked_at": "2026-11-04T15:23:03Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 49.99,
@@ -747,7 +747,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T14:57:35Z",
+      "market_verified_at": "2026-11-04T15:23:03Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -759,7 +759,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:53:03Z"
         }
       ],
       "publishable": true,
@@ -768,9 +768,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
       "stock_checked_at": "2026-11-04T10:17:54Z",
-      "stock_valid_until": "2026-11-04T15:27:35Z",
+      "stock_valid_until": "2026-11-04T15:53:03Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-04T15:27:35Z",
+      "valid_until": "2026-11-04T15:53:03Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
