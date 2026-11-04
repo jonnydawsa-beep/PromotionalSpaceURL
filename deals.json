@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T09:17:31Z",
+    "generated_at": "2026-11-04T09:22:34Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b56b33f0a92f2fcf48225ee2d58326a26f460db6fb37d370c725e9c3131d5ef8",
+    "revision": "2c277acdb682a92fdf6cc11813a5f5468b6d1f788cff8023bb0ab5db47151a47",
     "deal_count": 79,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3568,7 +3568,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0885600368848",
       "category": "Other",
-      "checked_at": "2026-11-04T08:52:31Z",
+      "checked_at": "2026-11-04T09:21:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 40.17,
@@ -3584,7 +3584,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T08:52:31Z",
+      "market_verified_at": "2026-11-04T09:21:45Z",
       "mpn": "57Y4303",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-57y4303-cable-lock-black-silver-152-m?variant=55307005657470",
@@ -3596,7 +3596,7 @@
           "delivery_price": 0.0,
           "item_price": 36.52,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T09:22:31Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         },
         {
           "availability": null,
@@ -3605,7 +3605,7 @@
           "delivery_price": null,
           "item_price": 43.82,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T09:22:31Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         }
       ],
       "publishable": true,
@@ -3614,9 +3614,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269344",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T09:22:31Z",
+      "stock_valid_until": "2026-11-04T09:51:45Z",
       "title": "Lenovo 57Y4303 cable lock Black, Silver 1.52 m",
-      "valid_until": "2026-11-04T09:22:31Z",
+      "valid_until": "2026-11-04T09:51:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-57y4303-cable-lock-black-silver-1-52-m-db3c5175.html"
@@ -3816,7 +3816,7 @@
       "brand": "Cherry",
       "canonical_key": "GTIN:4025112076657",
       "category": "Technology",
-      "checked_at": "2026-11-04T08:52:31Z",
+      "checked_at": "2026-11-04T09:21:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.73,
@@ -3832,7 +3832,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T08:52:31Z",
+      "market_verified_at": "2026-11-04T09:21:45Z",
       "mpn": "JW-T0100",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cherry-mw-3000-wireless-mouse-black-usb?variant=55307063394686",
@@ -3844,7 +3844,7 @@
           "delivery_price": 0.0,
           "item_price": 24.3,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T09:22:31Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         },
         {
           "availability": null,
@@ -3853,7 +3853,7 @@
           "delivery_price": null,
           "item_price": 29.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T09:22:31Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         }
       ],
       "publishable": true,
@@ -3862,9 +3862,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270232",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T09:22:31Z",
+      "stock_valid_until": "2026-11-04T09:51:45Z",
       "title": "CHERRY MW 3000 Wireless Mouse, Black, USB",
-      "valid_until": "2026-11-04T09:22:31Z",
+      "valid_until": "2026-11-04T09:51:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cherry-mw-3000-wireless-mouse-black-usb-db351582.html"
@@ -4826,7 +4826,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:887037444706",
       "category": "Technology",
-      "checked_at": "2026-11-04T08:52:32Z",
+      "checked_at": "2026-11-04T09:21:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 98.46,
@@ -4842,7 +4842,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T08:52:32Z",
+      "market_verified_at": "2026-11-04T09:21:45Z",
       "mpn": "0B47092",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-displayport-to-dual-displayport-monitor-cable-usb-a-black?variant=55307999379838",
@@ -4854,7 +4854,7 @@
           "delivery_price": 0.0,
           "item_price": 89.51,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T09:22:32Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         },
         {
           "availability": null,
@@ -4863,7 +4863,7 @@
           "delivery_price": null,
           "item_price": 107.41,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T09:22:32Z"
+          "valid_until": "2026-11-04T09:51:45Z"
         }
       ],
       "publishable": true,
@@ -4872,9 +4872,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156910",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T09:22:32Z",
+      "stock_valid_until": "2026-11-04T09:51:45Z",
       "title": "Lenovo DisplayPort to Dual-DisplayPort Monitor Cable USB A Black",
-      "valid_until": "2026-11-04T09:22:32Z",
+      "valid_until": "2026-11-04T09:51:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-displayport-to-dual-displayport-monitor-cable-usb-a-black-db33d9f6.html"
