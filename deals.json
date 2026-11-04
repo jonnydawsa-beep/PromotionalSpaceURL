@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T20:11:03Z",
+    "generated_at": "2026-11-04T20:33:22Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "ab341c96a064d44ea44f52b92339df6303c01282502eac61d22e316e610d6aa7",
+    "revision": "ca09974f7030bcef90d6405ac94e359e1d5634051f62178099a3b145b4ef2a98",
     "deal_count": 47,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 61.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 27.18,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -76,10 +76,10 @@
       "saving_percent": 62.91,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075454692",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH White",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white-db396190.html"
@@ -394,7 +394,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -440,7 +440,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -448,10 +448,10 @@
       "saving_percent": 40.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -1085,7 +1085,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 32.73,
@@ -1101,7 +1101,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -1113,7 +1113,7 @@
           "delivery_price": 3.0,
           "item_price": 32.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -1122,7 +1122,7 @@
           "delivery_price": 0.0,
           "item_price": 32.73,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -1131,7 +1131,7 @@
           "delivery_price": 0.0,
           "item_price": 39.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -1139,10 +1139,10 @@
       "saving_percent": 29.76,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075460599",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html"
@@ -1218,7 +1218,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4979146000006",
       "category": "Other",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 33.25,
@@ -1234,7 +1234,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "TC-HDMIVGA/BL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -1246,7 +1246,7 @@
           "delivery_price": 3.0,
           "item_price": 33.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -1255,7 +1255,7 @@
           "delivery_price": 0.0,
           "item_price": 33.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -1264,7 +1264,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -1272,10 +1272,10 @@
       "saving_percent": 27.85,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458403",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Vision TC-HDMIVGA/BL video cable adapter 0.23 m HDMI Type A (Standard) VGA (D-Sub) Black",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html"
@@ -1998,7 +1998,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161357398",
       "category": "Technology",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 31.64,
@@ -2014,7 +2014,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "2F1W8AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-mauve-laptop-sleeve?variant=58174209458558",
@@ -2026,7 +2026,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2035,7 +2035,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2044,7 +2044,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -2052,10 +2052,10 @@
       "saving_percent": 21.02,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46256956938",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "HP Reversible Protective 15.6-inch Mauve Laptop Sleeve",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-reversible-protective-15-6-inch-mauve-laptop-sleeve-db3c196f.html"
@@ -2609,7 +2609,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331555",
       "category": "Other",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.22,
@@ -2625,7 +2625,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "PE65-6020",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375356350846",
@@ -2637,7 +2637,7 @@
           "delivery_price": 3.0,
           "item_price": 26.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2646,7 +2646,7 @@
           "delivery_price": 0.0,
           "item_price": 26.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2655,7 +2655,7 @@
           "delivery_price": 0.0,
           "item_price": 31.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -2663,10 +2663,10 @@
       "saving_percent": 16.13,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614779",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Cablenet 2m Cat6a RJ45 Black F/FTP PE External Flush Moulded Solid Patch Lead",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-pat-db3c2f66.html"
@@ -2742,7 +2742,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750305891",
       "category": "Technology",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.12,
@@ -2758,7 +2758,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "40-4056",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-usb-31c-male-hdmi-14b-4kx2k60hz-male?variant=55468643385726",
@@ -2770,7 +2770,7 @@
           "delivery_price": 3.0,
           "item_price": 26.12,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2779,7 +2779,7 @@
           "delivery_price": 0.0,
           "item_price": 26.12,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2788,7 +2788,7 @@
           "delivery_price": 0.0,
           "item_price": 31.34,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -2796,10 +2796,10 @@
       "saving_percent": 15.81,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075454340",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "Cablenet 3m USB 3.1c Male - HDMI 1.4b (4Kx2K@60Hz) Male",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-3m-usb-3-1c-male-hdmi-1-4b-4kx2k-60hz-male-db3ed553.html"
@@ -2813,7 +2813,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161359590",
       "category": "Technology",
-      "checked_at": "2026-11-04T20:10:55Z",
+      "checked_at": "2026-11-04T20:32:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 28.31,
@@ -2829,7 +2829,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T20:10:55Z",
+      "market_verified_at": "2026-11-04T20:32:14Z",
       "mpn": "2F2K5AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-silver-laptop-sleeve?variant=58174208016766",
@@ -2841,7 +2841,7 @@
           "delivery_price": 3.0,
           "item_price": 28.31,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2850,7 +2850,7 @@
           "delivery_price": 0.0,
           "item_price": 28.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         },
         {
           "availability": null,
@@ -2859,7 +2859,7 @@
           "delivery_price": 0.0,
           "item_price": 33.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T20:40:55Z"
+          "valid_until": "2026-11-04T21:02:14Z"
         }
       ],
       "publishable": true,
@@ -2867,10 +2867,10 @@
       "saving_percent": 15.26,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46256956895",
-      "stock_checked_at": "2026-11-04T20:06:22.099980+00:00",
-      "stock_valid_until": "2026-11-04T20:36:22Z",
+      "stock_checked_at": "2026-11-04T20:27:33.427085+00:00",
+      "stock_valid_until": "2026-11-04T20:57:33Z",
       "title": "HP Reversible Protective 15.6-inch Silver Laptop Sleeve",
-      "valid_until": "2026-11-04T20:36:22Z",
+      "valid_until": "2026-11-04T20:57:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-reversible-protective-15-6-inch-silver-laptop-sleeve-db3c8d2e.html"
