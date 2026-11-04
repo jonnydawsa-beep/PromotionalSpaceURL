@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T07:53:15Z",
+    "generated_at": "2026-11-04T08:10:05Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "6a561b617d398c8989008e2e88c19af0fd09f35c58c20e1a4c5800c71434c75e",
+    "revision": "a7265064a6736b1d225e87d7ae747bf273a9bec040aad2dbdfa86d832350923e",
     "deal_count": 83,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -84,7 +84,7 @@
       "brand": "Urban Armor Gear",
       "canonical_key": "BRANDMPN:urbanarmorgear:134010114343",
       "category": "Technology",
-      "checked_at": "2026-11-04T07:53:08Z",
+      "checked_at": "2026-11-04T08:09:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 85.34,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T07:53:08Z",
+      "market_verified_at": "2026-11-04T08:09:18Z",
       "mpn": "134010114343",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/urban-armor-gear-134010114343-laptop-case-381-cm-15-cover-translucent?variant=56762535707006",
@@ -112,7 +112,7 @@
           "delivery_price": 0.0,
           "item_price": 77.58,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T08:23:08Z"
+          "valid_until": "2026-11-04T08:39:18Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 93.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T08:23:08Z"
+          "valid_until": "2026-11-04T08:39:18Z"
         }
       ],
       "publishable": true,
