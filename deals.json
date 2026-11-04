@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T17:04:44Z",
+    "generated_at": "2026-11-04T17:19:20Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "d985fc185285fb8b3163f4f9bcb528eab1694409a9dc5c6593dbe07ee4d44e26",
+    "revision": "9c424fdba086939ed4afe5170216e4349cc138f96a5bab4568cb606f8622305e",
     "deal_count": 79,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -146,7 +146,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:31Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 60.22,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:31Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -174,7 +174,7 @@
           "delivery_price": 0.0,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 3.0,
           "item_price": 60.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -192,7 +192,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -1050,7 +1050,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:31Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2065.06,
@@ -1066,7 +1066,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:31Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -1078,7 +1078,7 @@
           "delivery_price": 0.0,
           "item_price": 2065.06,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1087,7 +1087,7 @@
           "delivery_price": 3.0,
           "item_price": 2065.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1096,7 +1096,7 @@
           "delivery_price": null,
           "item_price": 2478.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -1183,7 +1183,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:31Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 40.88,
@@ -1199,7 +1199,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:31Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -1211,7 +1211,7 @@
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1220,7 +1220,7 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1229,7 +1229,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -1830,7 +1830,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:5812011000000",
       "category": "Technology",
-      "checked_at": "2026-11-04T17:04:31Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 130.14,
@@ -1846,7 +1846,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:31Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "VFM-DAD/4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -1858,7 +1858,7 @@
           "delivery_price": 0.0,
           "item_price": 130.14,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1867,7 +1867,7 @@
           "delivery_price": 3.0,
           "item_price": 130.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -1876,7 +1876,7 @@
           "delivery_price": 0.0,
           "item_price": 156.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:31Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -3310,7 +3310,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158661437",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 28.61,
@@ -3326,7 +3326,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "D30933-V1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -3338,7 +3338,7 @@
           "delivery_price": 3.0,
           "item_price": 23.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3347,7 +3347,7 @@
           "delivery_price": null,
           "item_price": 28.61,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3356,7 +3356,7 @@
           "delivery_price": 0.0,
           "item_price": 35.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -3514,7 +3514,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.9,
@@ -3530,7 +3530,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -3542,7 +3542,7 @@
           "delivery_price": 0.0,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3551,7 +3551,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3560,7 +3560,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -3709,7 +3709,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331548",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.65,
@@ -3725,7 +3725,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "PE65-6010",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375359857022",
@@ -3737,7 +3737,7 @@
           "delivery_price": 0.0,
           "item_price": 25.65,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3746,7 +3746,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -3755,7 +3755,7 @@
           "delivery_price": 0.0,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -3966,7 +3966,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336857",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.49,
@@ -3982,7 +3982,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "SLEEV-20WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-10mm-21mm-29mm-max-lsoh-white?variant=55468657901950",
@@ -3994,7 +3994,7 @@
           "delivery_price": 0.0,
           "item_price": 25.49,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4003,7 +4003,7 @@
           "delivery_price": 3.0,
           "item_price": 25.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4012,7 +4012,7 @@
           "delivery_price": 0.0,
           "item_price": 30.59,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -4347,7 +4347,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158668740",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 43.43,
@@ -4363,7 +4363,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "D31696-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-eco-scale-439-cm-173-backpack-black?variant=55468208980350",
@@ -4375,7 +4375,7 @@
           "delivery_price": 0.0,
           "item_price": 43.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4384,7 +4384,7 @@
           "delivery_price": 3.0,
           "item_price": 43.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4393,7 +4393,7 @@
           "delivery_price": 0.0,
           "item_price": 52.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -4418,7 +4418,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331173",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.45,
@@ -4434,7 +4434,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "PDU6H",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-6-way-uk-horizontal-1u-pdu-with-uk-3m-feed?variant=55468655837566",
@@ -4446,7 +4446,7 @@
           "delivery_price": 0.0,
           "item_price": 26.45,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4455,7 +4455,7 @@
           "delivery_price": 3.0,
           "item_price": 26.45,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4464,7 +4464,7 @@
           "delivery_price": 0.0,
           "item_price": 31.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -4799,7 +4799,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:6862534000000",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 116.1,
@@ -4815,7 +4815,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "TC-HDMIIPRX/3",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-hdmi-over-ip-receiver-av-receiver-black?variant=55468989677950",
@@ -4827,7 +4827,7 @@
           "delivery_price": 0.0,
           "item_price": 116.1,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4836,7 +4836,7 @@
           "delivery_price": 3.0,
           "item_price": 116.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4845,7 +4845,7 @@
           "delivery_price": 0.0,
           "item_price": 139.32,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
@@ -4932,7 +4932,7 @@
       "brand": "Broadcom",
       "canonical_key": "GTIN:650861000123",
       "category": "Other",
-      "checked_at": "2026-11-04T17:04:32Z",
+      "checked_at": "2026-11-04T17:19:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 220.76,
@@ -4948,7 +4948,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T17:04:32Z",
+      "market_verified_at": "2026-11-04T17:19:19Z",
       "mpn": "BCM957414A4142CC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/broadcom-assy-top-bcm957414a4142cc-cloud-internal-25000-mbits?variant=55308790530430",
@@ -4960,7 +4960,7 @@
           "delivery_price": 0.0,
           "item_price": 220.76,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4969,7 +4969,7 @@
           "delivery_price": 3.0,
           "item_price": 220.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         },
         {
           "availability": null,
@@ -4978,7 +4978,7 @@
           "delivery_price": null,
           "item_price": 264.91,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T17:34:32Z"
+          "valid_until": "2026-11-04T17:49:19Z"
         }
       ],
       "publishable": true,
