@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T06:41:11Z",
+    "generated_at": "2026-11-04T06:45:09Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "d3d03a07d736d63777033c491a8196d47e3361bdf27008196f821eb7d905203b",
+    "revision": "d1cf8007e30acaf81d1b5dfb647c4c15502e3d7451e7bd3a6c6a81c145e8a7ba",
     "deal_count": 80,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -394,7 +394,7 @@
       "brand": "Vinsetto",
       "canonical_key": "GTIN:5056602946821",
       "category": "Gaming",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 105.99,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "921-618V71WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-360-degree-swivel-seat-footrest-removable~1DSE9PDKI1O00.html?utm_source=awin&utm_medium=affiliate",
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 101.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:12:08Z"
         }
       ],
       "publishable": true,
@@ -431,9 +431,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "35984301173",
       "stock_checked_at": "2026-11-04T02:10:14Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Vinsetto Racing Gaming Chair, Reclining PU Leather Computer Chair with 360 Degree Swivel Seat, Footrest, Removable Headrest White and Black   Aosom UK",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-db385f1c.html"
@@ -2309,7 +2309,7 @@
       "brand": "Katun",
       "canonical_key": "BRANDMPN:katun:008r13061kat",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.77,
@@ -2325,7 +2325,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "008R13061-KAT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/katun-47073-toner-waste-box-replaces-xerox-008r13061-108r00865-for-xerox-altalink-c-8000-phaser-7500-wc-7425-wc-7525?variant=58375372800382",
@@ -2337,7 +2337,7 @@
           "delivery_price": null,
           "item_price": 34.34,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -2346,7 +2346,7 @@
           "delivery_price": 0.0,
           "item_price": 41.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2355,9 +2355,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614873",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Katun 47073 Toner waste box (replaces Xerox 008R13061 108R00865) for Xerox AltaLink C 8000/Phaser 7500/WC 7425/WC 7525",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/katun-47073-toner-waste-box-replaces-xerox-008r13061-108r00865-for-xer-db3731c1.html"
@@ -2442,7 +2442,7 @@
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:49318",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.14,
@@ -2458,7 +2458,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "49318",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-pinstripe-30-usb-30-drive-64-gb-black?variant=55308622004606",
@@ -2470,7 +2470,7 @@
           "delivery_price": null,
           "item_price": 28.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -2479,7 +2479,7 @@
           "delivery_price": 0.0,
           "item_price": 33.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2488,9 +2488,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476144910",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Verbatim PinStripe 3.0 - USB 3.0 Drive 64 GB  - Black",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-pinstripe-3-0-usb-3-0-drive-64-gb-black-db3d9a70.html"
@@ -2575,7 +2575,7 @@
       "brand": "Katun",
       "canonical_key": "BRANDMPN:katun:44786",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -2591,7 +2591,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "44786",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/katun-44786-toner-cartridge-1-pcs-black-2?variant=58359098245502",
@@ -2603,7 +2603,7 @@
           "delivery_price": null,
           "item_price": 43.06,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -2612,7 +2612,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2621,9 +2621,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46556227008",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Katun 44786 toner cartridge 1 pc(s) Black",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/katun-44786-toner-cartridge-1-pc-s-black-db344242.html"
@@ -2637,7 +2637,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515629",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.29,
@@ -2653,7 +2653,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-50ml-Spray-s9315/",
@@ -2665,7 +2665,7 @@
           "delivery_price": 2.95,
           "item_price": 54.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -2674,7 +2674,7 @@
           "delivery_price": 3.95,
           "item_price": 54.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2683,9 +2683,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "21700786007",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-50ml-spray-db331155.html"
@@ -2699,7 +2699,7 @@
       "brand": "Acer",
       "canonical_key": "BRANDMPN:acer:dtr7lek001",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 757.28,
@@ -2715,7 +2715,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "DT.R7LEK.001",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-veriton-n-series-sff-desktop-vvn4735gt-intel-core-ultra-5-8gb-ram-512gb-ssd-windows-11-1?variant=57837879230846",
@@ -2727,7 +2727,7 @@
           "delivery_price": null,
           "item_price": 688.44,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -2736,7 +2736,7 @@
           "delivery_price": 0.0,
           "item_price": 826.13,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2745,9 +2745,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "45618341346",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Acer Veriton N Series SFF desktop (VVN4735GT) - Intel Core Ultra 5, 8GB RAM, 512GB SSD, Windows 11",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/acer-veriton-n-series-sff-desktop-vvn4735gt-intel-core-ultra-5-8gb-ram-db3f4b7e.html"
@@ -2761,7 +2761,7 @@
       "brand": "Targus",
       "canonical_key": "BRANDMPN:targus:thd936gl",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 40.1,
@@ -2777,7 +2777,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "THD936GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-versavu-277-cm-109-folio-transparent?variant=55307614126462",
@@ -2789,7 +2789,7 @@
           "delivery_price": null,
           "item_price": 36.46,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -2798,7 +2798,7 @@
           "delivery_price": 0.0,
           "item_price": 43.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -2807,9 +2807,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270456",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Targus VersaVu 27.7 cm (10.9\") Folio Transparent",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-versavu-27-7-cm-10-9-folio-transparent-db36cdeb.html"
@@ -3027,7 +3027,7 @@
       "brand": "Energizer",
       "canonical_key": "BRANDMPN:energizer:636107",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.88,
@@ -3043,7 +3043,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "636107",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/energizer-industrial-single-use-battery-c-alkaline?variant=57519768699262",
@@ -3055,7 +3055,7 @@
           "delivery_price": 0.0,
           "item_price": 29.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3064,7 +3064,7 @@
           "delivery_price": 0.0,
           "item_price": 35.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3073,9 +3073,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "44970739902",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Energizer Industrial Single-use battery C Alkaline",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/energizer-industrial-single-use-battery-c-alkaline-db3e5719.html"
@@ -3160,7 +3160,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 640.99,
@@ -3176,7 +3176,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -3188,7 +3188,7 @@
           "delivery_price": 0.0,
           "item_price": 512.11,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3197,7 +3197,7 @@
           "delivery_price": 0.0,
           "item_price": 614.53,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3206,9 +3206,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
@@ -3222,7 +3222,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 432.99,
@@ -3238,7 +3238,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "C9300-NM-4G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -3250,7 +3250,7 @@
           "delivery_price": 0.0,
           "item_price": 349.32,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3259,7 +3259,7 @@
           "delivery_price": 0.0,
           "item_price": 419.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3268,9 +3268,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450565",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Cisco C9300-NM-4G network switch module Gigabit Ethernet",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html"
@@ -3284,7 +3284,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000011",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 77.89,
@@ -3300,7 +3300,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-50ml-Spray-s2279/",
@@ -3312,7 +3312,7 @@
           "delivery_price": 2.95,
           "item_price": 77.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -3321,7 +3321,7 @@
           "delivery_price": 3.95,
           "item_price": 77.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3330,9 +3330,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "27337828817",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Viktor & Rolf FlowerBomb Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-eau-de-parfum-50ml-spray-db3871b0.html"
@@ -3346,7 +3346,7 @@
       "brand": "Samsung",
       "canonical_key": "BRANDMPN:samsung:ejpx730bwegeu",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 62.66,
@@ -3362,7 +3362,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "EJ-PX730BWEGEU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/samsung-s-pen-for-galaxy-tab-s11-series?variant=56445186441598",
@@ -3374,7 +3374,7 @@
           "delivery_price": null,
           "item_price": 56.96,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3383,7 +3383,7 @@
           "delivery_price": 0.0,
           "item_price": 68.35,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3392,9 +3392,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42932650770",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Samsung S Pen for Galaxy Tab S11 Series",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/samsung-s-pen-for-galaxy-tab-s11-series-db33e48c.html"
@@ -3692,7 +3692,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0884962894392",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 14,
       "comparison_price": 27.99,
@@ -3708,7 +3708,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "CH561EE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-301-black-original-ink-cartridge?variant=55306426286462",
@@ -3720,7 +3720,7 @@
           "delivery_price": 0.0,
           "item_price": 22.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3729,7 +3729,7 @@
           "delivery_price": 3.0,
           "item_price": 22.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -3738,7 +3738,7 @@
           "delivery_price": 0.0,
           "item_price": 26.41,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3747,9 +3747,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "41475277601",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "HP 301 Black Original Ink Cartridge",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-301-black-original-ink-cartridge-db32c865.html"
@@ -3763,7 +3763,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:0031655513034",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 76.99,
@@ -3779,7 +3779,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Eau-de-Toilette-100ml-Spray-s2549/",
@@ -3791,7 +3791,7 @@
           "delivery_price": 3.95,
           "item_price": 67.49,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -3800,7 +3800,7 @@
           "delivery_price": 7.95,
           "item_price": 86.49,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -3809,9 +3809,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "31587996365",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Marc Jacobs Daisy Eau de Toilette 100ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-eau-de-toilette-100ml-spray-db31a780.html"
@@ -3825,7 +3825,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349421",
       "category": "Home",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 109.99,
@@ -3841,7 +3841,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "920-106V00WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -3853,7 +3853,7 @@
           "delivery_price": 0.0,
           "item_price": 110.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:12:08Z"
         }
       ],
       "publishable": true,
@@ -3862,9 +3862,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45953893120",
       "stock_checked_at": "2026-11-04T02:10:14Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "HOMCOM 105 x 51 cm Foldable Office Deskwith 3 Drawers, Extendable Top, Wheels, White",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-w-db3c1039.html"
@@ -3878,7 +3878,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 13,
       "comparison_price": 49.99,
@@ -3894,7 +3894,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -3906,7 +3906,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:12:08Z"
         }
       ],
       "publishable": true,
@@ -3915,9 +3915,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
       "stock_checked_at": "2026-11-04T02:10:14Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
@@ -3993,7 +3993,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7665.37,
@@ -4009,7 +4009,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -4021,7 +4021,7 @@
           "delivery_price": 3.0,
           "item_price": 7648.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4030,7 +4030,7 @@
           "delivery_price": 0.0,
           "item_price": 7665.37,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4039,7 +4039,7 @@
           "delivery_price": 0.0,
           "item_price": 9198.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4048,9 +4048,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447727",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html"
@@ -4126,7 +4126,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313409179",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.46,
@@ -4142,7 +4142,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "S0720720",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe?variant=55479242424702",
@@ -4154,7 +4154,7 @@
           "delivery_price": 3.0,
           "item_price": 23.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4163,7 +4163,7 @@
           "delivery_price": 0.0,
           "item_price": 27.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4172,9 +4172,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462875",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "DYMO Authentic D1 Labels | Black Print on Red Tape | 9 mm x 7 m | Self-Adhesive Labels for LabelManager Label Makers | Made in Europe",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhes-db3dddac.html"
@@ -4188,7 +4188,7 @@
       "brand": "Rasasi",
       "canonical_key": "GTIN:0614514339206",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.74,
@@ -4204,7 +4204,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Rasasi-Hawas-For-Her-%C3%89clat-Eau-de-Parfum-100ml-Spray-s166275/",
@@ -4216,7 +4216,7 @@
           "delivery_price": 2.95,
           "item_price": 28.59,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -4225,7 +4225,7 @@
           "delivery_price": 3.95,
           "item_price": 28.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4234,9 +4234,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43387396640",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Rasasi Hawas For Her Éclat Eau de Parfum 100ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/rasasi-hawas-for-her-eclat-eau-de-parfum-100ml-spray-db3466d8.html"
@@ -4250,7 +4250,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030834216",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.45,
@@ -4266,7 +4266,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "ICUSB128410",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-10-ft-usb-to-parallel-printer-adapter-mm?variant=55306444112254",
@@ -4278,7 +4278,7 @@
           "delivery_price": 0.0,
           "item_price": 23.13,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4287,7 +4287,7 @@
           "delivery_price": 0.0,
           "item_price": 27.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4296,9 +4296,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278454",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "StarTech.com 10 ft USB to Parallel Printer Adapter - M/M",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-10-ft-usb-to-parallel-printer-adapter-m-m-db378b22.html"
@@ -4383,7 +4383,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515346",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 65.09,
@@ -4399,7 +4399,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-90ml-Spray-s11899/",
@@ -4411,7 +4411,7 @@
           "delivery_price": 2.95,
           "item_price": 65.09,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -4420,7 +4420,7 @@
           "delivery_price": 3.95,
           "item_price": 65.09,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4429,9 +4429,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "3389521391",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 90ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-90ml-spray-db3b99b5.html"
@@ -4507,7 +4507,7 @@
       "brand": "Belkin",
       "canonical_key": "GTIN:0722868950647",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.3,
@@ -4523,7 +4523,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "B2B048",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/belkin-usb-30-gigabit-ethernet?variant=55307077648766",
@@ -4535,7 +4535,7 @@
           "delivery_price": 3.0,
           "item_price": 23.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4544,7 +4544,7 @@
           "delivery_price": 0.0,
           "item_price": 29.35,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4553,9 +4553,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273077",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Belkin USB 3.0 / Gigabit Ethernet",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/belkin-usb-3-0-gigabit-ethernet-db3ec8db.html"
@@ -4569,7 +4569,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766692588",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.01,
@@ -4585,7 +4585,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "TZE-M951",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tze-m951-label-making-tape-black-on-silver?variant=55307067883902",
@@ -4597,7 +4597,7 @@
           "delivery_price": 3.0,
           "item_price": 22.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4606,7 +4606,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4615,9 +4615,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475272940",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Brother TZE-M951 label-making tape Black on silver",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-tze-m951-label-making-tape-black-on-silver-db34d3b8.html"
@@ -4631,7 +4631,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766692465",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.01,
@@ -4647,7 +4647,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "TZE-B51",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-laminated-tape?variant=55306411999614",
@@ -4659,7 +4659,7 @@
           "delivery_price": 3.0,
           "item_price": 22.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4668,7 +4668,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4677,9 +4677,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475277034",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Brother Laminated tape",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-laminated-tape-db3b7404.html"
@@ -4693,7 +4693,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313450140",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -4709,7 +4709,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "S0720540",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-authentic-d1-labels-blue-print-on-white-tape-12-mm-x-7-m-self-adhesive-labels-for-labelmanager-label-makers-made-in-europe?variant=55479242260862",
@@ -4721,7 +4721,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4730,7 +4730,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4739,9 +4739,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462871",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "DYMO Authentic D1 Labels | Blue Print on White Tape | 12 mm x 7 m | Self-Adhesive Labels for LabelManager Label Makers | Made in Europe",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-authentic-d1-labels-blue-print-on-white-tape-12-mm-x-7-m-self-adh-db3319c0.html"
@@ -4755,7 +4755,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313169592",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -4771,7 +4771,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "S0718060",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-d1-high-performance-permanent-polyester-labels-12-mm-x-55m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic?variant=55307941511550",
@@ -4783,7 +4783,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4792,7 +4792,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4801,9 +4801,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475284053",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "DYMO D1 High-Performance Permanent Polyester Labels | 12 mm x 5.5m Roll | Black Print on White | Self-Adhesive Labels for LabelManager Label Printers | Authentic",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-d1-high-performance-permanent-polyester-labels-12-mm-x-5-5m-roll-db3881b8.html"
@@ -4817,7 +4817,7 @@
       "brand": "Dymo",
       "canonical_key": "GTIN:5411313169578",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 24.99,
@@ -4833,7 +4833,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "S0718040",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dymo-d1-high-performance-flexible-nylon-labels-authentic-19-mm-x-35-m-roll-black-print-on-white-self-adhesive-labels-for-labelmanager-label-printers-authentic?variant=55479241245054",
@@ -4845,7 +4845,7 @@
           "delivery_price": 3.0,
           "item_price": 22.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -4854,7 +4854,7 @@
           "delivery_price": 0.0,
           "item_price": 27.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4863,9 +4863,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075462840",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "DYMO D1 High-Performance Flexible Nylon Labels | Authentic | 19 mm x 3.5 m Roll | Black Print on White | Self-Adhesive Labels for LabelManager Label Printers | Authentic",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dymo-d1-high-performance-flexible-nylon-labels-authentic-19-mm-x-3-5-m-db3f3bba.html"
@@ -4950,7 +4950,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872363",
       "category": "Other",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 46.69,
@@ -4966,7 +4966,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-30ml-Spray-s88210/",
@@ -4978,7 +4978,7 @@
           "delivery_price": 2.95,
           "item_price": 46.69,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": 1,
@@ -4987,7 +4987,7 @@
           "delivery_price": 3.95,
           "item_price": 46.69,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -4996,9 +4996,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36396819640",
       "stock_checked_at": "2026-11-03T21:26:41Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:10Z",
       "title": "Viktor & Rolf Flowerbomb Dew Eau de Parfum 30ml Spray",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:10Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-dew-eau-de-parfum-30ml-spray-db311f06.html"
@@ -5083,7 +5083,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658698422",
       "category": "Technology",
-      "checked_at": "2026-11-04T06:15:27Z",
+      "checked_at": "2026-11-04T06:44:21Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 575.11,
@@ -5099,7 +5099,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T06:15:27Z",
+      "market_verified_at": "2026-11-04T06:44:21Z",
       "mpn": "CP-8851-K9",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-ip-business-phone-8851-5-inch-wvga-colour-display-gigabit-ethernet-switch-class-4-poe-usb-port-10-sip-registrations-1-year-limited-hardware-warranty-cp-8851-k9?variant=55468148031870",
@@ -5111,7 +5111,7 @@
           "delivery_price": 3.0,
           "item_price": 522.2,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         },
         {
           "availability": null,
@@ -5120,7 +5120,7 @@
           "delivery_price": 0.0,
           "item_price": 628.01,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T06:45:27Z"
+          "valid_until": "2026-11-04T07:14:21Z"
         }
       ],
       "publishable": true,
@@ -5129,9 +5129,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447813",
       "stock_checked_at": "2026-11-04T04:43:28Z",
-      "stock_valid_until": "2026-11-04T06:45:27Z",
+      "stock_valid_until": "2026-11-04T07:12:08Z",
       "title": "Cisco IP Business Phone 8851, 5-inch WVGA Colour Display, Gigabit Ethernet Switch, Class 4 PoE, USB Port, 10 SIP Registrations, 1-Year Limited Hardware Warranty (CP-8851-K9=)",
-      "valid_until": "2026-11-04T06:45:27Z",
+      "valid_until": "2026-11-04T07:12:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-ip-business-phone-8851-5-inch-wvga-colour-display-gigabit-ethern-db34e66a.html"
