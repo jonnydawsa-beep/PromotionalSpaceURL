@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-04T14:57:41Z",
+    "generated_at": "2026-11-04T15:11:53Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "87828a24d72554b75b47e635bbd579e3a266cc1d154f1781804c75a40d66466d",
+    "revision": "dd7804d01d666e9a4003b5d219a12bf3da1d25646e4a2a2e45724e7bf93acfef",
     "deal_count": 13,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -421,7 +421,7 @@
       "brand": "Simucube",
       "canonical_key": "BRANDMPN:simucube:sc3wb70a",
       "category": "Other",
-      "checked_at": "2026-11-04T14:57:35Z",
+      "checked_at": "2026-11-04T15:11:53Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 80.83,
@@ -437,7 +437,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-04T14:57:35Z",
+      "market_verified_at": "2026-11-04T15:11:53Z",
       "mpn": "SC3WB70A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/simucube-70mm-adaptor-for-simucube-3-smrsc3wb70a/",
@@ -449,7 +449,7 @@
           "delivery_price": 0.0,
           "item_price": 73.48,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:41:53Z"
         },
         {
           "availability": null,
@@ -458,7 +458,7 @@
           "delivery_price": 0.0,
           "item_price": 88.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-04T15:27:35Z"
+          "valid_until": "2026-11-04T15:41:53Z"
         }
       ],
       "publishable": true,
