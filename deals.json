@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T16:12:06Z",
+    "generated_at": "2026-11-05T16:26:07Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e60f0f8206b22db1c148563519181a132ac44106ba83d585417a635a785d3662",
+    "revision": "6ecf22a2f9cc6674c58ac4219d90c54f531906005ab4844d776f754d080392ce",
     "deal_count": 47,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -713,7 +713,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353956469",
       "category": "Other",
-      "checked_at": "2026-11-05T16:03:03Z",
+      "checked_at": "2026-11-05T16:24:57Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1276.46,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T16:03:03Z",
+      "market_verified_at": "2026-11-05T16:24:57Z",
       "mpn": "GA11818-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-11-dual-sim-android-17-5g-usb-type-c-12-gb-512-gb-4985-mah-pink?variant=57842644418942",
@@ -741,7 +741,7 @@
           "delivery_price": null,
           "item_price": 1160.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T16:33:03Z"
+          "valid_until": "2026-11-05T16:54:57Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": null,
           "item_price": 1392.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T16:33:03Z"
+          "valid_until": "2026-11-05T16:54:57Z"
         }
       ],
       "publishable": true,
@@ -758,10 +758,10 @@
       "saving_percent": 34.43,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "45618341657",
-      "stock_checked_at": "2026-11-05T15:58:34.393793+00:00",
-      "stock_valid_until": "2026-11-05T16:28:34Z",
+      "stock_checked_at": "2026-11-05T16:19:17.062980+00:00",
+      "stock_valid_until": "2026-11-05T16:49:17Z",
       "title": "Google Pixel 11 5G Smartphone (GA11818-GB) - 512GB, 12GB RAM, Dual SIM, Pink",
-      "valid_until": "2026-11-05T16:28:34Z",
+      "valid_until": "2026-11-05T16:49:17Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/google-pixel-11-5g-smartphone-ga11818-gb-512gb-12gb-ram-dual-sim-pink-db3152d7.html"
