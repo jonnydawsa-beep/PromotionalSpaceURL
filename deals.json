@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T10:32:11Z",
+    "generated_at": "2026-11-05T10:50:53Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "d076745b04c6de8634adef48f615ec5217037fcec81e504b5ff2437535359735",
+    "revision": "b9dd27740760a5e19d5d12a7a263a4a699727e184c8a0ff0e42b806f69e2d9e6",
     "deal_count": 47,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -385,7 +385,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-05T10:27:27Z",
+      "checked_at": "2026-11-05T10:49:41Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -401,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-05T10:27:27Z",
+      "market_verified_at": "2026-11-05T10:49:41Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -413,7 +413,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         },
         {
           "availability": null,
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         }
       ],
       "publishable": true,
@@ -439,10 +439,10 @@
       "saving_percent": 40.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-05T10:22:45.325884+00:00",
-      "stock_valid_until": "2026-11-05T10:52:45Z",
+      "stock_checked_at": "2026-11-05T10:44:11.212547+00:00",
+      "stock_valid_until": "2026-11-05T11:14:11Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-05T10:52:45Z",
+      "valid_until": "2026-11-05T11:14:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -527,7 +527,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-05T10:27:27Z",
+      "checked_at": "2026-11-05T10:49:41Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 68.63,
@@ -543,7 +543,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T10:27:27Z",
+      "market_verified_at": "2026-11-05T10:49:41Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -555,7 +555,7 @@
           "delivery_price": null,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         },
         {
           "availability": null,
@@ -564,7 +564,7 @@
           "delivery_price": 0.0,
           "item_price": 74.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         }
       ],
       "publishable": true,
@@ -572,10 +572,10 @@
       "saving_percent": 40.27,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285340",
-      "stock_checked_at": "2026-11-05T10:22:45.325884+00:00",
-      "stock_valid_until": "2026-11-05T10:52:45Z",
+      "stock_checked_at": "2026-11-05T10:44:11.212547+00:00",
+      "stock_valid_until": "2026-11-05T11:14:11Z",
       "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "valid_until": "2026-11-05T10:52:45Z",
+      "valid_until": "2026-11-05T11:14:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html"
@@ -713,7 +713,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:5812011000000",
       "category": "Technology",
-      "checked_at": "2026-11-05T10:27:27Z",
+      "checked_at": "2026-11-05T10:49:41Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 143.16,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T10:27:27Z",
+      "market_verified_at": "2026-11-05T10:49:41Z",
       "mpn": "VFM-DAD/4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -741,7 +741,7 @@
           "delivery_price": null,
           "item_price": 130.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 156.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         }
       ],
       "publishable": true,
@@ -758,10 +758,10 @@
       "saving_percent": 35.04,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075460341",
-      "stock_checked_at": "2026-11-05T10:22:45.325884+00:00",
-      "stock_valid_until": "2026-11-05T10:52:45Z",
+      "stock_checked_at": "2026-11-05T10:44:11.212547+00:00",
+      "stock_valid_until": "2026-11-05T11:14:11Z",
       "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
-      "valid_until": "2026-11-05T10:52:45Z",
+      "valid_until": "2026-11-05T11:14:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html"
@@ -1280,7 +1280,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-05T10:27:27Z",
+      "checked_at": "2026-11-05T10:49:41Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -1296,7 +1296,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T10:27:27Z",
+      "market_verified_at": "2026-11-05T10:49:41Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -1308,7 +1308,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         },
         {
           "availability": null,
@@ -1317,7 +1317,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T10:57:27Z"
+          "valid_until": "2026-11-05T11:19:41Z"
         }
       ],
       "publishable": true,
@@ -1325,10 +1325,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614808",
-      "stock_checked_at": "2026-11-05T10:22:45.325884+00:00",
-      "stock_valid_until": "2026-11-05T10:52:45Z",
+      "stock_checked_at": "2026-11-05T10:44:11.212547+00:00",
+      "stock_valid_until": "2026-11-05T11:14:11Z",
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
-      "valid_until": "2026-11-05T10:52:45Z",
+      "valid_until": "2026-11-05T11:14:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
