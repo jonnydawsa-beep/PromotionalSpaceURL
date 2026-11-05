@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T23:34:44Z",
+    "generated_at": "2026-11-05T23:39:36Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "addbacc6e8e43ba0377b5a0a5cca8a7d9055de8d97888d2929af4c32642fb6f0",
+    "revision": "24327f9251e4c36e7af97fd827f90d3267dc507404eb6b2936eb8b4ea0f1960b",
     "deal_count": 64,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3299,7 +3299,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270773",
       "category": "Other",
-      "checked_at": "2026-11-05T23:33:33Z",
+      "checked_at": "2026-11-05T23:38:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.69,
@@ -3315,7 +3315,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T23:33:33Z",
+      "market_verified_at": "2026-11-05T23:38:24Z",
       "mpn": "RS079",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-active-shifter-knobs-mzars079/",
@@ -3327,7 +3327,7 @@
           "delivery_price": 4.99,
           "item_price": 45.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-06T00:03:33Z"
+          "valid_until": "2026-11-06T00:08:24Z"
         },
         {
           "availability": null,
@@ -3336,7 +3336,7 @@
           "delivery_price": null,
           "item_price": 49.38,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:03:33Z"
+          "valid_until": "2026-11-06T00:08:24Z"
         }
       ],
       "publishable": true,
@@ -3344,10 +3344,10 @@
       "saving_percent": 18.21,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41302072524",
-      "stock_checked_at": "2026-11-05T23:06:54Z",
-      "stock_valid_until": "2026-11-05T23:36:54Z",
+      "stock_checked_at": "2026-11-05T23:33:33Z",
+      "stock_valid_until": "2026-11-06T00:03:33Z",
       "title": "Moza Active Shifter Knobs",
-      "valid_until": "2026-11-05T23:36:54Z",
+      "valid_until": "2026-11-06T00:03:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/moza-active-shifter-knobs-db397a37.html"
