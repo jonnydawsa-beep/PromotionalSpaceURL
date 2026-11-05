@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T11:01:16Z",
+    "generated_at": "2026-11-05T11:09:27Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "96f6a28458740db912bf2eb71615143cb2dded4c4f2c5fd9e4fb9c321863666c",
+    "revision": "a1713900ffc383a7e6d0d1ecee69f2d4c8a7a16cf74aa3f3808b19c36044ad3f",
     "deal_count": 47,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -385,7 +385,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-05T11:01:12Z",
+      "checked_at": "2026-11-05T11:09:26Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -401,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-05T11:01:12Z",
+      "market_verified_at": "2026-11-05T11:09:26Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -413,7 +413,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         },
         {
           "availability": null,
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         }
       ],
       "publishable": true,
@@ -527,7 +527,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-05T11:01:12Z",
+      "checked_at": "2026-11-05T11:09:26Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 68.63,
@@ -543,7 +543,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T11:01:12Z",
+      "market_verified_at": "2026-11-05T11:09:26Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -555,7 +555,7 @@
           "delivery_price": null,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         },
         {
           "availability": null,
@@ -564,7 +564,7 @@
           "delivery_price": 0.0,
           "item_price": 74.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         }
       ],
       "publishable": true,
@@ -713,7 +713,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:5812011000000",
       "category": "Technology",
-      "checked_at": "2026-11-05T11:01:12Z",
+      "checked_at": "2026-11-05T11:09:26Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 143.16,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T11:01:12Z",
+      "market_verified_at": "2026-11-05T11:09:26Z",
       "mpn": "VFM-DAD/4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -741,7 +741,7 @@
           "delivery_price": null,
           "item_price": 130.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 156.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         }
       ],
       "publishable": true,
@@ -1280,7 +1280,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-05T11:01:12Z",
+      "checked_at": "2026-11-05T11:09:26Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -1296,7 +1296,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T11:01:12Z",
+      "market_verified_at": "2026-11-05T11:09:26Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -1308,7 +1308,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         },
         {
           "availability": null,
@@ -1317,7 +1317,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T11:31:12Z"
+          "valid_until": "2026-11-05T11:39:26Z"
         }
       ],
       "publishable": true,
