@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T18:23:55Z",
+    "generated_at": "2026-11-05T18:27:37Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "d6fce2f7d7cf77550ed274581110d6f0752b9be9339578d1d90dca4e8ccaa35e",
+    "revision": "04bc063029280ea66a503dba149dbe97ba533ae6ef01849bd85688dcdabd303e",
     "deal_count": 93,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -979,7 +979,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728594967",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 372.62,
@@ -995,7 +995,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "DP-9851-K9=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd?variant=55469025427838",
@@ -1007,7 +1007,7 @@
           "delivery_price": 0.0,
           "item_price": 338.74,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -1016,7 +1016,7 @@
           "delivery_price": 0.0,
           "item_price": 406.49,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -1041,7 +1041,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728594974",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 508.86,
@@ -1057,7 +1057,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "DP-9861-K9=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-9861-ip-phone-black-carbon-10-lines-lcd-wi-fi?variant=55469034668414",
@@ -1069,7 +1069,7 @@
           "delivery_price": 0.0,
           "item_price": 462.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -1078,7 +1078,7 @@
           "delivery_price": 0.0,
           "item_price": 555.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -1351,7 +1351,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195950653229",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.74,
@@ -1367,7 +1367,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "MGGE4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-crossbody-strap-neon-yellow?variant=56246706569598",
@@ -1379,7 +1379,7 @@
           "delivery_price": 0.0,
           "item_price": 54.31,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -1388,7 +1388,7 @@
           "delivery_price": 0.0,
           "item_price": 65.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -1936,7 +1936,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381459129",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 97.28,
@@ -1952,7 +1952,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "BL1850B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-bl1850b-18v-lxt-cordless-li-ion-battery-5ah/prod/301753/?varId=301753&Referrer=affwin",
@@ -1964,7 +1964,7 @@
           "delivery_price": 0.0,
           "item_price": 88.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -1973,7 +1973,7 @@
           "delivery_price": 0.0,
           "item_price": 106.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -2184,7 +2184,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0195892118565",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 67.43,
@@ -2200,7 +2200,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "4XF1R07369",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4xf1r07369-mounting-kit-black?variant=58376568865150",
@@ -2212,7 +2212,7 @@
           "delivery_price": 0.0,
           "item_price": 61.3,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -2221,7 +2221,7 @@
           "delivery_price": 0.0,
           "item_price": 73.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -2246,7 +2246,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0196804351025",
       "category": "Technology",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1083.74,
@@ -2262,7 +2262,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "63E5GAT2UK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-thinkvision-p32pz-30-computer-monitor-80-cm-315-3840-x-2160-pixels-4k-ultra-hd-lcd-black?variant=55306875306366",
@@ -2274,7 +2274,7 @@
           "delivery_price": 0.0,
           "item_price": 985.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -2283,7 +2283,7 @@
           "delivery_price": 0.0,
           "item_price": 1182.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -2441,7 +2441,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030887014",
       "category": "Technology",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 79.36,
@@ -2457,7 +2457,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "DKM31C3HVCPD",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-usb-c-dual-monitor-multiport-adapter-up-to-4k-60hz-usb-c-dp-alt-mode-video-output-hdmi-20-or-1080p-vga-100w-pd-pass-through-usb-type-c-mini-dock-usb-c-docking-station-mst-hub?variant=58290949915006",
@@ -2469,7 +2469,7 @@
           "delivery_price": 0.0,
           "item_price": 72.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -2478,7 +2478,7 @@
           "delivery_price": 0.0,
           "item_price": 86.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -2751,7 +2751,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951037349",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 51.65,
@@ -2767,7 +2767,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "MHWC4ZM/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-iphone-17e-clear-case-with-magsafe?variant=57023890096510",
@@ -2779,7 +2779,7 @@
           "delivery_price": 0.0,
           "item_price": 46.95,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -2788,7 +2788,7 @@
           "delivery_price": 0.0,
           "item_price": 56.34,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -2813,7 +2813,7 @@
       "brand": "Apple",
       "canonical_key": "GTIN:0195951014173",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 65.65,
@@ -2829,7 +2829,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "MHR34LL/A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/apple-beats-iphone-17e-case-with-magsafe-bedrock-blue?variant=57013270511998",
@@ -2841,7 +2841,7 @@
           "delivery_price": 0.0,
           "item_price": 59.68,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -2850,7 +2850,7 @@
           "delivery_price": 0.0,
           "item_price": 71.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -3770,7 +3770,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:0840353949911",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 726.64,
@@ -3786,7 +3786,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "GA09604-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-10a-16-cm-63-dual-sim-android-160-5g-usb-type-c-8-gb-128-gb-5100-mah-red?variant=56948939882878",
@@ -3798,7 +3798,7 @@
           "delivery_price": 0.0,
           "item_price": 660.58,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -3807,7 +3807,7 @@
           "delivery_price": 0.0,
           "item_price": 792.7,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -3894,7 +3894,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962224",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 516.38,
@@ -3910,7 +3910,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "GA10894-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-black-wi-fi-gps-satellite?variant=57842639962494",
@@ -3922,7 +3922,7 @@
           "delivery_price": 0.0,
           "item_price": 469.44,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -3931,7 +3931,7 @@
           "delivery_price": 0.0,
           "item_price": 563.33,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -4558,7 +4558,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766843522",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 155.26,
@@ -4574,7 +4574,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "TN-625C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-625c-toner-cartridge-1-pcs-original-cyan-2?variant=57461881897342",
@@ -4586,7 +4586,7 @@
           "delivery_price": 0.0,
           "item_price": 141.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -4595,7 +4595,7 @@
           "delivery_price": 0.0,
           "item_price": 169.38,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -4620,7 +4620,7 @@
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035210636",
       "category": "Other",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 258.88,
@@ -4636,7 +4636,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "AT-2914SX/LC-901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-2914sxlc-internal-fiber-1000-mbits?variant=55468179259774",
@@ -4648,7 +4648,7 @@
           "delivery_price": 0.0,
           "item_price": 235.35,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -4657,7 +4657,7 @@
           "delivery_price": 0.0,
           "item_price": 282.42,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
@@ -4682,7 +4682,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728309493",
       "category": "Technology",
-      "checked_at": "2026-11-05T18:23:53Z",
+      "checked_at": "2026-11-05T18:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3790.29,
@@ -4698,7 +4698,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T18:23:53Z",
+      "market_verified_at": "2026-11-05T18:27:36Z",
       "mpn": "C8200-1N-4T",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey?variant=55468196102526",
@@ -4710,7 +4710,7 @@
           "delivery_price": 0.0,
           "item_price": 3445.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         },
         {
           "availability": null,
@@ -4719,7 +4719,7 @@
           "delivery_price": 0.0,
           "item_price": 4134.86,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T18:53:53Z"
+          "valid_until": "2026-11-05T18:57:36Z"
         }
       ],
       "publishable": true,
