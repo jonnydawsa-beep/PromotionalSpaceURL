@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T16:34:46Z",
+    "generated_at": "2026-11-05T16:45:30Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "66877d5ebf84bcd2d223581efdb8c29627fe3b8459b97b39779b40e29bf13f72",
+    "revision": "3f4e04363589d2225bd41588b906f619659ab43a5da6878184c1267c01530510",
     "deal_count": 47,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -713,7 +713,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353956469",
       "category": "Other",
-      "checked_at": "2026-11-05T16:34:42Z",
+      "checked_at": "2026-11-05T16:44:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1276.46,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T16:34:42Z",
+      "market_verified_at": "2026-11-05T16:44:22Z",
       "mpn": "GA11818-GB",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-11-dual-sim-android-17-5g-usb-type-c-12-gb-512-gb-4985-mah-pink?variant=57842644418942",
@@ -741,7 +741,7 @@
           "delivery_price": null,
           "item_price": 1160.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-05T17:04:42Z"
+          "valid_until": "2026-11-05T17:14:22Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": null,
           "item_price": 1392.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T17:04:42Z"
+          "valid_until": "2026-11-05T17:14:22Z"
         }
       ],
       "publishable": true,
