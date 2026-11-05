@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T19:51:23Z",
+    "generated_at": "2026-11-05T20:05:55Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "59046ef228cb3d041963a4aa3fbb52809cc7a409b80c865f3ba2195eafd7817d",
+    "revision": "becbe703021ade3e8aaa396eef77cc1c0cd887c5d95b663110f102ba547c4ab4",
     "deal_count": 17,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764289",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.89,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-50ml-Spray-s19141/",
@@ -50,7 +50,7 @@
           "delivery_price": 2.95,
           "item_price": 59.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -59,7 +59,7 @@
           "delivery_price": 3.95,
           "item_price": 59.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -68,9 +68,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "37095700134",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-50ml-spray-db302d50.html"
@@ -84,7 +84,7 @@
       "brand": "Zadig & Voltaire",
       "canonical_key": "GTIN:3423222048457",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.99,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Zadig-Voltaire-This-is-Him%21-Vibes-of-Freedom-Eau-de-Toilette-50ml-Spray-s113671/",
@@ -112,7 +112,7 @@
           "delivery_price": 2.95,
           "item_price": 38.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -121,7 +121,7 @@
           "delivery_price": 3.95,
           "item_price": 38.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -130,9 +130,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36424399207",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Zadig & Voltaire This is Him! Vibes of Freedom Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/zadig-voltaire-this-is-him-vibes-of-freedom-eau-de-toilette-50ml-spray-db355e33.html"
@@ -146,7 +146,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764326",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.29,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-30ml-Spray-s19142/",
@@ -174,7 +174,7 @@
           "delivery_price": 2.95,
           "item_price": 43.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -183,7 +183,7 @@
           "delivery_price": 3.95,
           "item_price": 43.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -192,9 +192,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "34523554185",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 30ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-30ml-spray-db383844.html"
@@ -208,7 +208,7 @@
       "brand": "Cacharel",
       "canonical_key": "GTIN:3360373063703",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.95,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Cacharel-Amor-Amor-Eau-de-Toilette-50ml-Spray-s2475/",
@@ -236,7 +236,7 @@
           "delivery_price": 2.95,
           "item_price": 33.95,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -245,7 +245,7 @@
           "delivery_price": 3.95,
           "item_price": 33.95,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -254,9 +254,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "23212992323",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Cacharel Amor Amor Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cacharel-amor-amor-eau-de-toilette-50ml-spray-db360f6a.html"
@@ -270,7 +270,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3614225452079",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 49.19,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Love-Eau-de-Toilette-50ml-Spray-s59976/",
@@ -298,7 +298,7 @@
           "delivery_price": 2.95,
           "item_price": 49.19,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -307,7 +307,7 @@
           "delivery_price": 3.95,
           "item_price": 49.19,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -316,9 +316,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "33137669709",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Marc Jacobs Daisy Love Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-love-eau-de-toilette-50ml-spray-db343d78.html"
@@ -332,7 +332,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872370",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.99,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-50ml-Spray-s88211/",
@@ -360,7 +360,7 @@
           "delivery_price": 2.95,
           "item_price": 66.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -369,7 +369,7 @@
           "delivery_price": 3.95,
           "item_price": 66.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -378,9 +378,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "26543369229",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf Flowerbomb Dew Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-dew-eau-de-parfum-50ml-spray-db35862a.html"
@@ -394,7 +394,7 @@
       "brand": "Karl Lagerfeld",
       "canonical_key": "GTIN:3386460087254",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.99,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Karl-Lagerfeld-Fleur-De-Pecher-Eau-de-Parfum-100ml-Spray-s55997/",
@@ -422,7 +422,7 @@
           "delivery_price": 2.95,
           "item_price": 29.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -431,7 +431,7 @@
           "delivery_price": 3.95,
           "item_price": 29.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -440,9 +440,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43693004130",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Karl Lagerfeld Fleur De Pecher Eau de Parfum 100ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/karl-lagerfeld-fleur-de-pecher-eau-de-parfum-100ml-spray-db315716.html"
@@ -456,7 +456,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515629",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.29,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-50ml-Spray-s9315/",
@@ -484,7 +484,7 @@
           "delivery_price": 2.95,
           "item_price": 54.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -493,7 +493,7 @@
           "delivery_price": 3.95,
           "item_price": 54.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -502,9 +502,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "21700786007",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-50ml-spray-db331155.html"
@@ -518,7 +518,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000011",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 77.89,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-50ml-Spray-s2279/",
@@ -546,7 +546,7 @@
           "delivery_price": 2.95,
           "item_price": 77.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -555,7 +555,7 @@
           "delivery_price": null,
           "item_price": 77.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -564,9 +564,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "27337828817",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf FlowerBomb Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-eau-de-parfum-50ml-spray-db3871b0.html"
@@ -580,7 +580,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607342221161",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 53.99,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Eau-So-Fresh-Eau-de-Toilette-75ml-Spray-s6659/",
@@ -608,7 +608,7 @@
           "delivery_price": 2.95,
           "item_price": 53.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -617,7 +617,7 @@
           "delivery_price": 3.95,
           "item_price": 53.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -626,9 +626,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43955425608",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Marc Jacobs Daisy Eau So Fresh Eau de Toilette 75ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-eau-so-fresh-eau-de-toilette-75ml-spray-db3caaca.html"
@@ -642,7 +642,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -670,7 +670,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -688,7 +688,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -697,9 +697,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "stock_checked_at": "2026-11-05T07:12:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -713,7 +713,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000004",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.99,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-30ml-Spray-s15885/",
@@ -741,7 +741,7 @@
           "delivery_price": 2.95,
           "item_price": 52.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -750,7 +750,7 @@
           "delivery_price": 3.95,
           "item_price": 52.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -759,9 +759,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "25164473975",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf FlowerBomb Eau de Parfum 30ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-eau-de-parfum-30ml-spray-db3860cf.html"
@@ -775,7 +775,7 @@
       "brand": "Rasasi",
       "canonical_key": "GTIN:0614514339206",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.74,
@@ -791,7 +791,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Rasasi-Hawas-For-Her-%C3%89clat-Eau-de-Parfum-100ml-Spray-s166275/",
@@ -803,7 +803,7 @@
           "delivery_price": 2.95,
           "item_price": 28.59,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -812,7 +812,7 @@
           "delivery_price": null,
           "item_price": 28.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -821,9 +821,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43387396640",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Rasasi Hawas For Her Éclat Eau de Parfum 100ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/rasasi-hawas-for-her-eclat-eau-de-parfum-100ml-spray-db3466d8.html"
@@ -837,7 +837,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515346",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 65.09,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-90ml-Spray-s11899/",
@@ -865,7 +865,7 @@
           "delivery_price": 2.95,
           "item_price": 65.09,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -874,7 +874,7 @@
           "delivery_price": 3.95,
           "item_price": 65.09,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -883,9 +883,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "3389521391",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 90ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-90ml-spray-db3b99b5.html"
@@ -899,7 +899,7 @@
       "brand": "Issey Miyake",
       "canonical_key": "GTIN:3423470300154",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.99,
@@ -915,7 +915,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Issey-Miyake-L%27Eau-d%27Issey-Eau-de-Toilette-50ml-Spray-s235/",
@@ -927,7 +927,7 @@
           "delivery_price": 2.95,
           "item_price": 32.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -936,7 +936,7 @@
           "delivery_price": 3.95,
           "item_price": 32.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -945,9 +945,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "3389499991",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Issey Miyake L'Eau d'Issey Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/issey-miyake-l-eau-d-issey-eau-de-toilette-50ml-spray-db37e0d2.html"
@@ -961,7 +961,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872363",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 46.69,
@@ -977,7 +977,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-30ml-Spray-s88210/",
@@ -989,7 +989,7 @@
           "delivery_price": 2.95,
           "item_price": 46.69,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -998,7 +998,7 @@
           "delivery_price": null,
           "item_price": 46.69,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -1007,9 +1007,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36396819640",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Viktor & Rolf Flowerbomb Dew Eau de Parfum 30ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-dew-eau-de-parfum-30ml-spray-db311f06.html"
@@ -1023,7 +1023,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764241",
       "category": "Other",
-      "checked_at": "2026-11-05T19:40:40Z",
+      "checked_at": "2026-11-05T20:05:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 56.99,
@@ -1039,7 +1039,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T19:40:40Z",
+      "market_verified_at": "2026-11-05T20:05:51Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-100ml-Spray-s19166/",
@@ -1051,7 +1051,7 @@
           "delivery_price": 2.95,
           "item_price": 56.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         },
         {
           "availability": 1,
@@ -1060,7 +1060,7 @@
           "delivery_price": 3.95,
           "item_price": 56.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-05T20:10:40Z"
+          "valid_until": "2026-11-05T20:35:51Z"
         }
       ],
       "publishable": true,
@@ -1069,9 +1069,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "35859359879",
       "stock_checked_at": "2026-11-05T18:52:51Z",
-      "stock_valid_until": "2026-11-05T20:10:40Z",
+      "stock_valid_until": "2026-11-05T20:35:51Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 100ml Spray",
-      "valid_until": "2026-11-05T20:10:40Z",
+      "valid_until": "2026-11-05T20:35:51Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-100ml-spray-db3b52f7.html"
