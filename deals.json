@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T04:16:14Z",
+    "generated_at": "2026-11-05T04:26:15Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "43b544894d4f7ae02e7186c72c373d040ed6a904a8bf92031e61b98c21a9746b",
+    "revision": "86c76653d60ce128f2826389913b155a09cda26acbec9e21637aa4a062602da7",
     "deal_count": 53,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:9785519069700",
       "category": "Other",
-      "checked_at": "2026-11-05T04:16:09Z",
+      "checked_at": "2026-11-05T04:25:12Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 116.26,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-05T04:16:09Z",
+      "market_verified_at": "2026-11-05T04:25:12Z",
       "mpn": "981-001389",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn-1?variant=55307556454782",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 105.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T04:46:09Z"
+          "valid_until": "2026-11-05T04:55:12Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 126.83,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T04:46:09Z"
+          "valid_until": "2026-11-05T04:55:12Z"
         }
       ],
       "publishable": true,
