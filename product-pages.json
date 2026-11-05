@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-05T22:02:20Z",
+  "generated_at": "2026-11-05T22:14:18Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 32,
+  "active_count": 41,
   "product_count": 835,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -413,9 +413,9 @@
       "slug": "vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html",
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:4963686000008",
-      "active": false,
-      "last_live_at": "2026-11-05T18:35:26Z",
-      "last_seen_at": "2026-11-05T18:38:56Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-51477812b0671f12bafc2f01eef9",
         "publishable": true,
@@ -432,8 +432,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T18:35:24Z",
-        "valid_until": "2026-11-05T18:39:19Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F50192463ef2530a67cf93d80fdfca705.jpg%3Fv%3D1756137344&feedId=102827&k=0aafcaa87ef618327504914fc10bace4634ac0bc",
         "delivery_price": 4.99,
         "item_price": 22.99,
@@ -447,7 +447,7 @@
             "delivery_price": 3.0,
             "item_price": 38.7,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -456,7 +456,7 @@
             "delivery_price": 0.0,
             "item_price": 38.7,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -465,7 +465,7 @@
             "delivery_price": 0.0,
             "item_price": 46.44,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -478,12 +478,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-05T18:09:19.570458+00:00",
-        "stock_valid_until": "2026-11-05T18:39:19Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T18:35:26Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "6d8f9a73-ed0f-4026-ac4e-2750d3295f2e": {
@@ -8362,8 +8362,8 @@
       "first_seen_at": "2026-10-24T09:51:13Z",
       "canonical_key": "GTIN:088381806640",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-86c3c9554012ca01c0bd45c65cad",
         "publishable": true,
@@ -8380,8 +8380,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DJR186Z_C2L0.jpg&feedId=89987&k=1cbed889f41650a5a6b1e8e5e65d9a6d9d6c01a5",
         "delivery_price": 5.95,
         "item_price": 92.95,
@@ -8395,7 +8395,7 @@
             "delivery_price": 0.0,
             "item_price": 95.89,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -8404,7 +8404,7 @@
             "delivery_price": 0.0,
             "item_price": 115.07,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -8413,7 +8413,7 @@
             "delivery_price": 0.0,
             "item_price": 120.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -8428,10 +8428,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T07:12:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-66adff7bb24bcf58105422cc8bfb": {
@@ -11780,9 +11780,9 @@
       "slug": "cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white-db396190.html",
       "first_seen_at": "2026-10-28T18:57:15Z",
       "canonical_key": "GTIN:5056750336918",
-      "active": false,
-      "last_live_at": "2026-11-05T18:35:26Z",
-      "last_seen_at": "2026-11-05T18:38:56Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-9619091bf34de09d9b43e1c902f0",
         "publishable": true,
@@ -11799,8 +11799,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T18:35:24Z",
-        "valid_until": "2026-11-05T18:39:19Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F12cf5227b9af0470e8ed36ad77daa507_71499485-0920-44a4-aa44-bc0a227ed2d7.jpg%3Fv%3D1762008347&feedId=102827&k=fb536073cc6acd4cba2388c067d254a87ae16332",
         "delivery_price": 4.99,
         "item_price": 22.99,
@@ -11814,7 +11814,7 @@
             "delivery_price": 3.0,
             "item_price": 27.18,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -11823,7 +11823,7 @@
             "delivery_price": 0.0,
             "item_price": 27.18,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -11832,7 +11832,7 @@
             "delivery_price": 0.0,
             "item_price": 32.62,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -11845,12 +11845,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-05T18:09:19.570458+00:00",
-        "stock_valid_until": "2026-11-05T18:39:19Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T18:35:26Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-90117e948a230327d9d81c791e0a": {
@@ -20093,9 +20093,9 @@
       "slug": "makita-dtd153-18v-lxt-cordless-brushless-impact-driver-db33b146.html",
       "first_seen_at": "2026-10-30T21:44:17Z",
       "canonical_key": "GTIN:088381823883",
-      "active": false,
-      "last_live_at": "2026-11-04T14:25:50Z",
-      "last_seen_at": "2026-11-04T14:30:01Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-3b1461d8fbfbb2675675bf895852",
         "publishable": true,
@@ -20112,8 +20112,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-04T14:25:49Z",
-        "valid_until": "2026-11-04T14:29:33Z",
+        "checked_at": "2026-11-05T22:14:13Z",
+        "valid_until": "2026-11-05T22:44:13Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.tooled-up.com%2Fartwork%2Fprodzoom%2Fmakita_DTD153Z_C2L0.jpg&feedId=89987&k=81102bccf0f3918d672f1f8a1d17b786bae4d6ce",
         "delivery_price": 5.95,
         "item_price": 99.99,
@@ -20123,20 +20123,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-04T13:50:14Z",
+            "checked_at": "2026-11-05T21:52:40Z",
             "delivery_price": null,
             "item_price": 118.88,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-04T14:55:49Z"
+            "valid_until": "2026-11-05T22:44:13Z"
           },
           {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-04 10:28:33",
+            "availability": 1,
+            "availability_basis": "CONFIRMED_IN_STOCK",
+            "checked_at": "2026-11-05T22:01:05Z",
             "delivery_price": 0.0,
             "item_price": 125.99,
             "retailer": "Back to the Office",
-            "valid_until": "2026-11-04T14:55:49Z"
+            "valid_until": "2026-11-05T22:44:13Z"
           }
         ],
         "product_url": "https://www.tooled-up.com/makita-dtd153-18v-lxt-cordless-brushless-impact-driver/prod/291060/?varId=291060&Referrer=affwin",
@@ -20149,13 +20149,13 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-04T13:59:33.117543+00:00",
-        "stock_valid_until": "2026-11-04T14:29:33Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T07:12:51Z",
+        "stock_valid_until": "2026-11-05T22:44:13Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-04T14:25:50Z",
-      "last_changed_date": "2026-11-04"
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
+      "last_changed_date": "2026-11-05"
     },
     "db3-dddac8242e2ea8a05ebda693dfff": {
       "slug": "dymo-authentic-d1-labels-black-print-on-red-tape-9-mm-x-7-m-self-adhes-db3dddac.html",
@@ -32270,9 +32270,9 @@
       "slug": "streamplify-mic-mini-rgb-microphone-db32578d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
-      "active": false,
-      "last_live_at": "2026-11-05T18:35:26Z",
-      "last_seen_at": "2026-11-05T18:38:56Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -32289,8 +32289,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T18:35:24Z",
-        "valid_until": "2026-11-05T18:39:19Z",
+        "checked_at": "2026-11-05T22:14:12Z",
+        "valid_until": "2026-11-05T22:44:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": 4.99,
         "item_price": 23.99,
@@ -32304,7 +32304,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32313,7 +32313,7 @@
             "delivery_price": 0.0,
             "item_price": 26.07,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32322,7 +32322,7 @@
             "delivery_price": 0.0,
             "item_price": 31.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -32335,21 +32335,21 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-05T18:09:19.570458+00:00",
-        "stock_valid_until": "2026-11-05T18:39:19Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T18:35:26Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
       "slug": "streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513542",
-      "active": false,
-      "last_live_at": "2026-11-05T18:35:26Z",
-      "last_seen_at": "2026-11-05T18:38:56Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
         "publishable": true,
@@ -32366,8 +32366,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T18:35:24Z",
-        "valid_until": "2026-11-05T18:39:19Z",
+        "checked_at": "2026-11-05T22:14:12Z",
+        "valid_until": "2026-11-05T22:44:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
         "delivery_price": 4.99,
         "item_price": 23.99,
@@ -32381,7 +32381,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32390,7 +32390,7 @@
             "delivery_price": 0.0,
             "item_price": 26.07,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32399,7 +32399,7 @@
             "delivery_price": 0.0,
             "item_price": 31.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -32412,21 +32412,21 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-05T18:09:19.570458+00:00",
-        "stock_valid_until": "2026-11-05T18:39:19Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T18:35:26Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-7a8118b86faaa6b9dfac450da837": {
       "slug": "streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513528",
-      "active": false,
-      "last_live_at": "2026-11-05T18:35:26Z",
-      "last_seen_at": "2026-11-05T18:38:56Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
         "publishable": true,
@@ -32443,8 +32443,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T18:35:24Z",
-        "valid_until": "2026-11-05T18:39:19Z",
+        "checked_at": "2026-11-05T22:14:12Z",
+        "valid_until": "2026-11-05T22:44:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
         "delivery_price": 4.99,
         "item_price": 28.99,
@@ -32458,7 +32458,7 @@
             "delivery_price": 3.0,
             "item_price": 30.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32467,7 +32467,7 @@
             "delivery_price": 0.0,
             "item_price": 30.01,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           },
           {
             "availability": null,
@@ -32476,7 +32476,7 @@
             "delivery_price": 0.0,
             "item_price": 36.01,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:05:24Z"
+            "valid_until": "2026-11-05T22:44:12Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -32489,12 +32489,12 @@
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
-        "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-05T18:09:19.570458+00:00",
-        "stock_valid_until": "2026-11-05T18:39:19Z"
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T18:35:26Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-aacb89771c2c06505b7b68da6dd2": {
@@ -34412,9 +34412,9 @@
       "slug": "moza-active-shifter-knobs-db397a37.html",
       "first_seen_at": "2026-11-02T13:23:06Z",
       "canonical_key": "GTIN:6973137270773",
-      "active": false,
-      "last_live_at": "2026-11-02T13:23:06Z",
-      "last_seen_at": "2026-11-02T13:48:41Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-97a37cbd983e85b3300c4b8d3cf2",
         "publishable": true,
@@ -34426,26 +34426,55 @@
         "category": "Other",
         "retailer": "Demon Tweeks",
         "current_price": 39.0,
-        "comparison_price": 45.99,
-        "saving_percent": 15.2,
-        "comparison_count": 3,
+        "comparison_price": 47.69,
+        "saving_percent": 18.21,
+        "comparison_count": 2,
+        "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-02T13:23:03Z",
-        "valid_until": "2026-11-02T13:53:03Z",
+        "checked_at": "2026-11-05T22:14:13Z",
+        "valid_until": "2026-11-05T22:44:13Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Amedia.demon-tweeks.com%2Fcatalog%2Fproduct%2Fcache%2F8768da9ee7ab3e070044b9ef7dd8689d%2Fm%2Fz%2Fmza_s11-22-apr25.jpg&feedId=26915&k=e3e9802b35c7cd6379d5cc9d1509797dc3835aea",
+        "delivery_price": 7.94,
+        "item_price": 39.0,
+        "gtin": "6973137270773",
+        "mpn": "RS079",
+        "public_comparisons": [
+          {
+            "availability": 1,
+            "availability_basis": "CONFIRMED_IN_STOCK",
+            "checked_at": "2026-11-05T22:01:05Z",
+            "delivery_price": 4.99,
+            "item_price": 45.99,
+            "retailer": "Back to the Office",
+            "valid_until": "2026-11-05T22:44:13Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-05T21:52:40Z",
+            "delivery_price": null,
+            "item_price": 49.38,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-05T22:44:13Z"
+          }
+        ],
         "product_url": "https://www.demon-tweeks.com/moza-active-shifter-knobs-mzars079/",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=6538&awinaffid=3115871&campaign=&clickref=DB3-db3-97a37cbd983e85b3300c4b8d3cf2&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.demon-tweeks.com%2Fmoza-active-shifter-knobs-mzars079%2F&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 39.0,
         "market_best_retailer": "Demon Tweeks",
         "publication_state": null,
-        "revalidation_in_progress": null
+        "revalidation_in_progress": null,
+        "availability": 1,
+        "availability_basis": "FEED",
+        "stock_checked_at": "2026-11-05T17:25:27Z",
+        "stock_valid_until": "2026-11-05T22:44:13Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-02T13:23:06Z",
-      "last_changed_date": "2026-11-02"
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
+      "last_changed_date": "2026-11-05"
     },
     "db3-c0880989ff678e2739fe87056823": {
       "slug": "hp-stereo-usb-headset-g2-db3c0880.html",
@@ -41487,8 +41516,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3607349764289",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-02d502d0902f9e0d71ecaf16df20",
         "publishable": true,
@@ -41505,8 +41534,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F59414_ml.jpg&feedId=12281&k=13a488692fe3a701a746a6570a9f1f1fbf7ffd9b",
         "delivery_price": 2.95,
         "item_price": 31.15,
@@ -41520,7 +41549,7 @@
             "delivery_price": 2.95,
             "item_price": 59.89,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41529,7 +41558,7 @@
             "delivery_price": 3.95,
             "item_price": 59.89,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-50ml-Spray-s19141/",
@@ -41544,10 +41573,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-55e3385e348cbfa6dc124d4c1228": {
@@ -41555,8 +41584,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3423222048457",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-55e3385e348cbfa6dc124d4c1228",
         "publishable": true,
@@ -41573,8 +41602,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F144448_ml.jpg&feedId=12281&k=963df085001c95c026688cd589704bbfaedd6e7e",
         "delivery_price": 2.95,
         "item_price": 22.65,
@@ -41588,7 +41617,7 @@
             "delivery_price": 2.95,
             "item_price": 38.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41597,7 +41626,7 @@
             "delivery_price": 3.95,
             "item_price": 38.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Zadig-Voltaire-This-is-Him%21-Vibes-of-Freedom-Eau-de-Toilette-50ml-Spray-s113671/",
@@ -41612,10 +41641,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-e760ddaa3402136329920d815603": {
@@ -41691,8 +41720,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3607349764326",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-838442019bcbb8bd34df9ba37eb0",
         "publishable": true,
@@ -41709,8 +41738,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F82798_ml.jpg&feedId=12281&k=2546506f44dde16cc4b4b8c8f393d388371cc226",
         "delivery_price": 2.95,
         "item_price": 27.25,
@@ -41724,7 +41753,7 @@
             "delivery_price": 2.95,
             "item_price": 43.29,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41733,7 +41762,7 @@
             "delivery_price": 3.95,
             "item_price": 43.29,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-30ml-Spray-s19142/",
@@ -41748,10 +41777,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-60f6adaf34bd0771237d2b20f52b": {
@@ -41759,8 +41788,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3360373063703",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-60f6adaf34bd0771237d2b20f52b",
         "publishable": true,
@@ -41777,8 +41806,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F87922_ml.jpg&feedId=12281&k=095391a39cca47e575a2d6d8ba4969a25861fb8c",
         "delivery_price": 2.95,
         "item_price": 21.6,
@@ -41792,7 +41821,7 @@
             "delivery_price": 2.95,
             "item_price": 33.95,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41801,7 +41830,7 @@
             "delivery_price": 3.95,
             "item_price": 33.95,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Cacharel-Amor-Amor-Eau-de-Toilette-50ml-Spray-s2475/",
@@ -41816,10 +41845,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-43d785cfa5492019ebfd1d631dee": {
@@ -41827,8 +41856,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3614225452079",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-43d785cfa5492019ebfd1d631dee",
         "publishable": true,
@@ -41845,8 +41874,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F104813_ml.jpg&feedId=12281&k=b2c865720472620ae39e0550315b584f7ee21d73",
         "delivery_price": 2.95,
         "item_price": 32.95,
@@ -41860,7 +41889,7 @@
             "delivery_price": 2.95,
             "item_price": 49.19,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41869,7 +41898,7 @@
             "delivery_price": 3.95,
             "item_price": 49.19,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Love-Eau-de-Toilette-50ml-Spray-s59976/",
@@ -41884,10 +41913,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-5862a1e5990623092bddd6254e17": {
@@ -41895,8 +41924,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3614272872370",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-5862a1e5990623092bddd6254e17",
         "publishable": true,
@@ -41913,8 +41942,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F127840_ml.jpg&feedId=12281&k=82f791b22fb7faf2c80234593dd52754f0478924",
         "delivery_price": 2.95,
         "item_price": 45.85,
@@ -41928,7 +41957,7 @@
             "delivery_price": 2.95,
             "item_price": 66.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -41937,7 +41966,7 @@
             "delivery_price": 3.95,
             "item_price": 66.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-50ml-Spray-s88211/",
@@ -41952,10 +41981,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-15716faa73c266fa95311a20bbde": {
@@ -41963,8 +41992,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3386460087254",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-15716faa73c266fa95311a20bbde",
         "publishable": true,
@@ -41981,8 +42010,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F104767_ml.jpg&feedId=12281&k=17ba8573fba24ac116054a02e6e47a840a646865",
         "delivery_price": 2.95,
         "item_price": 21.2,
@@ -41996,7 +42025,7 @@
             "delivery_price": 2.95,
             "item_price": 29.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42005,7 +42034,7 @@
             "delivery_price": 3.95,
             "item_price": 29.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Karl-Lagerfeld-Fleur-De-Pecher-Eau-de-Parfum-100ml-Spray-s55997/",
@@ -42020,10 +42049,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-b0baeb241319da6dadbc66d76e97": {
@@ -42031,8 +42060,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:6294015151596",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-b0baeb241319da6dadbc66d76e97",
         "publishable": true,
@@ -42049,8 +42078,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F130056_ml.jpg&feedId=12281&k=4eec88faa2cf4508e8fa16ad17ffa08e1b7ffabc",
         "delivery_price": 2.95,
         "item_price": 20.55,
@@ -42064,7 +42093,7 @@
             "delivery_price": null,
             "item_price": 24.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42073,7 +42102,7 @@
             "delivery_price": 7.95,
             "item_price": 33.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Armaf-Club-De-Nuit-Eau-de-Toilette-105ml-Spray-s88864/",
@@ -42088,10 +42117,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-9c069c82cad26322e357dff6ffbe": {
@@ -42244,8 +42273,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3605521515629",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-311556a2660753772fdeb70cda6b",
         "publishable": true,
@@ -42262,8 +42291,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F88743_ml.jpg&feedId=12281&k=d9162d77d144bb1ee121cf70f9ba2337a16dd08f",
         "delivery_price": 2.95,
         "item_price": 40.5,
@@ -42277,7 +42306,7 @@
             "delivery_price": 2.95,
             "item_price": 54.29,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42286,7 +42315,7 @@
             "delivery_price": 3.95,
             "item_price": 54.29,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-50ml-Spray-s9315/",
@@ -42301,10 +42330,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-7590400885b84a9d3068d95ecf08": {
@@ -42380,8 +42409,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3360374000011",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-871b02d42021dc0b89f31899fe7e",
         "publishable": true,
@@ -42398,8 +42427,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F61443_ml.jpg&feedId=12281&k=fd771bcebbb7b0f0b092148b3924afa2595e01f1",
         "delivery_price": 0.0,
         "item_price": 59.6,
@@ -42413,7 +42442,7 @@
             "delivery_price": 2.95,
             "item_price": 77.89,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42422,7 +42451,7 @@
             "delivery_price": null,
             "item_price": 77.89,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-50ml-Spray-s2279/",
@@ -42437,10 +42466,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-4ea3f9d3b05830562bd19fd30c0a": {
@@ -42593,8 +42622,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:0737052031415",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-f99c6cb0f04b232ebb95b7490e09",
         "publishable": true,
@@ -42611,8 +42640,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F174910_ml.jpg&feedId=12281&k=6722c3646c7bc8a6e267bfc297af99f35ceea8fd",
         "delivery_price": 2.95,
         "item_price": 21.4,
@@ -42626,7 +42655,7 @@
             "delivery_price": 2.95,
             "item_price": 23.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42635,7 +42664,7 @@
             "delivery_price": 7.95,
             "item_price": 29.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Hugo-Boss-Dark-Blue-Eau-de-Toilette-75ml-Spray-s1243/",
@@ -42650,10 +42679,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-af905176eda0f88067621f4c593d": {
@@ -42661,8 +42690,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:6291100132171",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-af905176eda0f88067621f4c593d",
         "publishable": true,
@@ -42679,8 +42708,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F150253_ml.jpg&feedId=12281&k=ba337593f4ef32bcf4613830cdfc761c74a04347",
         "delivery_price": 2.95,
         "item_price": 35.8,
@@ -42694,7 +42723,7 @@
             "delivery_price": 2.95,
             "item_price": 39.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42703,7 +42732,7 @@
             "delivery_price": 7.95,
             "item_price": 49.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Al-Haramain-Amber-Oud-Tobacco-Edition-Eau-de-Parfum-60ml-Spray-s121846/",
@@ -42718,10 +42747,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-bb3ac3d17d22f7e440095d6dfeac": {
@@ -42729,8 +42758,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3605520380259",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-bb3ac3d17d22f7e440095d6dfeac",
         "publishable": true,
@@ -42747,8 +42776,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F95823_ml.jpg&feedId=12281&k=6ac99ca75b2031d0a7040be3883254611382eaca",
         "delivery_price": 2.95,
         "item_price": 32.5,
@@ -42762,7 +42791,7 @@
             "delivery_price": 2.95,
             "item_price": 37.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42771,7 +42800,7 @@
             "delivery_price": 7.95,
             "item_price": 42.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Giorgio-Armani-Emporio-Diamonds-Eau-de-Parfum-50ml-Spray-s2230/",
@@ -42786,10 +42815,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-caaca32ac6ff95447ad22d207f5a": {
@@ -42797,8 +42826,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3607342221161",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-caaca32ac6ff95447ad22d207f5a",
         "publishable": true,
@@ -42815,8 +42844,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F100786_ml.jpg&feedId=12281&k=86ffbfda7a46bd8cf6709184235dca330d0428ea",
         "delivery_price": 2.95,
         "item_price": 43.4,
@@ -42830,7 +42859,7 @@
             "delivery_price": 2.95,
             "item_price": 53.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -42839,7 +42868,7 @@
             "delivery_price": 3.95,
             "item_price": 53.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Eau-So-Fresh-Eau-de-Toilette-75ml-Spray-s6659/",
@@ -42854,10 +42883,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-5354168f12e76a3e05e69e72056c": {
@@ -43001,8 +43030,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3360374000004",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-860cf2c6f05d7b230c7ba8d03abc",
         "publishable": true,
@@ -43019,8 +43048,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F56540_ml.jpg&feedId=12281&k=585a46fe4499e3526394767e85b252abecf56152",
         "delivery_price": 2.95,
         "item_price": 43.65,
@@ -43034,7 +43063,7 @@
             "delivery_price": 2.95,
             "item_price": 52.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43043,7 +43072,7 @@
             "delivery_price": 3.95,
             "item_price": 52.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-30ml-Spray-s15885/",
@@ -43058,10 +43087,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-466d86bc099b6bf4bbde590f4bc3": {
@@ -43069,8 +43098,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:0614514339206",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-466d86bc099b6bf4bbde590f4bc3",
         "publishable": true,
@@ -43087,8 +43116,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F186245_ml.jpg&feedId=12281&k=6f740afb169eb65a9f07e95466f9917b75dfb83a",
         "delivery_price": 2.95,
         "item_price": 23.7,
@@ -43102,7 +43131,7 @@
             "delivery_price": 2.95,
             "item_price": 28.59,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43111,7 +43140,7 @@
             "delivery_price": null,
             "item_price": 28.89,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Rasasi-Hawas-For-Her-%C3%89clat-Eau-de-Parfum-100ml-Spray-s166275/",
@@ -43126,10 +43155,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-b99b51ff6ce20f7c92ae6deef4f5": {
@@ -43137,8 +43166,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3605521515346",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-b99b51ff6ce20f7c92ae6deef4f5",
         "publishable": true,
@@ -43155,8 +43184,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F61449_ml.jpg&feedId=12281&k=f7d66abc2752657e3076117f995691a8018826ca",
         "delivery_price": 0.0,
         "item_price": 53.9,
@@ -43170,7 +43199,7 @@
             "delivery_price": 2.95,
             "item_price": 65.09,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43179,7 +43208,7 @@
             "delivery_price": 3.95,
             "item_price": 65.09,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-90ml-Spray-s11899/",
@@ -43194,10 +43223,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-7e0d2ccdd35c7521bd61b1e480da": {
@@ -43205,8 +43234,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3423470300154",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-7e0d2ccdd35c7521bd61b1e480da",
         "publishable": true,
@@ -43223,8 +43252,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F67886_ml.jpg&feedId=12281&k=29c3a86b7b539b98df206b413791aad7b5d05040",
         "delivery_price": 2.95,
         "item_price": 27.5,
@@ -43238,7 +43267,7 @@
             "delivery_price": 2.95,
             "item_price": 32.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43247,7 +43276,7 @@
             "delivery_price": 3.95,
             "item_price": 32.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Issey-Miyake-L%27Eau-d%27Issey-Eau-de-Toilette-50ml-Spray-s235/",
@@ -43262,10 +43291,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-11f0651b595d4c7755da0529be13": {
@@ -43273,8 +43302,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3614272872363",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-11f0651b595d4c7755da0529be13",
         "publishable": true,
@@ -43291,8 +43320,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F135480_ml.jpg&feedId=12281&k=58e73e2659adefa0515d62f60056dd8cfea522c6",
         "delivery_price": 2.95,
         "item_price": 39.3,
@@ -43306,7 +43335,7 @@
             "delivery_price": 2.95,
             "item_price": 46.69,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43315,7 +43344,7 @@
             "delivery_price": null,
             "item_price": 46.69,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-30ml-Spray-s88210/",
@@ -43330,10 +43359,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-4e66a2b5440c43bea72fc65d65e8": {
@@ -43409,8 +43438,8 @@
       "first_seen_at": "2026-11-03T19:56:30Z",
       "canonical_key": "GTIN:3607349764241",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-b52f7013c4bc5640785b2a4c9282",
         "publishable": true,
@@ -43427,8 +43456,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F184642_ml.jpg&feedId=12281&k=d36cbf1195142de3b5af8c4f63b5dd0a77c47c61",
         "delivery_price": 2.95,
         "item_price": 48.35,
@@ -43442,7 +43471,7 @@
             "delivery_price": 2.95,
             "item_price": 56.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -43451,7 +43480,7 @@
             "delivery_price": 3.95,
             "item_price": 56.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-100ml-Spray-s19166/",
@@ -43466,19 +43495,19 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-429ba83492e99f56cba9900c93a8": {
       "slug": "cisco-table-microphone-db3429ba.html",
       "first_seen_at": "2026-11-03T20:35:27Z",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
-      "active": false,
-      "last_live_at": "2026-11-05T19:40:45Z",
-      "last_seen_at": "2026-11-05T19:51:23Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-429ba83492e99f56cba9900c93a8",
         "publishable": true,
@@ -43495,8 +43524,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T19:26:44Z",
-        "valid_until": "2026-11-05T19:52:44Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7b65490a84ecfa207c07e99f248c00ee.jpg%3Fv%3D1782283742&feedId=102827&k=7a9f5c8b64239fb724554eda67d20460850f180a",
         "delivery_price": 0.0,
         "item_price": 485.99,
@@ -43510,7 +43539,7 @@
             "delivery_price": 0.0,
             "item_price": 508.88,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:56:44Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -43519,7 +43548,7 @@
             "delivery_price": 0.0,
             "item_price": 610.66,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:56:44Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -43533,20 +43562,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-05T17:54:15Z",
-        "stock_valid_until": "2026-11-05T19:52:44Z"
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T19:40:45Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-033c41812e405d1d1967f4506ecc": {
       "slug": "cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html",
       "first_seen_at": "2026-11-03T20:35:27Z",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
-      "active": false,
-      "last_live_at": "2026-11-05T19:40:45Z",
-      "last_seen_at": "2026-11-05T19:51:23Z",
+      "active": true,
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-033c41812e405d1d1967f4506ecc",
         "publishable": true,
@@ -43563,8 +43592,8 @@
         "comparison_count": 15,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T19:26:44Z",
-        "valid_until": "2026-11-05T19:52:44Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc801998af64baeb01655458b90c92888_a1b21619-6858-43f0-bff0-601cd76c931b.jpg%3Fv%3D1756134903&feedId=102827&k=d416229994cb83d9b1cada3b3f1bed22a3126cfd",
         "delivery_price": 0.0,
         "item_price": 328.99,
@@ -43578,7 +43607,7 @@
             "delivery_price": 0.0,
             "item_price": 347.16,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-05T19:56:44Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": null,
@@ -43587,7 +43616,7 @@
             "delivery_price": 0.0,
             "item_price": 416.59,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-05T19:56:44Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -43601,11 +43630,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "FEED",
-        "stock_checked_at": "2026-11-05T17:54:15Z",
-        "stock_valid_until": "2026-11-05T19:52:44Z"
+        "stock_checked_at": "2026-11-05T22:01:05Z",
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T19:40:45Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-515828e84c891e8ef2e7d5d920ce": {
@@ -44388,8 +44417,8 @@
       "first_seen_at": "2026-11-03T22:38:43Z",
       "canonical_key": "GTIN:8435415098687",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-86afb1ce307c466565d92a745121",
         "publishable": true,
@@ -44406,8 +44435,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F174772_ml.jpg&feedId=12281&k=7d0004f2a1c987245a1c296031cae5ff8508030b",
         "delivery_price": 0.0,
         "item_price": 86.4,
@@ -44417,20 +44446,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 114.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 114.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Jean-Paul-Gaultier-Classique-Eau-de-Toilette-100ml-Spray-Christmas-2024-Collector-Edition-s157228/",
@@ -44445,10 +44474,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-9b741701d42eafb5ac5ddb63bbae": {
@@ -44456,8 +44485,8 @@
       "first_seen_at": "2026-11-03T23:08:50Z",
       "canonical_key": "GTIN:3666057037450",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-9b741701d42eafb5ac5ddb63bbae",
         "publishable": true,
@@ -44474,8 +44503,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F172177_ml.jpg&feedId=12281&k=dcbdf3aaf4c45ae2458cea8d7d144b86ab54c904",
         "delivery_price": 2.95,
         "item_price": 20.3,
@@ -44485,20 +44514,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 25.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 25.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Clarins-Lip-Comfort-Oil-7ml-04-Pitaya-s120493/",
@@ -44513,10 +44542,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-9abd185fa112dd38c2781c3efa1f": {
@@ -44524,8 +44553,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:0737052057989",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-9abd185fa112dd38c2781c3efa1f",
         "publishable": true,
@@ -44542,8 +44571,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F95890_ml.jpg&feedId=12281&k=6a95371fa7689ca2a8838ef8cb08808d11b94ba5",
         "delivery_price": 2.95,
         "item_price": 31.25,
@@ -44553,20 +44582,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 39.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 39.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Hugo-Boss-Boss-Woman-Eau-de-Parfum-90ml-Spray-s4066/",
@@ -44581,10 +44610,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-b3a998eb8016ada4eaa5613f9419": {
@@ -44592,8 +44621,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:3614225452949",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-b3a998eb8016ada4eaa5613f9419",
         "publishable": true,
@@ -44610,8 +44639,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F106577_ml.jpg&feedId=12281&k=9b89269f56fa40a3bfbea153f0b2f2b7aa3bb6eb",
         "delivery_price": 2.95,
         "item_price": 35.8,
@@ -44621,20 +44650,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 44.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 44.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Love-Eau-de-Toilette-30ml-Spray-s59977/",
@@ -44649,10 +44678,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-4dc0d2048b0b354922bcbc05c21a": {
@@ -44660,8 +44689,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:6294015132120",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-4dc0d2048b0b354922bcbc05c21a",
         "publishable": true,
@@ -44678,8 +44707,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F124804_ml.jpg&feedId=12281&k=f20afbe8525fe4f6098af6454aca8203f8e6f084",
         "delivery_price": 2.95,
         "item_price": 28.35,
@@ -44689,11 +44718,11 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 22:04:37",
+            "delivery_price": 7.95,
             "item_price": 34.95,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -44702,7 +44731,7 @@
             "delivery_price": 7.95,
             "item_price": 35.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Armaf-Club-De-Nuit-Milestone-Eau-de-Parfum-105ml-Spray-s88796/",
@@ -44717,10 +44746,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-58795a967e7ff1fb75c1f65c6a62": {
@@ -44728,8 +44757,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:3360377009356",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-58795a967e7ff1fb75c1f65c6a62",
         "publishable": true,
@@ -44746,8 +44775,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F68761_ml.jpg&feedId=12281&k=29154b04efc5dd9bbbe41f0ce780884d1df51081",
         "delivery_price": 2.95,
         "item_price": 32.55,
@@ -44757,20 +44786,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 39.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 39.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Ralph-Lauren-Ralph-Eau-de-Toilette-50ml-Spray-s1019/",
@@ -44785,10 +44814,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-3ba350a321b6ea91b8f749586d56": {
@@ -44796,8 +44825,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:8809238962706",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-3ba350a321b6ea91b8f749586d56",
         "publishable": true,
@@ -44814,8 +44843,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F195736_ml.jpg&feedId=12281&k=26b8265a5c43e980ac4d600badb31d39c03790ac",
         "delivery_price": 2.95,
         "item_price": 22.1,
@@ -44825,20 +44854,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 26.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 26.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Aromatica-Rosemary-Scalp-Scaling-Shampoo-400ml-s165717/",
@@ -44853,10 +44882,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-8b336e3bd5c79c7442bb9c2f4ff0": {
@@ -44864,8 +44893,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:3414202000664",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-8b336e3bd5c79c7442bb9c2f4ff0",
         "publishable": true,
@@ -44882,8 +44911,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F94218_ml.jpg&feedId=12281&k=3412205be0462e40af3ddfdb64e957fc909b0222",
         "delivery_price": 2.95,
         "item_price": 23.7,
@@ -44893,20 +44922,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 28.89,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 28.89,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Davidoff-Cool-Water-Aftershave-125ml-Splash-s4304/",
@@ -44921,10 +44950,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-055708b43ebc10bec3df9c259bb6": {
@@ -44932,8 +44961,8 @@
       "first_seen_at": "2026-11-04T00:11:44Z",
       "canonical_key": "GTIN:6298042000933",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-055708b43ebc10bec3df9c259bb6",
         "publishable": true,
@@ -44950,8 +44979,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F194157_ml.jpg&feedId=12281&k=4c16dba2363ef052ec5c71b339fd9d9be853608d",
         "delivery_price": 2.95,
         "item_price": 37.35,
@@ -44961,11 +44990,11 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 22:04:37",
+            "delivery_price": 7.95,
             "item_price": 43.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -44974,7 +45003,7 @@
             "delivery_price": 7.95,
             "item_price": 46.49,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/French-Avenue-Veneno-Scarlet-Eau-de-Parfum-100ml-Spray-s170004/",
@@ -44989,10 +45018,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-547b68317d0e87797fdaf459c837": {
@@ -45068,8 +45097,8 @@
       "first_seen_at": "2026-11-04T02:17:33Z",
       "canonical_key": "GTIN:3607342221208",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-35b39fcab52822bd59ba439c245c",
         "publishable": true,
@@ -45086,8 +45115,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F86217_ml.jpg&feedId=12281&k=a178f12aae55097fd8961b4b0eb478eabd9aecd2",
         "delivery_price": 0.0,
         "item_price": 65.0,
@@ -45097,20 +45126,20 @@
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05 15:39:32",
+            "checked_at": "2026-11-05 22:04:37",
             "delivery_price": 7.95,
             "item_price": 85.99,
-            "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Bazta UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
             "availability_basis": "CONFIRMED_IN_STOCK",
-            "checked_at": "2026-11-05T21:25:44Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-05 15:39:32",
+            "delivery_price": 7.95,
             "item_price": 85.99,
-            "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "retailer": "Plusshop UK",
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Eau-So-Fresh-Eau-de-Toilette-125ml-Spray-s7990/",
@@ -45125,10 +45154,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-b870e4d2ede3ce4d210279581cc4": {
@@ -47443,8 +47472,8 @@
       "first_seen_at": "2026-11-04T17:04:45Z",
       "canonical_key": "GTIN:3386460118132",
       "active": true,
-      "last_live_at": "2026-11-05T22:02:20Z",
-      "last_seen_at": "2026-11-05T22:02:20Z",
+      "last_live_at": "2026-11-05T22:14:18Z",
+      "last_seen_at": "2026-11-05T22:14:18Z",
       "last_deal": {
         "deal_id": "db3-aed878b9dda939282c944decbae3",
         "publishable": true,
@@ -47461,8 +47490,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-05T22:01:09Z",
-        "valid_until": "2026-11-05T22:31:09Z",
+        "checked_at": "2026-11-05T22:14:11Z",
+        "valid_until": "2026-11-05T22:44:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F190120_ml.jpg&feedId=12281&k=58dbe47fb49b8061d94c27f5f2e25c79dc874bf5",
         "delivery_price": 2.95,
         "item_price": 28.55,
@@ -47476,7 +47505,7 @@
             "delivery_price": 2.95,
             "item_price": 29.99,
             "retailer": "Bazta UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           },
           {
             "availability": 1,
@@ -47485,7 +47514,7 @@
             "delivery_price": 7.95,
             "item_price": 58.99,
             "retailer": "Plusshop UK",
-            "valid_until": "2026-11-05T22:31:09Z"
+            "valid_until": "2026-11-05T22:44:11Z"
           }
         ],
         "product_url": "https://www.perfume-click.co.uk/Mont-Blanc-Legend-Eau-de-Parfum-50ml-Spray-s93351/",
@@ -47500,10 +47529,10 @@
         "availability": 1,
         "availability_basis": "FEED",
         "stock_checked_at": "2026-11-05T18:52:51Z",
-        "stock_valid_until": "2026-11-05T22:31:09Z"
+        "stock_valid_until": "2026-11-05T22:44:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-05T22:02:20Z",
+      "lkg_certified_at": "2026-11-05T22:14:18Z",
       "last_changed_date": "2026-11-05"
     },
     "db3-66673dab3fc3272b6d655a8c73c4": {
