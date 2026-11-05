@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-05T08:25:40Z",
+    "generated_at": "2026-11-05T08:29:43Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "5b84ce5a2ee81f11f04b8b755f6076ce4f9c465a28ea7b604708f6481edae483",
+    "revision": "e11e9cb80592b0eb39ee30a6cdb5d90c0f21d1654374afec60d317b3592ef148",
     "deal_count": 44,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -1953,7 +1953,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381741316",
       "category": "DIY",
-      "checked_at": "2026-11-05T08:17:11Z",
+      "checked_at": "2026-11-05T08:29:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 214.98,
@@ -1969,7 +1969,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-05T08:17:11Z",
+      "market_verified_at": "2026-11-05T08:29:42Z",
       "mpn": "DTM52Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-dtm52-18v-lxt-cordless-brushless-starlock-max-oscillating-multi-tool/prod/543735/?varId=543735&Referrer=affwin",
@@ -1981,7 +1981,7 @@
           "delivery_price": 0.0,
           "item_price": 179.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-05T08:47:11Z"
+          "valid_until": "2026-11-05T08:59:42Z"
         },
         {
           "availability": null,
@@ -1990,7 +1990,7 @@
           "delivery_price": 0.0,
           "item_price": 214.98,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-05T08:47:11Z"
+          "valid_until": "2026-11-05T08:59:42Z"
         },
         {
           "availability": 1,
@@ -1999,7 +1999,7 @@
           "delivery_price": 0.0,
           "item_price": 219.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-05T08:47:11Z"
+          "valid_until": "2026-11-05T08:59:42Z"
         }
       ],
       "publishable": true,
