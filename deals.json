@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-06T08:24:33Z",
+    "generated_at": "2026-11-06T08:34:36Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "391b59ff375531f765dc7e68f4109f3f98485ecc585ba07bccd7e10db3c39150",
+    "revision": "878b8b799eefd667cd0a4134b07860339df7fdc8c1b6e525abcf98deb4c7d68f",
     "deal_count": 93,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3123,7 +3123,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381741316",
       "category": "DIY",
-      "checked_at": "2026-11-06T08:24:26Z",
+      "checked_at": "2026-11-06T08:34:35Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 217.49,
@@ -3139,7 +3139,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T08:24:26Z",
+      "market_verified_at": "2026-11-06T08:34:35Z",
       "mpn": "DTM52Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-dtm52-18v-lxt-cordless-brushless-starlock-max-oscillating-multi-tool/prod/543735/?varId=543735&Referrer=affwin",
@@ -3151,7 +3151,7 @@
           "delivery_price": 0.0,
           "item_price": 214.98,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T08:54:26Z"
+          "valid_until": "2026-11-06T09:04:35Z"
         },
         {
           "availability": 1,
@@ -3160,7 +3160,7 @@
           "delivery_price": 0.0,
           "item_price": 219.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-06T08:54:26Z"
+          "valid_until": "2026-11-06T09:04:35Z"
         }
       ],
       "publishable": true,

@@ -1046,6 +1046,8 @@ footer{border-top:1px solid var(--line);padding:28px 0 20px;color:#71757b;font-s
 
 
 
+
+
 /* Deal Burrow growth 3.4 */
 [data-db-growth]{border-top:1px solid var(--line);margin-top:32px;padding-top:24px}#db-alerts form{display:grid;gap:16px;margin:24px 0}#db-alerts label{display:grid;gap:8px}#db-alerts select,#db-alerts input,#db-share textarea{max-width:100%;width:100%;box-sizing:border-box;padding:12px;border:1px solid var(--line);border-radius:6px;background:#fff;color:inherit;font:inherit}#db-alerts select{white-space:normal}#db-alerts input{max-width:220px}#db-alerts button,#db-share button,[data-db-growth] button{padding:10px 16px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--accent);font:inherit;cursor:pointer;justify-self:start}#db-alerts li,#db-roundup li,#db-share section{padding:16px 0;border-bottom:1px solid var(--line)}#db-share textarea{display:block;min-height:150px;margin:12px 0;resize:vertical}button:disabled{opacity:.55;cursor:default}
 /* /Deal Burrow growth 3.4 */
