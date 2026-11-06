@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-06T02:49:08Z",
+    "generated_at": "2026-11-06T03:04:05Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "8ac65b0468de5e6d1f1baf2c7f7e6e71fb40d08c532175bffd24df4715db1a80",
+    "revision": "d6bb229eb803921763acb7098f34b612d678475a4b737cfd0a3e193a43d23147",
     "deal_count": 73,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -2396,7 +2396,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728309493",
       "category": "Technology",
-      "checked_at": "2026-11-06T02:49:04Z",
+      "checked_at": "2026-11-06T03:04:04Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3790.29,
@@ -2412,7 +2412,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T02:49:04Z",
+      "market_verified_at": "2026-11-06T03:04:04Z",
       "mpn": "C8200-1N-4T",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey?variant=55468196102526",
@@ -2424,7 +2424,7 @@
           "delivery_price": 0.0,
           "item_price": 3445.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T03:19:04Z"
+          "valid_until": "2026-11-06T03:34:04Z"
         },
         {
           "availability": null,
@@ -2433,7 +2433,7 @@
           "delivery_price": null,
           "item_price": 4134.86,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T03:19:04Z"
+          "valid_until": "2026-11-06T03:34:04Z"
         }
       ],
       "publishable": true,
@@ -2458,7 +2458,7 @@
       "brand": "Allied Telesis",
       "canonical_key": "GTIN:0767035210636",
       "category": "Other",
-      "checked_at": "2026-11-06T02:49:04Z",
+      "checked_at": "2026-11-06T03:04:04Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 258.88,
@@ -2474,7 +2474,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T02:49:04Z",
+      "market_verified_at": "2026-11-06T03:04:04Z",
       "mpn": "AT-2914SX/LC-901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/allied-telesis-2914sxlc-internal-fiber-1000-mbits?variant=55468179259774",
@@ -2486,7 +2486,7 @@
           "delivery_price": 0.0,
           "item_price": 235.35,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T03:19:04Z"
+          "valid_until": "2026-11-06T03:34:04Z"
         },
         {
           "availability": null,
@@ -2495,7 +2495,7 @@
           "delivery_price": null,
           "item_price": 282.42,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T03:19:04Z"
+          "valid_until": "2026-11-06T03:34:04Z"
         }
       ],
       "publishable": true,
