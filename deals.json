@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-06T05:55:51Z",
+    "generated_at": "2026-11-06T06:02:46Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "eed19e3a711e91e85503ee4b22d1b1b1611bb7c9aeea38ef77348573a332310c",
+    "revision": "fafc8c0fac5c5f92994203154323576b67c1a499b7db033d9878708f8d60a169",
     "deal_count": 87,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -4903,7 +4903,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270803",
       "category": "Other",
-      "checked_at": "2026-11-06T05:50:48Z",
+      "checked_at": "2026-11-06T06:01:02Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 41.67,
@@ -4919,7 +4919,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T05:50:48Z",
+      "market_verified_at": "2026-11-06T06:01:02Z",
       "mpn": "RS078",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-mbooster-base-extension-plate-mzars078/",
@@ -4931,7 +4931,7 @@
           "delivery_price": 3.0,
           "item_price": 37.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T06:20:48Z"
+          "valid_until": "2026-11-06T06:31:02Z"
         },
         {
           "availability": null,
@@ -4940,7 +4940,7 @@
           "delivery_price": 0.0,
           "item_price": 45.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T06:20:48Z"
+          "valid_until": "2026-11-06T06:31:02Z"
         }
       ],
       "publishable": true,
