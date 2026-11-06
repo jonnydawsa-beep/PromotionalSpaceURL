@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-06T00:20:47Z",
+    "generated_at": "2026-11-06T00:30:04Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "5eef4f9d3cf793eaff885ab41423494a795fbed2a7e9b6b318b0d2a3bb89138a",
+    "revision": "8d93a3026b11f436ae3e846754b5f65abab5dcbcfcf7b23eaf8913fb58c92673",
     "deal_count": 49,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:097855190703",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 113.28,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "981-001383",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-zone-learn?variant=55306733814142",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 102.98,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 123.58,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 106.6,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 106.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 106.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 127.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -155,7 +155,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5056399140624",
       "category": "Gaming",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 116.99,
@@ -171,7 +171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "836-309V01",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-gaming-computer-desk-with-cup-holder-headphone-hook-gamepad-holder-home-office~836-309V01.html?utm_source=awin&utm_medium=affiliate",
@@ -208,7 +208,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030836531",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "PCIUSB7",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-7-port-pci-usb-card-adapter-taa?variant=55306449846654",
@@ -236,7 +236,7 @@
           "delivery_price": 0.0,
           "item_price": 43.06,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Vinsetto",
       "canonical_key": "GTIN:5056602946821",
       "category": "Gaming",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 105.99,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "921-618V71WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/vinsetto-racing-gaming-chair-reclining-pu-leather-computer-chair-with-360-degree-swivel-seat-footrest-removable~1DSE9PDKI1O00.html?utm_source=awin&utm_medium=affiliate",
@@ -323,7 +323,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764289",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.89,
@@ -339,7 +339,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-50ml-Spray-s19141/",
@@ -351,7 +351,7 @@
           "delivery_price": 2.95,
           "item_price": 59.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -360,7 +360,7 @@
           "delivery_price": 3.95,
           "item_price": 59.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -385,7 +385,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0887037480414",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.23,
@@ -401,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "0B47069",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -413,7 +413,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 47.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -447,7 +447,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170178",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3465.61,
@@ -463,7 +463,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "C9200L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -475,7 +475,7 @@
           "delivery_price": 0.0,
           "item_price": 3150.56,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -484,7 +484,7 @@
           "delivery_price": 0.0,
           "item_price": 3780.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -509,7 +509,7 @@
       "brand": "Zadig & Voltaire",
       "canonical_key": "GTIN:3423222048457",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.99,
@@ -525,7 +525,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Zadig-Voltaire-This-is-Him%21-Vibes-of-Freedom-Eau-de-Toilette-50ml-Spray-s113671/",
@@ -537,7 +537,7 @@
           "delivery_price": 2.95,
           "item_price": 38.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -546,7 +546,7 @@
           "delivery_price": 3.95,
           "item_price": 38.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -571,7 +571,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 5975.53,
@@ -587,7 +587,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -599,7 +599,7 @@
           "delivery_price": 0.0,
           "item_price": 5432.3,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -608,7 +608,7 @@
           "delivery_price": 0.0,
           "item_price": 6518.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -633,7 +633,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877838",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.24,
@@ -649,7 +649,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "DELL-CC5425C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c?variant=55307672551806",
@@ -661,7 +661,7 @@
           "delivery_price": 3.0,
           "item_price": 45.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -670,7 +670,7 @@
           "delivery_price": 0.0,
           "item_price": 45.24,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 54.29,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -704,7 +704,7 @@
       "brand": "Lenovo",
       "canonical_key": "BRANDMPN:lenovo:4y51j62544",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 41.37,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "4Y51J62544",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4y51j62544-mouse-office-right-hand-bluetooth-optical-2400-dpi?variant=55307479351678",
@@ -732,7 +732,7 @@
           "delivery_price": 0.0,
           "item_price": 37.61,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 45.13,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -766,7 +766,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764326",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.29,
@@ -782,7 +782,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-30ml-Spray-s19142/",
@@ -794,7 +794,7 @@
           "delivery_price": 2.95,
           "item_price": 43.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -803,7 +803,7 @@
           "delivery_price": 3.95,
           "item_price": 43.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -828,7 +828,7 @@
       "brand": "Cacharel",
       "canonical_key": "GTIN:3360373063703",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.95,
@@ -844,7 +844,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Cacharel-Amor-Amor-Eau-de-Toilette-50ml-Spray-s2475/",
@@ -856,7 +856,7 @@
           "delivery_price": 2.95,
           "item_price": 33.95,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -865,7 +865,7 @@
           "delivery_price": 3.95,
           "item_price": 33.95,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -890,7 +890,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0195892022022",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 44.97,
@@ -906,7 +906,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "4X41D97727",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x41d97727-laptop-case-356-cm-14-toploader-bag-black?variant=55307346772350",
@@ -918,7 +918,7 @@
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -927,7 +927,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -952,7 +952,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0882780349551",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.86,
@@ -968,7 +968,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "Q5456A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-advanced-photo-paper-glossy-250-gm2-a4-210-x-297-mm-25-sheets?variant=55308490146174",
@@ -980,7 +980,7 @@
           "delivery_price": 0.0,
           "item_price": 31.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -989,7 +989,7 @@
           "delivery_price": 0.0,
           "item_price": 38.03,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1014,7 +1014,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 52.87,
@@ -1030,7 +1030,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -1042,7 +1042,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1051,7 +1051,7 @@
           "delivery_price": 0.0,
           "item_price": 52.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1060,7 +1060,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1085,7 +1085,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3614225452079",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 49.19,
@@ -1101,7 +1101,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Love-Eau-de-Toilette-50ml-Spray-s59976/",
@@ -1113,7 +1113,7 @@
           "delivery_price": 2.95,
           "item_price": 49.19,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -1122,7 +1122,7 @@
           "delivery_price": 3.95,
           "item_price": 49.19,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1147,7 +1147,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1566.24,
@@ -1163,7 +1163,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -1175,7 +1175,7 @@
           "delivery_price": 0.0,
           "item_price": 1423.86,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1184,7 +1184,7 @@
           "delivery_price": 0.0,
           "item_price": 1708.63,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1209,7 +1209,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603353688",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 235.99,
@@ -1225,7 +1225,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "925-088V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-height-adjustable-linen-executive-desk-chair-grey~28QD5LIH21G00.html?utm_source=awin&utm_medium=affiliate",
@@ -1262,7 +1262,7 @@
       "brand": "3M",
       "canonical_key": "GTIN:076308415082",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 139.59,
@@ -1278,7 +1278,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "PF270W9EM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/3m-t-privacy-filter-for-27in-full-screen-monitor-with-t-complyt-magnetic-attach-169-pf270w9em-686-cm-27-frameless-display-privacy-filter?variant=55308865274238",
@@ -1290,7 +1290,7 @@
           "delivery_price": 0.0,
           "item_price": 126.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1299,7 +1299,7 @@
           "delivery_price": 0.0,
           "item_price": 152.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1324,7 +1324,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872370",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.99,
@@ -1340,7 +1340,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-50ml-Spray-s88211/",
@@ -1352,7 +1352,7 @@
           "delivery_price": 2.95,
           "item_price": 66.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -1361,7 +1361,7 @@
           "delivery_price": 3.95,
           "item_price": 66.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1386,7 +1386,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603366978",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 9,
       "comparison_price": 218.99,
@@ -1402,7 +1402,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "921-951V71CW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-reclining-desk-chair-with-footrest-cream-white~28I889MHA3801.html?utm_source=awin&utm_medium=affiliate",
@@ -1439,7 +1439,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8378.11,
@@ -1455,7 +1455,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -1467,7 +1467,7 @@
           "delivery_price": 0.0,
           "item_price": 7616.47,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1476,7 +1476,7 @@
           "delivery_price": 0.0,
           "item_price": 9139.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1501,7 +1501,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877142",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.79,
@@ -1517,7 +1517,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "DELL-SA224-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-sa224-interface-cardsadapter-rj-45-1?variant=55307673764222",
@@ -1529,7 +1529,7 @@
           "delivery_price": 3.0,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1538,7 +1538,7 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1547,7 +1547,7 @@
           "delivery_price": 0.0,
           "item_price": 47.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1572,7 +1572,7 @@
       "brand": "Karl Lagerfeld",
       "canonical_key": "GTIN:3386460087254",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.99,
@@ -1588,7 +1588,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Karl-Lagerfeld-Fleur-De-Pecher-Eau-de-Parfum-100ml-Spray-s55997/",
@@ -1600,7 +1600,7 @@
           "delivery_price": 2.95,
           "item_price": 29.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -1609,7 +1609,7 @@
           "delivery_price": 3.95,
           "item_price": 29.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1634,7 +1634,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603355316",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 189.99,
@@ -1650,7 +1650,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "925-076V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chair-with-adjustable-padded-armrests-and-high-back~28DMB3GO9N000.html?utm_source=awin&utm_medium=affiliate",
@@ -1687,7 +1687,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766601115",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 41.97,
@@ -1703,7 +1703,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "TN-8000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-8000-toner-cartridge-1-pcs-original-black?variant=55308816089470",
@@ -1715,7 +1715,7 @@
           "delivery_price": 3.0,
           "item_price": 41.97,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1724,7 +1724,7 @@
           "delivery_price": 0.0,
           "item_price": 41.97,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1733,7 +1733,7 @@
           "delivery_price": 0.0,
           "item_price": 50.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1758,7 +1758,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515629",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.29,
@@ -1774,7 +1774,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-50ml-Spray-s9315/",
@@ -1786,7 +1786,7 @@
           "delivery_price": 2.95,
           "item_price": 54.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -1795,7 +1795,7 @@
           "delivery_price": 3.95,
           "item_price": 54.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1820,7 +1820,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.71,
@@ -1836,7 +1836,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -1848,7 +1848,7 @@
           "delivery_price": 0.0,
           "item_price": 39.63,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1857,7 +1857,7 @@
           "delivery_price": 3.0,
           "item_price": 39.71,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1866,7 +1866,7 @@
           "delivery_price": 0.0,
           "item_price": 47.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1891,7 +1891,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 640.99,
@@ -1907,7 +1907,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -1919,7 +1919,7 @@
           "delivery_price": 0.0,
           "item_price": 508.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1928,7 +1928,7 @@
           "delivery_price": 0.0,
           "item_price": 610.66,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -1953,7 +1953,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 432.99,
@@ -1969,7 +1969,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "C9300-NM-4G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -1981,7 +1981,7 @@
           "delivery_price": 0.0,
           "item_price": 347.16,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -1990,7 +1990,7 @@
           "delivery_price": 0.0,
           "item_price": 416.59,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2015,7 +2015,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000011",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 77.89,
@@ -2031,7 +2031,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-50ml-Spray-s2279/",
@@ -2043,7 +2043,7 @@
           "delivery_price": 2.95,
           "item_price": 77.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2052,7 +2052,7 @@
           "delivery_price": 3.95,
           "item_price": 77.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2077,7 +2077,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.79,
@@ -2093,7 +2093,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -2105,7 +2105,7 @@
           "delivery_price": 3.0,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -2114,7 +2114,7 @@
           "delivery_price": 0.0,
           "item_price": 54.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -2123,7 +2123,7 @@
           "delivery_price": 0.0,
           "item_price": 65.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2148,7 +2148,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368699",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 179.99,
@@ -2164,7 +2164,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "925-065V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-executive-office-chair-height-adjustable-desk-chair-reclining-flip-up-armrest-footrest-grey~28UAFILA22O00.html?utm_source=awin&utm_medium=affiliate",
@@ -2201,7 +2201,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029741",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.84,
@@ -2217,7 +2217,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "TBB58702GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-backpack-grey?variant=55307227398526",
@@ -2229,7 +2229,7 @@
           "delivery_price": 3.0,
           "item_price": 54.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -2238,7 +2238,7 @@
           "delivery_price": null,
           "item_price": 54.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2263,7 +2263,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349421",
       "category": "Home",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 109.99,
@@ -2279,7 +2279,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "920-106V00WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -2316,7 +2316,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368248",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 8,
       "comparison_price": 138.99,
@@ -2332,7 +2332,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "925-048V70BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-with-flip-up-armrests-wide-seat-spring-cushion-black~28I882MMHNO01.html?utm_source=awin&utm_medium=affiliate",
@@ -2369,7 +2369,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349216",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 7,
       "comparison_price": 122.99,
@@ -2385,7 +2385,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "836-661V80WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-thick-tabletop-office-table-white-wood-effect~28BIH3JD1KG01.html?utm_source=awin&utm_medium=affiliate",
@@ -2422,7 +2422,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 15,
       "comparison_price": 49.99,
@@ -2438,7 +2438,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -2475,7 +2475,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607342221161",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 53.99,
@@ -2491,7 +2491,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Eau-So-Fresh-Eau-de-Toilette-75ml-Spray-s6659/",
@@ -2503,7 +2503,7 @@
           "delivery_price": 2.95,
           "item_price": 53.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2512,7 +2512,7 @@
           "delivery_price": 3.95,
           "item_price": 53.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2537,7 +2537,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -2553,7 +2553,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -2565,7 +2565,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -2574,7 +2574,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2608,7 +2608,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000004",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.99,
@@ -2624,7 +2624,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-30ml-Spray-s15885/",
@@ -2636,7 +2636,7 @@
           "delivery_price": 2.95,
           "item_price": 52.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2645,7 +2645,7 @@
           "delivery_price": 3.95,
           "item_price": 52.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2670,7 +2670,7 @@
       "brand": "Rasasi",
       "canonical_key": "GTIN:0614514339206",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.74,
@@ -2686,7 +2686,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Rasasi-Hawas-For-Her-%C3%89clat-Eau-de-Parfum-100ml-Spray-s166275/",
@@ -2698,7 +2698,7 @@
           "delivery_price": 2.95,
           "item_price": 28.59,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2707,7 +2707,7 @@
           "delivery_price": 3.95,
           "item_price": 28.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2732,7 +2732,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515346",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 65.09,
@@ -2748,7 +2748,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-90ml-Spray-s11899/",
@@ -2760,7 +2760,7 @@
           "delivery_price": 2.95,
           "item_price": 65.09,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2769,7 +2769,7 @@
           "delivery_price": 3.95,
           "item_price": 65.09,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2794,7 +2794,7 @@
       "brand": "Issey Miyake",
       "canonical_key": "GTIN:3423470300154",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.99,
@@ -2810,7 +2810,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Issey-Miyake-L%27Eau-d%27Issey-Eau-de-Toilette-50ml-Spray-s235/",
@@ -2822,7 +2822,7 @@
           "delivery_price": 2.95,
           "item_price": 32.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2831,7 +2831,7 @@
           "delivery_price": 3.95,
           "item_price": 32.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2856,7 +2856,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872363",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 46.69,
@@ -2872,7 +2872,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-30ml-Spray-s88210/",
@@ -2884,7 +2884,7 @@
           "delivery_price": 2.95,
           "item_price": 46.69,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -2893,7 +2893,7 @@
           "delivery_price": 3.95,
           "item_price": 46.69,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2918,7 +2918,7 @@
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.42,
@@ -2934,7 +2934,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -2946,7 +2946,7 @@
           "delivery_price": 3.0,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": null,
@@ -2955,7 +2955,7 @@
           "delivery_price": null,
           "item_price": 28.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
@@ -2980,7 +2980,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764241",
       "category": "Other",
-      "checked_at": "2026-11-06T00:20:43Z",
+      "checked_at": "2026-11-06T00:28:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 56.99,
@@ -2996,7 +2996,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-06T00:20:43Z",
+      "market_verified_at": "2026-11-06T00:28:52Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-100ml-Spray-s19166/",
@@ -3008,7 +3008,7 @@
           "delivery_price": 2.95,
           "item_price": 56.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         },
         {
           "availability": 1,
@@ -3017,7 +3017,7 @@
           "delivery_price": 3.95,
           "item_price": 56.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-06T00:50:43Z"
+          "valid_until": "2026-11-06T00:58:52Z"
         }
       ],
       "publishable": true,
