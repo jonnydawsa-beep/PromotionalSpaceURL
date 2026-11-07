@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-07T18:28:24Z",
+    "generated_at": "2026-11-07T18:33:56Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "054fa51b09ee7283de8ca996d945b70a82c4e783bf2024bc91dcf6219ffb5a86",
-    "deal_count": 57,
+    "revision": "081124393be7a7a33b83928de137609fee0bc2f011d3b48fb3400e85028870d4",
+    "deal_count": 52,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -22,7 +22,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 117.26,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -50,7 +50,7 @@
           "delivery_price": null,
           "item_price": 106.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 127.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -68,9 +68,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41981287584",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "D-Link Mobile Wi-Fi 4G Hotspot 150 Mbps",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps-db34288d.html"
@@ -80,11 +80,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a0af857d167670e10b8b33f77029&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-asf14w9eu-display-privacy-filter-356-cm-14-1%3Fvariant%3D55307009393022&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.24,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -112,7 +112,7 @@
           "delivery_price": null,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -129,10 +129,10 @@
       "saving_percent": 57.74,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269403",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
+      "stock_valid_until": "2026-11-07T18:41:52Z",
       "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:41:52Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html"
@@ -142,11 +142,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a4b3c96689f0022e495c8809e81a&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsatechi-m1-bluetooth-wireless-mouse-space-grey%3Fvariant%3D55308630393214&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Satechi",
       "canonical_key": "GTIN:879961008260",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.16,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "ST-ABTCMM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey?variant=55308630393214",
@@ -174,7 +174,7 @@
           "delivery_price": null,
           "item_price": 47.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 56.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -191,10 +191,10 @@
       "saving_percent": 55.92,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476145014",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
+      "stock_valid_until": "2026-11-07T18:43:08Z",
       "title": "Satechi M1 Bluetooth Wireless Mouse (Space Grey)",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:43:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey-db3a4b3c.html"
@@ -323,7 +323,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0887037480414",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.57,
@@ -339,7 +339,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "0B47069",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -351,7 +351,7 @@
           "delivery_price": null,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -360,7 +360,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -369,9 +369,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475275850",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Lenovo HDMI / VGA 0.2 m Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-hdmi-vga-0-2-m-black-db3d90e4.html"
@@ -385,7 +385,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170178",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3481.55,
@@ -401,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9200L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -413,7 +413,7 @@
           "delivery_price": null,
           "item_price": 3147.98,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 3815.11,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -431,9 +431,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447705",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Cisco Catalyst 9200L Managed L3 10G Ethernet (100/1000/10000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html"
@@ -447,7 +447,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 6003.03,
@@ -463,7 +463,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -475,7 +475,7 @@
           "delivery_price": null,
           "item_price": 5427.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -484,7 +484,7 @@
           "delivery_price": 0.0,
           "item_price": 6578.22,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -493,9 +493,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447716",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html"
@@ -561,192 +561,6 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/zadig-voltaire-this-is-him-vibes-of-freedom-eau-de-toilette-50ml-spray-db355e33.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-13b2e52479583026fc51325aebf3&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468143411582&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Cisco",
-      "canonical_key": "GTIN:0889728170161",
-      "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 2272.55,
-      "current_price": 1353.99,
-      "deal_id": "db3-13b2e52479583026fc51325aebf3",
-      "delivery_price": 0.0,
-      "gtin": "0889728170161",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_4ff1ca3c-3df8-44dc-b6ed-8f9a5fa90465.jpg%3Fv%3D1756134161&feedId=102827&k=42c451ca6f5314702ab3bd21f41c6e487c2aa8bb",
-      "item_price": 1353.99,
-      "market_best_price": 1353.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
-      "mpn": "C9200L-24P-4G-E",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07T17:58:17Z",
-          "delivery_price": null,
-          "item_price": 2054.83,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07 14:03:06",
-          "delivery_price": 0.0,
-          "item_price": 2490.26,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 40.42,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "43075447706",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
-      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9f01840209b48dfdbc0dbdff8363&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black%3Fvariant%3D55308841386366&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Lenovo",
-      "canonical_key": "GTIN:195477876194",
-      "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 68.63,
-      "current_price": 40.99,
-      "deal_id": "db3-9f01840209b48dfdbc0dbdff8363",
-      "delivery_price": 4.99,
-      "gtin": "195477876194",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7438e87c81a424503381f7e3d4679124.jpg%3Fv%3D1761404209&feedId=102827&k=b7f5dfa96b0e2384d0a81563b4b97c38c8e5ad58",
-      "item_price": 40.99,
-      "market_best_price": 40.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
-      "mpn": "4X91C47404",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07T17:58:17Z",
-          "delivery_price": null,
-          "item_price": 62.39,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07 14:03:06",
-          "delivery_price": 0.0,
-          "item_price": 74.87,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 40.27,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "41475285340",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
-      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "valid_until": "2026-11-07T18:33:24Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4a58fc39ff963021146777dfc025&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-mu-mimo-cleanair-with-rf-asic-poe-external-antenna-c9120axe-e%3Fvariant%3D55468170346878&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Cisco",
-      "canonical_key": "GTIN:0889728227223",
-      "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 1658.93,
-      "current_price": 1024.99,
-      "deal_id": "db3-4a58fc39ff963021146777dfc025",
-      "delivery_price": 0.0,
-      "gtin": "0889728227223",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F00c04a2f47d5d7b002a00967e2218cd9_50198135-8211-4c02-85a3-e40955fdeb7f.jpg%3Fv%3D1787725025&feedId=102827&k=134705d04299a3139c260da6ab95b8c6b16c107e",
-      "item_price": 1024.99,
-      "market_best_price": 1024.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
-      "mpn": "C9120AXE-E",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-mu-mimo-cleanair-with-rf-asic-poe-external-antenna-c9120axe-e?variant=55468170346878",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07T17:58:17Z",
-          "delivery_price": null,
-          "item_price": 1500.01,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07 14:03:06",
-          "delivery_price": 0.0,
-          "item_price": 1817.86,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 38.21,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "43075448099",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
-      "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
-      "valid_until": "2026-11-07T18:33:24Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db34a58f.html"
     },
     {
       "advertiser_id": "6561",
@@ -815,11 +629,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f6704b37993501d823a0af024d56&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fepson-a4-archival-matte-photo-paper-189gsm-50-sheets%3Fvariant%3D55307060314494&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -835,7 +649,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -847,7 +661,7 @@
           "delivery_price": null,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -856,7 +670,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -864,10 +678,10 @@
       "saving_percent": 36.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270107",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:07:11.554610+00:00",
+      "stock_valid_until": "2026-11-07T18:37:11Z",
       "title": "Epson A4 Archival Matte Photo Paper 189gsm, 50 sheets",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:37:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html"
@@ -939,11 +753,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9c7f402ff5f06a4652cda47427f6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j%3Fvariant%3D55468146393470&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 50.27,
@@ -959,7 +773,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -971,7 +785,7 @@
           "delivery_price": null,
           "item_price": 45.58,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -980,7 +794,7 @@
           "delivery_price": 0.0,
           "item_price": 54.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -988,10 +802,10 @@
       "saving_percent": 34.38,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447777",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
+      "stock_valid_until": "2026-11-07T18:41:52Z",
       "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:41:52Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html"
@@ -1005,7 +819,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0882780349551",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.94,
@@ -1021,7 +835,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "Q5456A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-advanced-photo-paper-glossy-250-gm2-a4-210-x-297-mm-25-sheets?variant=55308490146174",
@@ -1033,7 +847,7 @@
           "delivery_price": null,
           "item_price": 31.71,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1042,7 +856,7 @@
           "delivery_price": 0.0,
           "item_price": 38.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1051,9 +865,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476143511",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "HP Advanced Photo Paper, Glossy, 250 g/m2, A4 (210 x 297 mm), 25 sheets",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-advanced-photo-paper-glossy-250-g-m2-a4-210-x-297-mm-25-sheets-db33a06b.html"
@@ -1067,7 +881,7 @@
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:49071",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -1083,7 +897,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "49071",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black?variant=56668028764542",
@@ -1095,7 +909,7 @@
           "delivery_price": null,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1104,7 +918,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1113,9 +927,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43380116933",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Verbatim PinStripe - USB Drive 128 GB - Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-pinstripe-usb-drive-128-gb-black-db3983b6.html"
@@ -1129,7 +943,7 @@
       "brand": "Logitech",
       "canonical_key": "GTIN:0097855136152",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 50.97,
@@ -1145,7 +959,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "993-001465",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/logitech-ptz-pro-2-1?variant=55334314803582",
@@ -1157,7 +971,7 @@
           "delivery_price": null,
           "item_price": 46.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1166,7 +980,7 @@
           "delivery_price": 0.0,
           "item_price": 55.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1175,9 +989,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41751673103",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Logitech PTZ Pro 2",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/logitech-ptz-pro-2-db3f99cc.html"
@@ -1253,7 +1067,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1573.42,
@@ -1269,7 +1083,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -1281,7 +1095,7 @@
           "delivery_price": null,
           "item_price": 1422.69,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1290,7 +1104,7 @@
           "delivery_price": 0.0,
           "item_price": 1724.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1299,9 +1113,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447697",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html"
@@ -1315,7 +1129,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766601115",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 46.16,
@@ -1331,7 +1145,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "TN-8000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-8000-toner-cartridge-1-pcs-original-black?variant=55308816089470",
@@ -1343,7 +1157,7 @@
           "delivery_price": null,
           "item_price": 41.97,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1352,7 +1166,7 @@
           "delivery_price": 0.0,
           "item_price": 50.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1361,9 +1175,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476162711",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Brother TN-8000 toner cartridge 1 pc(s) Original Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/brother-tn-8000-toner-cartridge-1-pc-s-original-black-db3f3caf.html"
@@ -1426,11 +1240,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-ecc29cf9a2870aae1b8651f30b19&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsatechi-multi-port-adapter-v2-dock-st-usb-32-gen-1-31-gen-1-type-c-grey%3Fvariant%3D55308631867774&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Satechi",
       "canonical_key": "GTIN:879961007140",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 111.59,
@@ -1446,7 +1260,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "ST-TCMA2M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-multi-port-adapter-v2-dock-st-usb-32-gen-1-31-gen-1-type-c-grey?variant=55308631867774",
@@ -1458,7 +1272,7 @@
           "delivery_price": null,
           "item_price": 101.45,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1467,7 +1281,7 @@
           "delivery_price": 0.0,
           "item_price": 121.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1475,10 +1289,10 @@
       "saving_percent": 31.91,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266834",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
+      "stock_valid_until": "2026-11-07T18:43:08Z",
       "title": "Satechi Multi-Port Adapter V2 Dock st. USB 3.2 Gen 1 (3.1 Gen 1) Type-C Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:43:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/satechi-multi-port-adapter-v2-dock-st-usb-3-2-gen-1-3-1-gen-1-type-c-g-db3ecc29.html"
@@ -1545,7 +1359,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.69,
@@ -1561,7 +1375,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -1573,7 +1387,7 @@
           "delivery_price": null,
           "item_price": 39.62,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1582,7 +1396,7 @@
           "delivery_price": 0.0,
           "item_price": 47.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1591,74 +1405,12 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-947c2bfe3f7123644a301e557efd&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1%3Fvariant%3D55468143640958&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Cisco",
-      "canonical_key": "GTIN:0889728168250",
-      "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 5782.22,
-      "current_price": 3995.99,
-      "deal_id": "db3-947c2bfe3f7123644a301e557efd",
-      "delivery_price": 0.0,
-      "gtin": "0889728168250",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fd471f60acef38ef53eae97f15081d268_2211a8ef-20ba-40e3-9397-1ee24f9724da.jpg%3Fv%3D1756134159&feedId=102827&k=d85d20e00e6bcca51c3d7b3e1ea7c5b81ccdf24a",
-      "item_price": 3995.99,
-      "market_best_price": 3995.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
-      "mpn": "C9200-48P-E",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07T17:58:17Z",
-          "delivery_price": null,
-          "item_price": 5228.19,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07 14:03:06",
-          "delivery_price": 0.0,
-          "item_price": 6336.24,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 30.89,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "43075447708",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
-      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html"
     },
     {
       "advertiser_id": "61655",
@@ -1669,7 +1421,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8416.69,
@@ -1685,7 +1437,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -1697,7 +1449,7 @@
           "delivery_price": null,
           "item_price": 7610.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1706,7 +1458,7 @@
           "delivery_price": 0.0,
           "item_price": 9223.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1715,74 +1467,12 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447741",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-aaa341f01fdeaa6fdf0bcf4db3c2&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey%3Fvariant%3D55468196102526&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Cisco",
-      "canonical_key": "GTIN:0889728309493",
-      "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 3798.91,
-      "current_price": 2629.99,
-      "deal_id": "db3-aaa341f01fdeaa6fdf0bcf4db3c2",
-      "delivery_price": 0.0,
-      "gtin": "0889728309493",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fced1526b2d2a0837bcb83717e1a96ba6.jpg%3Fv%3D1756134389&feedId=102827&k=6537a16ee95efd84c0f77851566852412f2b0dfc",
-      "item_price": 2629.99,
-      "market_best_price": 2629.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
-      "mpn": "C8200-1N-4T",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey?variant=55468196102526",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07T17:58:17Z",
-          "delivery_price": null,
-          "item_price": 3442.89,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-07 14:03:06",
-          "delivery_price": 0.0,
-          "item_price": 4154.93,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 30.77,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "43075448515",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
-      "title": "Cisco C8200-1N-4T wired router Gigabit Ethernet Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey-db3aaa34.html"
     },
     {
       "advertiser_id": "6561",
@@ -1917,7 +1607,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029741",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 60.33,
@@ -1933,7 +1623,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "TBB58702GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-backpack-grey?variant=55307227398526",
@@ -1945,7 +1635,7 @@
           "delivery_price": null,
           "item_price": 54.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -1954,7 +1644,7 @@
           "delivery_price": 0.0,
           "item_price": 65.81,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -1963,9 +1653,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273943",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-backpack-grey-db32c372.html"
@@ -1979,7 +1669,7 @@
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:43548",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.59,
@@ -1995,7 +1685,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "43548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-dvd-r-matt-silver-47-gb-50-pcs?variant=55308618629502",
@@ -2007,7 +1697,7 @@
           "delivery_price": null,
           "item_price": 30.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2016,7 +1706,7 @@
           "delivery_price": 0.0,
           "item_price": 36.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2025,9 +1715,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266733",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Verbatim DVD-R Matt Silver 4.7 GB 50 pc(s)",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-dvd-r-matt-silver-4-7-gb-50-pc-s-db309c7e.html"
@@ -2099,11 +1789,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f3d89456b5d395c844fcc3f8129d&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey%3Fvariant%3D55468145049982&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 7008.85,
@@ -2119,7 +1809,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -2131,7 +1821,7 @@
           "delivery_price": null,
           "item_price": 6337.35,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2140,7 +1830,7 @@
           "delivery_price": 0.0,
           "item_price": 7680.35,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2148,10 +1838,10 @@
       "saving_percent": 27.19,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447746",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:07:11.554610+00:00",
+      "stock_valid_until": "2026-11-07T18:37:11Z",
       "title": "Cisco Catalyst C9300-48T-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:37:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2-l3-gigabit-ethern-db3f3d89.html"
@@ -2165,7 +1855,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8416.69,
@@ -2181,7 +1871,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -2193,7 +1883,7 @@
           "delivery_price": null,
           "item_price": 7610.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2202,7 +1892,7 @@
           "delivery_price": 0.0,
           "item_price": 9223.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2211,9 +1901,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447727",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html"
@@ -2223,11 +1913,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7e806299be1c39ffe8354df78539&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black%3Fvariant%3D58375359824254&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -2243,7 +1933,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -2255,7 +1945,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2264,7 +1954,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2272,10 +1962,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614808",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
+      "stock_valid_until": "2026-11-07T18:41:52Z",
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:41:52Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
@@ -2338,11 +2028,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-b31bf16064233c1b3232b6cfdffa&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black%3Fvariant%3D55468877447550&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Vision",
       "canonical_key": "GTIN:4979146000006",
       "category": "Other",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -2358,7 +2048,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "TC-HDMIVGA/BL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -2370,7 +2060,7 @@
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2379,7 +2069,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2387,10 +2077,10 @@
       "saving_percent": 25.87,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458403",
-      "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
+      "stock_valid_until": "2026-11-07T18:43:08Z",
       "title": "Vision TC-HDMIVGA/BL video cable adapter 0.23 m HDMI Type A (Standard) VGA (D-Sub) Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:43:08Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html"
@@ -2528,7 +2218,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030854900",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -2544,7 +2234,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "DP2DVIMM3BS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -2556,7 +2246,7 @@
           "delivery_price": null,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2565,7 +2255,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2574,9 +2264,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278230",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "StarTech.com 3ft (1m) DisplayPort to DVI Cable - 1080p Video - Active DisplayPort to DVI Adapter Cable - DisplayPort to DVI-D Cable Converter Single Link - DP 1.2 to DVI Monitor Cable",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html"
@@ -2714,7 +2404,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:03:24Z",
+      "checked_at": "2026-11-07T18:32:01Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -2730,7 +2420,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:03:24Z",
+      "market_verified_at": "2026-11-07T18:32:01Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -2742,7 +2432,7 @@
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         },
         {
           "availability": null,
@@ -2751,7 +2441,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T18:33:24Z"
+          "valid_until": "2026-11-07T19:02:01Z"
         }
       ],
       "publishable": true,
@@ -2760,9 +2450,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156516",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T18:33:24Z",
+      "stock_valid_until": "2026-11-07T18:59:36Z",
       "title": "Targus SafePort strap Tablet Silicone Black",
-      "valid_until": "2026-11-07T18:33:24Z",
+      "valid_until": "2026-11-07T18:59:36Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"

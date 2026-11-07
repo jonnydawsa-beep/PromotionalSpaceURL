@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:28:25Z",
+  "generated_at": "2026-11-07T18:33:56Z",
   "items": [
     {
       "title": "Brother TN-8000 toner cartridge 1 pc(s) Original Black",
@@ -29,15 +29,6 @@
       "current_price": 21.6
     },
     {
-      "title": "Cisco C8200-1N-4T wired router Gigabit Ethernet Grey",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey-db3aaa34.html",
-      "active": true,
-      "current_price": 2629.99
-    },
-    {
       "title": "Cisco C9300-NM-4G network switch module Gigabit Ethernet",
       "brand": "Cisco",
       "category": "Technology",
@@ -45,15 +36,6 @@
       "url": "products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html",
       "active": true,
       "current_price": 329.99
-    },
-    {
-      "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db34a58f.html",
-      "active": true,
-      "current_price": 1024.99
     },
     {
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
@@ -81,24 +63,6 @@
       "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
       "active": true,
       "current_price": 3472.99
-    },
-    {
-      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
-      "active": true,
-      "current_price": 1353.99
-    },
-    {
-      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
-      "active": true,
-      "current_price": 3995.99
     },
     {
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
@@ -261,15 +225,6 @@
       "url": "products/karl-lagerfeld-fleur-de-pecher-eau-de-parfum-100ml-spray-db315716.html",
       "active": true,
       "current_price": 21.2
-    },
-    {
-      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "brand": "Lenovo",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
-      "active": true,
-      "current_price": 40.99
     },
     {
       "title": "Lenovo HDMI / VGA 0.2 m Black",
@@ -2297,6 +2252,15 @@
       "current_price": null
     },
     {
+      "title": "Cisco C8200-1N-4T wired router Gigabit Ethernet Grey",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-c8200-1n-4t-wired-router-gigabit-ethernet-grey-db3aaa34.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco C9200-NM-4X= network switch module 10 Gigabit Ethernet, Gigabit Ethernet",
       "brand": "Cisco",
       "category": "Technology",
@@ -2405,6 +2369,24 @@
       "current_price": null
     },
     {
+      "title": "Cisco Catalyst 9120AXE-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, MU-MIMO, CleanAir with RF ASIC, PoE, External antenna, (C9120AXE-E)",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9120axe-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db34a58f.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco Catalyst 9300 48-port data Ntw Ess Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Other",
@@ -2419,6 +2401,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-9300l-managed-l2-l3-gigabit-ethernet-10-100-1000-grey-db3dbf92.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "active": false,
       "current_price": null
     },
@@ -5191,6 +5182,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/lenovo-4x90x21427-interface-hub-usb-3-2-gen-2-3-1-gen-2-type-c-20000-m-db3ad0f1.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
+      "brand": "Lenovo",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
       "active": false,
       "current_price": null
     },
