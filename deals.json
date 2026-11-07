@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-07T18:39:43Z",
+    "generated_at": "2026-11-07T18:46:39Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b6dcbbfb0e6ffca8d2da909d37b596b5b142195a35f77f6628832a1fee00b47a",
+    "revision": "30dfdbc6cf0c54ee4c0349e77e71f9e4949aa39382071a06287cebc4499b1ffb",
     "deal_count": 50,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -80,17 +80,17 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a0af857d167670e10b8b33f77029&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-asf14w9eu-display-privacy-filter-356-cm-14-1%3Fvariant%3D55307009393022&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-07T18:37:48Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.24,
       "current_price": 27.99,
       "deal_id": "db3-a0af857d167670e10b8b33f77029",
-      "delivery_price": null,
+      "delivery_price": 4.99,
       "gtin": "5051794014471",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
       "item_price": 27.99,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:37:48Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -112,7 +112,7 @@
           "delivery_price": null,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -129,10 +129,10 @@
       "saving_percent": 57.74,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269403",
-      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
-      "stock_valid_until": "2026-11-07T18:41:52Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "valid_until": "2026-11-07T18:41:52Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html"
@@ -142,11 +142,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a4b3c96689f0022e495c8809e81a&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsatechi-m1-bluetooth-wireless-mouse-space-grey%3Fvariant%3D55308630393214&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Satechi",
       "canonical_key": "GTIN:879961008260",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:32:01Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.16,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:32:01Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "ST-ABTCMM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey?variant=55308630393214",
@@ -174,7 +174,7 @@
           "delivery_price": null,
           "item_price": 47.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 56.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -191,10 +191,10 @@
       "saving_percent": 55.92,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476145014",
-      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
-      "stock_valid_until": "2026-11-07T18:43:08Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Satechi M1 Bluetooth Wireless Mouse (Space Grey)",
-      "valid_until": "2026-11-07T18:43:08Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey-db3a4b3c.html"
@@ -691,17 +691,17 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9c7f402ff5f06a4652cda47427f6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j%3Fvariant%3D55468146393470&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-07T18:37:48Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 50.27,
       "current_price": 32.99,
       "deal_id": "db3-9c7f402ff5f06a4652cda47427f6",
-      "delivery_price": null,
+      "delivery_price": 4.99,
       "gtin": "0889728136174",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F66d635e9b178cbdf49e913ad4f93e344.jpg%3Fv%3D1756134182&feedId=102827&k=b2f690086b6e8f0a424e5eaef03b84bc8c2b4242",
       "item_price": 32.99,
@@ -711,7 +711,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:37:48Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -723,7 +723,7 @@
           "delivery_price": null,
           "item_price": 45.58,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -732,7 +732,7 @@
           "delivery_price": 0.0,
           "item_price": 54.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -740,10 +740,10 @@
       "saving_percent": 34.38,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447777",
-      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
-      "stock_valid_until": "2026-11-07T18:41:52Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
-      "valid_until": "2026-11-07T18:41:52Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html"
@@ -1178,11 +1178,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-ecc29cf9a2870aae1b8651f30b19&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fsatechi-multi-port-adapter-v2-dock-st-usb-32-gen-1-31-gen-1-type-c-grey%3Fvariant%3D55308631867774&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Satechi",
       "canonical_key": "GTIN:879961007140",
       "category": "Technology",
-      "checked_at": "2026-11-07T18:32:01Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 111.59,
@@ -1198,7 +1198,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:32:01Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "ST-TCMA2M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-multi-port-adapter-v2-dock-st-usb-32-gen-1-31-gen-1-type-c-grey?variant=55308631867774",
@@ -1210,7 +1210,7 @@
           "delivery_price": null,
           "item_price": 101.45,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -1219,7 +1219,7 @@
           "delivery_price": 0.0,
           "item_price": 121.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -1227,10 +1227,10 @@
       "saving_percent": 31.91,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266834",
-      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
-      "stock_valid_until": "2026-11-07T18:43:08Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Satechi Multi-Port Adapter V2 Dock st. USB 3.2 Gen 1 (3.1 Gen 1) Type-C Grey",
-      "valid_until": "2026-11-07T18:43:08Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/satechi-multi-port-adapter-v2-dock-st-usb-3-2-gen-1-3-1-gen-1-type-c-g-db3ecc29.html"
@@ -1789,17 +1789,17 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7e806299be1c39ffe8354df78539&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black%3Fvariant%3D58375359824254&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-07T18:37:48Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
       "current_price": 20.99,
       "deal_id": "db3-7e806299be1c39ffe8354df78539",
-      "delivery_price": null,
+      "delivery_price": 4.99,
       "gtin": "5056750315883",
       "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FX5jGr8J_x06-KxAqb7gm5w.c-r.jpg%3Fv%3D1793654001&feedId=102827&k=39a4862d94e29e5369992cd618b28e19b1c7fae7",
       "item_price": 20.99,
@@ -1809,7 +1809,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:37:48Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -1821,7 +1821,7 @@
           "delivery_price": null,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -1830,7 +1830,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:07:48Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -1838,10 +1838,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614808",
-      "stock_checked_at": "2026-11-07T18:11:52.855430+00:00",
-      "stock_valid_until": "2026-11-07T18:41:52Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
-      "valid_until": "2026-11-07T18:41:52Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
@@ -1904,11 +1904,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-b31bf16064233c1b3232b6cfdffa&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black%3Fvariant%3D55468877447550&platform=pl",
       "availability": 1,
-      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "availability_basis": "FEED",
       "brand": "Vision",
       "canonical_key": "GTIN:4979146000006",
       "category": "Other",
-      "checked_at": "2026-11-07T18:32:01Z",
+      "checked_at": "2026-11-07T18:44:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -1924,7 +1924,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T18:32:01Z",
+      "market_verified_at": "2026-11-07T18:44:45Z",
       "mpn": "TC-HDMIVGA/BL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -1936,7 +1936,7 @@
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         },
         {
           "availability": null,
@@ -1945,7 +1945,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:02:01Z"
+          "valid_until": "2026-11-07T19:14:45Z"
         }
       ],
       "publishable": true,
@@ -1953,10 +1953,10 @@
       "saving_percent": 25.87,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458403",
-      "stock_checked_at": "2026-11-07T18:13:08.091009+00:00",
-      "stock_valid_until": "2026-11-07T18:43:08Z",
+      "stock_checked_at": "2026-11-07T18:44:42Z",
+      "stock_valid_until": "2026-11-07T19:14:45Z",
       "title": "Vision TC-HDMIVGA/BL video cable adapter 0.23 m HDMI Type A (Standard) VGA (D-Sub) Black",
-      "valid_until": "2026-11-07T18:43:08Z",
+      "valid_until": "2026-11-07T19:14:45Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html"
