@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-07T19:19:06Z",
+    "generated_at": "2026-11-07T19:36:54Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "0d46c73049333475ec73b848ecd070d61177de946b710fcd243ff1930f3e511f",
+    "revision": "83e9412ea54d3dc1ba313ed3539165d591e1dc54c06b846ee0d918ee57937786",
     "deal_count": 61,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -146,7 +146,7 @@
       "brand": "Satechi",
       "canonical_key": "GTIN:879961008260",
       "category": "Technology",
-      "checked_at": "2026-11-07T19:19:02Z",
+      "checked_at": "2026-11-07T19:36:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.16,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T19:19:02Z",
+      "market_verified_at": "2026-11-07T19:36:52Z",
       "mpn": "ST-ABTCMM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey?variant=55308630393214",
@@ -174,7 +174,7 @@
           "delivery_price": null,
           "item_price": 47.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:49:02Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 56.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:49:02Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         }
       ],
       "publishable": true,
@@ -1660,7 +1660,7 @@
       "brand": "Satechi",
       "canonical_key": "GTIN:879961007140",
       "category": "Technology",
-      "checked_at": "2026-11-07T19:19:02Z",
+      "checked_at": "2026-11-07T19:36:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 111.59,
@@ -1676,7 +1676,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T19:19:02Z",
+      "market_verified_at": "2026-11-07T19:36:52Z",
       "mpn": "ST-TCMA2M",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-multi-port-adapter-v2-dock-st-usb-32-gen-1-31-gen-1-type-c-grey?variant=55308631867774",
@@ -1688,7 +1688,7 @@
           "delivery_price": null,
           "item_price": 101.45,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:49:02Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         },
         {
           "availability": null,
@@ -1697,7 +1697,7 @@
           "delivery_price": 0.0,
           "item_price": 121.74,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:49:02Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         }
       ],
       "publishable": true,
@@ -2572,7 +2572,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4979146000006",
       "category": "Other",
-      "checked_at": "2026-11-07T19:19:03Z",
+      "checked_at": "2026-11-07T19:36:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -2588,7 +2588,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T19:19:03Z",
+      "market_verified_at": "2026-11-07T19:36:52Z",
       "mpn": "TC-HDMIVGA/BL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -2600,7 +2600,7 @@
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T19:49:03Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         },
         {
           "availability": null,
@@ -2609,7 +2609,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T19:49:03Z"
+          "valid_until": "2026-11-07T20:06:52Z"
         }
       ],
       "publishable": true,
