@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-07T16:38:56Z",
+    "generated_at": "2026-11-07T17:06:28Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "3d1cfa82ee469594ea8ff6de65b695faa358794cd52d820ca3bd07ffc8d3a700",
+    "revision": "12390670187c0db393d402e9f35856af6c1a9106e1fb75e461952e5bc8cd2dea",
     "deal_count": 28,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5056399140624",
       "category": "Gaming",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 116.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "836-309V01",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-gaming-computer-desk-with-cup-holder-headphone-hook-gamepad-holder-home-office~836-309V01.html?utm_source=awin&utm_medium=affiliate",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 101.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -59,9 +59,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46290486060",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM Gaming Desk, Ergonomic Home Office Desk, Gamer Workstation Racing Table, w/ Headphone Hook, Cup Holder, 142 x 66 x 96cm, Black & Red   Aosom UK",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-gaming-desk-ergonomic-home-office-desk-gamer-workstation-racing-db3ce070.html"
@@ -75,7 +75,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764289",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.89,
@@ -91,7 +91,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-50ml-Spray-s19141/",
@@ -103,7 +103,7 @@
           "delivery_price": 2.95,
           "item_price": 59.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -112,7 +112,7 @@
           "delivery_price": 3.95,
           "item_price": 59.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -121,9 +121,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "37095700134",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-50ml-spray-db302d50.html"
@@ -137,7 +137,7 @@
       "brand": "Zadig & Voltaire",
       "canonical_key": "GTIN:3423222048457",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.99,
@@ -153,7 +153,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Zadig-Voltaire-This-is-Him%21-Vibes-of-Freedom-Eau-de-Toilette-50ml-Spray-s113671/",
@@ -165,7 +165,7 @@
           "delivery_price": 2.95,
           "item_price": 38.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -174,7 +174,7 @@
           "delivery_price": 3.95,
           "item_price": 38.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -183,9 +183,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36424399207",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Zadig & Voltaire This is Him! Vibes of Freedom Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/zadig-voltaire-this-is-him-vibes-of-freedom-eau-de-toilette-50ml-spray-db355e33.html"
@@ -199,7 +199,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764326",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.29,
@@ -215,7 +215,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-30ml-Spray-s19142/",
@@ -227,7 +227,7 @@
           "delivery_price": 2.95,
           "item_price": 43.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -236,7 +236,7 @@
           "delivery_price": 3.95,
           "item_price": 43.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -245,9 +245,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "34523554185",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 30ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-30ml-spray-db383844.html"
@@ -261,7 +261,7 @@
       "brand": "Cacharel",
       "canonical_key": "GTIN:3360373063703",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.95,
@@ -277,7 +277,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Cacharel-Amor-Amor-Eau-de-Toilette-50ml-Spray-s2475/",
@@ -289,7 +289,7 @@
           "delivery_price": 2.95,
           "item_price": 33.95,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -298,7 +298,7 @@
           "delivery_price": 3.95,
           "item_price": 33.95,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -307,9 +307,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "23212992323",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Cacharel Amor Amor Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cacharel-amor-amor-eau-de-toilette-50ml-spray-db360f6a.html"
@@ -323,7 +323,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3614227086029",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.79,
@@ -339,7 +339,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Perfect-Eau-de-Parfum-50ml-Spray-s92601/",
@@ -351,7 +351,7 @@
           "delivery_price": 2.95,
           "item_price": 66.79,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -360,7 +360,7 @@
           "delivery_price": 3.95,
           "item_price": 66.79,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -369,9 +369,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "32428507305",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Marc Jacobs Perfect Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-perfect-eau-de-parfum-50ml-spray-db375904.html"
@@ -385,7 +385,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603353688",
       "category": "Home",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 235.99,
@@ -401,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "925-088V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-height-adjustable-linen-executive-desk-chair-grey~28QD5LIH21G00.html?utm_source=awin&utm_medium=affiliate",
@@ -413,7 +413,7 @@
           "delivery_price": 0.0,
           "item_price": 207.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -422,9 +422,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46401853213",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM 250 kg Big and Tall Massage Office Chair with Heat, High Back, Height Adjustable Linen Executive Desk Chair, Grey",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-he-db3d3e3c.html"
@@ -438,7 +438,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603366978",
       "category": "Home",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 10,
       "comparison_price": 218.99,
@@ -454,7 +454,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "921-951V71CW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-reclining-desk-chair-with-footrest-cream-white~28I889MHA3801.html?utm_source=awin&utm_medium=affiliate",
@@ -466,7 +466,7 @@
           "delivery_price": 0.0,
           "item_price": 190.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -475,9 +475,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46456313035",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM Office Chair with Massage, Heat, Adjustable Headrest, Leathaire‌ Reclining Desk Chair with Footrest, Cream White",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-re-db3987c0.html"
@@ -491,7 +491,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3614225452079",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 49.19,
@@ -507,7 +507,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Love-Eau-de-Toilette-50ml-Spray-s59976/",
@@ -519,7 +519,7 @@
           "delivery_price": 2.95,
           "item_price": 49.19,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -528,7 +528,7 @@
           "delivery_price": 3.95,
           "item_price": 49.19,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -537,9 +537,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "33137669709",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Marc Jacobs Daisy Love Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-love-eau-de-toilette-50ml-spray-db343d78.html"
@@ -553,7 +553,7 @@
       "brand": "Karl Lagerfeld",
       "canonical_key": "GTIN:3386460087254",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.99,
@@ -569,7 +569,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Karl-Lagerfeld-Fleur-De-Pecher-Eau-de-Parfum-100ml-Spray-s55997/",
@@ -581,7 +581,7 @@
           "delivery_price": 2.95,
           "item_price": 29.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -590,7 +590,7 @@
           "delivery_price": 3.95,
           "item_price": 29.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -599,9 +599,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43693004130",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Karl Lagerfeld Fleur De Pecher Eau de Parfum 100ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/karl-lagerfeld-fleur-de-pecher-eau-de-parfum-100ml-spray-db315716.html"
@@ -615,7 +615,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872370",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.99,
@@ -631,7 +631,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-50ml-Spray-s88211/",
@@ -643,7 +643,7 @@
           "delivery_price": 2.95,
           "item_price": 66.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -652,7 +652,7 @@
           "delivery_price": 3.95,
           "item_price": 66.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -661,9 +661,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "26543369229",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf Flowerbomb Dew Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-dew-eau-de-parfum-50ml-spray-db35862a.html"
@@ -677,7 +677,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603355316",
       "category": "Home",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 189.99,
@@ -693,7 +693,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "925-076V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chair-with-adjustable-padded-armrests-and-high-back~28DMB3GO9N000.html?utm_source=awin&utm_medium=affiliate",
@@ -705,7 +705,7 @@
           "delivery_price": 0.0,
           "item_price": 168.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -714,9 +714,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46093159988",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM Big and Tall Office Chair, 250 kg Heavy Duty Executive Desk Chair with Adjustable Padded Armrests and High Back, Grey",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chai-db351349.html"
@@ -730,7 +730,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000011",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 77.89,
@@ -746,7 +746,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-50ml-Spray-s2279/",
@@ -758,7 +758,7 @@
           "delivery_price": 2.95,
           "item_price": 77.89,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -767,7 +767,7 @@
           "delivery_price": 3.95,
           "item_price": 77.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -776,9 +776,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "27337828817",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf FlowerBomb Eau de Parfum 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-eau-de-parfum-50ml-spray-db3871b0.html"
@@ -792,7 +792,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515629",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.29,
@@ -808,7 +808,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-50ml-Spray-s9315/",
@@ -820,7 +820,7 @@
           "delivery_price": 2.95,
           "item_price": 54.29,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -829,7 +829,7 @@
           "delivery_price": 3.95,
           "item_price": 54.29,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -838,9 +838,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "21700786007",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-50ml-spray-db331155.html"
@@ -854,7 +854,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 17,
       "comparison_price": 640.99,
@@ -870,7 +870,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -882,7 +882,7 @@
           "delivery_price": 0.0,
           "item_price": 508.47,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": null,
@@ -891,7 +891,7 @@
           "delivery_price": 0.0,
           "item_price": 632.22,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -900,9 +900,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
@@ -916,7 +916,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "category": "Technology",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 17,
       "comparison_price": 432.99,
@@ -932,7 +932,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "C9300-NM-4G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -944,7 +944,7 @@
           "delivery_price": 0.0,
           "item_price": 346.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": null,
@@ -953,7 +953,7 @@
           "delivery_price": 0.0,
           "item_price": 420.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -962,9 +962,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450565",
       "stock_checked_at": "2026-11-07T14:25:26Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Cisco C9300-NM-4G network switch module Gigabit Ethernet",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html"
@@ -978,7 +978,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349421",
       "category": "Home",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 109.99,
@@ -994,7 +994,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "920-106V00WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-wheels-white~28BIH3TSPUO01.html?utm_source=awin&utm_medium=affiliate",
@@ -1006,7 +1006,7 @@
           "delivery_price": 0.0,
           "item_price": 110.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1015,9 +1015,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45953893120",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM 105 x 51 cm Foldable Office Deskwith 3 Drawers, Extendable Top, Wheels, White",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-105-x-51-cm-foldable-office-deskwith-3-drawers-extendable-top-w-db3c1039.html"
@@ -1031,7 +1031,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368248",
       "category": "Technology",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 9,
       "comparison_price": 138.99,
@@ -1047,7 +1047,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "925-048V70BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-with-flip-up-armrests-wide-seat-spring-cushion-black~28I882MMHNO01.html?utm_source=awin&utm_medium=affiliate",
@@ -1059,7 +1059,7 @@
           "delivery_price": 0.0,
           "item_price": 121.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1068,9 +1068,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46500935806",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM Office Chair, 180kg Heavy Duty PU Leather Computer Desk Chair with Flip-Up Armrests, Wide Seat, Spring Cushion, Black",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-wi-db38e410.html"
@@ -1084,7 +1084,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349216",
       "category": "Technology",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 8,
       "comparison_price": 122.99,
@@ -1100,7 +1100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "836-661V80WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-thick-tabletop-office-table-white-wood-effect~28BIH3JD1KG01.html?utm_source=awin&utm_medium=affiliate",
@@ -1112,7 +1112,7 @@
           "delivery_price": 0.0,
           "item_price": 118.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1121,9 +1121,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46516383704",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM L Shaped Computer Desk with 3 Drawers, 163 x 39 cm Corner Desk, Thick Tabletop, Office Table, White Wood Effect",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-t-db39a2a9.html"
@@ -1137,7 +1137,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 16,
       "comparison_price": 49.99,
@@ -1153,7 +1153,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -1165,7 +1165,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1174,9 +1174,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
       "stock_checked_at": "2026-11-07T10:18:48Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
@@ -1190,7 +1190,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 115.07,
@@ -1206,7 +1206,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -1218,7 +1218,7 @@
           "delivery_price": 0.0,
           "item_price": 95.89,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": null,
@@ -1227,7 +1227,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1236,7 +1236,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1245,9 +1245,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "stock_checked_at": "2026-11-07T05:47:03Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -1261,7 +1261,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3360374000004",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.99,
@@ -1277,7 +1277,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-FlowerBomb-Eau-de-Parfum-30ml-Spray-s15885/",
@@ -1289,7 +1289,7 @@
           "delivery_price": 2.95,
           "item_price": 52.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1298,7 +1298,7 @@
           "delivery_price": 3.95,
           "item_price": 52.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1307,9 +1307,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "25164473975",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf FlowerBomb Eau de Parfum 30ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-eau-de-parfum-30ml-spray-db3860cf.html"
@@ -1323,7 +1323,7 @@
       "brand": "Rasasi",
       "canonical_key": "GTIN:0614514339206",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.74,
@@ -1339,7 +1339,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Rasasi-Hawas-For-Her-%C3%89clat-Eau-de-Parfum-100ml-Spray-s166275/",
@@ -1351,7 +1351,7 @@
           "delivery_price": 2.95,
           "item_price": 28.59,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1360,7 +1360,7 @@
           "delivery_price": 3.95,
           "item_price": 28.89,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1369,9 +1369,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43387396640",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Rasasi Hawas For Her Éclat Eau de Parfum 100ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/rasasi-hawas-for-her-eclat-eau-de-parfum-100ml-spray-db3466d8.html"
@@ -1385,7 +1385,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3605521515346",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 65.09,
@@ -1401,7 +1401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Spicebomb-Eau-de-Toilette-90ml-Spray-s11899/",
@@ -1413,7 +1413,7 @@
           "delivery_price": 2.95,
           "item_price": 65.09,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1422,7 +1422,7 @@
           "delivery_price": 3.95,
           "item_price": 65.09,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1431,9 +1431,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "3389521391",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf Spicebomb Eau de Toilette 90ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-spicebomb-eau-de-toilette-90ml-spray-db3b99b5.html"
@@ -1447,7 +1447,7 @@
       "brand": "Issey Miyake",
       "canonical_key": "GTIN:3423470300154",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.99,
@@ -1463,7 +1463,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Issey-Miyake-L%27Eau-d%27Issey-Eau-de-Toilette-50ml-Spray-s235/",
@@ -1475,7 +1475,7 @@
           "delivery_price": 2.95,
           "item_price": 32.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1484,7 +1484,7 @@
           "delivery_price": 3.95,
           "item_price": 32.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1493,9 +1493,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "3389499991",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Issey Miyake L'Eau d'Issey Eau de Toilette 50ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/issey-miyake-l-eau-d-issey-eau-de-toilette-50ml-spray-db37e0d2.html"
@@ -1509,7 +1509,7 @@
       "brand": "Swiss Arabian",
       "canonical_key": "GTIN:6295124042836",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 37.49,
@@ -1525,7 +1525,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Swiss-Arabian-Shaghaf-Oud-Ahmar-Eau-de-Parfum-75ml-Spray-s163578/",
@@ -1537,7 +1537,7 @@
           "delivery_price": 3.95,
           "item_price": 36.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1546,7 +1546,7 @@
           "delivery_price": 2.95,
           "item_price": 37.49,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1555,7 +1555,7 @@
           "delivery_price": 0.0,
           "item_price": 39.99,
           "retailer": "Opulensi Perfumes Lattafa Sapil Anfar",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1564,9 +1564,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42159923028",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Swiss Arabian Shaghaf Oud Ahmar Eau de Parfum 75ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/swiss-arabian-shaghaf-oud-ahmar-eau-de-parfum-75ml-spray-db314ea2.html"
@@ -1580,7 +1580,7 @@
       "brand": "Viktor & Rolf",
       "canonical_key": "GTIN:3614272872363",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 46.69,
@@ -1596,7 +1596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Viktor-Rolf-Flowerbomb-Dew-Eau-de-Parfum-30ml-Spray-s88210/",
@@ -1608,7 +1608,7 @@
           "delivery_price": 2.95,
           "item_price": 46.69,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1617,7 +1617,7 @@
           "delivery_price": 3.95,
           "item_price": 46.69,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1626,9 +1626,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36396819640",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Viktor & Rolf Flowerbomb Dew Eau de Parfum 30ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/viktor-rolf-flowerbomb-dew-eau-de-parfum-30ml-spray-db311f06.html"
@@ -1642,7 +1642,7 @@
       "brand": "Marc Jacobs",
       "canonical_key": "GTIN:3607349764241",
       "category": "Other",
-      "checked_at": "2026-11-07T16:38:52Z",
+      "checked_at": "2026-11-07T17:04:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 56.99,
@@ -1658,7 +1658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-07T16:38:52Z",
+      "market_verified_at": "2026-11-07T17:04:33Z",
       "mpn": null,
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.perfume-click.co.uk/Marc-Jacobs-Daisy-Dream-Eau-de-Toilette-100ml-Spray-s19166/",
@@ -1670,7 +1670,7 @@
           "delivery_price": 2.95,
           "item_price": 56.99,
           "retailer": "Bazta UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         },
         {
           "availability": 1,
@@ -1679,7 +1679,7 @@
           "delivery_price": 3.95,
           "item_price": 56.99,
           "retailer": "Plusshop UK",
-          "valid_until": "2026-11-07T17:08:52Z"
+          "valid_until": "2026-11-07T17:34:33Z"
         }
       ],
       "publishable": true,
@@ -1688,9 +1688,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "35859359879",
       "stock_checked_at": "2026-11-07T14:53:57Z",
-      "stock_valid_until": "2026-11-07T17:08:52Z",
+      "stock_valid_until": "2026-11-07T17:34:33Z",
       "title": "Marc Jacobs Daisy Dream Eau de Toilette 100ml Spray",
-      "valid_until": "2026-11-07T17:08:52Z",
+      "valid_until": "2026-11-07T17:34:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/marc-jacobs-daisy-dream-eau-de-toilette-100ml-spray-db3b52f7.html"
