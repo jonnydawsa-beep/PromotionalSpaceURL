@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T21:29:22Z",
+    "generated_at": "2026-11-09T21:39:09Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "1a3687e5f41b5cc51c28573e6ca3f770e903adb526d984437365736e9415b2a8",
-    "deal_count": 29,
+    "revision": "a5a4dfaefbc27dc1172dbc431baa747d3c91eca5c9a0b303191d13541c407020",
+    "deal_count": 27,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -22,7 +22,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 106.6,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 106.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": null,
           "item_price": 106.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -68,9 +68,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41981287584",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "D-Link Mobile Wi-Fi 4G Hotspot 150 Mbps",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps-db34288d.html"
@@ -84,7 +84,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5056399140624",
       "category": "Gaming",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 116.99,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "836-309V01",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-gaming-computer-desk-with-cup-holder-headphone-hook-gamepad-holder-home-office~836-309V01.html?utm_source=awin&utm_medium=affiliate",
@@ -112,7 +112,7 @@
           "delivery_price": 0.0,
           "item_price": 101.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -121,83 +121,12 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46290486060",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Gaming Desk, Ergonomic Home Office Desk, Gamer Workstation Racing Table, w/ Headphone Hook, Cup Holder, 142 x 66 x 96cm, Black & Red   Aosom UK",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-gaming-desk-ergonomic-home-office-desk-gamer-workstation-racing-db3ce070.html"
-    },
-    {
-      "advertiser_id": "6561",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=6561&awinaffid=3115871&campaign=&clickref=DB3-db3-e760ddaa3402136329920d815603&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.perfume-click.co.uk%2FParis-Corner-Marshmallow-Blush-Eau-De-Parfum-100ml-Spray-s167772%2F&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Paris Corner",
-      "canonical_key": "GTIN:6293365212230",
-      "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 39.99,
-      "current_price": 23.7,
-      "deal_id": "db3-e760ddaa3402136329920d815603",
-      "delivery_price": 2.95,
-      "gtin": "6293365212230",
-      "image_url": "https://images2.productserve.com/noimage.gif",
-      "item_price": 23.7,
-      "market_best_price": 23.7,
-      "market_best_retailer": "Perfume Click",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:16:03Z",
-      "mpn": null,
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.perfume-click.co.uk/Paris-Corner-Marshmallow-Blush-Eau-De-Parfum-100ml-Spray-s167772/",
-      "public_comparisons": [
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-09 12:22:00",
-          "delivery_price": 2.95,
-          "item_price": 26.19,
-          "retailer": "Bazta UK",
-          "valid_until": "2026-11-09T21:46:03Z"
-        },
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-09 13:02:30",
-          "delivery_price": 0.0,
-          "item_price": 39.99,
-          "retailer": "Opulensi Perfumes Lattafa Sapil Anfar",
-          "valid_until": "2026-11-09T21:46:03Z"
-        },
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-09 18:18:07",
-          "delivery_price": 7.95,
-          "item_price": 42.65,
-          "retailer": "Plusshop UK",
-          "valid_until": "2026-11-09T21:46:03Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Perfume Click",
-      "saving_percent": 40.74,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "46321222952",
-      "stock_checked_at": "2026-11-09T20:27:51Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
-      "title": "Paris Corner Marshmallow Blush Eau De Parfum 100ml Spray",
-      "valid_until": "2026-11-09T21:46:03Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/paris-corner-marshmallow-blush-eau-de-parfum-100ml-spray-db3e760d.html"
     },
     {
       "advertiser_id": "61655",
@@ -208,7 +137,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877838",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 45.24,
@@ -224,7 +153,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "DELL-CC5425C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c?variant=55307672551806",
@@ -236,7 +165,7 @@
           "delivery_price": 0.0,
           "item_price": 45.24,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -245,7 +174,7 @@
           "delivery_price": null,
           "item_price": 45.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -254,9 +183,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271571",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html"
@@ -270,7 +199,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877142",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 39.79,
@@ -286,7 +215,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "DELL-SA224-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-sa224-interface-cardsadapter-rj-45-1?variant=55307673764222",
@@ -298,7 +227,7 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -307,7 +236,7 @@
           "delivery_price": null,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -316,9 +245,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271621",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DELL SA224 interface cards/adapter RJ-45",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-sa224-interface-cards-adapter-rj-45-db3091b5.html"
@@ -332,7 +261,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5024442896606",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 72.93,
@@ -348,7 +277,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "ASF220WEU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-privacy-screen-22w-1610-1?variant=55307009753470",
@@ -360,7 +289,7 @@
           "delivery_price": 0.0,
           "item_price": 72.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -369,7 +298,7 @@
           "delivery_price": null,
           "item_price": 72.93,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -378,9 +307,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269412",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Targus Privacy Screen 22\"W (16:10)",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-privacy-screen-22-w-16-10-db3c22d5.html"
@@ -394,7 +323,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:735858547291",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 39.79,
@@ -410,7 +339,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "BE200.NGWG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits?variant=55308927861118",
@@ -422,7 +351,7 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -431,7 +360,7 @@
           "delivery_price": null,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -440,9 +369,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285755",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html"
@@ -456,7 +385,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184725467",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 102.53,
@@ -472,7 +401,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "DELL-DNHTM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-rugged-18-premium-backpack?variant=55307410833790",
@@ -484,7 +413,7 @@
           "delivery_price": 0.0,
           "item_price": 102.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -493,7 +422,7 @@
           "delivery_price": null,
           "item_price": 102.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -502,9 +431,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271319",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DELL Pro Rugged 18 Premium Backpack",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-rugged-18-premium-backpack-db33105d.html"
@@ -518,7 +447,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:27:36Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 62.39,
@@ -534,7 +463,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:27:36Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -546,7 +475,7 @@
           "delivery_price": 0.0,
           "item_price": 62.39,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:57:36Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -555,7 +484,7 @@
           "delivery_price": null,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:57:36Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -580,7 +509,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 52.87,
@@ -596,7 +525,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -608,7 +537,7 @@
           "delivery_price": 0.0,
           "item_price": 52.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -617,7 +546,7 @@
           "delivery_price": null,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -626,9 +555,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43071993398",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html"
@@ -642,7 +571,7 @@
       "brand": "Nvidia",
       "canonical_key": "GTIN:810152850046",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 960.77,
@@ -658,7 +587,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "900-5G192-2541-000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-rtx-2000-ada-16-gb-gddr6?variant=56130901803390",
@@ -670,7 +599,7 @@
           "delivery_price": 0.0,
           "item_price": 960.77,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -679,7 +608,7 @@
           "delivery_price": null,
           "item_price": 960.77,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -688,9 +617,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075465921",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Nvidia RTX 2000 Ada 16 GB GDDR6",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/nvidia-rtx-2000-ada-16-gb-gddr6-db314a44.html"
@@ -704,7 +633,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029864",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.17,
@@ -720,7 +649,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "TBS92502GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-briefcase-grey?variant=55307222778238",
@@ -732,7 +661,7 @@
           "delivery_price": 0.0,
           "item_price": 37.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -741,7 +670,7 @@
           "delivery_price": null,
           "item_price": 37.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -750,9 +679,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273902",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Briefcase Grey",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-briefcase-grey-db34c239.html"
@@ -766,7 +695,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603353688",
       "category": "Home",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 235.99,
@@ -782,7 +711,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "925-088V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-height-adjustable-linen-executive-desk-chair-grey~28QD5LIH21G00.html?utm_source=awin&utm_medium=affiliate",
@@ -794,7 +723,7 @@
           "delivery_price": 0.0,
           "item_price": 207.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -803,9 +732,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46401853213",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM 250 kg Big and Tall Massage Office Chair with Heat, High Back, Height Adjustable Linen Executive Desk Chair, Grey",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-he-db3d3e3c.html"
@@ -819,7 +748,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603366978",
       "category": "Home",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 12,
       "comparison_price": 218.99,
@@ -835,7 +764,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "921-951V71CW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-reclining-desk-chair-with-footrest-cream-white~28I889MHA3801.html?utm_source=awin&utm_medium=affiliate",
@@ -847,7 +776,7 @@
           "delivery_price": 0.0,
           "item_price": 190.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -856,9 +785,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46456313035",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Office Chair with Massage, Heat, Adjustable Headrest, Leathaire‌ Reclining Desk Chair with Footrest, Cream White",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-re-db3987c0.html"
@@ -872,7 +801,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603355316",
       "category": "Home",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 189.99,
@@ -888,7 +817,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "925-076V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chair-with-adjustable-padded-armrests-and-high-back~28DMB3GO9N000.html?utm_source=awin&utm_medium=affiliate",
@@ -900,7 +829,7 @@
           "delivery_price": 0.0,
           "item_price": 168.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -909,9 +838,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46093159988",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Big and Tall Office Chair, 250 kg Heavy Duty Executive Desk Chair with Adjustable Padded Armrests and High Back, Grey",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chai-db351349.html"
@@ -925,7 +854,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 39.8,
@@ -941,7 +870,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -953,7 +882,7 @@
           "delivery_price": 0.0,
           "item_price": 39.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -962,7 +891,7 @@
           "delivery_price": null,
           "item_price": 39.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -971,9 +900,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
@@ -987,7 +916,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368699",
       "category": "Home",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 179.99,
@@ -1003,7 +932,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "925-065V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-executive-office-chair-height-adjustable-desk-chair-reclining-flip-up-armrest-footrest-grey~28UAFILA22O00.html?utm_source=awin&utm_medium=affiliate",
@@ -1015,7 +944,7 @@
           "delivery_price": 0.0,
           "item_price": 162.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1024,9 +953,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46343714330",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Executive Office Chair Height Adjustable Desk Chair Reclining Flip-up Armrest Footrest, Grey",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-executive-office-chair-height-adjustable-desk-chair-reclining-f-db35cb19.html"
@@ -1040,7 +969,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 19,
       "comparison_price": 640.99,
@@ -1056,7 +985,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -1068,7 +997,7 @@
           "delivery_price": 0.0,
           "item_price": 526.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1077,9 +1006,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
@@ -1093,7 +1022,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.79,
@@ -1109,7 +1038,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -1121,7 +1050,7 @@
           "delivery_price": 0.0,
           "item_price": 54.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1130,7 +1059,7 @@
           "delivery_price": null,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1139,9 +1068,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269400",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DELL 5RGKY",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-5rgky-db383267.html"
@@ -1155,7 +1084,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029741",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 54.84,
@@ -1171,7 +1100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "TBB58702GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-backpack-grey?variant=55307227398526",
@@ -1183,7 +1112,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1192,7 +1121,7 @@
           "delivery_price": null,
           "item_price": 54.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1201,9 +1130,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273943",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-backpack-grey-db32c372.html"
@@ -1217,7 +1146,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368248",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 11,
       "comparison_price": 138.99,
@@ -1233,7 +1162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "925-048V70BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-with-flip-up-armrests-wide-seat-spring-cushion-black~28I882MMHNO01.html?utm_source=awin&utm_medium=affiliate",
@@ -1245,7 +1174,7 @@
           "delivery_price": 0.0,
           "item_price": 121.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1254,9 +1183,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46500935806",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Office Chair, 180kg Heavy Duty PU Leather Computer Desk Chair with Flip-Up Armrests, Wide Seat, Spring Cushion, Black",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-wi-db38e410.html"
@@ -1270,7 +1199,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349216",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:04Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 10,
       "comparison_price": 122.99,
@@ -1286,7 +1215,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:04Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "836-661V80WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-thick-tabletop-office-table-white-wood-effect~28BIH3JD1KG01.html?utm_source=awin&utm_medium=affiliate",
@@ -1298,7 +1227,7 @@
           "delivery_price": 0.0,
           "item_price": 118.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:04Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1307,9 +1236,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46516383704",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:04Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM L Shaped Computer Desk with 3 Drawers, 163 x 39 cm Corner Desk, Thick Tabletop, Office Table, White Wood Effect",
-      "valid_until": "2026-11-09T21:46:04Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-t-db39a2a9.html"
@@ -1323,7 +1252,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 49.99,
@@ -1339,7 +1268,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -1351,7 +1280,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1360,74 +1289,12 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
-    },
-    {
-      "advertiser_id": "6561",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=6561&awinaffid=3115871&campaign=&clickref=DB3-db3-14ea27cbfbf16e8adc85c109acf2&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.perfume-click.co.uk%2FSwiss-Arabian-Shaghaf-Oud-Ahmar-Eau-de-Parfum-75ml-Spray-s163578%2F&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Swiss Arabian",
-      "canonical_key": "GTIN:6295124042836",
-      "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 2,
-      "comparison_price": 38.99,
-      "current_price": 31.55,
-      "deal_id": "db3-14ea27cbfbf16e8adc85c109acf2",
-      "delivery_price": 2.95,
-      "gtin": "6295124042836",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Abgstatic.net%2Fphotos%2F184719_ml.jpg&feedId=12281&k=6c6fb98393880735691d318c1151fdd4afccf1cf",
-      "item_price": 31.55,
-      "market_best_price": 31.55,
-      "market_best_retailer": "Perfume Click",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 3,
-      "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
-      "mpn": null,
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.perfume-click.co.uk/Swiss-Arabian-Shaghaf-Oud-Ahmar-Eau-de-Parfum-75ml-Spray-s163578/",
-      "public_comparisons": [
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-09 12:22:00",
-          "delivery_price": 2.95,
-          "item_price": 37.49,
-          "retailer": "Bazta UK",
-          "valid_until": "2026-11-09T21:46:03Z"
-        },
-        {
-          "availability": 1,
-          "availability_basis": "CONFIRMED_IN_STOCK",
-          "checked_at": "2026-11-09 18:18:07",
-          "delivery_price": 7.95,
-          "item_price": 40.49,
-          "retailer": "Plusshop UK",
-          "valid_until": "2026-11-09T21:46:03Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Perfume Click",
-      "saving_percent": 19.08,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "42159923028",
-      "stock_checked_at": "2026-11-09T20:27:51Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
-      "title": "Swiss Arabian Shaghaf Oud Ahmar Eau de Parfum 75ml Spray",
-      "valid_until": "2026-11-09T21:46:03Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/swiss-arabian-shaghaf-oud-ahmar-eau-de-parfum-75ml-spray-db314ea2.html"
     },
     {
       "advertiser_id": "61655",
@@ -1438,7 +1305,7 @@
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 25.42,
@@ -1454,7 +1321,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -1466,7 +1333,7 @@
           "delivery_price": 0.0,
           "item_price": 25.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1475,7 +1342,7 @@
           "delivery_price": null,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1484,9 +1351,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475267259",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "DJI SDC to DJI Mavic 3 Charge Cable (CP.DY.00000044)",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cp-dy-00000044-db38f3a6.html"
@@ -1500,7 +1367,7 @@
       "brand": "Lexar",
       "canonical_key": "GTIN:843367135325",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 26.17,
@@ -1516,7 +1383,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "LMSSIPL064G-BNANG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card?variant=56014830600574",
@@ -1528,7 +1395,7 @@
           "delivery_price": 0.0,
           "item_price": 26.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1537,7 +1404,7 @@
           "delivery_price": null,
           "item_price": 26.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1546,9 +1413,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42008114749",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Lexar Professional SILVER PLUS microSDXC UHS-I Card",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card-db3c3123.html"
@@ -1562,7 +1429,7 @@
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.42,
@@ -1578,7 +1445,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -1590,7 +1457,7 @@
           "delivery_price": 0.0,
           "item_price": 28.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1599,7 +1466,7 @@
           "delivery_price": null,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1608,9 +1475,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475282506",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Kensington MY430 EQ Rechargeable Mouse",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/kensington-my430-eq-rechargeable-mouse-db383286.html"
@@ -1624,7 +1491,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.42,
@@ -1640,7 +1507,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -1652,7 +1519,7 @@
           "delivery_price": 0.0,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1661,7 +1528,7 @@
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1670,9 +1537,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156516",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Targus SafePort strap Tablet Silicone Black",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"
@@ -1686,7 +1553,7 @@
       "brand": "Seagate",
       "canonical_key": "GTIN:8719706021166",
       "category": "Other",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:39:07Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 247.17,
@@ -1702,7 +1569,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:39:07Z",
       "mpn": "ST2000NM000B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/seagate-enterprise-st2000nm000b-internal-hard-drive-2-tb-7200-rpm-256-mb-35-serial-ata-iii?variant=55308521406846",
@@ -1714,7 +1581,7 @@
           "delivery_price": 0.0,
           "item_price": 247.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         },
         {
           "availability": null,
@@ -1723,7 +1590,7 @@
           "delivery_price": null,
           "item_price": 247.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T22:09:07Z"
         }
       ],
       "publishable": true,
@@ -1732,9 +1599,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266393",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T21:46:03Z",
+      "stock_valid_until": "2026-11-09T22:09:07Z",
       "title": "Seagate Enterprise ST2000NM000B internal hard drive 2 TB 7200 RPM 256 MB 3.5\" Serial ATA III",
-      "valid_until": "2026-11-09T21:46:03Z",
+      "valid_until": "2026-11-09T22:09:07Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/seagate-enterprise-st2000nm000b-internal-hard-drive-2-tb-7200-rpm-256-db3ffd10.html"
