@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-09T17:24:41Z",
+  "generated_at": "2026-11-09T17:28:24Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 1,
+  "active_count": 2,
   "product_count": 882,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -32805,8 +32805,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
       "active": true,
-      "last_live_at": "2026-11-09T17:24:41Z",
-      "last_seen_at": "2026-11-09T17:24:41Z",
+      "last_live_at": "2026-11-09T17:28:24Z",
+      "last_seen_at": "2026-11-09T17:28:24Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -32823,8 +32823,8 @@
         "comparison_count": 19,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T17:24:40Z",
-        "valid_until": "2026-11-09T17:28:20Z",
+        "checked_at": "2026-11-09T17:28:23Z",
+        "valid_until": "2026-11-09T17:58:22Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": null,
         "item_price": 23.99,
@@ -32838,7 +32838,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T17:54:40Z"
+            "valid_until": "2026-11-09T17:58:23Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -32852,20 +32852,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-09T16:58:20.694012+00:00",
-        "stock_valid_until": "2026-11-09T17:28:20Z"
+        "stock_checked_at": "2026-11-09T17:28:22.604482+00:00",
+        "stock_valid_until": "2026-11-09T17:58:22Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T17:24:41Z",
+      "lkg_certified_at": "2026-11-09T17:28:24Z",
       "last_changed_date": "2026-11-09"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
       "slug": "streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513542",
-      "active": false,
-      "last_live_at": "2026-11-09T17:21:11Z",
-      "last_seen_at": "2026-11-09T17:24:41Z",
+      "active": true,
+      "last_live_at": "2026-11-09T17:28:24Z",
+      "last_seen_at": "2026-11-09T17:28:24Z",
       "last_deal": {
         "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
         "publishable": true,
@@ -32882,8 +32882,8 @@
         "comparison_count": 19,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T17:21:10Z",
-        "valid_until": "2026-11-09T17:25:52Z",
+        "checked_at": "2026-11-09T17:28:23Z",
+        "valid_until": "2026-11-09T17:58:22Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
         "delivery_price": null,
         "item_price": 23.99,
@@ -32897,7 +32897,7 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T17:51:10Z"
+            "valid_until": "2026-11-09T17:58:23Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -32911,11 +32911,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-09T16:55:52.835583+00:00",
-        "stock_valid_until": "2026-11-09T17:25:52Z"
+        "stock_checked_at": "2026-11-09T17:28:22.604482+00:00",
+        "stock_valid_until": "2026-11-09T17:58:22Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T17:21:11Z",
+      "lkg_certified_at": "2026-11-09T17:28:24Z",
       "last_changed_date": "2026-11-09"
     },
     "db3-7a8118b86faaa6b9dfac450da837": {
