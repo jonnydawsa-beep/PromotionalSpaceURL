@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T18:52:10Z",
+    "generated_at": "2026-11-09T18:55:51Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "247098474e0eae205dacba7f0859e188aafb117b97289dd6dac02d292b7ceaba",
+    "revision": "a685392285ce5dc663c489d222493596491ac6a5eeda44c07763a35aaf2ca507",
     "deal_count": 9,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:55:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 60.22,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:55:51Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 60.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 53.52,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269403",
-      "stock_checked_at": "2026-11-09T18:28:25.091658+00:00",
-      "stock_valid_until": "2026-11-09T18:58:25Z",
+      "stock_checked_at": "2026-11-09T18:55:50.821311+00:00",
+      "stock_valid_until": "2026-11-09T19:25:50Z",
       "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "valid_until": "2026-11-09T18:58:25Z",
+      "valid_until": "2026-11-09T19:25:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html"
@@ -270,7 +270,7 @@
       "brand": "Satechi",
       "canonical_key": "GTIN:879961008260",
       "category": "Technology",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:55:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.16,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:55:51Z",
       "mpn": "ST-ABTCMM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey?variant=55308630393214",
@@ -298,7 +298,7 @@
           "delivery_price": 0.0,
           "item_price": 26.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 47.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         }
       ],
       "publishable": true,
@@ -315,10 +315,10 @@
       "saving_percent": 38.13,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476145014",
-      "stock_checked_at": "2026-11-09T18:28:25.091658+00:00",
-      "stock_valid_until": "2026-11-09T18:58:25Z",
+      "stock_checked_at": "2026-11-09T18:55:50.821311+00:00",
+      "stock_valid_until": "2026-11-09T19:25:50Z",
       "title": "Satechi M1 Bluetooth Wireless Mouse (Space Grey)",
-      "valid_until": "2026-11-09T18:58:25Z",
+      "valid_until": "2026-11-09T19:25:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey-db3a4b3c.html"
@@ -394,7 +394,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:55:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 2075.22,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:55:51Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 2075.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 2075.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:25:51Z"
         }
       ],
       "publishable": true,
@@ -439,10 +439,10 @@
       "saving_percent": 34.75,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447706",
-      "stock_checked_at": "2026-11-09T18:28:25.091658+00:00",
-      "stock_valid_until": "2026-11-09T18:58:25Z",
+      "stock_checked_at": "2026-11-09T18:55:50.821311+00:00",
+      "stock_valid_until": "2026-11-09T19:25:50Z",
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-09T18:58:25Z",
+      "valid_until": "2026-11-09T19:25:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html"
