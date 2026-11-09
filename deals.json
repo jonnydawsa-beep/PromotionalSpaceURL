@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T21:16:07Z",
+    "generated_at": "2026-11-09T21:29:22Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b08e737b8885d7b30c2fd2c8d81bbb3066912a9d0cccfe26c55b5806de501fcc",
+    "revision": "1a3687e5f41b5cc51c28573e6ca3f770e903adb526d984437365736e9415b2a8",
     "deal_count": 29,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -518,7 +518,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:16:03Z",
+      "checked_at": "2026-11-09T21:27:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 62.39,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:16:03Z",
+      "market_verified_at": "2026-11-09T21:27:36Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -546,7 +546,7 @@
           "delivery_price": 0.0,
           "item_price": 62.39,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T21:57:36Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": null,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:46:03Z"
+          "valid_until": "2026-11-09T21:57:36Z"
         }
       ],
       "publishable": true,
@@ -563,10 +563,10 @@
       "saving_percent": 34.3,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285340",
-      "stock_checked_at": "2026-11-09T21:00:18.365489+00:00",
-      "stock_valid_until": "2026-11-09T21:30:18Z",
+      "stock_checked_at": "2026-11-09T21:18:43.925973+00:00",
+      "stock_valid_until": "2026-11-09T21:48:43Z",
       "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "valid_until": "2026-11-09T21:30:18Z",
+      "valid_until": "2026-11-09T21:48:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html"
