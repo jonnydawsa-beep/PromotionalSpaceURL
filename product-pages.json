@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-09T17:57:29Z",
+  "generated_at": "2026-11-09T18:03:21Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 3,
+  "active_count": 6,
   "product_count": 882,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -933,9 +933,9 @@
       "slug": "targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5051794014471",
-      "active": false,
-      "last_live_at": "2026-11-07T19:40:32Z",
-      "last_seen_at": "2026-11-07T19:46:11Z",
+      "active": true,
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-a0af857d167670e10b8b33f77029",
         "publishable": true,
@@ -947,15 +947,15 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 27.99,
-        "comparison_price": 66.24,
-        "saving_percent": 57.74,
+        "comparison_price": 60.22,
+        "saving_percent": 53.52,
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-07T19:19:02Z",
-        "valid_until": "2026-11-07T19:47:07Z",
+        "checked_at": "2026-11-09T18:03:16Z",
+        "valid_until": "2026-11-09T18:32:27Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
-        "delivery_price": 4.99,
+        "delivery_price": null,
         "item_price": 27.99,
         "gtin": "5051794014471",
         "mpn": "ASF14W9EU",
@@ -963,20 +963,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07T17:58:17Z",
-            "delivery_price": null,
+            "checked_at": "2026-11-07 21:11:43",
+            "delivery_price": 3.0,
             "item_price": 60.22,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-07T19:49:02Z"
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-09T18:33:16Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07 14:03:06",
+            "checked_at": "2026-11-09 13:19:44",
             "delivery_price": 0.0,
-            "item_price": 72.26,
-            "retailer": "GamingKit",
-            "valid_until": "2026-11-07T19:49:02Z"
+            "item_price": 60.22,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-09T18:33:16Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -990,12 +990,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-07T19:17:07.611154+00:00",
-        "stock_valid_until": "2026-11-07T19:47:07Z"
+        "stock_checked_at": "2026-11-09T18:02:27.475812+00:00",
+        "stock_valid_until": "2026-11-09T18:32:27Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-07T19:40:32Z",
-      "last_changed_date": "2026-11-07"
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
+      "last_changed_date": "2026-11-09"
     },
     "db3-91ccf1746a719978b7621f56f3fe": {
       "slug": "epson-workforce-ds-900wn-sheet-fed-scanner-600-x-600-dpi-a4-white-db391ccf.html",
@@ -13942,9 +13942,9 @@
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0889728170161",
-      "active": false,
-      "last_live_at": "2026-11-07T19:36:54Z",
-      "last_seen_at": "2026-11-07T19:40:32Z",
+      "active": true,
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-13b2e52479583026fc51325aebf3",
         "publishable": true,
@@ -13956,15 +13956,15 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 1353.99,
-        "comparison_price": 2272.55,
-        "saving_percent": 40.42,
+        "comparison_price": 2075.22,
+        "saving_percent": 34.75,
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-07T19:19:02Z",
-        "valid_until": "2026-11-07T19:42:07Z",
+        "checked_at": "2026-11-09T18:03:16Z",
+        "valid_until": "2026-11-09T18:32:27Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_4ff1ca3c-3df8-44dc-b6ed-8f9a5fa90465.jpg%3Fv%3D1756134161&feedId=102827&k=42c451ca6f5314702ab3bd21f41c6e487c2aa8bb",
-        "delivery_price": 0.0,
+        "delivery_price": null,
         "item_price": 1353.99,
         "gtin": "0889728170161",
         "mpn": "C9200L-24P-4G-E",
@@ -13972,20 +13972,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07T17:58:17Z",
-            "delivery_price": null,
-            "item_price": 2054.83,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-07T19:49:02Z"
+            "checked_at": "2026-11-07 21:11:43",
+            "delivery_price": 3.0,
+            "item_price": 2075.22,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-09T18:33:16Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07 14:03:06",
+            "checked_at": "2026-11-09 13:19:44",
             "delivery_price": 0.0,
-            "item_price": 2490.26,
-            "retailer": "GamingKit",
-            "valid_until": "2026-11-07T19:49:02Z"
+            "item_price": 2075.22,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-09T18:33:16Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -13999,12 +13999,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-07T19:12:07.164778+00:00",
-        "stock_valid_until": "2026-11-07T19:42:07Z"
+        "stock_checked_at": "2026-11-09T18:02:27.475812+00:00",
+        "stock_valid_until": "2026-11-09T18:32:27Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-07T19:36:54Z",
-      "last_changed_date": "2026-11-07"
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
+      "last_changed_date": "2026-11-09"
     },
     "db3-e3c939d29587bb6ddc4a082b7f0e": {
       "slug": "neomounts-cpu-d025black-cpu-holder-max-20-kg-universal-db3e3c93.html",
@@ -32805,8 +32805,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
       "active": true,
-      "last_live_at": "2026-11-09T17:57:29Z",
-      "last_seen_at": "2026-11-09T17:57:29Z",
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -32823,7 +32823,7 @@
         "comparison_count": 19,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T17:53:49Z",
+        "checked_at": "2026-11-09T18:03:15Z",
         "valid_until": "2026-11-09T18:16:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": null,
@@ -32838,13 +32838,22 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T18:23:49Z"
+            "valid_until": "2026-11-09T18:33:15Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-09 13:19:44",
+            "delivery_price": 0.0,
+            "item_price": 26.07,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-09T18:33:15Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2578d2d1830c0228a4f3ba798676&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-mini-rgb-microphone%3Fvariant%3D57079280894334&platform=pl",
-        "market_merchant_count": 2,
-        "market_executable_merchant_count": 2,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 23.99,
         "market_best_retailer": "Back to the Office",
@@ -32856,7 +32865,7 @@
         "stock_valid_until": "2026-11-09T18:16:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T17:57:29Z",
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
       "last_changed_date": "2026-11-09"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
@@ -32864,8 +32873,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513542",
       "active": true,
-      "last_live_at": "2026-11-09T17:57:29Z",
-      "last_seen_at": "2026-11-09T17:57:29Z",
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
         "publishable": true,
@@ -32882,7 +32891,7 @@
         "comparison_count": 19,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T17:53:49Z",
+        "checked_at": "2026-11-09T18:03:15Z",
         "valid_until": "2026-11-09T18:16:12Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
         "delivery_price": null,
@@ -32897,13 +32906,22 @@
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T18:23:49Z"
+            "valid_until": "2026-11-09T18:33:15Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-09 13:19:44",
+            "delivery_price": 0.0,
+            "item_price": 26.07,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-09T18:33:15Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5c85df3251bc8502eebcfc4bbe00&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-go-black-clip-on-microphone%3Fvariant%3D57079273947518&platform=pl",
-        "market_merchant_count": 2,
-        "market_executable_merchant_count": 2,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 23.99,
         "market_best_retailer": "Back to the Office",
@@ -32915,7 +32933,7 @@
         "stock_valid_until": "2026-11-09T18:16:12Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T17:57:29Z",
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
       "last_changed_date": "2026-11-09"
     },
     "db3-7a8118b86faaa6b9dfac450da837": {
@@ -32923,8 +32941,8 @@
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513528",
       "active": true,
-      "last_live_at": "2026-11-09T17:57:29Z",
-      "last_seen_at": "2026-11-09T17:57:29Z",
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
         "publishable": true,
@@ -32941,7 +32959,7 @@
         "comparison_count": 19,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T17:57:27Z",
+        "checked_at": "2026-11-09T18:03:15Z",
         "valid_until": "2026-11-09T18:27:27Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
         "delivery_price": null,
@@ -32956,13 +32974,22 @@
             "delivery_price": 3.0,
             "item_price": 30.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T18:27:27Z"
+            "valid_until": "2026-11-09T18:33:15Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-09 13:19:44",
+            "delivery_price": 0.0,
+            "item_price": 30.01,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-09T18:33:15Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7a8118b86faaa6b9dfac450da837&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black%3Fvariant%3D57837881590142&platform=pl",
-        "market_merchant_count": 2,
-        "market_executable_merchant_count": 2,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 28.99,
         "market_best_retailer": "Back to the Office",
@@ -32974,7 +33001,7 @@
         "stock_valid_until": "2026-11-09T18:27:27Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T17:57:29Z",
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
       "last_changed_date": "2026-11-09"
     },
     "db3-aacb89771c2c06505b7b68da6dd2": {
@@ -51899,9 +51926,9 @@
       "slug": "satechi-m1-bluetooth-wireless-mouse-space-grey-db3a4b3c.html",
       "first_seen_at": "2026-11-07T18:03:29Z",
       "canonical_key": "GTIN:879961008260",
-      "active": false,
-      "last_live_at": "2026-11-07T19:36:54Z",
-      "last_seen_at": "2026-11-07T19:40:32Z",
+      "active": true,
+      "last_live_at": "2026-11-09T18:03:21Z",
+      "last_seen_at": "2026-11-09T18:03:21Z",
       "last_deal": {
         "deal_id": "db3-a4b3c96689f0022e495c8809e81a",
         "publishable": true,
@@ -51913,15 +51940,15 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 22.99,
-        "comparison_price": 52.16,
-        "saving_percent": 55.92,
+        "comparison_price": 37.16,
+        "saving_percent": 38.13,
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-07T19:36:52Z",
-        "valid_until": "2026-11-07T19:40:02Z",
+        "checked_at": "2026-11-09T18:03:16Z",
+        "valid_until": "2026-11-09T18:32:27Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F6c3f5d67aca7ff03840fe6dec4725e6e.jpg%3Fv%3D1757909542&feedId=102827&k=b6f667b02b5e8cdfdd60ab657fe55199acacff00",
-        "delivery_price": 4.99,
+        "delivery_price": null,
         "item_price": 22.99,
         "gtin": "879961008260",
         "mpn": "ST-ABTCMM",
@@ -51929,20 +51956,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07T17:58:17Z",
-            "delivery_price": null,
-            "item_price": 47.42,
+            "checked_at": "2026-11-09 13:19:44",
+            "delivery_price": 0.0,
+            "item_price": 26.9,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-07T20:06:52Z"
+            "valid_until": "2026-11-09T18:33:16Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07 14:03:06",
-            "delivery_price": 0.0,
-            "item_price": 56.9,
-            "retailer": "GamingKit",
-            "valid_until": "2026-11-07T20:06:52Z"
+            "checked_at": "2026-11-07 21:11:43",
+            "delivery_price": 3.0,
+            "item_price": 47.42,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-09T18:33:16Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/satechi-m1-bluetooth-wireless-mouse-space-grey?variant=55308630393214",
@@ -51956,12 +51983,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-07T19:10:02.606455+00:00",
-        "stock_valid_until": "2026-11-07T19:40:02Z"
+        "stock_checked_at": "2026-11-09T18:02:27.475812+00:00",
+        "stock_valid_until": "2026-11-09T18:32:27Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-07T19:36:54Z",
-      "last_changed_date": "2026-11-07"
+      "lkg_certified_at": "2026-11-09T18:03:21Z",
+      "last_changed_date": "2026-11-09"
     },
     "db3-ecc29cf9a2870aae1b8651f30b19": {
       "slug": "satechi-multi-port-adapter-v2-dock-st-usb-3-2-gen-1-3-1-gen-1-type-c-g-db3ecc29.html",
