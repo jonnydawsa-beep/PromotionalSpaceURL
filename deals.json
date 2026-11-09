@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T18:55:51Z",
+    "generated_at": "2026-11-09T18:59:20Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "a685392285ce5dc663c489d222493596491ac6a5eeda44c07763a35aaf2ca507",
+    "revision": "2f25cc7977914c36b8331be91b6be955256bbf19f3dd206bb533a049386010a5",
     "deal_count": 9,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -208,7 +208,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:59:20Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.7,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:59:20Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         }
       ],
       "publishable": true,
@@ -253,10 +253,10 @@
       "saving_percent": 40.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-09T18:22:23Z",
-      "stock_valid_until": "2026-11-09T19:03:53Z",
+      "stock_checked_at": "2026-11-09T18:52:06Z",
+      "stock_valid_until": "2026-11-09T19:29:20Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-09T19:03:53Z",
+      "valid_until": "2026-11-09T19:29:20Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -328,11 +328,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7a8118b86faaa6b9dfac450da837&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black%3Fvariant%3D57837881590142&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:59:20Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 19,
       "comparison_price": 44.99,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:59:20Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 30.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         }
       ],
       "publishable": true,
@@ -377,10 +377,10 @@
       "saving_percent": 35.56,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45618341392",
-      "stock_checked_at": "2026-11-09T18:22:23Z",
-      "stock_valid_until": "2026-11-09T19:03:53Z",
+      "stock_checked_at": "2026-11-09T18:55:50.821311+00:00",
+      "stock_valid_until": "2026-11-09T19:25:50Z",
       "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "valid_until": "2026-11-09T19:03:53Z",
+      "valid_until": "2026-11-09T19:25:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
@@ -456,7 +456,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:c9300nm4g",
       "category": "Technology",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:59:20Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 19,
       "comparison_price": 432.99,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:59:20Z",
       "mpn": "C9300-NM-4G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-1?variant=55468307775870",
@@ -484,7 +484,7 @@
           "delivery_price": 0.0,
           "item_price": 350.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         }
       ],
       "publishable": true,
@@ -492,10 +492,10 @@
       "saving_percent": 23.56,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450565",
-      "stock_checked_at": "2026-11-09T18:22:23Z",
-      "stock_valid_until": "2026-11-09T19:03:53Z",
+      "stock_checked_at": "2026-11-09T18:52:06Z",
+      "stock_valid_until": "2026-11-09T19:29:20Z",
       "title": "Cisco C9300-NM-4G network switch module Gigabit Ethernet",
-      "valid_until": "2026-11-09T19:03:53Z",
+      "valid_until": "2026-11-09T19:29:20Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-c9300-nm-4g-network-switch-module-gigabit-ethernet-db3033c4.html"
@@ -509,7 +509,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-09T18:33:53Z",
+      "checked_at": "2026-11-09T18:59:20Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 19,
       "comparison_price": 640.99,
@@ -525,7 +525,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T18:33:53Z",
+      "market_verified_at": "2026-11-09T18:59:20Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -537,7 +537,7 @@
           "delivery_price": 0.0,
           "item_price": 526.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:03:53Z"
+          "valid_until": "2026-11-09T19:29:20Z"
         }
       ],
       "publishable": true,
@@ -545,10 +545,10 @@
       "saving_percent": 23.56,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
-      "stock_checked_at": "2026-11-09T18:22:23Z",
-      "stock_valid_until": "2026-11-09T19:03:53Z",
+      "stock_checked_at": "2026-11-09T18:52:06Z",
+      "stock_valid_until": "2026-11-09T19:29:20Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-09T19:03:53Z",
+      "valid_until": "2026-11-09T19:29:20Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
