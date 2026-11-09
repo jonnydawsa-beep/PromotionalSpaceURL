@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T22:11:16Z",
+    "generated_at": "2026-11-09T22:25:25Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "ffa52d381219de064d069095d56c8ef4121635cc3458bee3b4fd2b0ff8ee3602",
+    "revision": "7f3979790623836e90caf4d2274532c702fc9f2136607a9784065b2c1cb1d6e9",
     "deal_count": 39,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 106.6,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -50,16 +50,16 @@
           "delivery_price": 0.0,
           "item_price": 106.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 106.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 127.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -77,9 +77,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41981287584",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "D-Link Mobile Wi-Fi 4G Hotspot 150 Mbps",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps-db34288d.html"
@@ -93,7 +93,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5056399140624",
       "category": "Gaming",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 116.99,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "836-309V01",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-gaming-computer-desk-with-cup-holder-headphone-hook-gamepad-holder-home-office~836-309V01.html?utm_source=awin&utm_medium=affiliate",
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 101.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -130,9 +130,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46290486060",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Gaming Desk, Ergonomic Home Office Desk, Gamer Workstation Racing Table, w/ Headphone Hook, Cup Holder, 142 x 66 x 96cm, Black & Red   Aosom UK",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-gaming-desk-ergonomic-home-office-desk-gamer-workstation-racing-db3ce070.html"
@@ -146,7 +146,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170178",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 3497.18,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C9200L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -174,7 +174,7 @@
           "delivery_price": 0.0,
           "item_price": 3179.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 3815.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -192,9 +192,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447705",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Catalyst 9200L Managed L3 10G Ethernet (100/1000/10000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html"
@@ -208,7 +208,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 6030.03,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -236,7 +236,7 @@
           "delivery_price": 0.0,
           "item_price": 5481.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 6578.22,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -254,9 +254,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447716",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html"
@@ -270,7 +270,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0887037480414",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 41.37,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "0B47069",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -298,7 +298,7 @@
           "delivery_price": null,
           "item_price": 37.61,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 45.13,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -316,9 +316,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475275850",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Lenovo HDMI / VGA 0.2 m Black",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-hdmi-vga-0-2-m-black-db3d90e4.html"
@@ -332,7 +332,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877838",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.24,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DELL-CC5425C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c?variant=55307672551806",
@@ -360,16 +360,16 @@
           "delivery_price": 0.0,
           "item_price": 45.24,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 45.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 54.29,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -387,83 +387,12 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271571",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html"
-    },
-    {
-      "advertiser_id": "61655",
-      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
-      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-091b5a08c026cf9887facf4e0be4&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-sa224-interface-cardsadapter-rj-45-1%3Fvariant%3D55307673764222&platform=pl",
-      "availability": 1,
-      "availability_basis": "FEED",
-      "brand": "Dell",
-      "canonical_key": "GTIN:5397184877142",
-      "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
-      "comparison_baseline_basis": "ITEM_PRICE",
-      "comparison_count": 3,
-      "comparison_price": 39.79,
-      "current_price": 23.99,
-      "deal_id": "db3-091b5a08c026cf9887facf4e0be4",
-      "delivery_price": 4.99,
-      "gtin": "5397184877142",
-      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fb087091062a05e3f541c5558add5e31742ad03b81d76a9020db10fd20187f3e8.jpg%3Fv%3D1790747686&feedId=102827&k=14d2ae39ee89afc4040619ebf9dab2cbcee51869",
-      "item_price": 23.99,
-      "market_best_price": 23.99,
-      "market_best_retailer": "Back to the Office",
-      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
-      "market_coverage_only_merchant_count": 0,
-      "market_executable_merchant_count": 4,
-      "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
-      "mpn": "DELL-SA224-BK",
-      "price_basis": "ITEM_PRICE",
-      "product_url": "https://www.backtotheoffice.co.uk/products/dell-sa224-interface-cardsadapter-rj-45-1?variant=55307673764222",
-      "public_comparisons": [
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09 21:06:21",
-          "delivery_price": 0.0,
-          "item_price": 30.4,
-          "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09 13:19:44",
-          "delivery_price": 0.0,
-          "item_price": 39.79,
-          "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
-        },
-        {
-          "availability": null,
-          "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
-          "delivery_price": null,
-          "item_price": 39.79,
-          "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
-        }
-      ],
-      "publishable": true,
-      "retailer": "Back to the Office",
-      "saving_percent": 39.71,
-      "signal_type": "CROSS_MERCHANT_EXACT",
-      "source_item_id": "41475271621",
-      "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
-      "title": "DELL SA224 interface cards/adapter RJ-45",
-      "valid_until": "2026-11-09T22:28:20Z",
-      "verification_policy": "VERIFICATION_V3_0_5",
-      "verification_version": "3.5.2",
-      "deal_page_url": "https://dealburrow.co.uk/products/dell-sa224-interface-cards-adapter-rj-45-db3091b5.html"
     },
     {
       "advertiser_id": "61655",
@@ -474,7 +403,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5024442896606",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 72.93,
@@ -490,7 +419,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "ASF220WEU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-privacy-screen-22w-1610-1?variant=55307009753470",
@@ -502,16 +431,16 @@
           "delivery_price": 0.0,
           "item_price": 72.93,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 72.93,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -520,7 +449,7 @@
           "delivery_price": 0.0,
           "item_price": 87.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -529,9 +458,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269412",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Targus Privacy Screen 22\"W (16:10)",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-privacy-screen-22-w-16-10-db3c22d5.html"
@@ -545,7 +474,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:735858547291",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.79,
@@ -561,7 +490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "BE200.NGWG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits?variant=55308927861118",
@@ -573,16 +502,16 @@
           "delivery_price": 0.0,
           "item_price": 39.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -591,7 +520,7 @@
           "delivery_price": 0.0,
           "item_price": 47.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -600,9 +529,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285755",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html"
@@ -612,11 +541,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f6704b37993501d823a0af024d56&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fepson-a4-archival-matte-photo-paper-189gsm-50-sheets%3Fvariant%3D55307060314494&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -632,7 +561,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -644,7 +573,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -653,7 +582,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -661,10 +590,10 @@
       "saving_percent": 36.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270107",
-      "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_checked_at": "2026-11-09T21:58:33.301957+00:00",
+      "stock_valid_until": "2026-11-09T22:28:33Z",
       "title": "Epson A4 Archival Matte Photo Paper 189gsm, 50 sheets",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:28:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html"
@@ -678,7 +607,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184725467",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 102.53,
@@ -694,7 +623,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DELL-DNHTM",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-rugged-18-premium-backpack?variant=55307410833790",
@@ -706,16 +635,16 @@
           "delivery_price": 0.0,
           "item_price": 102.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 102.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -724,7 +653,7 @@
           "delivery_price": 0.0,
           "item_price": 123.04,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -733,9 +662,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271319",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "DELL Pro Rugged 18 Premium Backpack",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-rugged-18-premium-backpack-db33105d.html"
@@ -749,7 +678,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0882780349551",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.89,
@@ -765,7 +694,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "Q5456A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-advanced-photo-paper-glossy-250-gm2-a4-210-x-297-mm-25-sheets?variant=55308490146174",
@@ -777,7 +706,7 @@
           "delivery_price": 0.0,
           "item_price": 31.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -786,7 +715,7 @@
           "delivery_price": 0.0,
           "item_price": 38.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -795,9 +724,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476143511",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HP Advanced Photo Paper, Glossy, 250 g/m2, A4 (210 x 297 mm), 25 sheets",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-advanced-photo-paper-glossy-250-g-m2-a4-210-x-297-mm-25-sheets-db33a06b.html"
@@ -811,7 +740,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 52.87,
@@ -827,7 +756,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -839,16 +768,16 @@
           "delivery_price": 0.0,
           "item_price": 52.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -857,7 +786,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -866,9 +795,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43071993398",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html"
@@ -882,7 +811,7 @@
       "brand": "Nvidia",
       "canonical_key": "GTIN:810152850046",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 960.77,
@@ -898,7 +827,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "900-5G192-2541-000",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-rtx-2000-ada-16-gb-gddr6?variant=56130901803390",
@@ -910,16 +839,16 @@
           "delivery_price": 0.0,
           "item_price": 960.77,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 960.77,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -928,7 +857,7 @@
           "delivery_price": 0.0,
           "item_price": 1152.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -937,9 +866,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075465921",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Nvidia RTX 2000 Ada 16 GB GDDR6",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/nvidia-rtx-2000-ada-16-gb-gddr6-db314a44.html"
@@ -953,7 +882,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1580.48,
@@ -969,7 +898,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -981,7 +910,7 @@
           "delivery_price": 0.0,
           "item_price": 1436.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -990,7 +919,7 @@
           "delivery_price": 0.0,
           "item_price": 1724.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -999,9 +928,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447697",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html"
@@ -1015,7 +944,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029864",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 37.17,
@@ -1031,7 +960,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "TBS92502GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-briefcase-grey?variant=55307222778238",
@@ -1043,16 +972,16 @@
           "delivery_price": 0.0,
           "item_price": 37.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 37.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1061,7 +990,7 @@
           "delivery_price": 0.0,
           "item_price": 44.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1070,9 +999,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273902",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Briefcase Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-briefcase-grey-db34c239.html"
@@ -1086,7 +1015,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603353688",
       "category": "Home",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 235.99,
@@ -1102,7 +1031,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "925-088V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-height-adjustable-linen-executive-desk-chair-grey~28QD5LIH21G00.html?utm_source=awin&utm_medium=affiliate",
@@ -1114,7 +1043,7 @@
           "delivery_price": 0.0,
           "item_price": 207.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1123,12 +1052,74 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46401853213",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM 250 kg Big and Tall Massage Office Chair with Heat, High Back, Height Adjustable Linen Executive Desk Chair, Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-250-kg-big-and-tall-massage-office-chair-with-heat-high-back-he-db3d3e3c.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-091b5a08c026cf9887facf4e0be4&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-sa224-interface-cardsadapter-rj-45-1%3Fvariant%3D55307673764222&platform=pl",
+      "availability": 1,
+      "availability_basis": "FEED",
+      "brand": "Dell",
+      "canonical_key": "GTIN:5397184877142",
+      "category": "Other",
+      "checked_at": "2026-11-09T22:23:40Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 2,
+      "comparison_price": 35.09,
+      "current_price": 23.99,
+      "deal_id": "db3-091b5a08c026cf9887facf4e0be4",
+      "delivery_price": 4.99,
+      "gtin": "5397184877142",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fb087091062a05e3f541c5558add5e31742ad03b81d76a9020db10fd20187f3e8.jpg%3Fv%3D1790747686&feedId=102827&k=14d2ae39ee89afc4040619ebf9dab2cbcee51869",
+      "item_price": 23.99,
+      "market_best_price": 23.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-09T22:23:40Z",
+      "mpn": "DELL-SA224-BK",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/dell-sa224-interface-cardsadapter-rj-45-1?variant=55307673764222",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-09 21:06:21",
+          "delivery_price": 0.0,
+          "item_price": 30.4,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-09T22:53:40Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-09 13:19:44",
+          "delivery_price": 0.0,
+          "item_price": 39.79,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-09T22:53:40Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 31.64,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "41475271621",
+      "stock_checked_at": "2026-11-09T18:52:06Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
+      "title": "DELL SA224 interface cards/adapter RJ-45",
+      "valid_until": "2026-11-09T22:53:40Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/dell-sa224-interface-cards-adapter-rj-45-db3091b5.html"
     },
     {
       "advertiser_id": "17151",
@@ -1139,7 +1130,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603366978",
       "category": "Home",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 12,
       "comparison_price": 218.99,
@@ -1155,7 +1146,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "921-951V71CW",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-reclining-desk-chair-with-footrest-cream-white~28I889MHA3801.html?utm_source=awin&utm_medium=affiliate",
@@ -1167,7 +1158,7 @@
           "delivery_price": 0.0,
           "item_price": 190.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1176,9 +1167,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46456313035",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Office Chair with Massage, Heat, Adjustable Headrest, Leathaire‌ Reclining Desk Chair with Footrest, Cream White",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-with-massage-heat-adjustable-headrest-leathaire-re-db3987c0.html"
@@ -1192,7 +1183,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8454.58,
@@ -1208,7 +1199,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -1220,7 +1211,7 @@
           "delivery_price": 0.0,
           "item_price": 7685.98,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1229,7 +1220,7 @@
           "delivery_price": 0.0,
           "item_price": 9223.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1238,9 +1229,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447741",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html"
@@ -1254,7 +1245,7 @@
       "brand": "Verbatim",
       "canonical_key": "BRANDMPN:verbatim:43548",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 33.59,
@@ -1270,7 +1261,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "43548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/verbatim-dvd-r-matt-silver-47-gb-50-pcs?variant=55308618629502",
@@ -1282,7 +1273,7 @@
           "delivery_price": 0.0,
           "item_price": 30.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1291,7 +1282,7 @@
           "delivery_price": 0.0,
           "item_price": 36.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1300,9 +1291,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266733",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Verbatim DVD-R Matt Silver 4.7 GB 50 pc(s)",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/verbatim-dvd-r-matt-silver-4-7-gb-50-pc-s-db309c7e.html"
@@ -1316,7 +1307,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8454.58,
@@ -1332,7 +1323,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -1344,7 +1335,7 @@
           "delivery_price": 0.0,
           "item_price": 7685.98,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1353,7 +1344,7 @@
           "delivery_price": 0.0,
           "item_price": 9223.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1362,9 +1353,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447727",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html"
@@ -1378,7 +1369,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603355316",
       "category": "Home",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 189.99,
@@ -1394,7 +1385,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "925-076V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chair-with-adjustable-padded-armrests-and-high-back~28DMB3GO9N000.html?utm_source=awin&utm_medium=affiliate",
@@ -1406,7 +1397,7 @@
           "delivery_price": 0.0,
           "item_price": 168.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1415,9 +1406,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46093159988",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Big and Tall Office Chair, 250 kg Heavy Duty Executive Desk Chair with Adjustable Padded Armrests and High Back, Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-big-and-tall-office-chair-250-kg-heavy-duty-executive-desk-chai-db351349.html"
@@ -1431,7 +1422,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030854900",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -1447,7 +1438,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DP2DVIMM3BS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -1459,7 +1450,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1468,7 +1459,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1477,9 +1468,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278230",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "StarTech.com 3ft (1m) DisplayPort to DVI Cable - 1080p Video - Active DisplayPort to DVI Adapter Cable - DisplayPort to DVI-D Cable Converter Single Link - DP 1.2 to DVI Monitor Cable",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html"
@@ -1493,7 +1484,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.8,
@@ -1509,7 +1500,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -1521,16 +1512,16 @@
           "delivery_price": 0.0,
           "item_price": 39.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 39.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1539,7 +1530,7 @@
           "delivery_price": 0.0,
           "item_price": 47.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1548,9 +1539,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
@@ -1564,7 +1555,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368699",
       "category": "Home",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 179.99,
@@ -1580,7 +1571,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "925-065V70GY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-executive-office-chair-height-adjustable-desk-chair-reclining-flip-up-armrest-footrest-grey~28UAFILA22O00.html?utm_source=awin&utm_medium=affiliate",
@@ -1592,7 +1583,7 @@
           "delivery_price": 0.0,
           "item_price": 162.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1601,9 +1592,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46343714330",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Executive Office Chair Height Adjustable Desk Chair Reclining Flip-up Armrest Footrest, Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-executive-office-chair-height-adjustable-desk-chair-reclining-f-db35cb19.html"
@@ -1617,7 +1608,7 @@
       "brand": "Cisco",
       "canonical_key": "BRANDMPN:cisco:csmictablej",
       "category": "Home",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 19,
       "comparison_price": 640.99,
@@ -1633,7 +1624,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "CS-MIC-TABLE-J",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-table-microphone?variant=55468310692222",
@@ -1645,7 +1636,7 @@
           "delivery_price": 0.0,
           "item_price": 526.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1654,7 +1645,7 @@
           "delivery_price": 0.0,
           "item_price": 632.22,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1663,9 +1654,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "43075450646",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Cisco Table Microphone",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-table-microphone-db3429ba.html"
@@ -1679,7 +1670,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.79,
@@ -1695,7 +1686,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -1707,16 +1698,16 @@
           "delivery_price": 0.0,
           "item_price": 54.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1725,7 +1716,7 @@
           "delivery_price": 0.0,
           "item_price": 65.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1734,9 +1725,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269400",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "DELL 5RGKY",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-5rgky-db383267.html"
@@ -1750,7 +1741,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794029741",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.84,
@@ -1766,7 +1757,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "TBB58702GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-cypress-ecosmart-396-cm-156-backpack-grey?variant=55307227398526",
@@ -1778,16 +1769,16 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 54.84,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -1796,7 +1787,7 @@
           "delivery_price": 0.0,
           "item_price": 65.81,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1805,9 +1796,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475273943",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Targus Cypress EcoSmart 39.6 cm (15.6\") Backpack Grey",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-cypress-ecosmart-39-6-cm-15-6-backpack-grey-db32c372.html"
@@ -1821,7 +1812,7 @@
       "brand": "Makita",
       "canonical_key": "GTIN:088381806640",
       "category": "DIY",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.03,
@@ -1837,7 +1828,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "DJR186Z",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.tooled-up.com/makita-djr186-18v-lxt-cordless-reciprocating-saw/prod/290980/?varId=290981&Referrer=affwin",
@@ -1849,7 +1840,7 @@
           "delivery_price": 0.0,
           "item_price": 115.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": 1,
@@ -1858,7 +1849,7 @@
           "delivery_price": 0.0,
           "item_price": 120.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1867,9 +1858,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "36655696489",
       "stock_checked_at": "2026-11-09T19:21:52Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Makita DJR186 18v LXT Cordless Reciprocating Saw",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/makita-djr186-18v-lxt-cordless-reciprocating-saw-db386c3c.html"
@@ -1883,7 +1874,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603368248",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 11,
       "comparison_price": 138.99,
@@ -1899,7 +1890,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "925-048V70BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-with-flip-up-armrests-wide-seat-spring-cushion-black~28I882MMHNO01.html?utm_source=awin&utm_medium=affiliate",
@@ -1911,7 +1902,7 @@
           "delivery_price": 0.0,
           "item_price": 121.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1920,9 +1911,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46500935806",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Office Chair, 180kg Heavy Duty PU Leather Computer Desk Chair with Flip-Up Armrests, Wide Seat, Spring Cushion, Black",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-wi-db38e410.html"
@@ -1936,7 +1927,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603349216",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 10,
       "comparison_price": 122.99,
@@ -1952,7 +1943,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "836-661V80WT",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-thick-tabletop-office-table-white-wood-effect~28BIH3JD1KG01.html?utm_source=awin&utm_medium=affiliate",
@@ -1964,7 +1955,7 @@
           "delivery_price": 0.0,
           "item_price": 118.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -1973,9 +1964,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "46516383704",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM L Shaped Computer Desk with 3 Drawers, 163 x 39 cm Corner Desk, Thick Tabletop, Office Table, White Wood Effect",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-l-shaped-computer-desk-with-3-drawers-163-x-39-cm-corner-desk-t-db39a2a9.html"
@@ -1989,7 +1980,7 @@
       "brand": "HOMCOM",
       "canonical_key": "GTIN:5063603748835",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 18,
       "comparison_price": 49.99,
@@ -2005,7 +1996,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 2,
       "market_merchant_count": 2,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "836-580V00ND",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.aosom.co.uk/item/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-with-storage-shelf-for-home-office-2-tier-study~1RKS053KHT800.html?utm_source=awin&utm_medium=affiliate",
@@ -2017,7 +2008,7 @@
           "delivery_price": 0.0,
           "item_price": 63.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2026,9 +2017,9 @@
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "40071866510",
       "stock_checked_at": "2026-11-09T20:59:43Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "HOMCOM Compact Folding Desk for Small Spaces, Foldable Computer Desk with Storage Shelf, Ideal for Home Office, Maple Wood-effect   Aosom UK",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/homcom-compact-folding-desk-for-small-spaces-foldable-computer-desk-wi-db383b9b.html"
@@ -2042,7 +2033,7 @@
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.42,
@@ -2058,7 +2049,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -2070,16 +2061,16 @@
           "delivery_price": 0.0,
           "item_price": 25.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2088,7 +2079,7 @@
           "delivery_price": 0.0,
           "item_price": 30.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2097,9 +2088,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475267259",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "DJI SDC to DJI Mavic 3 Charge Cable (CP.DY.00000044)",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cp-dy-00000044-db38f3a6.html"
@@ -2109,11 +2100,11 @@
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-52165e433fed09c1ea38cc05a2c1&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Falphacool-nexxxos-xt45-radiator-block%3Fvariant%3D57695571444094&platform=pl",
       "availability": 1,
-      "availability_basis": "FEED",
+      "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197142120",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.66,
@@ -2129,7 +2120,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "14212",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
@@ -2141,7 +2132,7 @@
           "delivery_price": 0.0,
           "item_price": 25.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2150,7 +2141,7 @@
           "delivery_price": 0.0,
           "item_price": 30.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2158,10 +2149,10 @@
       "saving_percent": 16.9,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "45320304837",
-      "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_checked_at": "2026-11-09T21:58:33.301957+00:00",
+      "stock_valid_until": "2026-11-09T22:28:33Z",
       "title": "Alphacool NexXxoS XT45 Radiator block",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:28:33Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/alphacool-nexxxos-xt45-radiator-block-4755fff5.html"
@@ -2175,7 +2166,7 @@
       "brand": "Lexar",
       "canonical_key": "GTIN:843367135325",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.17,
@@ -2191,7 +2182,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "LMSSIPL064G-BNANG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card?variant=56014830600574",
@@ -2203,16 +2194,16 @@
           "delivery_price": 0.0,
           "item_price": 26.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 26.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2221,7 +2212,7 @@
           "delivery_price": 0.0,
           "item_price": 31.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2230,9 +2221,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42008114749",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Lexar Professional SILVER PLUS microSDXC UHS-I Card",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card-db3c3123.html"
@@ -2246,7 +2237,7 @@
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 28.42,
@@ -2262,7 +2253,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -2274,16 +2265,16 @@
           "delivery_price": 0.0,
           "item_price": 28.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2292,7 +2283,7 @@
           "delivery_price": 0.0,
           "item_price": 34.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2301,9 +2292,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475282506",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Kensington MY430 EQ Rechargeable Mouse",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/kensington-my430-eq-rechargeable-mouse-db383286.html"
@@ -2317,7 +2308,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270773",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:21Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.99,
@@ -2333,7 +2324,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:21Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "RS079",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-active-shifter-knobs-mzars079/",
@@ -2345,7 +2336,7 @@
           "delivery_price": 0.0,
           "item_price": 41.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": 1,
@@ -2354,7 +2345,7 @@
           "delivery_price": 4.99,
           "item_price": 45.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2363,7 +2354,7 @@
           "delivery_price": 0.0,
           "item_price": 49.38,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:21Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2372,9 +2363,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41302072524",
       "stock_checked_at": "2026-11-09T17:53:46Z",
-      "stock_valid_until": "2026-11-09T22:28:21Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Moza Active Shifter Knobs",
-      "valid_until": "2026-11-09T22:28:21Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/moza-active-shifter-knobs-db397a37.html"
@@ -2388,7 +2379,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 29.42,
@@ -2404,7 +2395,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -2416,16 +2407,16 @@
           "delivery_price": 0.0,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2434,7 +2425,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2443,9 +2434,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156516",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Targus SafePort strap Tablet Silicone Black",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"
@@ -2459,7 +2450,7 @@
       "brand": "Seagate",
       "canonical_key": "GTIN:8719706021166",
       "category": "Other",
-      "checked_at": "2026-11-09T21:58:20Z",
+      "checked_at": "2026-11-09T22:23:40Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 247.17,
@@ -2475,7 +2466,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-09T21:58:20Z",
+      "market_verified_at": "2026-11-09T22:23:40Z",
       "mpn": "ST2000NM000B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/seagate-enterprise-st2000nm000b-internal-hard-drive-2-tb-7200-rpm-256-mb-35-serial-ata-iii?variant=55308521406846",
@@ -2487,16 +2478,16 @@
           "delivery_price": 0.0,
           "item_price": 247.17,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09T20:12:33Z",
+          "checked_at": "2026-11-09T22:22:28Z",
           "delivery_price": null,
           "item_price": 247.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         },
         {
           "availability": null,
@@ -2505,7 +2496,7 @@
           "delivery_price": 0.0,
           "item_price": 296.6,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-09T22:28:20Z"
+          "valid_until": "2026-11-09T22:53:40Z"
         }
       ],
       "publishable": true,
@@ -2514,9 +2505,9 @@
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266393",
       "stock_checked_at": "2026-11-09T18:52:06Z",
-      "stock_valid_until": "2026-11-09T22:28:20Z",
+      "stock_valid_until": "2026-11-09T22:53:40Z",
       "title": "Seagate Enterprise ST2000NM000B internal hard drive 2 TB 7200 RPM 256 MB 3.5\" Serial ATA III",
-      "valid_until": "2026-11-09T22:28:20Z",
+      "valid_until": "2026-11-09T22:53:40Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/seagate-enterprise-st2000nm000b-internal-hard-drive-2-tb-7200-rpm-256-db3ffd10.html"
