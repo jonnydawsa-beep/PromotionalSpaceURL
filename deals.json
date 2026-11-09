@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T19:23:39Z",
+    "generated_at": "2026-11-09T19:28:42Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "c9c6a0fbe9861b851f7a22f092253d3ca1438734fa38f001d3f1ef66a263e2f4",
+    "revision": "cbb04dde228588518a8053b029970f74bf947590b5afca940901955ef3561227",
     "deal_count": 65,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -332,7 +332,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-09T19:04:22Z",
+      "checked_at": "2026-11-09T19:28:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.7,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T19:04:22Z",
+      "market_verified_at": "2026-11-09T19:28:42Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T19:34:22Z"
+          "valid_until": "2026-11-09T19:58:42Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T19:34:22Z"
+          "valid_until": "2026-11-09T19:58:42Z"
         }
       ],
       "publishable": true,
@@ -377,10 +377,10 @@
       "saving_percent": 40.59,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-09T19:03:31.486459+00:00",
-      "stock_valid_until": "2026-11-09T19:33:31Z",
+      "stock_checked_at": "2026-11-09T19:20:11.891720+00:00",
+      "stock_valid_until": "2026-11-09T19:50:11Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-09T19:33:31Z",
+      "valid_until": "2026-11-09T19:50:11Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
