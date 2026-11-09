@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-09T20:37:13Z",
+    "generated_at": "2026-11-09T20:56:18Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e0684898681ce8b6d994f04ab76311c5fcf2d16a5f813b49b542a6ba29de415c",
+    "revision": "91784c447641634ee4ce0162c2a27943066fa8e747c2bb81e8ac8048424e2404",
     "deal_count": 70,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -837,7 +837,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-09T20:31:23Z",
+      "checked_at": "2026-11-09T20:54:33Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 62.39,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-09T20:31:23Z",
+      "market_verified_at": "2026-11-09T20:54:33Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -865,7 +865,7 @@
           "delivery_price": 3.0,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-09T21:01:23Z"
+          "valid_until": "2026-11-09T21:11:43Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 0.0,
           "item_price": 62.39,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-09T21:01:23Z"
+          "valid_until": "2026-11-09T21:24:33Z"
         }
       ],
       "publishable": true,
