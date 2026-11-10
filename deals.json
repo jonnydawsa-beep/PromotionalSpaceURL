@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-10T00:26:11Z",
+    "generated_at": "2026-11-10T00:43:19Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "3595afc4778728fddaddbc35f2d61630f998b869da6ee1affc856ebde61dfdf9",
+    "revision": "d27519570048aaa87560605cce8fecf81ae55f5c07ab5d8e32894d1a70ab78ca",
     "deal_count": 55,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -3238,7 +3238,7 @@
       "brand": "Moza",
       "canonical_key": "GTIN:6973137270773",
       "category": "Other",
-      "checked_at": "2026-11-10T00:26:08Z",
+      "checked_at": "2026-11-10T00:43:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.99,
@@ -3254,7 +3254,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-10T00:26:08Z",
+      "market_verified_at": "2026-11-10T00:43:19Z",
       "mpn": "RS079",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.demon-tweeks.com/moza-active-shifter-knobs-mzars079/",
@@ -3266,7 +3266,7 @@
           "delivery_price": 0.0,
           "item_price": 41.15,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-10T00:56:08Z"
+          "valid_until": "2026-11-10T01:13:19Z"
         },
         {
           "availability": 1,
@@ -3275,7 +3275,7 @@
           "delivery_price": 4.99,
           "item_price": 45.99,
           "retailer": "Back to the Office",
-          "valid_until": "2026-11-10T00:56:08Z"
+          "valid_until": "2026-11-10T01:13:19Z"
         },
         {
           "availability": null,
@@ -3284,7 +3284,7 @@
           "delivery_price": 0.0,
           "item_price": 49.38,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-10T00:56:08Z"
+          "valid_until": "2026-11-10T01:13:19Z"
         }
       ],
       "publishable": true,
