@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-11T15:23:23Z",
+  "generated_at": "2026-11-11T15:31:18Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 2,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -32885,9 +32885,9 @@
       "slug": "streamplify-mic-mini-rgb-microphone-db32578d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
-      "active": false,
-      "last_live_at": "2026-11-11T10:06:51Z",
-      "last_seen_at": "2026-11-11T10:10:42Z",
+      "active": true,
+      "last_live_at": "2026-11-11T15:31:18Z",
+      "last_seen_at": "2026-11-11T15:31:18Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -32904,8 +32904,8 @@
         "comparison_count": 20,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T10:06:50Z",
-        "valid_until": "2026-11-11T10:09:47Z",
+        "checked_at": "2026-11-11T15:31:16Z",
+        "valid_until": "2026-11-11T15:59:02Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": null,
         "item_price": 23.99,
@@ -32915,26 +32915,35 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 07:23:45",
+            "checked_at": "2026-11-11 11:25:57",
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T10:36:50Z"
+            "valid_until": "2026-11-11T16:01:16Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-09 21:06:21",
+            "checked_at": "2026-11-11 13:05:25",
+            "delivery_price": 0.0,
+            "item_price": 26.07,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-11T16:01:16Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 14:22:30",
             "delivery_price": 0.0,
             "item_price": 31.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T10:36:50Z"
+            "valid_until": "2026-11-11T16:01:16Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2578d2d1830c0228a4f3ba798676&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-mini-rgb-microphone%3Fvariant%3D57079280894334&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 23.99,
         "market_best_retailer": "Back to the Office",
@@ -32942,11 +32951,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T09:39:47.106817+00:00",
-        "stock_valid_until": "2026-11-11T10:09:47Z"
+        "stock_checked_at": "2026-11-11T15:29:02.606399+00:00",
+        "stock_valid_until": "2026-11-11T15:59:02Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T10:06:51Z",
+      "lkg_certified_at": "2026-11-11T15:31:18Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
@@ -33030,9 +33039,9 @@
       "slug": "streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513528",
-      "active": false,
-      "last_live_at": "2026-11-11T10:44:50Z",
-      "last_seen_at": "2026-11-11T10:50:14Z",
+      "active": true,
+      "last_live_at": "2026-11-11T15:31:18Z",
+      "last_seen_at": "2026-11-11T15:31:18Z",
       "last_deal": {
         "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
         "publishable": true,
@@ -33049,8 +33058,8 @@
         "comparison_count": 20,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T10:44:35Z",
-        "valid_until": "2026-11-11T10:47:33Z",
+        "checked_at": "2026-11-11T15:31:16Z",
+        "valid_until": "2026-11-11T16:00:26Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
         "delivery_price": null,
         "item_price": 28.99,
@@ -33060,26 +33069,35 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 07:23:45",
+            "checked_at": "2026-11-11 11:25:57",
             "delivery_price": 3.0,
             "item_price": 30.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T11:14:35Z"
+            "valid_until": "2026-11-11T16:01:16Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-10 21:08:11",
+            "checked_at": "2026-11-11 13:05:25",
+            "delivery_price": 0.0,
+            "item_price": 30.01,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-11T16:01:16Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 14:22:30",
             "delivery_price": 0.0,
             "item_price": 36.01,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T11:14:35Z"
+            "valid_until": "2026-11-11T16:01:16Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7a8118b86faaa6b9dfac450da837&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black%3Fvariant%3D57837881590142&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 28.99,
         "market_best_retailer": "Back to the Office",
@@ -33087,11 +33105,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T10:17:33.483107+00:00",
-        "stock_valid_until": "2026-11-11T10:47:33Z"
+        "stock_checked_at": "2026-11-11T15:30:26.275093+00:00",
+        "stock_valid_until": "2026-11-11T16:00:26Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T10:44:50Z",
+      "lkg_certified_at": "2026-11-11T15:31:18Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-aacb89771c2c06505b7b68da6dd2": {
