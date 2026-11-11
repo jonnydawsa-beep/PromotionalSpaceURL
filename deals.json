@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T23:42:14Z",
+    "generated_at": "2026-11-11T23:56:33Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "5f46e8fe306b30af0ef079a11ff09c64dd3d3b64b60017b2791548dc69d3463c",
+    "revision": "b3ee439a30a14311cdcb5229244f5a161807319ce25238874144bd72da97db65",
     "deal_count": 17,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -270,7 +270,7 @@
       "brand": "Motorola",
       "canonical_key": "GTIN:840493613628",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 93.69,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "PG38C08162",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/motorola-moto-buds-2-headset-wireless-in-ear-callsmusic-bluetooth-carbon?variant=57316923375998",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 85.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 102.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -315,10 +315,10 @@
       "saving_percent": 33.83,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "44621640033",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Motorola Moto Buds 2 Headset Wireless In-ear Calls/Music Bluetooth Carbon",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/motorola-moto-buds-2-headset-wireless-in-ear-calls-music-bluetooth-car-db3cdf7d.html"
@@ -394,7 +394,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439241365",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "24136",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -439,10 +439,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43749571441",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Trust 24136 card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-C Aluminium",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/trust-24136-card-reader-usb-3-2-gen-1-3-1-gen-1-type-c-aluminium-db358505.html"
@@ -456,7 +456,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439255485",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "25548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-1?variant=56833174765950",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -501,10 +501,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43749571561",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html"
@@ -704,7 +704,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4740219000007",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 80.56,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "VFM-DPD2B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-686-cm-27-desk-black?variant=55468880396670",
@@ -732,7 +732,7 @@
           "delivery_price": 3.0,
           "item_price": 73.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 87.89,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -749,10 +749,10 @@
       "saving_percent": 23.06,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458465",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Vision VFM-DPD2B monitor mount / stand 68.6 cm (27\") Desk Black",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-68-6-cm-27-desk-black-db386970.html"
@@ -837,7 +837,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.9,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -865,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -891,10 +891,10 @@
       "saving_percent": 18.96,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614808",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
@@ -908,7 +908,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 117.1,
@@ -924,7 +924,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -936,7 +936,7 @@
           "delivery_price": 0.0,
           "item_price": 117.1,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -945,7 +945,7 @@
           "delivery_price": 3.0,
           "item_price": 117.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -954,7 +954,7 @@
           "delivery_price": 0.0,
           "item_price": 140.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -962,10 +962,10 @@
       "saving_percent": 18.88,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614506",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Cisco 10G Direct Attach Twinax SFP+ Cable, Passive, 30AWG Cable Assembly, 5 M, Grey, 5-Year Standard Warranty (SFP-H10GB-CU5M=)",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html"
@@ -979,7 +979,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344708",
       "category": "Other",
-      "checked_at": "2026-11-11T23:33:42Z",
+      "checked_at": "2026-11-11T23:56:32Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.87,
@@ -995,7 +995,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:42Z",
+      "market_verified_at": "2026-11-11T23:56:32Z",
       "mpn": "L60-5025P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2-5m-cat6-rj45-yellow-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58376338473342",
@@ -1007,7 +1007,7 @@
           "delivery_price": 0.0,
           "item_price": 25.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -1016,7 +1016,7 @@
           "delivery_price": 3.0,
           "item_price": 25.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         },
         {
           "availability": null,
@@ -1025,7 +1025,7 @@
           "delivery_price": 0.0,
           "item_price": 31.04,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:42Z"
+          "valid_until": "2026-11-12T00:26:32Z"
         }
       ],
       "publishable": true,
@@ -1033,10 +1033,10 @@
       "saving_percent": 18.86,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46568567112",
-      "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-      "stock_valid_until": "2026-11-12T00:01:31Z",
+      "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+      "stock_valid_until": "2026-11-12T00:26:32Z",
       "title": "Cablenet 2.5m Cat6 RJ45 Yellow U/UTP LSOH 24AWG Snagless Booted Patch Lead (PK10)",
-      "valid_until": "2026-11-12T00:01:31Z",
+      "valid_until": "2026-11-12T00:26:32Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-2-5m-cat6-rj45-yellow-u-utp-lsoh-24awg-snagless-booted-patch-db31cf4c.html"

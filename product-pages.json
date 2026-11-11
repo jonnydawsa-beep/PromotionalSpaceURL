@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-11T23:42:15Z",
+  "generated_at": "2026-11-11T23:56:33Z",
   "base_url": "https://dealburrow.co.uk",
   "active_count": 17,
   "product_count": 888,
@@ -1518,8 +1518,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:4260325422543",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-e3292e536aa93963d98e4bc61936",
         "publishable": true,
@@ -1578,7 +1578,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-ddda54d492d05f7b78ea2bcc293d": {
@@ -4900,8 +4900,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:840493613628",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-cdf7d8d384900dd422a60ae4b24a",
         "publishable": true,
@@ -4918,8 +4918,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0a541fc6d46e29a5809e32a42400d065.jpg%3Fv%3D1777173268&feedId=102827&k=dbd6ca332e3573a6cd009c4a46d3f9422b6fe887",
         "delivery_price": null,
         "item_price": 61.99,
@@ -4933,7 +4933,7 @@
             "delivery_price": 3.0,
             "item_price": 85.17,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -4942,7 +4942,7 @@
             "delivery_price": 0.0,
             "item_price": 102.2,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/motorola-moto-buds-2-headset-wireless-in-ear-callsmusic-bluetooth-carbon?variant=57316923375998",
@@ -4956,11 +4956,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-d74a3415cc1217be1199ea6f3f76": {
@@ -5036,8 +5036,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711387239704",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-d6eafca849374e76e90b11b2ca10",
         "publishable": true,
@@ -5096,7 +5096,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-152d740e38a8182c27f2899ae7ed": {
@@ -11094,8 +11094,8 @@
       "first_seen_at": "2026-10-28T11:42:20Z",
       "canonical_key": "GTIN:4979146000006",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-b31bf16064233c1b3232b6cfdffa",
         "publishable": true,
@@ -11154,7 +11154,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-cfdee560c7a611100969b69ac7f8": {
@@ -12030,8 +12030,8 @@
       "first_seen_at": "2026-10-28T21:29:27Z",
       "canonical_key": "GTIN:8886419318552",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-eed7c2f951c0092988eede30de90",
         "publishable": true,
@@ -12090,7 +12090,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-20766e0192f1d3dc0dd680f5f4a2": {
@@ -12427,8 +12427,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0010343830073",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-f6704b37993501d823a0af024d56",
         "publishable": true,
@@ -12487,7 +12487,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-08be6674abb4a892836a2d9ec522": {
@@ -12823,8 +12823,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8713439241365",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-5850513002dd4fb42afa30d9a64d",
         "publishable": true,
@@ -12841,8 +12841,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fd335096624b485859b05921fccb51456.jpg%3Fv%3D1770879068&feedId=102827&k=9a8b304649e0da7fd2bb2ce3be83abba7732c256",
         "delivery_price": null,
         "item_price": 20.99,
@@ -12856,7 +12856,7 @@
             "delivery_price": 3.0,
             "item_price": 25.9,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -12865,7 +12865,7 @@
             "delivery_price": 0.0,
             "item_price": 31.08,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -12879,11 +12879,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-de1709b04b5e3a39a6e61d46c1b6": {
@@ -12891,8 +12891,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8713439255485",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-de1709b04b5e3a39a6e61d46c1b6",
         "publishable": true,
@@ -12909,8 +12909,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F6362e63eea8f5019b1370c235d892ba1.jpg%3Fv%3D1774682627&feedId=102827&k=f8c85c1a801c668a2e624d0227a748bdbf6ea885",
         "delivery_price": null,
         "item_price": 20.99,
@@ -12924,7 +12924,7 @@
             "delivery_price": 3.0,
             "item_price": 25.9,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -12933,7 +12933,7 @@
             "delivery_price": 0.0,
             "item_price": 31.08,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-1?variant=56833174765950",
@@ -12947,11 +12947,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-32617b7ed111eabee59d1a093b5e": {
@@ -12959,8 +12959,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:4977766843638",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-32617b7ed111eabee59d1a093b5e",
         "publishable": true,
@@ -13019,7 +13019,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-54abeae2464383eb654af9d149bb": {
@@ -13027,8 +13027,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8020252076945",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-54abeae2464383eb654af9d149bb",
         "publishable": true,
@@ -13087,7 +13087,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-431a61f57fc60359b4c5c29198f7": {
@@ -15321,8 +15321,8 @@
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:4740219000007",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-86970dd3fcb8c90a80491a7b661c",
         "publishable": true,
@@ -15339,8 +15339,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F91db24a56cb46be97841374bc1f2fa957cc9e56698143737cb22ea54ba402cf2.jpg%3Fv%3D1789195683&feedId=102827&k=78c0c66bfb3157ec5180bf67b750b302dc1093a6",
         "delivery_price": null,
         "item_price": 61.99,
@@ -15354,7 +15354,7 @@
             "delivery_price": 3.0,
             "item_price": 73.24,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -15363,7 +15363,7 @@
             "delivery_price": 0.0,
             "item_price": 87.89,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-686-cm-27-desk-black?variant=55468880396670",
@@ -15377,11 +15377,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-2f3824315e61c331c9dc358f6e0c": {
@@ -21210,8 +21210,8 @@
       "first_seen_at": "2026-10-30T22:51:50Z",
       "canonical_key": "GTIN:4711721041437",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-52fd696e3a900d3c1c59b8c4b6a4",
         "publishable": true,
@@ -21270,7 +21270,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-41b6bf8adacb2d4867abb8a49911": {
@@ -38778,8 +38778,8 @@
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:0882658210716",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-6c338597c8391b60a2d51d62dba8",
         "publishable": true,
@@ -38796,8 +38796,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FduRDGehuF0KgPft-mR1vGw.c-r_39ff41be-6428-43ec-8d17-3762107cae5f.jpg%3Fv%3D1793649818&feedId=102827&k=a8ca8cde3b4e49f87b6af19435522ba1c62f3e6c",
         "delivery_price": null,
         "item_price": 94.99,
@@ -38811,7 +38811,7 @@
             "delivery_price": 0.0,
             "item_price": 117.1,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -38820,7 +38820,7 @@
             "delivery_price": 3.0,
             "item_price": 117.1,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -38829,7 +38829,7 @@
             "delivery_price": 0.0,
             "item_price": 140.52,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -38843,11 +38843,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-7e806299be1c39ffe8354df78539": {
@@ -38855,8 +38855,8 @@
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750315883",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-7e806299be1c39ffe8354df78539",
         "publishable": true,
@@ -38873,8 +38873,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:41Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FX5jGr8J_x06-KxAqb7gm5w.c-r.jpg%3Fv%3D1793654001&feedId=102827&k=39a4862d94e29e5369992cd618b28e19b1c7fae7",
         "delivery_price": null,
         "item_price": 20.99,
@@ -38888,7 +38888,7 @@
             "delivery_price": 0.0,
             "item_price": 25.9,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:03:41Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -38897,7 +38897,7 @@
             "delivery_price": 3.0,
             "item_price": 25.9,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:41Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -38906,7 +38906,7 @@
             "delivery_price": 0.0,
             "item_price": 31.08,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:41Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -38920,11 +38920,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-b755c34817755885fb903f320a1e": {
@@ -38932,8 +38932,8 @@
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750342308",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-b755c34817755885fb903f320a1e",
         "publishable": true,
@@ -39001,7 +39001,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-8492ebac003e275c7d2a27a0dc6d": {
@@ -46574,8 +46574,8 @@
       "first_seen_at": "2026-11-04T04:50:43Z",
       "canonical_key": "GTIN:5056750344708",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-1cf4ca0152aeb0fd2cf23f6c2334",
         "publishable": true,
@@ -46592,8 +46592,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:33:42Z",
-        "valid_until": "2026-11-12T00:01:31Z",
+        "checked_at": "2026-11-11T23:56:32Z",
+        "valid_until": "2026-11-12T00:26:32Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fg2Hyq5a0FE2y6O_GPeq2WQ.c-r.jpg%3Fv%3D1793685816&feedId=102827&k=7203fdb9d18d2f9a38664d55abf5d0dff0bc3ef6",
         "delivery_price": null,
         "item_price": 20.99,
@@ -46607,7 +46607,7 @@
             "delivery_price": 0.0,
             "item_price": 25.87,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -46616,7 +46616,7 @@
             "delivery_price": 3.0,
             "item_price": 25.87,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           },
           {
             "availability": null,
@@ -46625,7 +46625,7 @@
             "delivery_price": 0.0,
             "item_price": 31.04,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:03:42Z"
+            "valid_until": "2026-11-12T00:26:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2-5m-cat6-rj45-yellow-u-utp-lsoh-24awg-snagless-booted-patch-lead-pk10?variant=58376338473342",
@@ -46639,11 +46639,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:31:31.464703+00:00",
-        "stock_valid_until": "2026-11-12T00:01:31Z"
+        "stock_checked_at": "2026-11-11T23:56:32.387226+00:00",
+        "stock_valid_until": "2026-11-12T00:26:32Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-6889f15f491c13e3503be0dd4cfd": {
@@ -46805,8 +46805,8 @@
       "first_seen_at": "2026-11-04T07:53:16Z",
       "canonical_key": "GTIN:0889728035743",
       "active": true,
-      "last_live_at": "2026-11-11T23:42:15Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "last_live_at": "2026-11-11T23:56:33Z",
+      "last_seen_at": "2026-11-11T23:56:33Z",
       "last_deal": {
         "deal_id": "db3-f3d89456b5d395c844fcc3f8129d",
         "publishable": true,
@@ -46874,7 +46874,7 @@
         "stock_valid_until": "2026-11-12T00:02:52Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:42:15Z",
+      "lkg_certified_at": "2026-11-11T23:56:33Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-c377c70d64137741753d003ae932": {
