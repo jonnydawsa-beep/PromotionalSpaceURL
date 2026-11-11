@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T16:26:45Z",
+    "generated_at": "2026-11-11T16:30:51Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "77ba9c0e44032e55f5b965b3fd9f65504667106fca789ae01ba8a1e26cb547cb",
+    "revision": "87445fd2da52be804e29a721fc81d88f31035dd00204ee136825418df38c10b3",
     "deal_count": 4,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-11T16:06:32Z",
+      "checked_at": "2026-11-11T16:30:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 60.22,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:06:32Z",
+      "market_verified_at": "2026-11-11T16:30:51Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 60.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         }
       ],
       "publishable": true,
@@ -76,10 +76,10 @@
       "saving_percent": 53.52,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269403",
-      "stock_checked_at": "2026-11-11T16:05:41.245697+00:00",
-      "stock_valid_until": "2026-11-11T16:35:41Z",
+      "stock_checked_at": "2026-11-11T16:30:50.988635+00:00",
+      "stock_valid_until": "2026-11-11T17:00:50Z",
       "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "valid_until": "2026-11-11T16:35:41Z",
+      "valid_until": "2026-11-11T17:00:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html"
@@ -235,7 +235,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-11T16:06:32Z",
+      "checked_at": "2026-11-11T16:30:51Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.9,
@@ -251,7 +251,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:06:32Z",
+      "market_verified_at": "2026-11-11T16:30:51Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -263,7 +263,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         },
         {
           "availability": null,
@@ -272,7 +272,7 @@
           "delivery_price": 0.0,
           "item_price": 25.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         },
         {
           "availability": null,
@@ -281,7 +281,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:36:32Z"
+          "valid_until": "2026-11-11T17:00:51Z"
         }
       ],
       "publishable": true,
@@ -289,10 +289,10 @@
       "saving_percent": 18.96,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614808",
-      "stock_checked_at": "2026-11-11T16:05:41.245697+00:00",
-      "stock_valid_until": "2026-11-11T16:35:41Z",
+      "stock_checked_at": "2026-11-11T16:30:50.988635+00:00",
+      "stock_valid_until": "2026-11-11T17:00:50Z",
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
-      "valid_until": "2026-11-11T16:35:41Z",
+      "valid_until": "2026-11-11T17:00:50Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
