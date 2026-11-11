@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T23:33:43Z",
+    "generated_at": "2026-11-11T23:38:57Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b2742b4ba1f31e379b4b7e65ca9aef5d5769d78f23dd4a02686a2c7643827f2b",
+    "revision": "5dae477e474770906370b14a1b25478522b8f5fe085ed52df8158bd19498e752",
     "deal_count": 23,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 44.99,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 36.01,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387259795",
       "category": "Other",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 118.69,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "90MB1G10-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx?variant=55308897976702",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 107.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 129.48,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 32.42,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -546,7 +546,7 @@
           "delivery_price": 0.0,
           "item_price": 32.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 3.0,
           "item_price": 32.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -564,7 +564,7 @@
           "delivery_price": 0.0,
           "item_price": 38.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
@@ -589,7 +589,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:5812011000000",
       "category": "Technology",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 130.14,
@@ -605,7 +605,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "VFM-DAD/4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 130.14,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -626,7 +626,7 @@
           "delivery_price": 3.0,
           "item_price": 130.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -635,7 +635,7 @@
           "delivery_price": 0.0,
           "item_price": 156.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
@@ -722,7 +722,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-11T23:33:41Z",
+      "checked_at": "2026-11-11T23:38:57Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.7,
@@ -738,7 +738,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T23:33:41Z",
+      "market_verified_at": "2026-11-11T23:38:57Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 45.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -759,7 +759,7 @@
           "delivery_price": 3.0,
           "item_price": 45.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         },
         {
           "availability": null,
@@ -768,7 +768,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T00:03:41Z"
+          "valid_until": "2026-11-12T00:08:57Z"
         }
       ],
       "publishable": true,
