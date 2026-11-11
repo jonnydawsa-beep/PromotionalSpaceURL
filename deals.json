@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T11:46:38Z",
+    "generated_at": "2026-11-11T11:52:00Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "a40852cd70cf8723f1aaf880d2536b5f6b56123037e115b8f293dc73317d679b",
+    "revision": "34e4bde73b3d4d5198acdbb4695d2c004be84591b05c998976e06d64cd16ca0a",
     "deal_count": 35,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -713,7 +713,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069477355",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 179.41,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "DAP-E9560",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
@@ -741,7 +741,7 @@
           "delivery_price": 3.0,
           "item_price": 163.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 195.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -758,10 +758,10 @@
       "saving_percent": 30.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075468954",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:48:42.750574+00:00",
+      "stock_valid_until": "2026-11-11T12:18:42Z",
       "title": "D-Link Nuclias Connect BE9500 Wi-Fi 7 Access Point",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:18:42Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html"
@@ -775,7 +775,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962187",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 483.33,
@@ -791,7 +791,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "GA10896-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-satellite?variant=57842640224638",
@@ -803,7 +803,7 @@
           "delivery_price": 3.0,
           "item_price": 439.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -812,7 +812,7 @@
           "delivery_price": 0.0,
           "item_price": 527.27,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -820,10 +820,10 @@
       "saving_percent": 28.83,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "45618341586",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:48:42.750574+00:00",
+      "stock_valid_until": "2026-11-11T12:18:42Z",
       "title": "Google Pixel Watch 5 AMOLED 45 mm Digital Touchscreen Pyrite Wi-Fi GPS (satellite)",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:18:42Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-db342ef2.html"
@@ -837,7 +837,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794034851",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 75.79,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "TBT932GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-tbt932gl-laptop-case-406-cm-16-briefcase-black?variant=55307385831806",
@@ -865,7 +865,7 @@
           "delivery_price": 3.0,
           "item_price": 68.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 0.0,
           "item_price": 82.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -882,10 +882,10 @@
       "saving_percent": 28.76,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476149724",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:46:56.639645+00:00",
+      "stock_valid_until": "2026-11-11T12:16:56Z",
       "title": "Targus TBT932GL laptop case 40.6 cm (16\") Briefcase Black",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:16:56Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-tbt932gl-laptop-case-40-6-cm-16-briefcase-black-db329326.html"
@@ -899,7 +899,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161357398",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -915,7 +915,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "2F1W8AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-mauve-laptop-sleeve?variant=58174209458558",
@@ -927,7 +927,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -936,7 +936,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -944,10 +944,10 @@
       "saving_percent": 28.2,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46256956938",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:46:56.639645+00:00",
+      "stock_valid_until": "2026-11-11T12:16:56Z",
       "title": "HP Reversible Protective 15.6-inch Mauve Laptop Sleeve",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:16:56Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/hp-reversible-protective-15-6-inch-mauve-laptop-sleeve-db3c196f.html"
@@ -961,7 +961,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:8592978649166",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 486.81,
@@ -977,7 +977,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "CM8071506036701",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-xeon-6325p-processor-35-ghz-12-mb-tray?variant=56104515469694",
@@ -989,7 +989,7 @@
           "delivery_price": 3.0,
           "item_price": 442.56,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -998,7 +998,7 @@
           "delivery_price": 0.0,
           "item_price": 531.07,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -1006,10 +1006,10 @@
       "saving_percent": 27.9,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42117573296",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:48:42.750574+00:00",
+      "stock_valid_until": "2026-11-11T12:18:42Z",
       "title": "Intel Xeon 6325P processor 3.5 GHz 12 MB Tray",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:18:42Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/intel-xeon-6325p-processor-3-5-ghz-12-mb-tray-db3e78d6.html"
@@ -1023,7 +1023,7 @@
       "brand": "Acer",
       "canonical_key": "GTIN:4711721041437",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.02,
@@ -1039,7 +1039,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "ZL.ADTCC.00K",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -1051,7 +1051,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -1060,7 +1060,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -1068,10 +1068,10 @@
       "saving_percent": 27.86,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "44650192967",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:48:42.750574+00:00",
+      "stock_valid_until": "2026-11-11T12:18:42Z",
       "title": "Acer 67W PD Charger, USB Port: 2C+1A, UK Plug, 100W USB-C Cable, Black",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:18:42Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/acer-67w-pd-charger-usb-port-2c-1a-uk-plug-100w-usb-c-cable-black-db352fd6.html"
@@ -2015,7 +2015,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728168250",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:50:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5280.2,
@@ -2031,7 +2031,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:50:08Z",
       "mpn": "C9200-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -2043,7 +2043,7 @@
           "delivery_price": 3.0,
           "item_price": 5253.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -2052,7 +2052,7 @@
           "delivery_price": 0.0,
           "item_price": 5280.2,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         },
         {
           "availability": null,
@@ -2061,7 +2061,7 @@
           "delivery_price": 0.0,
           "item_price": 6336.24,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:20:08Z"
         }
       ],
       "publishable": true,
@@ -2069,10 +2069,10 @@
       "saving_percent": 24.11,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447708",
-      "stock_checked_at": "2026-11-11T11:20:47.652874+00:00",
-      "stock_valid_until": "2026-11-11T11:50:47Z",
+      "stock_checked_at": "2026-11-11T11:46:56.639645+00:00",
+      "stock_valid_until": "2026-11-11T12:16:56Z",
       "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-11T11:50:47Z",
+      "valid_until": "2026-11-11T12:16:56Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html"
