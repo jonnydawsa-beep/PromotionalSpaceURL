@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T10:18:29Z",
+    "generated_at": "2026-11-11T10:41:08Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "a13eed38feddfb8d0c77dbac9fcde54be7239b8e2a2c12c004889f2dde9696ad",
+    "revision": "e9e9cf006e139178aa2b3a91dcb8d760007d3975dd5c731b4e56f82a48b83a29",
     "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -84,7 +84,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197142120",
       "category": "Other",
-      "checked_at": "2026-11-11T10:18:25Z",
+      "checked_at": "2026-11-11T10:41:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.66,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T10:18:25Z",
+      "market_verified_at": "2026-11-11T10:41:08Z",
       "mpn": "14212",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
@@ -112,16 +112,16 @@
           "delivery_price": 3.0,
           "item_price": 25.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T10:48:25Z"
+          "valid_until": "2026-11-11T11:11:08Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-09 21:06:21",
+          "checked_at": "2026-11-10 21:08:11",
           "delivery_price": 0.0,
           "item_price": 30.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T10:48:25Z"
+          "valid_until": "2026-11-11T11:11:08Z"
         }
       ],
       "publishable": true,
