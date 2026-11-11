@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T11:52:00Z",
+    "generated_at": "2026-11-11T11:56:31Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "34e4bde73b3d4d5198acdbb4695d2c004be84591b05c998976e06d64cd16ca0a",
+    "revision": "73732a13a26439434ab0746956ea517919b423ec67c5c73289c04d4dcee44be0",
     "deal_count": 35,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5063194003092",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.58,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "TBS97104GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-pulse-ii-ecosmart-406-cm-16-sleeve-case-charcoal?variant=55399195443582",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 33.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 39.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158661437",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.98,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "D30933-V1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 35.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 42.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3480006000001",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "TC 10MVGAP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white?variant=55468876562814",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 43.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -208,7 +208,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 68.63,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 74.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 44.97,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "Razer",
       "canonical_key": "GTIN:8886419318552",
       "category": "Gaming",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.35,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "RZ02-03330400-R3M1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green?variant=55306532913534",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 53.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 64.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Motorola",
       "canonical_key": "GTIN:840493613628",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 96.94,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "PG38C08162",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/motorola-moto-buds-2-headset-wireless-in-ear-callsmusic-bluetooth-carbon?variant=57316923375998",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 85.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 108.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387239704",
       "category": "DIY",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 98.01,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "90MB1F80-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -546,7 +546,7 @@
           "delivery_price": 3.0,
           "item_price": 89.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 106.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -580,7 +580,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:10Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2075.22,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T11:46:10Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -608,7 +608,7 @@
           "delivery_price": 3.0,
           "item_price": 2064.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 2075.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -626,7 +626,7 @@
           "delivery_price": 0.0,
           "item_price": 2490.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:10Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
@@ -651,7 +651,7 @@
       "brand": "SumUp",
       "canonical_key": "GTIN:4260325422543",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T11:56:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 56.62,
@@ -667,7 +667,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T11:56:31Z",
       "mpn": "800604901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sumup-air-and-cradle?variant=55308642255230",
@@ -679,7 +679,7 @@
           "delivery_price": 3.0,
           "item_price": 54.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         },
         {
           "availability": null,
@@ -688,7 +688,7 @@
           "delivery_price": 0.0,
           "item_price": 58.76,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:26:31Z"
         }
       ],
       "publishable": true,
