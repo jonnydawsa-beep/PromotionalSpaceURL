@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:38:58Z",
+  "generated_at": "2026-11-11T23:42:15Z",
   "items": [
     {
       "title": "Acer 67W PD Charger, USB Port: 2C+1A, UK Plug, 100W USB-C Cable, Black",
@@ -9,15 +9,6 @@
       "url": "products/acer-67w-pd-charger-usb-port-2c-1a-uk-plug-100w-usb-c-cable-black-db352fd6.html",
       "active": true,
       "current_price": 25.99
-    },
-    {
-      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
-      "brand": "Asus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
-      "active": true,
-      "current_price": 76.99
     },
     {
       "title": "ASUS PRO A620M-C-CSM AMD A620 Socket AM5 micro ATX",
@@ -83,15 +74,6 @@
       "current_price": 5116.99
     },
     {
-      "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
-      "brand": "Cisco",
-      "category": "Home",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
-      "active": true,
-      "current_price": 32.99
-    },
-    {
       "title": "Epson A4 Archival Matte Photo Paper 189gsm, 50 sheets",
       "brand": "Epson",
       "category": "Other",
@@ -117,24 +99,6 @@
       "url": "products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green-db3eed7c.html",
       "active": true,
       "current_price": 35.99
-    },
-    {
-      "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "brand": "Streamplify",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
-      "active": true,
-      "current_price": 28.99
-    },
-    {
-      "title": "Streamplify MIC MINI RGB Microphone",
-      "brand": "Streamplify",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
-      "active": true,
-      "current_price": 23.99
     },
     {
       "title": "SumUp Air and Cradle",
@@ -180,24 +144,6 @@
       "url": "products/vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html",
       "active": true,
       "current_price": 23.99
-    },
-    {
-      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
-      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
-      "active": true,
-      "current_price": 92.99
     },
     {
       "title": "Vision VFM-DPD2B monitor mount / stand 68.6 cm (27\") Desk Black",
@@ -745,6 +691,15 @@
       "category": "DIY",
       "retailer": "Back to the Office",
       "url": "products/asus-prime-b850m-k-amd-b850-socket-am5-micro-atx-db33b729.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
+      "brand": "Asus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "active": false,
       "current_price": null
     },
@@ -2221,6 +2176,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd-db32b431.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
+      "brand": "Cisco",
+      "category": "Home",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
       "active": false,
       "current_price": null
     },
@@ -6959,11 +6923,29 @@
       "current_price": null
     },
     {
+      "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
+      "brand": "Streamplify",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Streamplify MIC GO Black Clip-on microphone",
       "brand": "Streamplify",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Streamplify MIC MINI RGB Microphone",
+      "brand": "Streamplify",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
       "active": false,
       "current_price": null
     },
@@ -7855,6 +7837,24 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
       "active": false,
       "current_price": null
     },
