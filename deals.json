@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T16:45:26Z",
+    "generated_at": "2026-11-11T16:50:47Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "7c95b2e3729617c15b7c18023f7a28a432c276d072ea8234591a1a63bbd6bcae",
+    "revision": "0f1beb187daf836c2a7ea60927ca44dbc19a2e3651943f6fd215a45d5a6ef281",
     "deal_count": 11,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -377,7 +377,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-11T16:34:15Z",
+      "checked_at": "2026-11-11T16:50:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 32.42,
@@ -393,7 +393,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:34:15Z",
+      "market_verified_at": "2026-11-11T16:50:47Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -405,7 +405,7 @@
           "delivery_price": 3.0,
           "item_price": 32.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -414,7 +414,7 @@
           "delivery_price": 0.0,
           "item_price": 32.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -423,7 +423,7 @@
           "delivery_price": 0.0,
           "item_price": 38.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         }
       ],
       "publishable": true,
@@ -448,7 +448,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387259795",
       "category": "Other",
-      "checked_at": "2026-11-11T16:34:15Z",
+      "checked_at": "2026-11-11T16:50:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 107.9,
@@ -464,7 +464,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:34:15Z",
+      "market_verified_at": "2026-11-11T16:50:47Z",
       "mpn": "90MB1G10-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx?variant=55308897976702",
@@ -476,7 +476,7 @@
           "delivery_price": 3.0,
           "item_price": 107.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -485,7 +485,7 @@
           "delivery_price": 0.0,
           "item_price": 107.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -494,7 +494,7 @@
           "delivery_price": 0.0,
           "item_price": 129.48,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         }
       ],
       "publishable": true,
@@ -519,7 +519,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:5812011000000",
       "category": "Technology",
-      "checked_at": "2026-11-11T16:34:15Z",
+      "checked_at": "2026-11-11T16:50:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 130.14,
@@ -535,7 +535,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:34:15Z",
+      "market_verified_at": "2026-11-11T16:50:47Z",
       "mpn": "VFM-DAD/4",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -547,7 +547,7 @@
           "delivery_price": 3.0,
           "item_price": 130.14,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -556,7 +556,7 @@
           "delivery_price": 0.0,
           "item_price": 130.14,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -565,7 +565,7 @@
           "delivery_price": 0.0,
           "item_price": 156.17,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         }
       ],
       "publishable": true,
@@ -590,7 +590,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-11T16:34:15Z",
+      "checked_at": "2026-11-11T16:50:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.7,
@@ -606,7 +606,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:34:15Z",
+      "market_verified_at": "2026-11-11T16:50:47Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -618,7 +618,7 @@
           "delivery_price": 3.0,
           "item_price": 45.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -627,7 +627,7 @@
           "delivery_price": 0.0,
           "item_price": 45.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -636,7 +636,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         }
       ],
       "publishable": true,
@@ -661,7 +661,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3446603000004",
       "category": "Technology",
-      "checked_at": "2026-11-11T16:34:15Z",
+      "checked_at": "2026-11-11T16:50:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 32.75,
@@ -677,7 +677,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:34:15Z",
+      "market_verified_at": "2026-11-11T16:50:47Z",
       "mpn": "TC3 SURR2G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc3-surr2g-wall-plateswitch-cover-white?variant=55468879872382",
@@ -689,7 +689,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -698,7 +698,7 @@
           "delivery_price": 0.0,
           "item_price": 32.75,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         },
         {
           "availability": null,
@@ -707,7 +707,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:04:15Z"
+          "valid_until": "2026-11-11T17:20:47Z"
         }
       ],
       "publishable": true,
