@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T11:59:51Z",
+    "generated_at": "2026-11-11T12:08:24Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "529fbeb5b4c67904e69931b87f3ec29a511d426801fed2047886526faf342abf",
+    "revision": "0ed69935e2180de0979f7dbbc0b7caf8a299385a446abfacc9f2db2dcfabd25e",
     "deal_count": 24,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -394,7 +394,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4934295000000",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 100.85,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "VFM-W8X6",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 91.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 110.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252199378",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.5,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "BSM1314-PK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-smilza-macbook-air-13-before-2018-macbook-pro-13-2016-2020-macbook-air-13-2018-2020-macbook-air-15-2023-laptop-14-purse-case-super-slim-pink?variant=56897276739966",
@@ -546,7 +546,7 @@
           "delivery_price": 3.0,
           "item_price": 25.91,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 31.09,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -580,7 +580,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439241365",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "24136",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -608,7 +608,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -642,7 +642,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439255485",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "25548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-1?variant=56833174765950",
@@ -670,7 +670,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -1395,7 +1395,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 6400.29,
@@ -1411,7 +1411,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -1423,7 +1423,7 @@
           "delivery_price": 3.0,
           "item_price": 6367.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -1432,7 +1432,7 @@
           "delivery_price": 0.0,
           "item_price": 6400.29,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -1441,7 +1441,7 @@
           "delivery_price": 0.0,
           "item_price": 7680.35,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
@@ -1466,7 +1466,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-11T11:46:11Z",
+      "checked_at": "2026-11-11T12:08:24Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 117.6,
@@ -1482,7 +1482,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T11:46:11Z",
+      "market_verified_at": "2026-11-11T12:08:24Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -1494,7 +1494,7 @@
           "delivery_price": 3.0,
           "item_price": 117.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -1503,7 +1503,7 @@
           "delivery_price": 0.0,
           "item_price": 117.6,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         },
         {
           "availability": null,
@@ -1512,7 +1512,7 @@
           "delivery_price": 0.0,
           "item_price": 141.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T12:16:11Z"
+          "valid_until": "2026-11-11T12:38:24Z"
         }
       ],
       "publishable": true,
