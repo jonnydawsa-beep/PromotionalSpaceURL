@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-11T08:40:28Z",
+  "generated_at": "2026-11-11T08:49:10Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 5,
+  "active_count": 6,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -413,9 +413,9 @@
       "slug": "vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html",
       "first_seen_at": "2026-10-22T21:29:02Z",
       "canonical_key": "GTIN:4963686000008",
-      "active": false,
-      "last_live_at": "2026-11-09T19:45:43Z",
-      "last_seen_at": "2026-11-09T19:49:08Z",
+      "active": true,
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-51477812b0671f12bafc2f01eef9",
         "publishable": true,
@@ -429,13 +429,13 @@
         "current_price": 22.99,
         "comparison_price": 38.7,
         "saving_percent": 40.59,
-        "comparison_count": 2,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-09T19:35:51Z",
-        "valid_until": "2026-11-09T19:50:11Z",
+        "checked_at": "2026-11-11T08:49:06Z",
+        "valid_until": "2026-11-11T09:15:44Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F50192463ef2530a67cf93d80fdfca705.jpg%3Fv%3D1756137344&feedId=102827&k=0aafcaa87ef618327504914fc10bace4634ac0bc",
-        "delivery_price": 4.99,
+        "delivery_price": null,
         "item_price": 22.99,
         "gtin": "4963686000008",
         "mpn": "VFM-WA1X1B",
@@ -443,26 +443,35 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-07 21:11:43",
-            "delivery_price": 3.0,
+            "checked_at": "2026-11-10 21:04:18",
+            "delivery_price": 0.0,
             "item_price": 38.7,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-09T20:05:51Z"
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-09 13:19:44",
-            "delivery_price": 0.0,
+            "checked_at": "2026-11-11 07:23:45",
+            "delivery_price": 3.0,
             "item_price": 38.7,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-09T20:05:51Z"
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-11T09:19:06Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-09 21:06:21",
+            "delivery_price": 0.0,
+            "item_price": 46.44,
+            "retailer": "GamingKit",
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-51477812b0671f12bafc2f01eef9&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fvision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black%3Fvariant%3D55468880888190&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 22.99,
         "market_best_retailer": "Back to the Office",
@@ -470,12 +479,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-09T19:20:11.891720+00:00",
-        "stock_valid_until": "2026-11-09T19:50:11Z"
+        "stock_checked_at": "2026-11-11T08:45:44.329337+00:00",
+        "stock_valid_until": "2026-11-11T09:15:44Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-09T19:45:43Z",
-      "last_changed_date": "2026-11-09"
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
+      "last_changed_date": "2026-11-11"
     },
     "6d8f9a73-ed0f-4026-ac4e-2750d3295f2e": {
       "slug": "startech-com-usb-c-to-hdmi-adapter-4k-60hz-6d8f9a73.html",
@@ -4256,8 +4265,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170192",
       "active": true,
-      "last_live_at": "2026-11-11T08:40:28Z",
-      "last_seen_at": "2026-11-11T08:40:28Z",
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-4ee51a423ad2fd80d086b3fdb826",
         "publishable": true,
@@ -4269,12 +4278,12 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 3472.99,
-        "comparison_price": 6030.03,
-        "saving_percent": 42.41,
-        "comparison_count": 2,
+        "comparison_price": 5481.85,
+        "saving_percent": 36.65,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T08:29:22Z",
+        "checked_at": "2026-11-11T08:49:06Z",
         "valid_until": "2026-11-11T08:54:01Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0c73a0f9b84faba2057eaa4a589b9099_4b31e7e4-2bdc-48ea-b538-eae4017669c3.jpg%3Fv%3D1778992485&feedId=102827&k=5be15660509c041b8b126472a037644e6a302b8a",
         "delivery_price": null,
@@ -4289,7 +4298,16 @@
             "delivery_price": 0.0,
             "item_price": 5481.85,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T08:59:22Z"
+            "valid_until": "2026-11-11T09:19:06Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 07:23:45",
+            "delivery_price": 3.0,
+            "item_price": 5481.85,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
@@ -4298,13 +4316,13 @@
             "delivery_price": 0.0,
             "item_price": 6578.22,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T08:59:22Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4ee51a423ad2fd80d086b3fdb826&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3%3Fvariant%3D55468144066942&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 3472.99,
         "market_best_retailer": "Back to the Office",
@@ -4316,7 +4334,7 @@
         "stock_valid_until": "2026-11-11T08:54:01Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T08:40:28Z",
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-7fd4b77b4a407b85d73e3fac369a": {
@@ -5617,8 +5635,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728227674",
       "active": true,
-      "last_live_at": "2026-11-11T08:40:28Z",
-      "last_seen_at": "2026-11-11T08:40:28Z",
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-98e3e423310fed6d04931d1fbd3f",
         "publishable": true,
@@ -5630,12 +5648,12 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 1055.99,
-        "comparison_price": 1580.48,
-        "saving_percent": 33.19,
-        "comparison_count": 2,
+        "comparison_price": 1436.8,
+        "saving_percent": 26.5,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T08:33:05Z",
+        "checked_at": "2026-11-11T08:49:06Z",
         "valid_until": "2026-11-11T08:54:01Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc63933741fb7cd037150a80186a9d0ae.jpg%3Fv%3D1762514902&feedId=102827&k=2456864bf74d116a126e715fe8ad778da90adf49",
         "delivery_price": null,
@@ -5650,7 +5668,16 @@
             "delivery_price": 0.0,
             "item_price": 1436.8,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 07:23:45",
+            "delivery_price": 3.0,
+            "item_price": 1436.8,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
@@ -5659,13 +5686,13 @@
             "delivery_price": 0.0,
             "item_price": 1724.16,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-98e3e423310fed6d04931d1fbd3f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e%3Fvariant%3D55468141248894&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 1055.99,
         "market_best_retailer": "Back to the Office",
@@ -5677,7 +5704,7 @@
         "stock_valid_until": "2026-11-11T08:54:01Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T08:40:28Z",
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-6866713fc50c3f90f9a717ac4519": {
@@ -5821,8 +5848,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728051651",
       "active": true,
-      "last_live_at": "2026-11-11T08:40:28Z",
-      "last_seen_at": "2026-11-11T08:40:28Z",
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-ab0b7ca962074c22017d151a683c",
         "publishable": true,
@@ -5834,12 +5861,12 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 5834.99,
-        "comparison_price": 8454.58,
-        "saving_percent": 30.98,
-        "comparison_count": 2,
+        "comparison_price": 7685.98,
+        "saving_percent": 24.08,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T08:33:05Z",
+        "checked_at": "2026-11-11T08:49:06Z",
         "valid_until": "2026-11-11T08:54:01Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_778d9620-d391-41aa-8e7f-c5563ab52cdf.jpg%3Fv%3D1756134167&feedId=102827&k=024dc4aa2cacc5a34eb66191877ea37a66078069",
         "delivery_price": null,
@@ -5854,7 +5881,16 @@
             "delivery_price": 0.0,
             "item_price": 7685.98,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 07:23:45",
+            "delivery_price": 3.0,
+            "item_price": 7685.98,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
@@ -5863,13 +5899,13 @@
             "delivery_price": 0.0,
             "item_price": 9223.18,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-ab0b7ca962074c22017d151a683c&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468144886142&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 5834.99,
         "market_best_retailer": "Back to the Office",
@@ -5881,7 +5917,7 @@
         "stock_valid_until": "2026-11-11T08:54:01Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T08:40:28Z",
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-9d62252eb4e25d7030cf1bcfb272": {
@@ -12378,8 +12414,8 @@
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0889728035736",
       "active": true,
-      "last_live_at": "2026-11-11T08:40:28Z",
-      "last_seen_at": "2026-11-11T08:40:28Z",
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-08be6674abb4a892836a2d9ec522",
         "publishable": true,
@@ -12391,12 +12427,12 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 6158.99,
-        "comparison_price": 8454.58,
-        "saving_percent": 27.15,
-        "comparison_count": 2,
+        "comparison_price": 7685.98,
+        "saving_percent": 19.87,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T08:29:22Z",
+        "checked_at": "2026-11-11T08:49:06Z",
         "valid_until": "2026-11-11T08:54:01Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_62bd36dc-b121-4b41-8fa1-9723f2b43098.jpg%3Fv%3D1762514903&feedId=102827&k=560e32f898cc54aa2c4c40b7290e587996eaceaf",
         "delivery_price": null,
@@ -12411,7 +12447,16 @@
             "delivery_price": 0.0,
             "item_price": 7685.98,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T08:59:22Z"
+            "valid_until": "2026-11-11T09:19:06Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 07:23:45",
+            "delivery_price": 3.0,
+            "item_price": 7685.98,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
@@ -12420,13 +12465,13 @@
             "delivery_price": 0.0,
             "item_price": 9223.18,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T08:59:22Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-08be6674abb4a892836a2d9ec522&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468144427390&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 6158.99,
         "market_best_retailer": "Back to the Office",
@@ -12438,7 +12483,7 @@
         "stock_valid_until": "2026-11-11T08:54:01Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T08:40:28Z",
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-7de7adf61f78a025ee6b808823a5": {
@@ -51745,8 +51790,8 @@
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:065030854900",
       "active": true,
-      "last_live_at": "2026-11-11T08:40:28Z",
-      "last_seen_at": "2026-11-11T08:40:28Z",
+      "last_live_at": "2026-11-11T08:49:10Z",
+      "last_seen_at": "2026-11-11T08:49:10Z",
       "last_deal": {
         "deal_id": "db3-fa629ddc4812ff59496294441c26",
         "publishable": true,
@@ -51763,7 +51808,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T08:33:05Z",
+        "checked_at": "2026-11-11T08:49:06Z",
         "valid_until": "2026-11-11T08:54:01Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ffb12e3aedbf77d505b623add9ba215d1.jpg%3Fv%3D1773906169&feedId=102827&k=940c26218c59f1e054de165c3c962e388421ba96",
         "delivery_price": null,
@@ -51778,7 +51823,7 @@
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           },
           {
             "availability": null,
@@ -51787,7 +51832,7 @@
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T09:03:05Z"
+            "valid_until": "2026-11-11T09:19:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -51805,7 +51850,7 @@
         "stock_valid_until": "2026-11-11T08:54:01Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T08:40:28Z",
+      "lkg_certified_at": "2026-11-11T08:49:10Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-6b30f04bc26ca0fe6e4bfdce2fab": {
