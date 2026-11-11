@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T19:49:57Z",
+    "generated_at": "2026-11-11T20:10:23Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "9ceb0751f7c1ac5c0498413e2929e3e3d359a9f432255c991b439ff31f3703c6",
+    "revision": "5c7cf46cd2a93ad65363d6b18419cc8b91346a2aa61a399128072337612a5705",
     "deal_count": 5,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184877838",
       "category": "Technology",
-      "checked_at": "2026-11-11T19:49:55Z",
+      "checked_at": "2026-11-11T20:10:23Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.24,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T19:49:55Z",
+      "market_verified_at": "2026-11-11T20:10:23Z",
       "mpn": "DELL-CC5425C",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c?variant=55307672551806",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 45.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 45.24,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 54.29,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         }
       ],
       "publishable": true,
@@ -76,10 +76,10 @@
       "saving_percent": 40.34,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475271571",
-      "stock_checked_at": "2026-11-11T19:45:13.549035+00:00",
-      "stock_valid_until": "2026-11-11T20:15:13Z",
+      "stock_checked_at": "2026-11-11T20:01:13.392870+00:00",
+      "stock_valid_until": "2026-11-11T20:31:13Z",
       "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
-      "valid_until": "2026-11-11T20:15:13Z",
+      "valid_until": "2026-11-11T20:31:13Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html"
@@ -93,7 +93,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-11T19:49:55Z",
+      "checked_at": "2026-11-11T20:10:23Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 52.87,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T19:49:55Z",
+      "market_verified_at": "2026-11-11T20:10:23Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 52.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -139,7 +139,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         }
       ],
       "publishable": true,
@@ -147,10 +147,10 @@
       "saving_percent": 33.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43071993398",
-      "stock_checked_at": "2026-11-11T19:45:13.549035+00:00",
-      "stock_valid_until": "2026-11-11T20:15:13Z",
+      "stock_checked_at": "2026-11-11T20:01:13.392870+00:00",
+      "stock_valid_until": "2026-11-11T20:31:13Z",
       "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "valid_until": "2026-11-11T20:15:13Z",
+      "valid_until": "2026-11-11T20:31:13Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html"
@@ -164,7 +164,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-11T19:49:55Z",
+      "checked_at": "2026-11-11T20:10:23Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.7,
@@ -180,7 +180,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T19:49:55Z",
+      "market_verified_at": "2026-11-11T20:10:23Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -192,7 +192,7 @@
           "delivery_price": 3.0,
           "item_price": 39.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -201,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 39.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -210,7 +210,7 @@
           "delivery_price": 0.0,
           "item_price": 47.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         }
       ],
       "publishable": true,
@@ -218,10 +218,10 @@
       "saving_percent": 24.46,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
-      "stock_checked_at": "2026-11-11T19:45:13.549035+00:00",
-      "stock_valid_until": "2026-11-11T20:15:13Z",
+      "stock_checked_at": "2026-11-11T20:01:13.392870+00:00",
+      "stock_valid_until": "2026-11-11T20:31:13Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-11T20:15:13Z",
+      "valid_until": "2026-11-11T20:31:13Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
@@ -235,7 +235,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-11T19:49:55Z",
+      "checked_at": "2026-11-11T20:10:23Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.79,
@@ -251,7 +251,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T19:49:55Z",
+      "market_verified_at": "2026-11-11T20:10:23Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -263,7 +263,7 @@
           "delivery_price": 3.0,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -272,7 +272,7 @@
           "delivery_price": 0.0,
           "item_price": 54.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -281,7 +281,7 @@
           "delivery_price": 0.0,
           "item_price": 65.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         }
       ],
       "publishable": true,
@@ -289,10 +289,10 @@
       "saving_percent": 23.36,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475269400",
-      "stock_checked_at": "2026-11-11T19:45:13.549035+00:00",
-      "stock_valid_until": "2026-11-11T20:15:13Z",
+      "stock_checked_at": "2026-11-11T20:01:13.392870+00:00",
+      "stock_valid_until": "2026-11-11T20:31:13Z",
       "title": "DELL 5RGKY",
-      "valid_until": "2026-11-11T20:15:13Z",
+      "valid_until": "2026-11-11T20:31:13Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dell-5rgky-db383267.html"
@@ -306,7 +306,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-11T19:49:55Z",
+      "checked_at": "2026-11-11T20:10:23Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 29.42,
@@ -322,7 +322,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T19:49:55Z",
+      "market_verified_at": "2026-11-11T20:10:23Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -334,7 +334,7 @@
           "delivery_price": 3.0,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -343,7 +343,7 @@
           "delivery_price": 0.0,
           "item_price": 29.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         },
         {
           "availability": null,
@@ -352,7 +352,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T20:19:55Z"
+          "valid_until": "2026-11-11T20:40:23Z"
         }
       ],
       "publishable": true,
@@ -360,10 +360,10 @@
       "saving_percent": 15.06,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156516",
-      "stock_checked_at": "2026-11-11T19:45:13.549035+00:00",
-      "stock_valid_until": "2026-11-11T20:15:13Z",
+      "stock_checked_at": "2026-11-11T20:01:13.392870+00:00",
+      "stock_valid_until": "2026-11-11T20:31:13Z",
       "title": "Targus SafePort strap Tablet Silicone Black",
-      "valid_until": "2026-11-11T20:15:13Z",
+      "valid_until": "2026-11-11T20:31:13Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"
