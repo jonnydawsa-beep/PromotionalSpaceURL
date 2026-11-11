@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T08:29:22Z",
+    "generated_at": "2026-11-11T08:33:05Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "dd4c9011e6f605934484771e03128a5c51508af0ff0438161da82ae18d1f348f",
+    "revision": "e89de8c623bf0e6922ff4435db5c701d382a6c0a3d39fec2fa3967150dcd4d8c",
     "deal_count": 11,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -270,7 +270,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-11T08:23:32Z",
+      "checked_at": "2026-11-11T08:33:05Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 1580.48,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T08:23:32Z",
+      "market_verified_at": "2026-11-11T08:33:05Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -298,7 +298,7 @@
           "delivery_price": 0.0,
           "item_price": 1436.8,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 1724.16,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         }
       ],
       "publishable": true,
@@ -315,10 +315,10 @@
       "saving_percent": 33.19,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447697",
-      "stock_checked_at": "2026-11-11T08:05:46.076091+00:00",
-      "stock_valid_until": "2026-11-11T08:35:46Z",
+      "stock_checked_at": "2026-11-11T08:24:01.582757+00:00",
+      "stock_valid_until": "2026-11-11T08:54:01Z",
       "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
-      "valid_until": "2026-11-11T08:35:46Z",
+      "valid_until": "2026-11-11T08:54:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html"
@@ -394,7 +394,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-11T08:23:32Z",
+      "checked_at": "2026-11-11T08:33:05Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8454.58,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T08:23:32Z",
+      "market_verified_at": "2026-11-11T08:33:05Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -422,7 +422,7 @@
           "delivery_price": 0.0,
           "item_price": 7685.98,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 9223.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         }
       ],
       "publishable": true,
@@ -439,10 +439,10 @@
       "saving_percent": 30.98,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447741",
-      "stock_checked_at": "2026-11-11T08:05:46.076091+00:00",
-      "stock_valid_until": "2026-11-11T08:35:46Z",
+      "stock_checked_at": "2026-11-11T08:24:01.582757+00:00",
+      "stock_valid_until": "2026-11-11T08:54:01Z",
       "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-11T08:35:46Z",
+      "valid_until": "2026-11-11T08:54:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html"
@@ -580,7 +580,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030854900",
       "category": "Technology",
-      "checked_at": "2026-11-11T08:23:32Z",
+      "checked_at": "2026-11-11T08:33:05Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T08:23:32Z",
+      "market_verified_at": "2026-11-11T08:33:05Z",
       "mpn": "DP2DVIMM3BS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -608,7 +608,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T08:53:32Z"
+          "valid_until": "2026-11-11T09:03:05Z"
         }
       ],
       "publishable": true,
@@ -625,10 +625,10 @@
       "saving_percent": 25.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278230",
-      "stock_checked_at": "2026-11-11T08:05:46.076091+00:00",
-      "stock_valid_until": "2026-11-11T08:35:46Z",
+      "stock_checked_at": "2026-11-11T08:24:01.582757+00:00",
+      "stock_valid_until": "2026-11-11T08:54:01Z",
       "title": "StarTech.com 3ft (1m) DisplayPort to DVI Cable - 1080p Video - Active DisplayPort to DVI Adapter Cable - DisplayPort to DVI-D Cable Converter Single Link - DP 1.2 to DVI Monitor Cable",
-      "valid_until": "2026-11-11T08:35:46Z",
+      "valid_until": "2026-11-11T08:54:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html"
