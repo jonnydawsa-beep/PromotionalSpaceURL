@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T10:03:20Z",
+    "generated_at": "2026-11-11T10:06:50Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "404d824ac42228bb1769e091d0aa85f37ac383d9280bc0ce5fd128e80a727d7e",
+    "revision": "0334f2ba2d3e00be85a278309a0f42f2ab2ee49e0d27a0f29738c9fa0bb6e282",
     "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-11T09:40:36Z",
+      "checked_at": "2026-11-11T10:06:50Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T09:40:36Z",
+      "market_verified_at": "2026-11-11T10:06:50Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T10:10:36Z"
+          "valid_until": "2026-11-11T10:36:50Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T10:10:36Z"
+          "valid_until": "2026-11-11T10:36:50Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513542",
       "category": "Other",
-      "checked_at": "2026-11-11T09:40:36Z",
+      "checked_at": "2026-11-11T10:06:50Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T09:40:36Z",
+      "market_verified_at": "2026-11-11T10:06:50Z",
       "mpn": "SPML-MG1C051.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T10:10:36Z"
+          "valid_until": "2026-11-11T10:36:50Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T10:10:36Z"
+          "valid_until": "2026-11-11T10:36:50Z"
         }
       ],
       "publishable": true,
