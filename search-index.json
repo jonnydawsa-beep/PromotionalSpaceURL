@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-11T16:50:48Z",
+  "generated_at": "2026-11-11T16:54:12Z",
   "items": [
-    {
-      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
-      "brand": "Asus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
-      "active": true,
-      "current_price": 76.99
-    },
     {
       "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
       "brand": "Cablenet",
@@ -27,15 +18,6 @@
       "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
       "active": true,
       "current_price": 1353.99
-    },
-    {
-      "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
-      "brand": "Cisco",
-      "category": "Home",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
-      "active": true,
-      "current_price": 32.99
     },
     {
       "title": "DICOTA D30933 wireless presenter RF Black",
@@ -72,33 +54,6 @@
       "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
       "active": true,
       "current_price": 20.99
-    },
-    {
-      "title": "Vision TC3 SURR2G wall plate/switch cover White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-tc3-surr2g-wall-plate-switch-cover-white-db34619a.html",
-      "active": true,
-      "current_price": 23.99
-    },
-    {
-      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
-      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
-      "active": true,
-      "current_price": 92.99
     },
     {
       "title": "3Dconnexion 3DX-700087 equipment case Hard shell case Black",
@@ -646,6 +601,15 @@
       "category": "DIY",
       "retailer": "Back to the Office",
       "url": "products/asus-prime-b850m-k-amd-b850-socket-am5-micro-atx-db33b729.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
+      "brand": "Asus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "active": false,
       "current_price": null
     },
@@ -2167,6 +2131,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-dp-9851-k9-ip-phone-black-6-lines-lcd-db32b431.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
+      "brand": "Cisco",
+      "category": "Home",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
       "active": false,
       "current_price": null
     },
@@ -7832,6 +7805,15 @@
       "current_price": null
     },
     {
+      "title": "Vision TC3 SURR2G wall plate/switch cover White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-tc3-surr2g-wall-plate-switch-cover-white-db34619a.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Vision TM-CC project mount Ceiling White",
       "brand": "Vision",
       "category": "Other",
@@ -7846,6 +7828,24 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
       "active": false,
       "current_price": null
     },
