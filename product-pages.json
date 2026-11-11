@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-11T12:11:46Z",
+  "generated_at": "2026-11-11T12:15:09Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 17,
+  "active_count": 4,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -5154,8 +5154,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:8592978649166",
       "active": true,
-      "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_live_at": "2026-11-11T12:15:09Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-e78d68036d0c307f48e8c814faa8",
         "publishable": true,
@@ -5172,7 +5172,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T11:50:08Z",
+        "checked_at": "2026-11-11T12:15:08Z",
         "valid_until": "2026-11-11T12:18:42Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdae2315ede51196a291481235e1d3a05_ca99e1a5-11f0-4d6c-8d87-917886c2c459.jpg%3Fv%3D1756463653&feedId=102827&k=cc8b15d48f8a8867cad8e5806e69162fbb7f44b0",
         "delivery_price": null,
@@ -5187,7 +5187,7 @@
             "delivery_price": 3.0,
             "item_price": 442.56,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           },
           {
             "availability": null,
@@ -5196,7 +5196,7 @@
             "delivery_price": 0.0,
             "item_price": 531.07,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/intel-xeon-6325p-processor-35-ghz-12-mb-tray?variant=56104515469694",
@@ -5214,7 +5214,7 @@
         "stock_valid_until": "2026-11-11T12:18:42Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T12:11:46Z",
+      "lkg_certified_at": "2026-11-11T12:15:09Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-f936943a5c1de8e2faf79e79f94e": {
@@ -5788,9 +5788,9 @@
       "slug": "cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728168250",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-947c2bfe3f7123644a301e557efd",
         "publishable": true,
@@ -11048,9 +11048,9 @@
       "slug": "vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html",
       "first_seen_at": "2026-10-28T11:42:20Z",
       "canonical_key": "GTIN:4979146000006",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-b31bf16064233c1b3232b6cfdffa",
         "publishable": true,
@@ -12295,9 +12295,9 @@
       "slug": "hp-reversible-protective-15-6-inch-mauve-laptop-sleeve-db3c196f.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:195161357398",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-c196fdc8e7f171fb9a18fd32c765",
         "publishable": true,
@@ -12886,9 +12886,9 @@
       "slug": "brother-tn-627bk-toner-cartridge-1-pc-s-original-black-db332617.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:4977766843638",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-32617b7ed111eabee59d1a093b5e",
         "publishable": true,
@@ -12954,9 +12954,9 @@
       "slug": "tucano-melange-macbook-pro-16-laptop-15-6-skin-case-with-anti-slip-bla-db354abe.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8020252076945",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-54abeae2464383eb654af9d149bb",
         "publishable": true,
@@ -13090,9 +13090,9 @@
       "slug": "cablenet-rj45-snagless-boot-8mm-clear-for-use-with-22-2096-db3ccb2e.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:5056750300537",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-ccb2e924cd9109dd97dcd5217ebe",
         "publishable": true,
@@ -15230,9 +15230,9 @@
       "slug": "vision-vfm-dpd2b-monitor-mount-stand-68-6-cm-27-desk-black-db386970.html",
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:4740219000007",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-86970dd3fcb8c90a80491a7b661c",
         "publishable": true,
@@ -15298,9 +15298,9 @@
       "slug": "cablenet-rj45-rj11-premium-ratchet-crimp-tool-db32f382.html",
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:5056750316897",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-2f3824315e61c331c9dc358f6e0c",
         "publishable": true,
@@ -21075,8 +21075,8 @@
       "first_seen_at": "2026-10-30T22:51:50Z",
       "canonical_key": "GTIN:4711721041437",
       "active": true,
-      "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_live_at": "2026-11-11T12:15:09Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-52fd696e3a900d3c1c59b8c4b6a4",
         "publishable": true,
@@ -21093,7 +21093,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T11:50:08Z",
+        "checked_at": "2026-11-11T12:15:08Z",
         "valid_until": "2026-11-11T12:18:42Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2aed680fb73342c6ee9f28aeec119dcf.jpg%3Fv%3D1777621290&feedId=102827&k=a2a2e8e748887f8157955b8c6cf86b9938d11fb0",
         "delivery_price": null,
@@ -21108,7 +21108,7 @@
             "delivery_price": 3.0,
             "item_price": 32.75,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           },
           {
             "availability": null,
@@ -21117,7 +21117,7 @@
             "delivery_price": 0.0,
             "item_price": 39.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -21135,7 +21135,7 @@
         "stock_valid_until": "2026-11-11T12:18:42Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T12:11:46Z",
+      "lkg_certified_at": "2026-11-11T12:15:09Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-41b6bf8adacb2d4867abb8a49911": {
@@ -38846,9 +38846,9 @@
       "slug": "cablenet-1m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-pat-db38492e.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750331548",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-8492ebac003e275c7d2a27a0dc6d",
         "publishable": true,
@@ -41636,9 +41636,9 @@
       "slug": "vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
       "first_seen_at": "2026-11-03T06:55:16Z",
       "canonical_key": "GTIN:2418655000005",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-c9c31e9f218ea332f7d4e4f19170",
         "publishable": true,
@@ -46321,9 +46321,9 @@
       "slug": "cablenet-2-5m-cat6-rj45-yellow-u-utp-lsoh-24awg-snagless-booted-patch-db31cf4c.html",
       "first_seen_at": "2026-11-04T04:50:43Z",
       "canonical_key": "GTIN:5056750344708",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-1cf4ca0152aeb0fd2cf23f6c2334",
         "publishable": true,
@@ -49667,9 +49667,9 @@
       "slug": "targus-tbt932gl-laptop-case-40-6-cm-16-briefcase-black-db329326.html",
       "first_seen_at": "2026-11-06T01:12:37Z",
       "canonical_key": "GTIN:5051794034851",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-29326834dac256a991da86ff0b2c",
         "publishable": true,
@@ -51912,8 +51912,8 @@
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:790069477355",
       "active": true,
-      "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_live_at": "2026-11-11T12:15:09Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-6b30f04bc26ca0fe6e4bfdce2fab",
         "publishable": true,
@@ -51930,7 +51930,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T11:50:08Z",
+        "checked_at": "2026-11-11T12:15:08Z",
         "valid_until": "2026-11-11T12:18:42Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F389774e2e4bf3b6967d6f0ddb92e8b38.jpg%3Fv%3D1773024738&feedId=102827&k=33279df31019cbae805691dce6629203048f7b2a",
         "delivery_price": null,
@@ -51945,7 +51945,7 @@
             "delivery_price": 3.0,
             "item_price": 163.1,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           },
           {
             "availability": null,
@@ -51954,7 +51954,7 @@
             "delivery_price": 0.0,
             "item_price": 195.72,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
@@ -51972,16 +51972,16 @@
         "stock_valid_until": "2026-11-11T12:18:42Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T12:11:46Z",
+      "lkg_certified_at": "2026-11-11T12:15:09Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-598ab4f05c91bb988f1583b89895": {
       "slug": "intel-e835-xxvda2-internal-fiber-25000-mbit-s-db3598ab.html",
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:5032037283410",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-598ab4f05c91bb988f1583b89895",
         "publishable": true,
@@ -52855,8 +52855,8 @@
       "first_seen_at": "2026-11-09T20:32:01Z",
       "canonical_key": "GTIN:840353962187",
       "active": true,
-      "last_live_at": "2026-11-11T12:11:46Z",
-      "last_seen_at": "2026-11-11T12:11:46Z",
+      "last_live_at": "2026-11-11T12:15:09Z",
+      "last_seen_at": "2026-11-11T12:15:09Z",
       "last_deal": {
         "deal_id": "db3-42ef278bb234484ad38763bece9f",
         "publishable": true,
@@ -52873,7 +52873,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T11:50:08Z",
+        "checked_at": "2026-11-11T12:15:08Z",
         "valid_until": "2026-11-11T12:18:42Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F162c221c3d9617a12a308b41ac1fa6070b69eb0df8dafc0b83d925dee2ba7278.jpg%3Fv%3D1786691067&feedId=102827&k=86ad7669dc3fe4d52c1062bf7c981cc782c78305",
         "delivery_price": null,
@@ -52888,7 +52888,7 @@
             "delivery_price": 3.0,
             "item_price": 439.39,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           },
           {
             "availability": null,
@@ -52897,7 +52897,7 @@
             "delivery_price": 0.0,
             "item_price": 527.27,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T12:20:08Z"
+            "valid_until": "2026-11-11T12:45:08Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-satellite?variant=57842640224638",
@@ -52915,7 +52915,7 @@
         "stock_valid_until": "2026-11-11T12:18:42Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T12:11:46Z",
+      "lkg_certified_at": "2026-11-11T12:15:09Z",
       "last_changed_date": "2026-11-11"
     },
     "db3-05dd54cf176f5f723453daa14311": {
