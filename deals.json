@@ -3,16 +3,87 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T16:01:42Z",
+    "generated_at": "2026-11-11T16:06:33Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "7c6799c7c405c6fc627521a04d89f4283a7306bb6ec8ed3cd9fbc45ace5c1eb7",
-    "deal_count": 2,
+    "revision": "1f2c8e560f2fa8b5f8ad381c909326937109546306f591eae4d0bbb758cc385f",
+    "deal_count": 4,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a0af857d167670e10b8b33f77029&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-asf14w9eu-display-privacy-filter-356-cm-14-1%3Fvariant%3D55307009393022&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Targus",
+      "canonical_key": "GTIN:5051794014471",
+      "category": "Other",
+      "checked_at": "2026-11-11T16:06:32Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 3,
+      "comparison_price": 60.22,
+      "current_price": 27.99,
+      "deal_id": "db3-a0af857d167670e10b8b33f77029",
+      "delivery_price": null,
+      "gtin": "5051794014471",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
+      "item_price": 27.99,
+      "market_best_price": 27.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 4,
+      "market_merchant_count": 4,
+      "market_verified_at": "2026-11-11T16:06:32Z",
+      "mpn": "ASF14W9EU",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 11:25:57",
+          "delivery_price": 3.0,
+          "item_price": 60.22,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-11T16:36:32Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 13:05:25",
+          "delivery_price": 0.0,
+          "item_price": 60.22,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-11T16:36:32Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 14:22:30",
+          "delivery_price": 0.0,
+          "item_price": 72.26,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-11T16:36:32Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 53.52,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "41475269403",
+      "stock_checked_at": "2026-11-11T16:05:41.245697+00:00",
+      "stock_valid_until": "2026-11-11T16:35:41Z",
+      "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
+      "valid_until": "2026-11-11T16:35:41Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html"
+    },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
@@ -22,7 +93,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-11T16:01:42Z",
+      "checked_at": "2026-11-11T16:06:31Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -38,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:01:42Z",
+      "market_verified_at": "2026-11-11T16:06:31Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -50,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         },
         {
           "availability": null,
@@ -59,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 26.07,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         },
         {
           "availability": null,
@@ -68,7 +139,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         }
       ],
       "publishable": true,
@@ -93,7 +164,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-11T16:01:42Z",
+      "checked_at": "2026-11-11T16:06:31Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 44.99,
@@ -109,7 +180,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:01:42Z",
+      "market_verified_at": "2026-11-11T16:06:31Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -121,7 +192,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         },
         {
           "availability": null,
@@ -130,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 30.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         },
         {
           "availability": null,
@@ -139,7 +210,7 @@
           "delivery_price": 0.0,
           "item_price": 36.01,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:31:42Z"
+          "valid_until": "2026-11-11T16:36:31Z"
         }
       ],
       "publishable": true,
@@ -154,6 +225,77 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7e806299be1c39ffe8354df78539&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black%3Fvariant%3D58375359824254&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Cablenet",
+      "canonical_key": "GTIN:5056750315883",
+      "category": "Other",
+      "checked_at": "2026-11-11T16:06:32Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 3,
+      "comparison_price": 25.9,
+      "current_price": 20.99,
+      "deal_id": "db3-7e806299be1c39ffe8354df78539",
+      "delivery_price": null,
+      "gtin": "5056750315883",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FX5jGr8J_x06-KxAqb7gm5w.c-r.jpg%3Fv%3D1793654001&feedId=102827&k=39a4862d94e29e5369992cd618b28e19b1c7fae7",
+      "item_price": 20.99,
+      "market_best_price": 20.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 4,
+      "market_merchant_count": 4,
+      "market_verified_at": "2026-11-11T16:06:32Z",
+      "mpn": "72-2694",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 11:25:57",
+          "delivery_price": 3.0,
+          "item_price": 25.9,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-11T16:36:32Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 13:05:25",
+          "delivery_price": 0.0,
+          "item_price": 25.9,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-11T16:36:32Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-11 14:22:30",
+          "delivery_price": 0.0,
+          "item_price": 31.08,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-11T16:36:32Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 18.96,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "46566614808",
+      "stock_checked_at": "2026-11-11T16:05:41.245697+00:00",
+      "stock_valid_until": "2026-11-11T16:35:41Z",
+      "title": "Cablenet 1u Slotted Finger 19inch 92mm Depth Cable Management Black",
+      "valid_until": "2026-11-11T16:35:41Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black-db37e806.html"
     }
   ]
 }
