@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T17:08:59Z",
+    "generated_at": "2026-11-11T17:31:36Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "8e79d1118ebdaf276a24a20c06a3f6014de7db264475c5845d6f93942392dfd7",
+    "revision": "39420d48dfd8429a1eb554e443ebead0eca72370b6cf9c7d071826b3b4c03217",
     "deal_count": 17,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -46,11 +46,11 @@
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 36.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270107",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Epson A4 Archival Matte Photo Paper 189gsm, 50 sheets",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html"
@@ -84,7 +84,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 40.88,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -112,16 +112,16 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -138,10 +138,10 @@
       "saving_percent": 33.98,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614911",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Jabra Evolve2 65 Flex Ear Cushion",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html"
@@ -155,7 +155,7 @@
       "brand": "Razer",
       "canonical_key": "GTIN:8886419318552",
       "category": "Gaming",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 53.96,
@@ -171,7 +171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "RZ02-03330400-R3M1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green?variant=55306532913534",
@@ -183,16 +183,16 @@
           "delivery_price": 3.0,
           "item_price": 53.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 53.96,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -201,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 64.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -209,10 +209,10 @@
       "saving_percent": 33.3,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476152720",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Razer Gigantus V2 - XXL Gaming mouse pad Black, Green",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green-db3eed7c.html"
@@ -226,7 +226,7 @@
       "brand": "SumUp",
       "canonical_key": "GTIN:4260325422543",
       "category": "Other",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 54.49,
@@ -242,7 +242,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "800604901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sumup-air-and-cradle?variant=55308642255230",
@@ -254,16 +254,16 @@
           "delivery_price": 3.0,
           "item_price": 54.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 54.49,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -272,7 +272,7 @@
           "delivery_price": 0.0,
           "item_price": 65.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -280,10 +280,10 @@
       "saving_percent": 32.12,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266924",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "SumUp Air and Cradle",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sumup-air-and-cradle-db3e3292.html"
@@ -297,7 +297,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387239704",
       "category": "DIY",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 89.1,
@@ -313,7 +313,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "90MB1F80-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -325,16 +325,16 @@
           "delivery_price": 3.0,
           "item_price": 89.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 89.1,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -343,7 +343,7 @@
           "delivery_price": 0.0,
           "item_price": 106.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -351,10 +351,10 @@
       "saving_percent": 29.3,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43942291390",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "ASUS PRO A620M-C-CSM AMD A620 Socket AM5 micro ATX",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html"
@@ -368,7 +368,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4934295000000",
       "category": "Other",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 91.68,
@@ -384,7 +384,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "VFM-W8X6",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
@@ -396,16 +396,16 @@
           "delivery_price": 3.0,
           "item_price": 91.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 91.68,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -414,7 +414,7 @@
           "delivery_price": 0.0,
           "item_price": 110.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -422,10 +422,10 @@
       "saving_percent": 20.39,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614531",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Vision VFM-W8X6 signage display mount 2.29 m (90\") Black",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black-db3a1c26.html"
@@ -439,7 +439,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 6367.5,
@@ -455,7 +455,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -467,16 +467,16 @@
           "delivery_price": 3.0,
           "item_price": 6367.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 6367.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -485,7 +485,7 @@
           "delivery_price": 0.0,
           "item_price": 7641.0,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -493,10 +493,10 @@
       "saving_percent": 19.64,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447746",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Cisco Catalyst C9300-48T-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2-l3-gigabit-ethern-db3f3d89.html"
@@ -510,7 +510,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-11T17:08:57Z",
+      "checked_at": "2026-11-11T17:31:36Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.01,
@@ -526,7 +526,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T17:08:57Z",
+      "market_verified_at": "2026-11-11T17:31:36Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -538,16 +538,16 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-11 13:05:25",
+          "checked_at": "2026-11-11 17:18:01",
           "delivery_price": 0.0,
           "item_price": 26.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         },
         {
           "availability": null,
@@ -556,7 +556,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T17:38:57Z"
+          "valid_until": "2026-11-11T18:01:36Z"
         }
       ],
       "publishable": true,
@@ -564,10 +564,10 @@
       "saving_percent": 19.3,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075454690",
-      "stock_checked_at": "2026-11-11T17:06:32.304221+00:00",
-      "stock_valid_until": "2026-11-11T17:36:32Z",
+      "stock_checked_at": "2026-11-11T17:31:35.594025+00:00",
+      "stock_valid_until": "2026-11-11T18:01:35Z",
       "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH Black",
-      "valid_until": "2026-11-11T17:36:32Z",
+      "valid_until": "2026-11-11T18:01:35Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black-db37de7a.html"
