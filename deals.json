@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T22:15:32Z",
+    "generated_at": "2026-11-11T22:18:53Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e542528768998297611749876e1da36f313ce2bc9c679f4e862a56d7df775b0b",
+    "revision": "10d9c202818a7c7265cf6587e6aa12b3d1b724166d7724ef94541b57a4131f10",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513542",
       "category": "Other",
-      "checked_at": "2026-11-11T21:54:06Z",
+      "checked_at": "2026-11-11T22:18:53Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-11T21:54:06Z",
+      "market_verified_at": "2026-11-11T22:18:53Z",
       "mpn": "SPML-MG1C051.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T22:24:06Z"
+          "valid_until": "2026-11-11T22:48:53Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T22:24:06Z"
+          "valid_until": "2026-11-11T22:48:53Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 48.95,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472136",
-      "stock_checked_at": "2026-11-11T21:50:45.181134+00:00",
-      "stock_valid_until": "2026-11-11T22:20:45Z",
+      "stock_checked_at": "2026-11-11T22:08:14.451512+00:00",
+      "stock_valid_until": "2026-11-11T22:38:14Z",
       "title": "Streamplify MIC GO Black Clip-on microphone",
-      "valid_until": "2026-11-11T22:20:45Z",
+      "valid_until": "2026-11-11T22:38:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html"
