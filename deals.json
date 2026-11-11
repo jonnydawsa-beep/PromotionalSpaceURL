@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-11T16:06:33Z",
+    "generated_at": "2026-11-11T16:26:45Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "1f2c8e560f2fa8b5f8ad381c909326937109546306f591eae4d0bbb758cc385f",
+    "revision": "77ba9c0e44032e55f5b965b3fd9f65504667106fca789ae01ba8a1e26cb547cb",
     "deal_count": 4,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -93,7 +93,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-11T16:06:31Z",
+      "checked_at": "2026-11-11T16:26:44Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:06:31Z",
+      "market_verified_at": "2026-11-11T16:26:44Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 26.07,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         },
         {
           "availability": null,
@@ -139,7 +139,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         }
       ],
       "publishable": true,
@@ -147,10 +147,10 @@
       "saving_percent": 48.95,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "44215472319",
-      "stock_checked_at": "2026-11-11T16:01:41.813988+00:00",
-      "stock_valid_until": "2026-11-11T16:31:41Z",
+      "stock_checked_at": "2026-11-11T16:16:52.621387+00:00",
+      "stock_valid_until": "2026-11-11T16:46:52Z",
       "title": "Streamplify MIC MINI RGB Microphone",
-      "valid_until": "2026-11-11T16:31:41Z",
+      "valid_until": "2026-11-11T16:46:52Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-mini-rgb-microphone-db32578d.html"
@@ -164,7 +164,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-11T16:06:31Z",
+      "checked_at": "2026-11-11T16:26:44Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 44.99,
@@ -180,7 +180,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-11T16:06:31Z",
+      "market_verified_at": "2026-11-11T16:26:44Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -192,7 +192,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         },
         {
           "availability": null,
@@ -201,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 30.01,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         },
         {
           "availability": null,
@@ -210,7 +210,7 @@
           "delivery_price": 0.0,
           "item_price": 36.01,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-11T16:36:31Z"
+          "valid_until": "2026-11-11T16:56:44Z"
         }
       ],
       "publishable": true,
@@ -218,10 +218,10 @@
       "saving_percent": 35.56,
       "signal_type": "HISTORICAL_DROP",
       "source_item_id": "45618341392",
-      "stock_checked_at": "2026-11-11T16:01:41.813988+00:00",
-      "stock_valid_until": "2026-11-11T16:31:41Z",
+      "stock_checked_at": "2026-11-11T16:16:52.621387+00:00",
+      "stock_valid_until": "2026-11-11T16:46:52Z",
       "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "valid_until": "2026-11-11T16:31:41Z",
+      "valid_until": "2026-11-11T16:46:52Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
