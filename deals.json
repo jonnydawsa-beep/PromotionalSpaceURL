@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T06:29:55Z",
+    "generated_at": "2026-11-12T06:50:42Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "22fb63be39c0c84c208b3f9b8509c1cdf54288f25ae336ceb079e2f1883328e2",
+    "revision": "893f2bb4eec349ce5df20a4cd1b5d8bbe992ba1ff382007982f92f71ba1e50e9",
     "deal_count": 20,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Razer",
       "canonical_key": "GTIN:8886419318552",
       "category": "Gaming",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.35,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "RZ02-03330400-R3M1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green?variant=55306532913534",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 53.96,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 64.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 44.42,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476152720",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Razer Gigantus V2 - XXL Gaming mouse pad Black, Green",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green-db3eed7c.html"
@@ -84,7 +84,7 @@
       "brand": "SumUp",
       "canonical_key": "GTIN:4260325422543",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.94,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "800604901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sumup-air-and-cradle?variant=55308642255230",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 54.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 65.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -129,10 +129,10 @@
       "saving_percent": 38.29,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475266924",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "SumUp Air and Cradle",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sumup-air-and-cradle-db3e3292.html"
@@ -146,7 +146,7 @@
       "brand": "Epson",
       "canonical_key": "GTIN:0010343830073",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "C13S041342",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -174,7 +174,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -191,10 +191,10 @@
       "saving_percent": 36.82,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475270107",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Epson A4 Archival Matte Photo Paper 189gsm, 50 sheets",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html"
@@ -208,7 +208,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387239704",
       "category": "DIY",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 98.01,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "90MB1F80-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 89.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 106.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -253,10 +253,10 @@
       "saving_percent": 35.73,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43942291390",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "ASUS PRO A620M-C-CSM AMD A620 Socket AM5 micro ATX",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html"
@@ -270,7 +270,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 40.88,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -298,7 +298,7 @@
           "delivery_price": 0.0,
           "item_price": 40.88,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -324,10 +324,10 @@
       "saving_percent": 33.98,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614911",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:43:30.327196+00:00",
+      "stock_valid_until": "2026-11-12T07:13:30Z",
       "title": "Jabra Evolve2 65 Flex Ear Cushion",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:13:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html"
@@ -341,7 +341,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069477355",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 179.41,
@@ -357,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "DAP-E9560",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
@@ -369,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 163.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 195.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -386,10 +386,10 @@
       "saving_percent": 30.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075468954",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:43:30.327196+00:00",
+      "stock_valid_until": "2026-11-12T07:13:30Z",
       "title": "D-Link Nuclias Connect BE9500 Wi-Fi 7 Access Point",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:13:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html"
@@ -403,7 +403,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962187",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 483.33,
@@ -419,7 +419,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "GA10896-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-satellite?variant=57842640224638",
@@ -431,7 +431,7 @@
           "delivery_price": 3.0,
           "item_price": 439.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -440,7 +440,7 @@
           "delivery_price": 0.0,
           "item_price": 527.27,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -448,10 +448,10 @@
       "saving_percent": 28.83,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "45618341586",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:43:30.327196+00:00",
+      "stock_valid_until": "2026-11-12T07:13:30Z",
       "title": "Google Pixel Watch 5 AMOLED 45 mm Digital Touchscreen Pyrite Wi-Fi GPS (satellite)",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:13:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-db342ef2.html"
@@ -465,7 +465,7 @@
       "brand": "Acer",
       "canonical_key": "GTIN:4711721041437",
       "category": "Technology",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.02,
@@ -481,7 +481,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "ZL.ADTCC.00K",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -493,7 +493,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -502,7 +502,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -510,10 +510,10 @@
       "saving_percent": 27.86,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "44650192967",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Acer 67W PD Charger, USB Port: 2C+1A, UK Plug, 100W USB-C Cable, Black",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/acer-67w-pd-charger-usb-port-2c-1a-uk-plug-100w-usb-c-cable-black-db352fd6.html"
@@ -837,7 +837,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.7,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -865,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 45.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 3.0,
           "item_price": 45.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -891,10 +891,10 @@
       "saving_percent": 25.62,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447777",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html"
@@ -908,7 +908,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728168250",
       "category": "Other",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5253.1,
@@ -924,7 +924,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "C9200-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -936,7 +936,7 @@
           "delivery_price": 0.0,
           "item_price": 5253.1,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -945,7 +945,7 @@
           "delivery_price": 3.0,
           "item_price": 5253.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -954,7 +954,7 @@
           "delivery_price": 0.0,
           "item_price": 6303.72,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -962,10 +962,10 @@
       "saving_percent": 23.06,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447708",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:43:30.327196+00:00",
+      "stock_valid_until": "2026-11-12T07:13:30Z",
       "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:13:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html"
@@ -979,7 +979,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794034851",
       "category": "Technology",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 68.9,
@@ -995,7 +995,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "TBT932GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-tbt932gl-laptop-case-406-cm-16-briefcase-black?variant=55307385831806",
@@ -1007,7 +1007,7 @@
           "delivery_price": 0.0,
           "item_price": 68.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -1016,7 +1016,7 @@
           "delivery_price": 3.0,
           "item_price": 68.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -1025,7 +1025,7 @@
           "delivery_price": 0.0,
           "item_price": 82.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -1033,10 +1033,10 @@
       "saving_percent": 21.64,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476149724",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Targus TBT932GL laptop case 40.6 cm (16\") Briefcase Black",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-tbt932gl-laptop-case-40-6-cm-16-briefcase-black-db329326.html"
@@ -1121,7 +1121,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-12T06:29:53Z",
+      "checked_at": "2026-11-12T06:50:42Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 6367.5,
@@ -1137,7 +1137,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T06:29:53Z",
+      "market_verified_at": "2026-11-12T06:50:42Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -1149,7 +1149,7 @@
           "delivery_price": 0.0,
           "item_price": 6367.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -1158,7 +1158,7 @@
           "delivery_price": 3.0,
           "item_price": 6367.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         },
         {
           "availability": null,
@@ -1167,7 +1167,7 @@
           "delivery_price": 0.0,
           "item_price": 7641.0,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T06:59:53Z"
+          "valid_until": "2026-11-12T07:20:42Z"
         }
       ],
       "publishable": true,
@@ -1175,10 +1175,10 @@
       "saving_percent": 18.93,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447746",
-      "stock_checked_at": "2026-11-12T06:25:11.393739+00:00",
-      "stock_valid_until": "2026-11-12T06:55:11Z",
+      "stock_checked_at": "2026-11-12T06:41:37.758168+00:00",
+      "stock_valid_until": "2026-11-12T07:11:37Z",
       "title": "Cisco Catalyst C9300-48T-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
-      "valid_until": "2026-11-12T06:55:11Z",
+      "valid_until": "2026-11-12T07:11:37Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2-l3-gigabit-ethern-db3f3d89.html"
