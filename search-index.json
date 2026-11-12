@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-12T11:29:45Z",
+  "generated_at": "2026-11-12T11:33:04Z",
   "items": [
-    {
-      "title": "ASUS 27\" Full HD 120Hz Monitor (VA279QGSE)",
-      "brand": "Asus",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/asus-27-full-hd-120hz-monitor-va279qgse-db300451.html",
-      "active": true,
-      "current_price": 136.99
-    },
     {
       "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
       "brand": "Asus",
@@ -65,24 +56,6 @@
       "current_price": 83.99
     },
     {
-      "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
-      "brand": "Streamplify",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
-      "active": true,
-      "current_price": 28.99
-    },
-    {
-      "title": "Streamplify MIC MINI RGB Microphone",
-      "brand": "Streamplify",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
-      "active": true,
-      "current_price": 23.99
-    },
-    {
       "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
       "brand": "Targus",
       "category": "Other",
@@ -117,15 +90,6 @@
       "url": "products/vision-tc3-surr2g-wall-plate-switch-cover-white-db34619a.html",
       "active": true,
       "current_price": 23.99
-    },
-    {
-      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
-      "active": true,
-      "current_price": 22.99
     },
     {
       "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
@@ -655,6 +619,15 @@
       "category": "DIY",
       "retailer": "Back to the Office",
       "url": "products/asrock-b550m-hdv-amd-b550-socket-am4-micro-atx-db37c958.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS 27\" Full HD 120Hz Monitor (VA279QGSE)",
+      "brand": "Asus",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/asus-27-full-hd-120hz-monitor-va279qgse-db300451.html",
       "active": false,
       "current_price": null
     },
@@ -6941,11 +6914,29 @@
       "current_price": null
     },
     {
+      "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
+      "brand": "Streamplify",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Streamplify MIC GO Black Clip-on microphone",
       "brand": "Streamplify",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Streamplify MIC MINI RGB Microphone",
+      "brand": "Streamplify",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/streamplify-mic-mini-rgb-microphone-db32578d.html",
       "active": false,
       "current_price": null
     },
@@ -7846,6 +7837,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
       "active": false,
       "current_price": null
     },
