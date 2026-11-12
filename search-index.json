@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:50:49Z",
+  "generated_at": "2026-11-12T17:54:09Z",
   "items": [
-    {
-      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
-      "brand": "Asus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
-      "active": true,
-      "current_price": 76.99
-    },
-    {
-      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
-      "active": true,
-      "current_price": 1353.99
-    },
     {
       "title": "Cisco Catalyst C9200 Managed L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
@@ -27,15 +9,6 @@
       "url": "products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "active": true,
       "current_price": 4041.99
-    },
-    {
-      "title": "DICOTA D30933 wireless presenter RF Black",
-      "brand": "Dicota",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dicota-d30933-wireless-presenter-rf-black-db37f141.html",
-      "active": true,
-      "current_price": 22.99
     },
     {
       "title": "Google Pixel Watch 5 AMOLED 45 mm Digital Touchscreen Black Wi-Fi GPS (satellite)",
@@ -54,69 +27,6 @@
       "url": "products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
       "active": true,
       "current_price": 26.99
-    },
-    {
-      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "brand": "Lenovo",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
-      "active": true,
-      "current_price": 40.99
-    },
-    {
-      "title": "Nvidia 980-9I57X-00N010 InfiniBand/fibre optic cable 10 m MPO12 Black",
-      "brand": "Nvidia",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black-db34950c.html",
-      "active": true,
-      "current_price": 83.99
-    },
-    {
-      "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
-      "active": true,
-      "current_price": 27.99
-    },
-    {
-      "title": "Targus Pulse II EcoSmart 40.6 cm (16\") Sleeve case Charcoal",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
-      "title": "Vision 2x VGA 15-pin D-Sub, 10m VGA cable VGA (D-Sub) White",
-      "brand": "Vision",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
-      "active": true,
-      "current_price": 27.99
-    },
-    {
-      "title": "Vision TC3 SURR2G wall plate/switch cover White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-tc3-surr2g-wall-plate-switch-cover-white-db34619a.html",
-      "active": true,
-      "current_price": 23.99
-    },
-    {
-      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
-      "active": true,
-      "current_price": 92.99
     },
     {
       "title": "3Dconnexion 3DX-700087 equipment case Hard shell case Black",
@@ -664,6 +574,15 @@
       "category": "DIY",
       "retailer": "Back to the Office",
       "url": "products/asus-prime-b850m-k-amd-b850-socket-am5-micro-atx-db33b729.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
+      "brand": "Asus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "active": false,
       "current_price": null
     },
@@ -2099,6 +2018,15 @@
       "current_price": null
     },
     {
+      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco Catalyst 9300 48-port data Ntw Ess Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Other",
@@ -2680,6 +2608,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/dicota-d30805-rpet-laptop-case-40-6-cm-16-toploader-bag-black-db37ab0e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DICOTA D30933 wireless presenter RF Black",
+      "brand": "Dicota",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dicota-d30933-wireless-presenter-rf-black-db37f141.html",
       "active": false,
       "current_price": null
     },
@@ -5060,6 +4997,15 @@
       "current_price": null
     },
     {
+      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
+      "brand": "Lenovo",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Lenovo 4XC1M72800 network card Internal WWAN",
       "brand": "Lenovo",
       "category": "Technology",
@@ -5902,6 +5848,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/nvidia-930-9o000-0000-409-network-transceiver-module-fiber-optic-10000-db39c069.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Nvidia 980-9I57X-00N010 InfiniBand/fibre optic cable 10 m MPO12 Black",
+      "brand": "Nvidia",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black-db34950c.html",
       "active": false,
       "current_price": null
     },
@@ -7013,6 +6968,15 @@
       "current_price": null
     },
     {
+      "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Targus CityGear backpack Casual backpack Black",
       "brand": "Targus",
       "category": "Other",
@@ -7117,6 +7081,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/targus-pro-tek-27-7-cm-10-9-folio-transparent-db305042.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Targus Pulse II EcoSmart 40.6 cm (16\") Sleeve case Charcoal",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
       "active": false,
       "current_price": null
     },
@@ -7796,6 +7769,15 @@
       "current_price": null
     },
     {
+      "title": "Vision 2x VGA 15-pin D-Sub, 10m VGA cable VGA (D-Sub) White",
+      "brand": "Vision",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Vision HDMI-over-IP Receiver AV receiver Black",
       "brand": "Vision",
       "category": "Other",
@@ -7823,6 +7805,15 @@
       "current_price": null
     },
     {
+      "title": "Vision TC3 SURR2G wall plate/switch cover White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-tc3-surr2g-wall-plate-switch-cover-white-db34619a.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Vision TM-CC project mount Ceiling White",
       "brand": "Vision",
       "category": "Other",
@@ -7846,6 +7837,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision VFM-DAD/4 monitor mount / stand 68.6 cm (27\") Desk Black",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
       "active": false,
       "current_price": null
     },
