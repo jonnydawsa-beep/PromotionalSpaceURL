@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T09:04:03Z",
+    "generated_at": "2026-11-12T09:21:45Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e8443e20e9d871ceb784fa7cce1001c66646c27d2b09cb97a0bec1b895f498b3",
+    "revision": "e4c00c2ff152ea8eca5be42a17c9e3788c91d55bed9848664c08d5800e9072ca",
     "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-12T08:58:45Z",
+      "checked_at": "2026-11-12T09:21:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.7,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T08:58:45Z",
+      "market_verified_at": "2026-11-12T09:21:45Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 38.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         }
       ],
       "publishable": true,
@@ -155,7 +155,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0888182585603",
       "category": "Other",
-      "checked_at": "2026-11-12T08:58:45Z",
+      "checked_at": "2026-11-12T09:21:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 33.79,
@@ -171,7 +171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T08:58:45Z",
+      "market_verified_at": "2026-11-12T09:21:45Z",
       "mpn": "B5L37A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-color-laserjet-b5l37a-toner-collection-unit?variant=55308811698558",
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 33.79,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         },
         {
           "availability": null,
@@ -192,7 +192,7 @@
           "delivery_price": 3.0,
           "item_price": 33.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         },
         {
           "availability": null,
@@ -201,7 +201,7 @@
           "delivery_price": 0.0,
           "item_price": 40.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T09:28:45Z"
+          "valid_until": "2026-11-12T09:51:45Z"
         }
       ],
       "publishable": true,
