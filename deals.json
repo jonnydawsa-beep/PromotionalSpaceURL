@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T21:33:32Z",
+    "generated_at": "2026-11-12T21:36:52Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "2cec219e2c0d83e9c17638b2f051a4368d4a9047e8cd0d1c74701194960d9fe9",
+    "revision": "347cf8313ca5f418144cfd9d52efc64f3a8c6d820386fdea7bc9dae884e364b6",
     "deal_count": 6,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -279,7 +279,7 @@
       "brand": "Lexar",
       "canonical_key": "GTIN:843367135325",
       "category": "Other",
-      "checked_at": "2026-11-12T21:10:02Z",
+      "checked_at": "2026-11-12T21:36:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.79,
@@ -295,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T21:10:02Z",
+      "market_verified_at": "2026-11-12T21:36:52Z",
       "mpn": "LMSSIPL064G-BNANG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card?variant=56014830600574",
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 26.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T21:40:02Z"
+          "valid_until": "2026-11-12T22:06:52Z"
         },
         {
           "availability": null,
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 31.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T21:40:02Z"
+          "valid_until": "2026-11-12T22:06:52Z"
         }
       ],
       "publishable": true,
@@ -341,7 +341,7 @@
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-12T21:10:02Z",
+      "checked_at": "2026-11-12T21:36:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.26,
@@ -357,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T21:10:02Z",
+      "market_verified_at": "2026-11-12T21:36:52Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -369,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T21:40:02Z"
+          "valid_until": "2026-11-12T22:06:52Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 34.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T21:40:02Z"
+          "valid_until": "2026-11-12T22:06:52Z"
         }
       ],
       "publishable": true,
