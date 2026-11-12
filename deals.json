@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T05:21:53Z",
+    "generated_at": "2026-11-12T05:40:18Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "f66ad3862363f7f89a821f835829c2f8a9471fceb3dbde81abccfcf979b3ebfd",
+    "revision": "fc8013a8ade99271187ed52d7158ef5da4176324210d9452ea00c9b1fec1dfa2",
     "deal_count": 16,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -93,7 +93,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513559",
       "category": "Other",
-      "checked_at": "2026-11-12T05:21:51Z",
+      "checked_at": "2026-11-12T05:40:18Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 46.99,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T05:21:51Z",
+      "market_verified_at": "2026-11-12T05:40:18Z",
       "mpn": "SPMC-MM1C327.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 26.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 31.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         }
       ],
       "publishable": true,
@@ -350,7 +350,7 @@
       "brand": "Streamplify",
       "canonical_key": "GTIN:4251442513528",
       "category": "Technology",
-      "checked_at": "2026-11-12T05:21:51Z",
+      "checked_at": "2026-11-12T05:40:18Z",
       "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
       "comparison_count": 20,
       "comparison_price": 44.99,
@@ -366,7 +366,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T05:21:51Z",
+      "market_verified_at": "2026-11-12T05:40:18Z",
       "mpn": "SPCW-CGQH421.11",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -378,7 +378,7 @@
           "delivery_price": 3.0,
           "item_price": 30.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         },
         {
           "availability": null,
@@ -387,7 +387,7 @@
           "delivery_price": 0.0,
           "item_price": 36.01,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         }
       ],
       "publishable": true,
@@ -864,7 +864,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711636286435",
       "category": "Technology",
-      "checked_at": "2026-11-12T05:21:51Z",
+      "checked_at": "2026-11-12T05:40:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 202.18,
@@ -880,7 +880,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T05:21:51Z",
+      "market_verified_at": "2026-11-12T05:40:18Z",
       "mpn": "VA279QGSE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-va279qgse-computer-monitor-686-cm-27-1920-x-1080-pixels-full-hd-lcd-black?variant=56888395661694",
@@ -892,7 +892,7 @@
           "delivery_price": 3.0,
           "item_price": 183.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         },
         {
           "availability": null,
@@ -901,7 +901,7 @@
           "delivery_price": 0.0,
           "item_price": 220.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         }
       ],
       "publishable": true,
@@ -926,7 +926,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-12T05:21:51Z",
+      "checked_at": "2026-11-12T05:40:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 32.42,
@@ -942,7 +942,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T05:21:51Z",
+      "market_verified_at": "2026-11-12T05:40:18Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -954,7 +954,7 @@
           "delivery_price": 0.0,
           "item_price": 32.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         },
         {
           "availability": null,
@@ -963,7 +963,7 @@
           "delivery_price": 3.0,
           "item_price": 32.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         },
         {
           "availability": null,
@@ -972,7 +972,7 @@
           "delivery_price": 0.0,
           "item_price": 38.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:51:51Z"
+          "valid_until": "2026-11-12T06:10:18Z"
         }
       ],
       "publishable": true,
