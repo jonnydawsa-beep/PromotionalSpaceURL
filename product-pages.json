@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-12T17:01:31Z",
+  "generated_at": "2026-11-12T17:06:21Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 1,
+  "active_count": 9,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -191,9 +191,9 @@
     "4755fff5-c297-4182-b312-b4bac4c5d40e": {
       "slug": "alphacool-nexxxos-xt45-radiator-block-4755fff5.html",
       "first_seen_at": "2026-10-20T19:22:48Z",
-      "active": false,
-      "last_live_at": "2026-11-12T11:14:03Z",
-      "last_seen_at": "2026-11-12T11:17:23Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-52165e433fed09c1ea38cc05a2c1",
         "publishable": true,
@@ -210,8 +210,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:14:02Z",
-        "valid_until": "2026-11-12T11:18:52Z",
+        "checked_at": "2026-11-12T17:06:18Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe5dee16b4df14e0ccc1e9019a23dc550.jpg%3Fv%3D1784277292&feedId=102827&k=1c86eff8414eca7eb0bab56ebb09cb90e037760e",
         "delivery_price": null,
         "item_price": 22.99,
@@ -221,20 +221,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 25.15,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 30.18,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
@@ -248,11 +248,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T10:48:52.063053+00:00",
-        "stock_valid_until": "2026-11-12T11:18:52Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:14:03Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12",
       "canonical_key": "GTIN:4250197142120"
     },
@@ -5640,9 +5640,9 @@
       "slug": "asus-27-full-hd-120hz-monitor-va279qgse-db300451.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711636286435",
-      "active": false,
-      "last_live_at": "2026-11-12T11:29:45Z",
-      "last_seen_at": "2026-11-12T11:33:04Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-004518984be88009da17eba23bef",
         "publishable": true,
@@ -5659,8 +5659,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:29:44Z",
-        "valid_until": "2026-11-12T11:34:37Z",
+        "checked_at": "2026-11-12T17:06:19Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F537058517fc50f04966b56c75637a3b3b69957c6d4aa31cb6d047c713421bf7e.jpg%3Fv%3D1783661963&feedId=102827&k=5e82bd8cc16196c00d69aaae86e3908aee6f5ff7",
         "delivery_price": null,
         "item_price": 136.99,
@@ -5670,20 +5670,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 183.8,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 220.56,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/asus-va279qgse-computer-monitor-686-cm-27-1920-x-1080-pixels-full-hd-lcd-black?variant=56888395661694",
@@ -5697,11 +5697,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T11:04:37.648079+00:00",
-        "stock_valid_until": "2026-11-12T11:34:37Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:29:45Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-98e3e423310fed6d04931d1fbd3f": {
@@ -5931,8 +5931,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728051651",
       "active": true,
-      "last_live_at": "2026-11-12T17:01:31Z",
-      "last_seen_at": "2026-11-12T17:01:31Z",
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-ab0b7ca962074c22017d151a683c",
         "publishable": true,
@@ -5949,7 +5949,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T17:01:30Z",
+        "checked_at": "2026-11-12T17:06:18Z",
         "valid_until": "2026-11-12T17:31:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_778d9620-d391-41aa-8e7f-c5563ab52cdf.jpg%3Fv%3D1756134167&feedId=102827&k=024dc4aa2cacc5a34eb66191877ea37a66078069",
         "delivery_price": null,
@@ -5964,7 +5964,7 @@
             "delivery_price": 0.0,
             "item_price": 7646.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T17:31:30Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
@@ -5973,7 +5973,7 @@
             "delivery_price": 3.0,
             "item_price": 7695.81,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T17:31:30Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
@@ -5982,7 +5982,7 @@
             "delivery_price": 0.0,
             "item_price": 9234.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T17:31:30Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -6000,7 +6000,7 @@
         "stock_valid_until": "2026-11-12T17:31:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T17:01:31Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-9d62252eb4e25d7030cf1bcfb272": {
@@ -7215,9 +7215,9 @@
       "slug": "vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:7407487000005",
-      "active": false,
-      "last_live_at": "2026-11-12T11:29:45Z",
-      "last_seen_at": "2026-11-12T11:33:04Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-8412ee2f2ae31adddb1311e3e3d4",
         "publishable": true,
@@ -7234,8 +7234,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:29:44Z",
-        "valid_until": "2026-11-12T11:34:37Z",
+        "checked_at": "2026-11-12T17:06:19Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F75b340d9a8d2b579778c69bb505dc976.jpg%3Fv%3D1756137908&feedId=102827&k=5923774e8be3589cbf48a68bd0bcbae375461a06",
         "delivery_price": null,
         "item_price": 22.99,
@@ -7249,25 +7249,25 @@
             "delivery_price": 0.0,
             "item_price": 32.42,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 32.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 38.9,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -7281,11 +7281,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T11:04:37.648079+00:00",
-        "stock_valid_until": "2026-11-12T11:34:37Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:29:45Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-44ebbebf1ba8734744b8771d40ab": {
@@ -12523,9 +12523,9 @@
       "slug": "cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0889728035736",
-      "active": false,
-      "last_live_at": "2026-11-12T11:14:03Z",
-      "last_seen_at": "2026-11-12T11:17:23Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-08be6674abb4a892836a2d9ec522",
         "publishable": true,
@@ -12537,13 +12537,13 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 6212.99,
-        "comparison_price": 7646.5,
-        "saving_percent": 18.75,
+        "comparison_price": 7695.81,
+        "saving_percent": 19.27,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:14:02Z",
-        "valid_until": "2026-11-12T11:18:52Z",
+        "checked_at": "2026-11-12T17:06:19Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_62bd36dc-b121-4b41-8fa1-9723f2b43098.jpg%3Fv%3D1762514903&feedId=102827&k=560e32f898cc54aa2c4c40b7290e587996eaceaf",
         "delivery_price": null,
         "item_price": 6212.99,
@@ -12557,25 +12557,25 @@
             "delivery_price": 0.0,
             "item_price": 7646.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
-            "item_price": 7646.5,
+            "item_price": 7695.81,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
-            "item_price": 9175.8,
+            "item_price": 9234.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -12589,11 +12589,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T10:48:52.063053+00:00",
-        "stock_valid_until": "2026-11-12T11:18:52Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:14:03Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-7de7adf61f78a025ee6b808823a5": {
@@ -33031,9 +33031,9 @@
       "slug": "streamplify-mic-mini-rgb-microphone-db32578d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513559",
-      "active": false,
-      "last_live_at": "2026-11-12T11:29:45Z",
-      "last_seen_at": "2026-11-12T11:33:04Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
         "publishable": true,
@@ -33050,8 +33050,8 @@
         "comparison_count": 20,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:29:44Z",
-        "valid_until": "2026-11-12T11:34:37Z",
+        "checked_at": "2026-11-12T17:06:18Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
         "delivery_price": null,
         "item_price": 23.99,
@@ -33061,20 +33061,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 31.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
@@ -33088,20 +33088,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T11:04:37.648079+00:00",
-        "stock_valid_until": "2026-11-12T11:34:37Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:29:45Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-5c85df3251bc8502eebcfc4bbe00": {
       "slug": "streamplify-mic-go-black-clip-on-microphone-db35c85d.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513542",
-      "active": false,
-      "last_live_at": "2026-11-12T11:14:03Z",
-      "last_seen_at": "2026-11-12T11:17:23Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
         "publishable": true,
@@ -33118,8 +33118,8 @@
         "comparison_count": 20,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:14:02Z",
-        "valid_until": "2026-11-12T11:18:52Z",
+        "checked_at": "2026-11-12T17:06:18Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
         "delivery_price": null,
         "item_price": 23.99,
@@ -33129,20 +33129,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 26.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 31.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
@@ -33156,20 +33156,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T10:48:52.063053+00:00",
-        "stock_valid_until": "2026-11-12T11:18:52Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:14:03Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-7a8118b86faaa6b9dfac450da837": {
       "slug": "streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html",
       "first_seen_at": "2026-11-01T13:43:20Z",
       "canonical_key": "GTIN:4251442513528",
-      "active": false,
-      "last_live_at": "2026-11-12T11:29:45Z",
-      "last_seen_at": "2026-11-12T11:33:04Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
         "publishable": true,
@@ -33186,8 +33186,8 @@
         "comparison_count": 20,
         "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:29:44Z",
-        "valid_until": "2026-11-12T11:34:37Z",
+        "checked_at": "2026-11-12T17:06:18Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
         "delivery_price": null,
         "item_price": 28.99,
@@ -33197,20 +33197,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:12:30",
+            "checked_at": "2026-11-12 11:14:11",
             "delivery_price": 3.0,
             "item_price": 30.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 36.01,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:59:44Z"
+            "valid_until": "2026-11-12T17:36:18Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
@@ -33224,11 +33224,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T11:04:37.648079+00:00",
-        "stock_valid_until": "2026-11-12T11:34:37Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:29:45Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-aacb89771c2c06505b7b68da6dd2": {
@@ -52088,9 +52088,9 @@
       "slug": "startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html",
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:065030854900",
-      "active": false,
-      "last_live_at": "2026-11-12T11:14:03Z",
-      "last_seen_at": "2026-11-12T11:17:23Z",
+      "active": true,
+      "last_live_at": "2026-11-12T17:06:21Z",
+      "last_seen_at": "2026-11-12T17:06:21Z",
       "last_deal": {
         "deal_id": "db3-fa629ddc4812ff59496294441c26",
         "publishable": true,
@@ -52107,8 +52107,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T11:14:02Z",
-        "valid_until": "2026-11-12T11:18:52Z",
+        "checked_at": "2026-11-12T17:06:19Z",
+        "valid_until": "2026-11-12T17:35:29Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ffb12e3aedbf77d505b623add9ba215d1.jpg%3Fv%3D1773906169&feedId=102827&k=940c26218c59f1e054de165c3c962e388421ba96",
         "delivery_price": null,
         "item_price": 25.99,
@@ -52122,16 +52122,16 @@
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:07:43",
+            "checked_at": "2026-11-12 14:17:20",
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T11:44:02Z"
+            "valid_until": "2026-11-12T17:36:19Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -52145,11 +52145,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T10:48:52.063053+00:00",
-        "stock_valid_until": "2026-11-12T11:18:52Z"
+        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
+        "stock_valid_until": "2026-11-12T17:35:29Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T11:14:03Z",
+      "lkg_certified_at": "2026-11-12T17:06:21Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-6b30f04bc26ca0fe6e4bfdce2fab": {
