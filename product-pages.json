@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-12T03:06:56Z",
+  "generated_at": "2026-11-12T03:14:33Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 5,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -4291,9 +4291,9 @@
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170192",
-      "active": false,
-      "last_live_at": "2026-11-11T21:22:46Z",
-      "last_seen_at": "2026-11-11T21:28:00Z",
+      "active": true,
+      "last_live_at": "2026-11-12T03:14:33Z",
+      "last_seen_at": "2026-11-12T03:14:33Z",
       "last_deal": {
         "deal_id": "db3-4ee51a423ad2fd80d086b3fdb826",
         "publishable": true,
@@ -4310,8 +4310,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T21:22:43Z",
-        "valid_until": "2026-11-11T21:29:01Z",
+        "checked_at": "2026-11-12T03:14:31Z",
+        "valid_until": "2026-11-12T03:43:41Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0c73a0f9b84faba2057eaa4a589b9099_4b31e7e4-2bdc-48ea-b538-eae4017669c3.jpg%3Fv%3D1778992485&feedId=102827&k=5be15660509c041b8b126472a037644e6a302b8a",
         "delivery_price": null,
         "item_price": 3472.99,
@@ -4321,29 +4321,29 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 11:25:57",
-            "delivery_price": 3.0,
-            "item_price": 5453.72,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T21:52:43Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
             "checked_at": "2026-11-11 21:10:50",
             "delivery_price": 0.0,
             "item_price": 5453.72,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:31Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 14:22:30",
+            "checked_at": "2026-11-11 21:12:30",
+            "delivery_price": 3.0,
+            "item_price": 5453.72,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-12T03:44:31Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 21:07:43",
             "delivery_price": 0.0,
             "item_price": 6544.46,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:31Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -4357,12 +4357,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T20:59:01.343888+00:00",
-        "stock_valid_until": "2026-11-11T21:29:01Z"
+        "stock_checked_at": "2026-11-12T03:13:41.850766+00:00",
+        "stock_valid_until": "2026-11-12T03:43:41Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T21:22:46Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T03:14:33Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-7fd4b77b4a407b85d73e3fac369a": {
       "slug": "aoc-27-full-hd-120hz-monitor-27e4cv-db37fd4b.html",
@@ -5670,9 +5670,9 @@
       "slug": "cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728227674",
-      "active": false,
-      "last_live_at": "2026-11-11T21:22:46Z",
-      "last_seen_at": "2026-11-11T21:28:00Z",
+      "active": true,
+      "last_live_at": "2026-11-12T03:14:33Z",
+      "last_seen_at": "2026-11-12T03:14:33Z",
       "last_deal": {
         "deal_id": "db3-98e3e423310fed6d04931d1fbd3f",
         "publishable": true,
@@ -5689,8 +5689,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T21:22:43Z",
-        "valid_until": "2026-11-11T21:29:01Z",
+        "checked_at": "2026-11-12T03:14:31Z",
+        "valid_until": "2026-11-12T03:43:41Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc63933741fb7cd037150a80186a9d0ae.jpg%3Fv%3D1762514902&feedId=102827&k=2456864bf74d116a126e715fe8ad778da90adf49",
         "delivery_price": null,
         "item_price": 1055.99,
@@ -5700,29 +5700,29 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 11:25:57",
-            "delivery_price": 3.0,
-            "item_price": 1429.45,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T21:52:43Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
             "checked_at": "2026-11-11 21:10:50",
             "delivery_price": 0.0,
             "item_price": 1429.45,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:31Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 14:22:30",
+            "checked_at": "2026-11-11 21:12:30",
+            "delivery_price": 3.0,
+            "item_price": 1429.45,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-12T03:44:31Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 21:07:43",
             "delivery_price": 0.0,
             "item_price": 1715.34,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:31Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -5736,12 +5736,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T20:59:01.343888+00:00",
-        "stock_valid_until": "2026-11-11T21:29:01Z"
+        "stock_checked_at": "2026-11-12T03:13:41.850766+00:00",
+        "stock_valid_until": "2026-11-12T03:43:41Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T21:22:46Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T03:14:33Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-6866713fc50c3f90f9a717ac4519": {
       "slug": "cisco-c9200-nm-4x-network-switch-module-10-gigabit-ethernet-gigabit-et-db368667.html",
@@ -5892,9 +5892,9 @@
       "slug": "cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728051651",
-      "active": false,
-      "last_live_at": "2026-11-11T21:22:46Z",
-      "last_seen_at": "2026-11-11T21:28:00Z",
+      "active": true,
+      "last_live_at": "2026-11-12T03:14:33Z",
+      "last_seen_at": "2026-11-12T03:14:33Z",
       "last_deal": {
         "deal_id": "db3-ab0b7ca962074c22017d151a683c",
         "publishable": true,
@@ -5905,29 +5905,20 @@
         "brand": "Cisco",
         "category": "Technology",
         "retailer": "Back to the Office",
-        "current_price": 5834.99,
+        "current_price": 5885.99,
         "comparison_price": 7646.5,
-        "saving_percent": 23.69,
+        "saving_percent": 23.02,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T21:22:43Z",
-        "valid_until": "2026-11-11T21:29:01Z",
+        "checked_at": "2026-11-12T03:14:32Z",
+        "valid_until": "2026-11-12T03:43:41Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_778d9620-d391-41aa-8e7f-c5563ab52cdf.jpg%3Fv%3D1756134167&feedId=102827&k=024dc4aa2cacc5a34eb66191877ea37a66078069",
         "delivery_price": null,
-        "item_price": 5834.99,
+        "item_price": 5885.99,
         "gtin": "0889728051651",
         "mpn": "C9300-48P-A",
         "public_comparisons": [
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 11:25:57",
-            "delivery_price": 3.0,
-            "item_price": 7646.5,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T21:52:43Z"
-          },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
@@ -5935,16 +5926,25 @@
             "delivery_price": 0.0,
             "item_price": 7646.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 14:22:30",
+            "checked_at": "2026-11-11 21:12:30",
+            "delivery_price": 3.0,
+            "item_price": 7646.5,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-12T03:44:32Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 21:07:43",
             "delivery_price": 0.0,
             "item_price": 9175.8,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -5952,18 +5952,18 @@
         "market_merchant_count": 4,
         "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 5834.99,
+        "market_best_price": 5885.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T20:59:01.343888+00:00",
-        "stock_valid_until": "2026-11-11T21:29:01Z"
+        "stock_checked_at": "2026-11-12T03:13:41.850766+00:00",
+        "stock_valid_until": "2026-11-12T03:43:41Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T21:22:46Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T03:14:33Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-9d62252eb4e25d7030cf1bcfb272": {
       "slug": "panasonic-cf-aa5713a2g-power-adapter-inverter-indoor-black-db39d622.html",
@@ -12485,9 +12485,9 @@
       "slug": "cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0889728035736",
-      "active": false,
-      "last_live_at": "2026-11-11T21:22:46Z",
-      "last_seen_at": "2026-11-11T21:28:00Z",
+      "active": true,
+      "last_live_at": "2026-11-12T03:14:33Z",
+      "last_seen_at": "2026-11-12T03:14:33Z",
       "last_deal": {
         "deal_id": "db3-08be6674abb4a892836a2d9ec522",
         "publishable": true,
@@ -12498,29 +12498,20 @@
         "brand": "Cisco",
         "category": "Technology",
         "retailer": "Back to the Office",
-        "current_price": 6158.99,
+        "current_price": 6212.99,
         "comparison_price": 7646.5,
-        "saving_percent": 19.45,
+        "saving_percent": 18.75,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T21:22:43Z",
-        "valid_until": "2026-11-11T21:29:01Z",
+        "checked_at": "2026-11-12T03:14:32Z",
+        "valid_until": "2026-11-12T03:43:41Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fdb49294ff802f0ed90c558c630986daa_62bd36dc-b121-4b41-8fa1-9723f2b43098.jpg%3Fv%3D1762514903&feedId=102827&k=560e32f898cc54aa2c4c40b7290e587996eaceaf",
         "delivery_price": null,
-        "item_price": 6158.99,
+        "item_price": 6212.99,
         "gtin": "0889728035736",
         "mpn": "C9300-48P-E",
         "public_comparisons": [
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 11:25:57",
-            "delivery_price": 3.0,
-            "item_price": 7646.5,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-11T21:52:43Z"
-          },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
@@ -12528,16 +12519,25 @@
             "delivery_price": 0.0,
             "item_price": 7646.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 14:22:30",
+            "checked_at": "2026-11-11 21:12:30",
+            "delivery_price": 3.0,
+            "item_price": 7646.5,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-12T03:44:32Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-11 21:07:43",
             "delivery_price": 0.0,
             "item_price": 9175.8,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -12545,18 +12545,18 @@
         "market_merchant_count": 4,
         "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 6158.99,
+        "market_best_price": 6212.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T20:59:01.343888+00:00",
-        "stock_valid_until": "2026-11-11T21:29:01Z"
+        "stock_checked_at": "2026-11-12T03:13:41.850766+00:00",
+        "stock_valid_until": "2026-11-12T03:43:41Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T21:22:46Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T03:14:33Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-7de7adf61f78a025ee6b808823a5": {
       "slug": "cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black-db37de7a.html",
@@ -52050,9 +52050,9 @@
       "slug": "startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html",
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:065030854900",
-      "active": false,
-      "last_live_at": "2026-11-11T21:22:46Z",
-      "last_seen_at": "2026-11-11T21:28:00Z",
+      "active": true,
+      "last_live_at": "2026-11-12T03:14:33Z",
+      "last_seen_at": "2026-11-12T03:14:33Z",
       "last_deal": {
         "deal_id": "db3-fa629ddc4812ff59496294441c26",
         "publishable": true,
@@ -52069,8 +52069,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T21:22:43Z",
-        "valid_until": "2026-11-11T21:29:01Z",
+        "checked_at": "2026-11-12T03:14:32Z",
+        "valid_until": "2026-11-12T03:43:41Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ffb12e3aedbf77d505b623add9ba215d1.jpg%3Fv%3D1773906169&feedId=102827&k=940c26218c59f1e054de165c3c962e388421ba96",
         "delivery_price": null,
         "item_price": 25.99,
@@ -52084,16 +52084,16 @@
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 14:22:30",
+            "checked_at": "2026-11-11 21:07:43",
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-11T21:52:43Z"
+            "valid_until": "2026-11-12T03:44:32Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -52107,12 +52107,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T20:59:01.343888+00:00",
-        "stock_valid_until": "2026-11-11T21:29:01Z"
+        "stock_checked_at": "2026-11-12T03:13:41.850766+00:00",
+        "stock_valid_until": "2026-11-12T03:43:41Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T21:22:46Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T03:14:33Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-6b30f04bc26ca0fe6e4bfdce2fab": {
       "slug": "d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html",
