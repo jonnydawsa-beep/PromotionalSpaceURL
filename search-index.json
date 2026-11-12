@@ -1,33 +1,6 @@
 {
-  "generated_at": "2026-11-12T03:00:22Z",
+  "generated_at": "2026-11-12T03:03:37Z",
   "items": [
-    {
-      "title": "DELL 5RGKY",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-5rgky-db383267.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html",
-      "active": true,
-      "current_price": 34.99
-    },
-    {
-      "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html",
-      "active": true,
-      "current_price": 26.99
-    },
     {
       "title": "Nvidia RTX 2000 Ada 16 GB GDDR6",
       "brand": "Nvidia",
@@ -36,33 +9,6 @@
       "url": "products/nvidia-rtx-2000-ada-16-gb-gddr6-db314a44.html",
       "active": true,
       "current_price": 640.99
-    },
-    {
-      "title": "SanDisk 64GB SDXC Class 4",
-      "brand": "Sandisk",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/sandisk-64gb-sdxc-class-4-db3978e6.html",
-      "active": true,
-      "current_price": 29.99
-    },
-    {
-      "title": "Targus SafePort strap Tablet Silicone Black",
-      "brand": "Targus",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
-      "active": true,
-      "current_price": 24.99
-    },
-    {
-      "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html",
-      "active": true,
-      "current_price": 22.99
     },
     {
       "title": "3Dconnexion 3DX-700087 equipment case Hard shell case Black",
@@ -2387,6 +2333,15 @@
       "current_price": null
     },
     {
+      "title": "DELL 5RGKY",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-5rgky-db383267.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL CC5626 40.6 cm (16\") Briefcase Black",
       "brand": "DELL",
       "category": "Technology",
@@ -2432,11 +2387,29 @@
       "current_price": null
     },
     {
+      "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL Mobile Adapter Speakerphone- MH3021P",
       "brand": "Dell",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/dell-mobile-adapter-speakerphone-mh3021p-db3e065b.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL Pro 13-14 Plus EcoLoop Briefcase - CC5425C",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-pro-13-14-plus-ecoloop-briefcase-cc5425c-db39a660.html",
       "active": false,
       "current_price": null
     },
@@ -6383,6 +6356,15 @@
       "current_price": null
     },
     {
+      "title": "SanDisk 64GB SDXC Class 4",
+      "brand": "Sandisk",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/sandisk-64gb-sdxc-class-4-db3978e6.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "SanDisk Cruzer Blade 32 GB USB flash drive USB Type-A 2.0 Blue",
       "brand": "Sandisk",
       "category": "Technology",
@@ -7117,6 +7099,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-green-db3052b7.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Targus SafePort strap Tablet Silicone Black",
+      "brand": "Targus",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
       "active": false,
       "current_price": null
     },
@@ -7873,6 +7864,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black-db3a1c26.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html",
       "active": false,
       "current_price": null
     },
