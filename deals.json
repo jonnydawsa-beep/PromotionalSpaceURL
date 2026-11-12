@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T16:31:11Z",
+    "generated_at": "2026-11-12T16:53:58Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "4160f196fa200011edae4ebb5c7d8cc966e1e1a0b8ba5d358f526d34287cd15f",
+    "revision": "ec627f3a5987fcb06466d5c31089ae183002c96d46c6df930a9b4848aedeb033",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-12T16:31:11Z",
+      "checked_at": "2026-11-12T16:53:58Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7695.81,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T16:31:11Z",
+      "market_verified_at": "2026-11-12T16:53:58Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 7646.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T17:01:11Z"
+          "valid_until": "2026-11-12T17:23:58Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 3.0,
           "item_price": 7695.81,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T17:01:11Z"
+          "valid_until": "2026-11-12T17:23:58Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 9234.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T17:01:11Z"
+          "valid_until": "2026-11-12T17:23:58Z"
         }
       ],
       "publishable": true,
