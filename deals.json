@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T01:39:56Z",
+    "generated_at": "2026-11-12T01:47:39Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "824d737c6d9d55cd5fda3b160d9764e6f935979335ef89072a4f74e47c57c3c8",
+    "revision": "a2f0be9a04ad1f0085c6bfa3c1dad6864dfe2ebbfb8531f1a257316f92a5d4d7",
     "deal_count": 18,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -288,7 +288,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252096196",
       "category": "Technology",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.02,
@@ -304,7 +304,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "BU-BIDEA1314-WM-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-idea-notebook-1314-and-macbook-pro-14-messenger-case-with-mouse-included-black?variant=56897268875646",
@@ -316,7 +316,7 @@
           "delivery_price": 3.0,
           "item_price": 25.47,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -325,7 +325,7 @@
           "delivery_price": 0.0,
           "item_price": 30.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -350,7 +350,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750302685",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.32,
@@ -366,7 +366,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "32-3636",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-15m-hdmi-14b-male-male-1080p-hi-speedethernet-24awg-blk-pvc-cable?variant=55468642140542",
@@ -378,7 +378,7 @@
           "delivery_price": 3.0,
           "item_price": 26.66,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -387,7 +387,7 @@
           "delivery_price": 0.0,
           "item_price": 31.99,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -474,7 +474,7 @@
       "brand": "Planet",
       "canonical_key": "GTIN:4711213686764",
       "category": "Technology",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.93,
@@ -490,7 +490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "MGB-LX",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/planet-mgb-lx-network-transceiver-module-fiber-optic-1000-mbit-s-sfp-1310-nm?variant=58375356318078",
@@ -502,7 +502,7 @@
           "delivery_price": 3.0,
           "item_price": 26.3,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -511,7 +511,7 @@
           "delivery_price": 0.0,
           "item_price": 31.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -598,7 +598,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158668740",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 43.43,
@@ -614,7 +614,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "D31696-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-eco-scale-439-cm-173-backpack-black?variant=55468208980350",
@@ -626,7 +626,7 @@
           "delivery_price": 0.0,
           "item_price": 43.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -635,7 +635,7 @@
           "delivery_price": 3.0,
           "item_price": 43.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -644,7 +644,7 @@
           "delivery_price": 0.0,
           "item_price": 52.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -669,7 +669,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320283",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.53,
@@ -685,7 +685,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "CN-DAC-10G-1-HP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-1-hp-infiniband-fibre-optic-cable-1-m-sfp?variant=58376192328062",
@@ -697,7 +697,7 @@
           "delivery_price": 0.0,
           "item_price": 26.53,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -706,7 +706,7 @@
           "delivery_price": 3.0,
           "item_price": 26.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -715,7 +715,7 @@
           "delivery_price": 0.0,
           "item_price": 31.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -740,7 +740,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331555",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.22,
@@ -756,7 +756,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "PE65-6020",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375356350846",
@@ -768,7 +768,7 @@
           "delivery_price": 0.0,
           "item_price": 26.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -777,7 +777,7 @@
           "delivery_price": 3.0,
           "item_price": 26.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -786,7 +786,7 @@
           "delivery_price": 0.0,
           "item_price": 31.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -811,7 +811,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320382",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.2,
@@ -827,7 +827,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "CN-DAC-10G-5-CIS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-5-cis-infiniband-fibre-optic-cable-5-m-sfp?variant=58376067940734",
@@ -839,7 +839,7 @@
           "delivery_price": 0.0,
           "item_price": 26.2,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -848,7 +848,7 @@
           "delivery_price": 3.0,
           "item_price": 26.2,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -857,7 +857,7 @@
           "delivery_price": 0.0,
           "item_price": 31.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -882,7 +882,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344623",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.16,
@@ -898,7 +898,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "65-4015P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1-5m-cat6a-rj45-blue-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375357596030",
@@ -910,7 +910,7 @@
           "delivery_price": 0.0,
           "item_price": 26.16,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -919,7 +919,7 @@
           "delivery_price": 3.0,
           "item_price": 26.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -928,7 +928,7 @@
           "delivery_price": 0.0,
           "item_price": 31.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -953,7 +953,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750345194",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 26.16,
@@ -969,7 +969,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "65-0020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-pink-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375857897854",
@@ -981,7 +981,7 @@
           "delivery_price": 0.0,
           "item_price": 26.16,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -990,7 +990,7 @@
           "delivery_price": 3.0,
           "item_price": 26.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -999,7 +999,7 @@
           "delivery_price": 0.0,
           "item_price": 31.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
@@ -1024,7 +1024,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342841",
       "category": "Other",
-      "checked_at": "2026-11-12T01:34:40Z",
+      "checked_at": "2026-11-12T01:47:39Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 27.33,
@@ -1040,7 +1040,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T01:34:40Z",
+      "market_verified_at": "2026-11-12T01:47:39Z",
       "mpn": "65-1020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-grey-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375350813054",
@@ -1052,7 +1052,7 @@
           "delivery_price": 0.0,
           "item_price": 27.33,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -1061,7 +1061,7 @@
           "delivery_price": 3.0,
           "item_price": 27.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         },
         {
           "availability": null,
@@ -1070,7 +1070,7 @@
           "delivery_price": 0.0,
           "item_price": 32.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T02:04:40Z"
+          "valid_until": "2026-11-12T02:17:39Z"
         }
       ],
       "publishable": true,
