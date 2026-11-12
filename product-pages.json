@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-12T05:46:59Z",
+  "generated_at": "2026-11-12T05:54:40Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 10,
+  "active_count": 27,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -934,8 +934,8 @@
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5051794014471",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-a0af857d167670e10b8b33f77029",
         "publishable": true,
@@ -952,7 +952,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
         "delivery_price": null,
@@ -967,7 +967,7 @@
             "delivery_price": 0.0,
             "item_price": 60.22,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -976,7 +976,7 @@
             "delivery_price": 3.0,
             "item_price": 60.22,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -985,7 +985,7 @@
             "delivery_price": 0.0,
             "item_price": 72.26,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -1003,7 +1003,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-91ccf1746a719978b7621f56f3fe": {
@@ -1517,9 +1517,9 @@
       "slug": "sumup-air-and-cradle-db3e3292.html",
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:4260325422543",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-e3292e536aa93963d98e4bc61936",
         "publishable": true,
@@ -1536,8 +1536,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:37Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F4a6730b89d1d00c7e7350cdfbf037c05.jpg%3Fv%3D1758096565&feedId=102827&k=48d88dc626ed385c8cf8dfcbc3787babadd72919",
         "delivery_price": null,
         "item_price": 36.99,
@@ -1551,7 +1551,7 @@
             "delivery_price": 3.0,
             "item_price": 54.49,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -1560,7 +1560,7 @@
             "delivery_price": 0.0,
             "item_price": 65.39,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/sumup-air-and-cradle?variant=55308642255230",
@@ -1574,11 +1574,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-ddda54d492d05f7b78ea2bcc293d": {
@@ -4514,8 +4514,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:195477876194",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-9f01840209b48dfdbc0dbdff8363",
         "publishable": true,
@@ -4532,7 +4532,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7438e87c81a424503381f7e3d4679124.jpg%3Fv%3D1761404209&feedId=102827&k=b7f5dfa96b0e2384d0a81563b4b97c38c8e5ad58",
         "delivery_price": null,
@@ -4547,7 +4547,7 @@
             "delivery_price": 3.0,
             "item_price": 62.39,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -4556,7 +4556,7 @@
             "delivery_price": 0.0,
             "item_price": 74.87,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -4574,7 +4574,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-ac4b49b56b73d64082b08e1c0e6b": {
@@ -5035,9 +5035,9 @@
       "slug": "asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx-db3d6eaf.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711387239704",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-d6eafca849374e76e90b11b2ca10",
         "publishable": true,
@@ -5054,8 +5054,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:37Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1b20495fe674a03f388a1e67f7b401c8.jpg%3Fv%3D1783755329&feedId=102827&k=fdfc5aec352d3a306a14b7fd2bbf2491dc1b3291",
         "delivery_price": null,
         "item_price": 62.99,
@@ -5069,7 +5069,7 @@
             "delivery_price": 3.0,
             "item_price": 89.1,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -5078,7 +5078,7 @@
             "delivery_price": 0.0,
             "item_price": 106.92,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -5092,11 +5092,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-152d740e38a8182c27f2899ae7ed": {
@@ -5535,8 +5535,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:9120056503346",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-96bd5abdd17d3cc2c48bc5638d03",
         "publishable": true,
@@ -5553,7 +5553,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F57d2a4d145e447be57624b6242ab2485.jpg%3Fv%3D1778665126&feedId=102827&k=19a299c993e7663267bc12d3a487736a81bd7713",
         "delivery_price": null,
@@ -5568,7 +5568,7 @@
             "delivery_price": 3.0,
             "item_price": 277.73,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -5577,7 +5577,7 @@
             "delivery_price": 0.0,
             "item_price": 333.28,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/philips-lfh7277-foot-control-unit?variant=57404645704062",
@@ -5595,7 +5595,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-004518984be88009da17eba23bef": {
@@ -5815,9 +5815,9 @@
       "slug": "cisco-catalyst-c9200-managed-l3-gigabit-ethernet-10-100-1000-grey-db3947c2.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728168250",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-947c2bfe3f7123644a301e557efd",
         "publishable": true,
@@ -5828,17 +5828,17 @@
         "brand": "Cisco",
         "category": "Other",
         "retailer": "Back to the Office",
-        "current_price": 4006.99,
+        "current_price": 4041.99,
         "comparison_price": 5253.1,
-        "saving_percent": 23.72,
+        "saving_percent": 23.06,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fd471f60acef38ef53eae97f15081d268_2211a8ef-20ba-40e3-9397-1ee24f9724da.jpg%3Fv%3D1756134159&feedId=102827&k=d85d20e00e6bcca51c3d7b3e1ea7c5b81ccdf24a",
         "delivery_price": null,
-        "item_price": 4006.99,
+        "item_price": 4041.99,
         "gtin": "0889728168250",
         "mpn": "C9200-48P-E",
         "public_comparisons": [
@@ -5849,7 +5849,7 @@
             "delivery_price": 0.0,
             "item_price": 5253.1,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -5858,7 +5858,7 @@
             "delivery_price": 3.0,
             "item_price": 5253.1,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -5867,7 +5867,7 @@
             "delivery_price": 0.0,
             "item_price": 6303.72,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -5875,17 +5875,17 @@
         "market_merchant_count": 4,
         "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 4006.99,
+        "market_best_price": 4041.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-ab0b7ca962074c22017d151a683c": {
@@ -6471,8 +6471,8 @@
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:3480006000001",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-924f599d9de13096a8b4483124bb",
         "publishable": true,
@@ -6489,7 +6489,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0a95f49e53fbc84cdb3d37c3e124de11_d11fe34d-927d-4519-90fa-5ab1afadfacc.jpg%3Fv%3D1756137315&feedId=102827&k=8fc0445e7c1e87e431db13d5231ba8440896c4af",
         "delivery_price": null,
@@ -6504,7 +6504,7 @@
             "delivery_price": 3.0,
             "item_price": 43.06,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -6513,7 +6513,7 @@
             "delivery_price": 0.0,
             "item_price": 51.67,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white?variant=55468876562814",
@@ -6531,7 +6531,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-548921a8e306d690b204ac669242": {
@@ -6684,8 +6684,8 @@
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:7640158661437",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-7f1416a5b12400a1f50ca26e1428",
         "publishable": true,
@@ -6702,7 +6702,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1686c0afc9b9a1105ead3b668efbfa06_7e0a0a53-a224-4c89-bc77-fc792c824e45.jpg%3Fv%3D1762114483&feedId=102827&k=8be58dec40babbf0449a40ff96cc0efc8beb7091",
         "delivery_price": null,
@@ -6717,7 +6717,7 @@
             "delivery_price": 0.0,
             "item_price": 35.43,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -6726,7 +6726,7 @@
             "delivery_price": 3.0,
             "item_price": 35.43,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -6735,7 +6735,7 @@
             "delivery_price": 0.0,
             "item_price": 42.52,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -6753,7 +6753,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-b6b02a65c5f1399aa4588f4befb0": {
@@ -10648,8 +10648,8 @@
       "first_seen_at": "2026-10-27T19:27:01Z",
       "canonical_key": "GTIN:3446603000004",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-4619aff74592b11b5fb6b086568b",
         "publishable": true,
@@ -10666,7 +10666,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc87cfd3ec23c86c42e33307881a828b3.jpg%3Fv%3D1756137337&feedId=102827&k=fc1efdfbc569b9699edd53385c527d16a2537e0f",
         "delivery_price": null,
@@ -10681,7 +10681,7 @@
             "delivery_price": 3.0,
             "item_price": 32.75,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -10690,7 +10690,7 @@
             "delivery_price": 0.0,
             "item_price": 39.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc3-surr2g-wall-plateswitch-cover-white?variant=55468879872382",
@@ -10708,7 +10708,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-53f7446a295b3fb3066b0178c6fb": {
@@ -11084,9 +11084,9 @@
       "slug": "vision-tc-hdmivga-bl-video-cable-adapter-0-23-m-hdmi-type-a-standard-v-db3b31bf.html",
       "first_seen_at": "2026-10-28T11:42:20Z",
       "canonical_key": "GTIN:4979146000006",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-b31bf16064233c1b3232b6cfdffa",
         "publishable": true,
@@ -11103,8 +11103,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fd4785cfeeacbef51fc668331e1f8e418.jpg%3Fv%3D1756137325&feedId=102827&k=27d6221893cddba880fe3d467a4d7307af5017da",
         "delivery_price": null,
         "item_price": 23.99,
@@ -11118,7 +11118,7 @@
             "delivery_price": 3.0,
             "item_price": 29.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -11127,7 +11127,7 @@
             "delivery_price": 0.0,
             "item_price": 35.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -11141,11 +11141,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-cfdee560c7a611100969b69ac7f8": {
@@ -12020,9 +12020,9 @@
       "slug": "razer-gigantus-v2-xxl-gaming-mouse-pad-black-green-db3eed7c.html",
       "first_seen_at": "2026-10-28T21:29:27Z",
       "canonical_key": "GTIN:8886419318552",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-eed7c2f951c0092988eede30de90",
         "publishable": true,
@@ -12033,17 +12033,17 @@
         "brand": "Razer",
         "category": "Gaming",
         "retailer": "Back to the Office",
-        "current_price": 35.99,
+        "current_price": 32.99,
         "comparison_price": 59.35,
-        "saving_percent": 39.36,
+        "saving_percent": 44.42,
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:37Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F26b281a3e299a5259bf4af5de32fe71b.jpg%3Fv%3D1775665666&feedId=102827&k=eff2adaa3440eeb21d735b98de8b80081f503771",
         "delivery_price": null,
-        "item_price": 35.99,
+        "item_price": 32.99,
         "gtin": "8886419318552",
         "mpn": "RZ02-03330400-R3M1",
         "public_comparisons": [
@@ -12054,7 +12054,7 @@
             "delivery_price": 3.0,
             "item_price": 53.96,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -12063,7 +12063,7 @@
             "delivery_price": 0.0,
             "item_price": 64.75,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/razer-gigantus-v2-xxl-gaming-mouse-pad-black-green?variant=55306532913534",
@@ -12071,17 +12071,17 @@
         "market_merchant_count": 3,
         "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 35.99,
+        "market_best_price": 32.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-20766e0192f1d3dc0dd680f5f4a2": {
@@ -12340,9 +12340,9 @@
       "slug": "hp-reversible-protective-15-6-inch-mauve-laptop-sleeve-db3c196f.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:195161357398",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-c196fdc8e7f171fb9a18fd32c765",
         "publishable": true,
@@ -12359,8 +12359,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7bcce94f50564e5bf54b569b72a3eef9_b67de5f4-ed8f-44e9-9ff6-d75a542f5cb2.jpg%3Fv%3D1791439149&feedId=102827&k=d1120c5456c3aae285319ba70184517211b5522f",
         "delivery_price": null,
         "item_price": 24.99,
@@ -12374,7 +12374,7 @@
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -12383,7 +12383,7 @@
             "delivery_price": 3.0,
             "item_price": 31.64,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -12392,7 +12392,7 @@
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-mauve-laptop-sleeve?variant=58174209458558",
@@ -12406,20 +12406,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-f6704b37993501d823a0af024d56": {
       "slug": "epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0010343830073",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-f6704b37993501d823a0af024d56",
         "publishable": true,
@@ -12436,8 +12436,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:37Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2ad859c1acc8c58fbc520115a8a4bf02.jpg%3Fv%3D1779255935&feedId=102827&k=62acf668fea2fcbd88cf82de0cf42aaed1c0b83a",
         "delivery_price": null,
         "item_price": 21.99,
@@ -12451,7 +12451,7 @@
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -12460,7 +12460,7 @@
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -12474,11 +12474,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-08be6674abb4a892836a2d9ec522": {
@@ -12940,9 +12940,9 @@
       "slug": "brother-tn-627bk-toner-cartridge-1-pc-s-original-black-db332617.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:4977766843638",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-32617b7ed111eabee59d1a093b5e",
         "publishable": true,
@@ -12959,8 +12959,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F46eb75a59353e82a9123033613eb5206_5d879041-531f-464f-bc6e-d1aebd4515ae.jpg%3Fv%3D1779775634&feedId=102827&k=dbd81d46b538880a959003bbff2f5ba73f863f2b",
         "delivery_price": null,
         "item_price": 137.99,
@@ -12974,7 +12974,7 @@
             "delivery_price": 3.0,
             "item_price": 169.07,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -12983,7 +12983,7 @@
             "delivery_price": 0.0,
             "item_price": 202.88,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-627bk-toner-cartridge-1-pcs-original-black-2?variant=57461883634046",
@@ -12997,20 +12997,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-54abeae2464383eb654af9d149bb": {
       "slug": "tucano-melange-macbook-pro-16-laptop-15-6-skin-case-with-anti-slip-bla-db354abe.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:8020252076945",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-54abeae2464383eb654af9d149bb",
         "publishable": true,
@@ -13027,8 +13027,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Feb070fd5122a5e29c7c8ebfca7573d1f.jpg%3Fv%3D1772798069&feedId=102827&k=d15d0222e211e3cdee602aac68e31037cb3b967c",
         "delivery_price": null,
         "item_price": 20.99,
@@ -13042,7 +13042,7 @@
             "delivery_price": 3.0,
             "item_price": 25.73,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -13051,7 +13051,7 @@
             "delivery_price": 0.0,
             "item_price": 30.88,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/tucano-melange-macbook-pro-16-laptop-156-skin-case-with-anti-slip-black?variant=56897273561470",
@@ -13065,11 +13065,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-431a61f57fc60359b4c5c29198f7": {
@@ -14087,8 +14087,8 @@
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0889728170161",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-13b2e52479583026fc51325aebf3",
         "publishable": true,
@@ -14105,7 +14105,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_4ff1ca3c-3df8-44dc-b6ed-8f9a5fa90465.jpg%3Fv%3D1756134161&feedId=102827&k=42c451ca6f5314702ab3bd21f41c6e487c2aa8bb",
         "delivery_price": null,
@@ -14120,7 +14120,7 @@
             "delivery_price": 0.0,
             "item_price": 2064.59,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -14129,7 +14129,7 @@
             "delivery_price": 3.0,
             "item_price": 2064.59,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -14138,7 +14138,7 @@
             "delivery_price": 0.0,
             "item_price": 2477.51,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -14156,7 +14156,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-e3c939d29587bb6ddc4a082b7f0e": {
@@ -21146,9 +21146,9 @@
       "slug": "acer-67w-pd-charger-usb-port-2c-1a-uk-plug-100w-usb-c-cable-black-db352fd6.html",
       "first_seen_at": "2026-10-30T22:51:50Z",
       "canonical_key": "GTIN:4711721041437",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-52fd696e3a900d3c1c59b8c4b6a4",
         "publishable": true,
@@ -21165,8 +21165,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2aed680fb73342c6ee9f28aeec119dcf.jpg%3Fv%3D1777621290&feedId=102827&k=a2a2e8e748887f8157955b8c6cf86b9938d11fb0",
         "delivery_price": null,
         "item_price": 25.99,
@@ -21180,7 +21180,7 @@
             "delivery_price": 3.0,
             "item_price": 32.75,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -21189,7 +21189,7 @@
             "delivery_price": 0.0,
             "item_price": 39.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -21203,11 +21203,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-41b6bf8adacb2d4867abb8a49911": {
@@ -38628,9 +38628,9 @@
       "slug": "jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5706991029185",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-d8f6c676cd15956cc0f99724371c",
         "publishable": true,
@@ -38647,8 +38647,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:37Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FEPuv4EsEUEGoe9hqbT_Y8w.c-r.jpg%3Fv%3D1793656956&feedId=102827&k=1d5e1883af2914f64261fba84410d9484b57a8bb",
         "delivery_price": null,
         "item_price": 26.99,
@@ -38662,7 +38662,7 @@
             "delivery_price": 0.0,
             "item_price": 40.88,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -38671,7 +38671,7 @@
             "delivery_price": 3.0,
             "item_price": 40.88,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -38680,7 +38680,7 @@
             "delivery_price": 0.0,
             "item_price": 49.06,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -38694,11 +38694,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-6c338597c8391b60a2d51d62dba8": {
@@ -38859,9 +38859,9 @@
       "slug": "cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-db3b755c.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750342308",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-b755c34817755885fb903f320a1e",
         "publishable": true,
@@ -38878,8 +38878,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ff2ujREORZEemb9AKsKKWIA.c-r_6cb8e3af-5ed5-4765-b818-35478b1e6c5e.jpg%3Fv%3D1793654005&feedId=102827&k=727c2f97570664f935ee693dd1a5bf33fa1c48dd",
         "delivery_price": null,
         "item_price": 20.99,
@@ -38893,7 +38893,7 @@
             "delivery_price": 0.0,
             "item_price": 25.76,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -38902,7 +38902,7 @@
             "delivery_price": 3.0,
             "item_price": 25.76,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -38911,7 +38911,7 @@
             "delivery_price": 0.0,
             "item_price": 30.91,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375359889790",
@@ -38925,11 +38925,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-8492ebac003e275c7d2a27a0dc6d": {
@@ -46714,9 +46714,9 @@
       "slug": "cisco-catalyst-c9300-48t-e-network-switch-managed-l2-l3-gigabit-ethern-db3f3d89.html",
       "first_seen_at": "2026-11-04T07:53:16Z",
       "canonical_key": "GTIN:0889728035743",
-      "active": false,
-      "last_live_at": "2026-11-11T23:59:52Z",
-      "last_seen_at": "2026-11-12T00:05:06Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-f3d89456b5d395c844fcc3f8129d",
         "publishable": true,
@@ -46727,17 +46727,17 @@
         "brand": "Cisco",
         "category": "Technology",
         "retailer": "Back to the Office",
-        "current_price": 5116.99,
+        "current_price": 5161.99,
         "comparison_price": 6367.5,
-        "saving_percent": 19.64,
+        "saving_percent": 18.93,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:59:49Z",
-        "valid_until": "2026-11-12T00:02:52Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Faf6f9bade7312c3277e554eba6043813_80ce2a10-33da-44a1-9cd6-3e8ca3f4a5f9.jpg%3Fv%3D1756134168&feedId=102827&k=237ee0629e4cf2be1ba13fa949e232f9a348baa8",
         "delivery_price": null,
-        "item_price": 5116.99,
+        "item_price": 5161.99,
         "gtin": "0889728035743",
         "mpn": "C9300-48T-E",
         "public_comparisons": [
@@ -46748,7 +46748,7 @@
             "delivery_price": 0.0,
             "item_price": 6367.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -46757,7 +46757,7 @@
             "delivery_price": 3.0,
             "item_price": 6367.5,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -46766,7 +46766,7 @@
             "delivery_price": 0.0,
             "item_price": 7641.0,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:29:49Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -46774,17 +46774,17 @@
         "market_merchant_count": 4,
         "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 5116.99,
+        "market_best_price": 5161.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:32:52.137456+00:00",
-        "stock_valid_until": "2026-11-12T00:02:52Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:59:52Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-c377c70d64137741753d003ae932": {
@@ -49399,8 +49399,8 @@
       "first_seen_at": "2026-11-05T17:59:36Z",
       "canonical_key": "GTIN:840353962224",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-4d80505c0fd88aff733a360cec87",
         "publishable": true,
@@ -49417,7 +49417,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7bb5f4f4c1189260a0f1c345efb54d940b7a99c03bd29d34613ac3c9a9dd3eb6.jpg%3Fv%3D1786691055&feedId=102827&k=632866280280f45a09e05021d5b082e6c9e5e551",
         "delivery_price": null,
@@ -49432,7 +49432,7 @@
             "delivery_price": 3.0,
             "item_price": 469.44,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -49441,7 +49441,7 @@
             "delivery_price": 0.0,
             "item_price": 563.33,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-black-wi-fi-gps-satellite?variant=57842639962494",
@@ -49459,7 +49459,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-d3a8a2f0ce395e365a87f53deecd": {
@@ -49670,9 +49670,9 @@
       "slug": "cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
       "first_seen_at": "2026-11-05T18:04:20Z",
       "canonical_key": "GTIN:0889728136174",
-      "active": false,
-      "last_live_at": "2026-11-11T23:38:58Z",
-      "last_seen_at": "2026-11-11T23:42:15Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-9c7f402ff5f06a4652cda47427f6",
         "publishable": true,
@@ -49683,17 +49683,17 @@
         "brand": "Cisco",
         "category": "Home",
         "retailer": "Back to the Office",
-        "current_price": 32.99,
+        "current_price": 33.99,
         "comparison_price": 45.7,
-        "saving_percent": 27.81,
+        "saving_percent": 25.62,
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-11T23:38:57Z",
-        "valid_until": "2026-11-11T23:42:29Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:22:30Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F66d635e9b178cbdf49e913ad4f93e344.jpg%3Fv%3D1756134182&feedId=102827&k=b2f690086b6e8f0a424e5eaef03b84bc8c2b4242",
         "delivery_price": null,
-        "item_price": 32.99,
+        "item_price": 33.99,
         "gtin": "0889728136174",
         "mpn": "CAB-MIC-EXT-J=",
         "public_comparisons": [
@@ -49704,7 +49704,7 @@
             "delivery_price": 0.0,
             "item_price": 45.7,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:08:57Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -49713,7 +49713,7 @@
             "delivery_price": 3.0,
             "item_price": 45.7,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:08:57Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -49722,7 +49722,7 @@
             "delivery_price": 0.0,
             "item_price": 54.84,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:08:57Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -49730,18 +49730,18 @@
         "market_merchant_count": 4,
         "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
-        "market_best_price": 32.99,
+        "market_best_price": 33.99,
         "market_best_retailer": "Back to the Office",
         "publication_state": null,
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:12:29.946397+00:00",
-        "stock_valid_until": "2026-11-11T23:42:29Z"
+        "stock_checked_at": "2026-11-12T05:52:30.780264+00:00",
+        "stock_valid_until": "2026-11-12T06:22:30Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-11T23:38:58Z",
-      "last_changed_date": "2026-11-11"
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
+      "last_changed_date": "2026-11-12"
     },
     "db3-8e410211bfa40a3c64f06e10e088": {
       "slug": "homcom-office-chair-180kg-heavy-duty-pu-leather-computer-desk-chair-wi-db38e410.html",
@@ -49865,9 +49865,9 @@
       "slug": "targus-tbt932gl-laptop-case-40-6-cm-16-briefcase-black-db329326.html",
       "first_seen_at": "2026-11-06T01:12:37Z",
       "canonical_key": "GTIN:5051794034851",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-29326834dac256a991da86ff0b2c",
         "publishable": true,
@@ -49884,8 +49884,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F060bdca972b8c0fd1d2962a6c2e47557.jpg%3Fv%3D1756463191&feedId=102827&k=2de349482ac92521521b39ed658e6f5dc80437fb",
         "delivery_price": null,
         "item_price": 53.99,
@@ -49899,7 +49899,7 @@
             "delivery_price": 0.0,
             "item_price": 68.9,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -49908,7 +49908,7 @@
             "delivery_price": 3.0,
             "item_price": 68.9,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -49917,7 +49917,7 @@
             "delivery_price": 0.0,
             "item_price": 82.68,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-tbt932gl-laptop-case-406-cm-16-briefcase-black?variant=55307385831806",
@@ -49931,11 +49931,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-7c958bee99678140477dee35f621": {
@@ -51838,8 +51838,8 @@
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:5063194003092",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-5406480588626aabcd5f339c784b",
         "publishable": true,
@@ -51856,7 +51856,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fec63de43a86f08b3d2a0b93381ef51a0.jpg%3Fv%3D1756127889&feedId=102827&k=3c19038b7aeb98f2309ec199dd11611496437ed0",
         "delivery_price": null,
@@ -51871,7 +51871,7 @@
             "delivery_price": 0.0,
             "item_price": 33.25,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -51880,7 +51880,7 @@
             "delivery_price": 3.0,
             "item_price": 33.25,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -51889,7 +51889,7 @@
             "delivery_price": 0.0,
             "item_price": 39.9,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-pulse-ii-ecosmart-406-cm-16-sleeve-case-charcoal?variant=55399195443582",
@@ -51907,7 +51907,7 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-8105d890b3feaa386e70e1389f80": {
@@ -52118,9 +52118,9 @@
       "slug": "d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html",
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:790069477355",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-6b30f04bc26ca0fe6e4bfdce2fab",
         "publishable": true,
@@ -52137,8 +52137,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F389774e2e4bf3b6967d6f0ddb92e8b38.jpg%3Fv%3D1773024738&feedId=102827&k=33279df31019cbae805691dce6629203048f7b2a",
         "delivery_price": null,
         "item_price": 124.99,
@@ -52152,7 +52152,7 @@
             "delivery_price": 3.0,
             "item_price": 163.1,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -52161,7 +52161,7 @@
             "delivery_price": 0.0,
             "item_price": 195.72,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
@@ -52175,11 +52175,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-598ab4f05c91bb988f1583b89895": {
@@ -52994,8 +52994,8 @@
       "first_seen_at": "2026-11-09T20:32:01Z",
       "canonical_key": "GTIN:7290110490355",
       "active": true,
-      "last_live_at": "2026-11-12T05:46:59Z",
-      "last_seen_at": "2026-11-12T05:46:59Z",
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-4950c8886186bd75a8320fafd501",
         "publishable": true,
@@ -53012,7 +53012,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T05:46:58Z",
+        "checked_at": "2026-11-12T05:54:37Z",
         "valid_until": "2026-11-12T06:06:51Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FhRaLcHFTLUOr_EaAarGe4g.c-r.jpg%3Fv%3D1794189781&feedId=102827&k=d798360b1c54e318723900b46b3e35988e51d12a",
         "delivery_price": null,
@@ -53027,7 +53027,7 @@
             "delivery_price": 3.0,
             "item_price": 115.02,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           },
           {
             "availability": null,
@@ -53036,7 +53036,7 @@
             "delivery_price": 0.0,
             "item_price": 138.02,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T06:16:58Z"
+            "valid_until": "2026-11-12T06:24:37Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black?variant=58419420168574",
@@ -53054,16 +53054,16 @@
         "stock_valid_until": "2026-11-12T06:06:51Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T05:46:59Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-42ef278bb234484ad38763bece9f": {
       "slug": "google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-db342ef2.html",
       "first_seen_at": "2026-11-09T20:32:01Z",
       "canonical_key": "GTIN:840353962187",
-      "active": false,
-      "last_live_at": "2026-11-12T00:20:32Z",
-      "last_seen_at": "2026-11-12T00:23:58Z",
+      "active": true,
+      "last_live_at": "2026-11-12T05:54:40Z",
+      "last_seen_at": "2026-11-12T05:54:40Z",
       "last_deal": {
         "deal_id": "db3-42ef278bb234484ad38763bece9f",
         "publishable": true,
@@ -53080,8 +53080,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T00:20:31Z",
-        "valid_until": "2026-11-12T00:25:10Z",
+        "checked_at": "2026-11-12T05:54:38Z",
+        "valid_until": "2026-11-12T06:23:49Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F162c221c3d9617a12a308b41ac1fa6070b69eb0df8dafc0b83d925dee2ba7278.jpg%3Fv%3D1786691067&feedId=102827&k=86ad7669dc3fe4d52c1062bf7c981cc782c78305",
         "delivery_price": null,
         "item_price": 343.99,
@@ -53095,7 +53095,7 @@
             "delivery_price": 3.0,
             "item_price": 439.39,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           },
           {
             "availability": null,
@@ -53104,7 +53104,7 @@
             "delivery_price": 0.0,
             "item_price": 527.27,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T00:50:31Z"
+            "valid_until": "2026-11-12T06:24:38Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-satellite?variant=57842640224638",
@@ -53118,11 +53118,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-11T23:55:10.806939+00:00",
-        "stock_valid_until": "2026-11-12T00:25:10Z"
+        "stock_checked_at": "2026-11-12T05:53:49.930980+00:00",
+        "stock_valid_until": "2026-11-12T06:23:49Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T00:20:32Z",
+      "lkg_certified_at": "2026-11-12T05:54:40Z",
       "last_changed_date": "2026-11-12"
     },
     "db3-05dd54cf176f5f723453daa14311": {
