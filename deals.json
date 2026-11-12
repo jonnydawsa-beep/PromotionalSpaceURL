@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T12:48:50Z",
+    "generated_at": "2026-11-12T12:56:38Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "f6367d82b11e074df3a59f1e09dd2202192f1b15fb2c7f7c7a3a4571fac05518",
+    "revision": "e4395309e9675d26d0f956020253fbe5c44cf12656cf1108e6ef078e53935a78",
     "deal_count": 26,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -341,7 +341,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387239704",
       "category": "DIY",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 98.01,
@@ -357,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "90MB1F80-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -369,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 89.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 106.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -465,7 +465,7 @@
       "brand": "Philips",
       "canonical_key": "GTIN:9120056503346",
       "category": "Other",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 305.5,
@@ -481,7 +481,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "LFH7277/08",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/philips-lfh7277-foot-control-unit?variant=57404645704062",
@@ -493,7 +493,7 @@
           "delivery_price": 3.0,
           "item_price": 277.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -502,7 +502,7 @@
           "delivery_price": 0.0,
           "item_price": 333.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -527,7 +527,7 @@
       "brand": "Acer",
       "canonical_key": "GTIN:4711721041437",
       "category": "Technology",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.02,
@@ -543,7 +543,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "ZL.ADTCC.00K",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -555,7 +555,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -564,7 +564,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -589,7 +589,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4934295000000",
       "category": "Other",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 100.85,
@@ -605,7 +605,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "VFM-W8X6",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
@@ -617,7 +617,7 @@
           "delivery_price": 3.0,
           "item_price": 91.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -626,7 +626,7 @@
           "delivery_price": 0.0,
           "item_price": 110.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -651,7 +651,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -667,7 +667,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -679,7 +679,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -688,7 +688,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -837,7 +837,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 45.85,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -865,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 45.7,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 3.0,
           "item_price": 45.85,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 0.0,
           "item_price": 54.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -1218,7 +1218,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794034851",
       "category": "Technology",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 68.9,
@@ -1234,7 +1234,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "TBT932GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-tbt932gl-laptop-case-406-cm-16-briefcase-black?variant=55307385831806",
@@ -1246,7 +1246,7 @@
           "delivery_price": 0.0,
           "item_price": 68.9,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -1255,7 +1255,7 @@
           "delivery_price": 3.0,
           "item_price": 68.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -1264,7 +1264,7 @@
           "delivery_price": 0.0,
           "item_price": 82.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
@@ -1502,7 +1502,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342308",
       "category": "Other",
-      "checked_at": "2026-11-12T12:43:25Z",
+      "checked_at": "2026-11-12T12:56:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 25.76,
@@ -1518,7 +1518,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T12:43:25Z",
+      "market_verified_at": "2026-11-12T12:56:37Z",
       "mpn": "60-1030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375359889790",
@@ -1530,7 +1530,7 @@
           "delivery_price": 0.0,
           "item_price": 25.76,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -1539,7 +1539,7 @@
           "delivery_price": 3.0,
           "item_price": 25.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         },
         {
           "availability": null,
@@ -1548,7 +1548,7 @@
           "delivery_price": 0.0,
           "item_price": 30.91,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T13:13:25Z"
+          "valid_until": "2026-11-12T13:26:37Z"
         }
       ],
       "publishable": true,
