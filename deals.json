@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T11:44:36Z",
+    "generated_at": "2026-11-12T12:07:06Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "e04039a1bd53d635e8d08155890474245b86b82122bd377f7beb9d89147d669a",
+    "revision": "09ebf18190d195112434fe0d551cb28e11d50011f24585e3aab8b6e69834235e",
     "deal_count": 16,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -270,7 +270,7 @@
       "brand": "Philips",
       "canonical_key": "GTIN:9120056503346",
       "category": "Other",
-      "checked_at": "2026-11-12T11:44:35Z",
+      "checked_at": "2026-11-12T12:07:06Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 305.5,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T11:44:35Z",
+      "market_verified_at": "2026-11-12T12:07:06Z",
       "mpn": "LFH7277/08",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/philips-lfh7277-foot-control-unit?variant=57404645704062",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 277.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T12:14:35Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 333.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T12:14:35Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4934295000000",
       "category": "Other",
-      "checked_at": "2026-11-12T11:44:36Z",
+      "checked_at": "2026-11-12T12:07:06Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 100.85,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T11:44:36Z",
+      "market_verified_at": "2026-11-12T12:07:06Z",
       "mpn": "VFM-W8X6",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 91.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 110.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-12T11:44:36Z",
+      "checked_at": "2026-11-12T12:07:06Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T11:44:36Z",
+      "market_verified_at": "2026-11-12T12:07:06Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         }
       ],
       "publishable": true,
@@ -846,7 +846,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161357398",
       "category": "Technology",
-      "checked_at": "2026-11-12T11:44:36Z",
+      "checked_at": "2026-11-12T12:07:06Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 31.64,
@@ -862,7 +862,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T11:44:36Z",
+      "market_verified_at": "2026-11-12T12:07:06Z",
       "mpn": "2F1W8AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-mauve-laptop-sleeve?variant=58174209458558",
@@ -874,7 +874,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         },
         {
           "availability": null,
@@ -892,7 +892,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T12:14:36Z"
+          "valid_until": "2026-11-12T12:37:06Z"
         }
       ],
       "publishable": true,
