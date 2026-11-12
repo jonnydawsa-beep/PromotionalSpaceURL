@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T04:50:19Z",
+    "generated_at": "2026-11-12T05:14:37Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "16a43c31e365d65c5182e1d27a3a24f65b21e90ddd525a4dd7c498c8e9f9dea7",
+    "revision": "7672e7d273f2b339168f0b11691f0c95c692fa17670c118c284464c49ff02a8c",
     "deal_count": 10,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:17Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 60.22,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T04:50:17Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 60.22,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T05:20:17Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 3.0,
           "item_price": 60.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:17Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:17Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -93,7 +93,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3480006000001",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "TC 10MVGAP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white?variant=55468876562814",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 43.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -155,7 +155,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 68.63,
@@ -171,7 +171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -183,7 +183,7 @@
           "delivery_price": 3.0,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -192,7 +192,7 @@
           "delivery_price": 0.0,
           "item_price": 74.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -217,7 +217,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5063194003092",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 33.25,
@@ -233,7 +233,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "TBS97104GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-pulse-ii-ecosmart-406-cm-16-sleeve-case-charcoal?variant=55399195443582",
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 33.25,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -254,7 +254,7 @@
           "delivery_price": 3.0,
           "item_price": 33.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -263,7 +263,7 @@
           "delivery_price": 0.0,
           "item_price": 39.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -288,7 +288,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158661437",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 35.43,
@@ -304,7 +304,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "D30933-V1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 35.43,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -325,7 +325,7 @@
           "delivery_price": 3.0,
           "item_price": 35.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -334,7 +334,7 @@
           "delivery_price": 0.0,
           "item_price": 42.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -359,7 +359,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2064.59,
@@ -375,7 +375,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -387,7 +387,7 @@
           "delivery_price": 0.0,
           "item_price": 2064.59,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -396,7 +396,7 @@
           "delivery_price": 3.0,
           "item_price": 2064.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -405,7 +405,7 @@
           "delivery_price": 0.0,
           "item_price": 2477.51,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -430,7 +430,7 @@
       "brand": "Nvidia",
       "canonical_key": "GTIN:7290110490355",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 126.52,
@@ -446,7 +446,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "980-9I57X-00N010",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black?variant=58419420168574",
@@ -458,7 +458,7 @@
           "delivery_price": 3.0,
           "item_price": 115.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -467,7 +467,7 @@
           "delivery_price": 0.0,
           "item_price": 138.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -492,7 +492,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3446603000004",
       "category": "Technology",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.02,
@@ -508,7 +508,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "TC3 SURR2G",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc3-surr2g-wall-plateswitch-cover-white?variant=55468879872382",
@@ -520,7 +520,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -529,7 +529,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -554,7 +554,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962224",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 516.38,
@@ -570,7 +570,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "GA10894-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-black-wi-fi-gps-satellite?variant=57842639962494",
@@ -582,7 +582,7 @@
           "delivery_price": 3.0,
           "item_price": 469.44,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -591,7 +591,7 @@
           "delivery_price": 0.0,
           "item_price": 563.33,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
@@ -616,7 +616,7 @@
       "brand": "Philips",
       "canonical_key": "GTIN:9120056503346",
       "category": "Other",
-      "checked_at": "2026-11-12T04:50:18Z",
+      "checked_at": "2026-11-12T05:14:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 305.5,
@@ -632,7 +632,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:50:18Z",
+      "market_verified_at": "2026-11-12T05:14:37Z",
       "mpn": "LFH7277/08",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/philips-lfh7277-foot-control-unit?variant=57404645704062",
@@ -644,7 +644,7 @@
           "delivery_price": 3.0,
           "item_price": 277.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         },
         {
           "availability": null,
@@ -653,7 +653,7 @@
           "delivery_price": 0.0,
           "item_price": 333.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T05:20:18Z"
+          "valid_until": "2026-11-12T05:44:37Z"
         }
       ],
       "publishable": true,
