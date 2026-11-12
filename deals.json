@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-12T04:28:46Z",
+    "generated_at": "2026-11-12T04:35:12Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "83ea770d429b7b55e2a8e204e915829dee003a00f704a64620ef34b942ec45ef",
+    "revision": "36f1bb3b6c94920a4b4feb05a2029b653cb8cf5ef6bf859dd6dc0a4b127bcbcf",
     "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -84,7 +84,7 @@
       "brand": "Alphacool",
       "canonical_key": "GTIN:4250197142120",
       "category": "Other",
-      "checked_at": "2026-11-12T04:12:17Z",
+      "checked_at": "2026-11-12T04:35:11Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.66,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-12T04:12:17Z",
+      "market_verified_at": "2026-11-12T04:35:11Z",
       "mpn": "14212",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 25.15,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-12T04:42:17Z"
+          "valid_until": "2026-11-12T05:05:11Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 30.18,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-12T04:42:17Z"
+          "valid_until": "2026-11-12T05:05:11Z"
         }
       ],
       "publishable": true,
