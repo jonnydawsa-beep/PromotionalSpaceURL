@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:25:35Z",
+  "generated_at": "2026-11-13T16:28:55Z",
   "items": [
     {
       "title": "Cablenet 1.5m Cat6a RJ45 Blue S/FTP LSOH 26AWG Snagless Booted Patch Lead (PK 10)",
@@ -56,15 +56,6 @@
       "current_price": 21.99
     },
     {
-      "title": "Cisco 10G Direct Attach Twinax SFP+ Cable, Passive, 30AWG Cable Assembly, 5 M, Grey, 5-Year Standard Warranty (SFP-H10GB-CU5M=)",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html",
-      "active": true,
-      "current_price": 95.99
-    },
-    {
       "title": "DICOTA Eco SCALE 43.9 cm (17.3\") Backpack Black",
       "brand": "Dicota",
       "category": "Other",
@@ -72,15 +63,6 @@
       "url": "products/dicota-eco-scale-43-9-cm-17-3-backpack-black-db3088b8.html",
       "active": true,
       "current_price": 35.99
-    },
-    {
-      "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
-      "brand": "Intel",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html",
-      "active": true,
-      "current_price": 25.99
     },
     {
       "title": "PLANET MGB-LX network transceiver module Fiber optic 1000 Mbit/s SFP 1310 nm",
@@ -92,24 +74,6 @@
       "current_price": 21.99
     },
     {
-      "title": "Trust 24136 card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-C Aluminium",
-      "brand": "Trust",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/trust-24136-card-reader-usb-3-2-gen-1-3-1-gen-1-type-c-aluminium-db358505.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
-      "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
-      "brand": "Trust",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
       "title": "Vision HDMI-over-IP Receiver AV receiver Black",
       "brand": "Vision",
       "category": "Other",
@@ -117,15 +81,6 @@
       "url": "products/vision-hdmi-over-ip-receiver-av-receiver-black-db3052d9.html",
       "active": true,
       "current_price": 97.99
-    },
-    {
-      "title": "Vision VFM-DPD2B monitor mount / stand 68.6 cm (27\") Desk Black",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-vfm-dpd2b-monitor-mount-stand-68-6-cm-27-desk-black-db386970.html",
-      "active": true,
-      "current_price": 61.99
     },
     {
       "title": "3Dconnexion 3DX-700087 equipment case Hard shell case Black",
@@ -1870,6 +1825,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/chief-fusion-medium-flat-panel-ceiling-mount-db3d2835.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco 10G Direct Attach Twinax SFP+ Cable, Passive, 30AWG Cable Assembly, 5 M, Grey, 5-Year Standard Warranty (SFP-H10GB-CU5M=)",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html",
       "active": false,
       "current_price": null
     },
@@ -4637,6 +4601,15 @@
       "current_price": null
     },
     {
+      "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
+      "brand": "Intel",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Intel Xeon 6325P processor 3.5 GHz 12 MB Tray",
       "brand": "Intel",
       "category": "Other",
@@ -7238,6 +7211,15 @@
       "current_price": null
     },
     {
+      "title": "Trust 24136 card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-C Aluminium",
+      "brand": "Trust",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/trust-24136-card-reader-usb-3-2-gen-1-3-1-gen-1-type-c-aluminium-db358505.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Trust 25674 mouse Universal Ambidextrous Bluetooth 3200 DPI",
       "brand": "Trust",
       "category": "Technology",
@@ -7288,6 +7270,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/trust-primo-39-6-cm-15-6-monitor-laptop-frameless-display-privacy-filt-db3ffb28.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
+      "brand": "Trust",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html",
       "active": false,
       "current_price": null
     },
@@ -7855,6 +7846,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/vision-vfm-dad-4-monitor-mount-stand-68-6-cm-27-desk-black-db3677f9.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision VFM-DPD2B monitor mount / stand 68.6 cm (27\") Desk Black",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-vfm-dpd2b-monitor-mount-stand-68-6-cm-27-desk-black-db386970.html",
       "active": false,
       "current_price": null
     },
