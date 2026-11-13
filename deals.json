@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T09:53:56Z",
+    "generated_at": "2026-11-13T10:08:59Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "7a7d13f0d914589051bfb64f0c0056047bf9878c0a2e6046a94874c0eb39fb85",
+    "revision": "df1b264556e294f38b9919d0de2e03ee4cb545ad1dc6bdf34477427249665068",
     "deal_count": 10,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0888182585603",
       "category": "Other",
-      "checked_at": "2026-11-13T09:48:46Z",
+      "checked_at": "2026-11-13T10:08:59Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 37.17,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T09:48:46Z",
+      "market_verified_at": "2026-11-13T10:08:59Z",
       "mpn": "B5L37A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-color-laserjet-b5l37a-toner-collection-unit?variant=55308811698558",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 33.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T10:18:46Z"
+          "valid_until": "2026-11-13T10:38:59Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 40.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T10:18:46Z"
+          "valid_until": "2026-11-13T10:38:59Z"
         }
       ],
       "publishable": true,
