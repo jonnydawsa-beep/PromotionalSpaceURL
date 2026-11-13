@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T08:47:14Z",
+    "generated_at": "2026-11-13T09:05:02Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "4ba2a33da9318352ff9378b6837d09c004eff04aed091597976a9c87f3b3c390",
+    "revision": "6d27dd43ad3806d9ad588fa7f81c77ca6f5653c2870b9110e761476527669f99",
     "deal_count": 14,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -580,7 +580,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750345194",
       "category": "Other",
-      "checked_at": "2026-11-13T08:47:14Z",
+      "checked_at": "2026-11-13T09:05:02Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.77,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T08:47:14Z",
+      "market_verified_at": "2026-11-13T09:05:02Z",
       "mpn": "65-0020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-pink-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375857897854",
@@ -608,7 +608,7 @@
           "delivery_price": 3.0,
           "item_price": 26.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T09:17:14Z"
+          "valid_until": "2026-11-13T09:35:02Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 31.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T09:17:14Z"
+          "valid_until": "2026-11-13T09:35:02Z"
         }
       ],
       "publishable": true,
@@ -642,7 +642,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342841",
       "category": "Other",
-      "checked_at": "2026-11-13T08:47:14Z",
+      "checked_at": "2026-11-13T09:05:02Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.07,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T08:47:14Z",
+      "market_verified_at": "2026-11-13T09:05:02Z",
       "mpn": "65-1020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-grey-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375350813054",
@@ -670,7 +670,7 @@
           "delivery_price": 3.0,
           "item_price": 27.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T09:17:14Z"
+          "valid_until": "2026-11-13T09:35:02Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 32.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T09:17:14Z"
+          "valid_until": "2026-11-13T09:35:02Z"
         }
       ],
       "publishable": true,
