@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T12:32:01Z",
+    "generated_at": "2026-11-13T12:54:29Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "73f0f34a7650eeb32319b03714cdf55e86fbcbe1e93e5cc42755f60811c1d1a9",
+    "revision": "f35a9ea860392d30da7553fefc6caeafdc5efe34776605b486b4804d62218372",
     "deal_count": 11,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:3480006000001",
       "category": "Other",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.37,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "TC 10MVGAP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white?variant=55468876562814",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 43.06,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 51.67,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:195477876194",
       "category": "Technology",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 68.63,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "4X91C47404",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-4x91c47404-usb-cable-usb-20-10-m-usb-a-black?variant=55308841386366",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 62.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 74.87,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Jabra",
       "canonical_key": "GTIN:5706991029185",
       "category": "Other",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 44.97,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "14101-89",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/jabra-evolve2-65-flex-ear-cushion?variant=58375650410878",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 40.88,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 49.06,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
@@ -208,7 +208,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2094.61,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -236,7 +236,7 @@
           "delivery_price": 0.0,
           "item_price": 2077.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 3.0,
           "item_price": 2094.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -254,7 +254,7 @@
           "delivery_price": 0.0,
           "item_price": 2493.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
@@ -589,7 +589,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7758.02,
@@ -605,7 +605,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 7695.81,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -626,7 +626,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -635,7 +635,7 @@
           "delivery_price": 0.0,
           "item_price": 9234.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
@@ -660,7 +660,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-13T12:32:00Z",
+      "checked_at": "2026-11-13T12:54:29Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7758.02,
@@ -676,7 +676,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T12:32:00Z",
+      "market_verified_at": "2026-11-13T12:54:29Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -688,7 +688,7 @@
           "delivery_price": 0.0,
           "item_price": 7695.81,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -697,7 +697,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         },
         {
           "availability": null,
@@ -706,7 +706,7 @@
           "delivery_price": 0.0,
           "item_price": 9234.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:02:00Z"
+          "valid_until": "2026-11-13T13:24:29Z"
         }
       ],
       "publishable": true,
