@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T13:47:16Z",
+    "generated_at": "2026-11-13T13:51:19Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "61943463181a042c11f4307c3b2ff88f8be3b69c953fa56575b5fdcffe7124ce",
+    "revision": "f6f2353680de2e4a0fba8541260519ffa43c38035529847ed3dd2ab201615abc",
     "deal_count": 6,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342308",
       "category": "Other",
-      "checked_at": "2026-11-13T13:34:34Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.34,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:34:34Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "60-1030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-grey-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375359889790",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 25.76,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 30.91,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4979146000006",
       "category": "Other",
-      "checked_at": "2026-11-13T13:34:34Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:34:34Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "TC-HDMIVGA/BL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc-hdmivgabl-video-cable-adapter-023-m-hdmi-type-a-standard-vga-d-sub-black?variant=55468877447550",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Tucano",
       "canonical_key": "GTIN:8020252076945",
       "category": "Technology",
-      "checked_at": "2026-11-13T13:34:34Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.3,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:34:34Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "BFM1516-BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/tucano-melange-macbook-pro-16-laptop-156-skin-case-with-anti-slip-black?variant=56897273561470",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 25.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 30.88,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
@@ -208,7 +208,7 @@
       "brand": "Brother",
       "canonical_key": "GTIN:4977766843638",
       "category": "Other",
-      "checked_at": "2026-11-13T13:34:34Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 185.97,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:34:34Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "TN-627BK",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/brother-tn-627bk-toner-cartridge-1-pcs-original-black-2?variant=57461883634046",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 169.07,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 202.88,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331548",
       "category": "Other",
-      "checked_at": "2026-11-13T13:34:34Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.21,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:34:34Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "PE65-6010",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375359857022",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 25.65,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 30.78,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:34Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728168250",
       "category": "Other",
-      "checked_at": "2026-11-13T13:34:33Z",
+      "checked_at": "2026-11-13T13:51:19Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5329.68,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T13:34:33Z",
+      "market_verified_at": "2026-11-13T13:51:19Z",
       "mpn": "C9200-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -360,7 +360,7 @@
           "delivery_price": 0.0,
           "item_price": 5286.95,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T14:04:33Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 5329.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:04:33Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 6344.34,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:04:33Z"
+          "valid_until": "2026-11-13T14:21:19Z"
         }
       ],
       "publishable": true,
