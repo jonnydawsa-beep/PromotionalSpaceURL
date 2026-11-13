@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T15:06:17Z",
+  "generated_at": "2026-11-13T15:10:11Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 2,
+  "active_count": 3,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -12510,9 +12510,9 @@
       "slug": "cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black-db37de7a.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:5056750336901",
-      "active": false,
-      "last_live_at": "2026-11-13T15:02:36Z",
-      "last_seen_at": "2026-11-13T15:06:17Z",
+      "active": true,
+      "last_live_at": "2026-11-13T15:10:11Z",
+      "last_seen_at": "2026-11-13T15:10:11Z",
       "last_deal": {
         "deal_id": "db3-7de7adf61f78a025ee6b808823a5",
         "publishable": true,
@@ -12529,8 +12529,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T15:02:35Z",
-        "valid_until": "2026-11-13T15:07:30Z",
+        "checked_at": "2026-11-13T15:10:10Z",
+        "valid_until": "2026-11-13T15:40:09Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe8b6090a40b47e48cc9f983d33d52fe5_015af836-5a95-46f8-83cd-6966179d94ae.jpg%3Fv%3D1762008347&feedId=102827&k=b554a2014f6947eb2cddee75ca679e3a70c6fa2b",
         "delivery_price": null,
         "item_price": 20.99,
@@ -12544,7 +12544,7 @@
             "delivery_price": 3.0,
             "item_price": 26.01,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T15:32:35Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           },
           {
             "availability": null,
@@ -12553,7 +12553,7 @@
             "delivery_price": 0.0,
             "item_price": 31.21,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T15:32:35Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -12567,11 +12567,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T14:37:30.826374+00:00",
-        "stock_valid_until": "2026-11-13T15:07:30Z"
+        "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
+        "stock_valid_until": "2026-11-13T15:40:09Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T15:02:36Z",
+      "lkg_certified_at": "2026-11-13T15:10:11Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-84f073e72653378c01d80e0708b5": {
@@ -39153,8 +39153,8 @@
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750345194",
       "active": true,
-      "last_live_at": "2026-11-13T15:06:17Z",
-      "last_seen_at": "2026-11-13T15:06:17Z",
+      "last_live_at": "2026-11-13T15:10:11Z",
+      "last_seen_at": "2026-11-13T15:10:11Z",
       "last_deal": {
         "deal_id": "db3-1b29c812e25076866058f898bc34",
         "publishable": true,
@@ -39171,8 +39171,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T15:06:16Z",
-        "valid_until": "2026-11-13T15:08:59Z",
+        "checked_at": "2026-11-13T15:10:10Z",
+        "valid_until": "2026-11-13T15:40:09Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F00bRPSHqj0GDNY5pRdOpaA.c-r.jpg%3Fv%3D1793660961&feedId=102827&k=3c94f416bb8f2ee25271bd2556737fef65dad2f4",
         "delivery_price": null,
         "item_price": 21.99,
@@ -39186,7 +39186,7 @@
             "delivery_price": 3.0,
             "item_price": 26.16,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T15:36:16Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           },
           {
             "availability": null,
@@ -39195,7 +39195,7 @@
             "delivery_price": 0.0,
             "item_price": 31.39,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T15:36:16Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-pink-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375857897854",
@@ -39209,11 +39209,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T14:38:59.626100+00:00",
-        "stock_valid_until": "2026-11-13T15:08:59Z"
+        "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
+        "stock_valid_until": "2026-11-13T15:40:09Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T15:06:17Z",
+      "lkg_certified_at": "2026-11-13T15:10:11Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-0ee65fc8d01952575c01c0c9826b": {
@@ -39221,8 +39221,8 @@
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5056750342841",
       "active": true,
-      "last_live_at": "2026-11-13T15:06:17Z",
-      "last_seen_at": "2026-11-13T15:06:17Z",
+      "last_live_at": "2026-11-13T15:10:11Z",
+      "last_seen_at": "2026-11-13T15:10:11Z",
       "last_deal": {
         "deal_id": "db3-0ee65fc8d01952575c01c0c9826b",
         "publishable": true,
@@ -39239,8 +39239,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T15:06:16Z",
-        "valid_until": "2026-11-13T15:08:59Z",
+        "checked_at": "2026-11-13T15:10:10Z",
+        "valid_until": "2026-11-13T15:40:09Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FnIGuQ3c_jkKBkVqawat0pQ.c-r_0756edea-6d68-4107-9bae-9ca3fdcc2598.jpg%3Fv%3D1793653831&feedId=102827&k=64c5dc2179e68fc43e3c907bac6f2a05a9ae87a4",
         "delivery_price": null,
         "item_price": 22.99,
@@ -39254,7 +39254,7 @@
             "delivery_price": 3.0,
             "item_price": 27.33,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T15:36:16Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           },
           {
             "availability": null,
@@ -39263,7 +39263,7 @@
             "delivery_price": 0.0,
             "item_price": 32.8,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T15:36:16Z"
+            "valid_until": "2026-11-13T15:40:10Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-grey-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375350813054",
@@ -39277,11 +39277,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T14:38:59.626100+00:00",
-        "stock_valid_until": "2026-11-13T15:08:59Z"
+        "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
+        "stock_valid_until": "2026-11-13T15:40:09Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T15:06:17Z",
+      "lkg_certified_at": "2026-11-13T15:10:11Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-e3ec49cbff15e63fb37089f85740": {
