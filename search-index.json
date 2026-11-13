@@ -1,60 +1,6 @@
 {
-  "generated_at": "2026-11-13T12:20:30Z",
+  "generated_at": "2026-11-13T12:23:49Z",
   "items": [
-    {
-      "title": "DELL 5RGKY",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-5rgky-db383267.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "DICOTA D30933 wireless presenter RF Black",
-      "brand": "Dicota",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dicota-d30933-wireless-presenter-rf-black-db37f141.html",
-      "active": true,
-      "current_price": 22.99
-    },
-    {
-      "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
-      "active": true,
-      "current_price": 27.99
-    },
-    {
-      "title": "Targus Pulse II EcoSmart 40.6 cm (16\") Sleeve case Charcoal",
-      "brand": "Targus",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
-      "active": true,
-      "current_price": 20.99
-    },
-    {
-      "title": "Targus SafePort strap Tablet Silicone Black",
-      "brand": "Targus",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
-      "active": true,
-      "current_price": 24.99
-    },
-    {
-      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
-      "brand": "Vision",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
-      "active": true,
-      "current_price": 22.99
-    },
     {
       "title": "3Dconnexion 3DX-700087 equipment case Hard shell case Black",
       "brand": "3Dconnexion",
@@ -2378,6 +2324,15 @@
       "current_price": null
     },
     {
+      "title": "DELL 5RGKY",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-5rgky-db383267.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL CC5626 40.6 cm (16\") Briefcase Black",
       "brand": "DELL",
       "category": "Technology",
@@ -2635,6 +2590,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/dicota-d30805-rpet-laptop-case-40-6-cm-16-toploader-bag-black-db37ab0e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DICOTA D30933 wireless presenter RF Black",
+      "brand": "Dicota",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dicota-d30933-wireless-presenter-rf-black-db37f141.html",
       "active": false,
       "current_price": null
     },
@@ -7004,6 +6968,15 @@
       "current_price": null
     },
     {
+      "title": "Targus ASF14W9EU display privacy filter 35.6 cm (14\")",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Targus CityGear backpack Casual backpack Black",
       "brand": "Targus",
       "category": "Other",
@@ -7112,11 +7085,29 @@
       "current_price": null
     },
     {
+      "title": "Targus Pulse II EcoSmart 40.6 cm (16\") Sleeve case Charcoal",
+      "brand": "Targus",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Targus Pulse II EcoSmart 40.6 cm (16\") Sleeve case Green",
       "brand": "Targus",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-green-db3052b7.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Targus SafePort strap Tablet Silicone Black",
+      "brand": "Targus",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
       "active": false,
       "current_price": null
     },
@@ -7837,6 +7828,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-tm-tele-project-mount-ceiling-white-db3c9c31.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision USB-C Charger with EU Plug power adapter/inverter Universal 30 W White",
+      "brand": "Vision",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/vision-usb-c-charger-with-eu-plug-power-adapter-inverter-universal-30-db38412e.html",
       "active": false,
       "current_price": null
     },
