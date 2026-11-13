@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T08:30:35Z",
+    "generated_at": "2026-11-13T08:40:08Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "303d911423845ac95d4966a291e8d0dd3db20655e7c2462d752c7c0cce847799",
+    "revision": "edd428ff61f618570c959f73e5dd9e5f9a71cb6af0e63740e0a9134f950c904c",
     "deal_count": 12,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:735858547291",
       "category": "Other",
-      "checked_at": "2026-11-13T08:17:06Z",
+      "checked_at": "2026-11-13T08:40:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.77,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T08:17:06Z",
+      "market_verified_at": "2026-11-13T08:40:08Z",
       "mpn": "BE200.NGWG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits?variant=55308927861118",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T08:47:06Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 47.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T08:47:06Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439241365",
       "category": "Technology",
-      "checked_at": "2026-11-13T08:17:07Z",
+      "checked_at": "2026-11-13T08:40:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T08:17:07Z",
+      "market_verified_at": "2026-11-13T08:40:08Z",
       "mpn": "24136",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T08:47:07Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T08:47:07Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         }
       ],
       "publishable": true,
@@ -704,7 +704,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-13T08:17:07Z",
+      "checked_at": "2026-11-13T08:40:08Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 117.72,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T08:17:07Z",
+      "market_verified_at": "2026-11-13T08:40:08Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -732,7 +732,7 @@
           "delivery_price": 3.0,
           "item_price": 117.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T08:47:07Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 117.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T08:47:07Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 141.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T08:47:07Z"
+          "valid_until": "2026-11-13T09:10:08Z"
         }
       ],
       "publishable": true,
