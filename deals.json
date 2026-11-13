@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T07:00:05Z",
+    "generated_at": "2026-11-13T07:03:18Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "1782701c69994e7d928f34b5943bd969d4cd5378fb2fe8736891cfa65a1f01d7",
+    "revision": "b20d31c08304d697ec11b6f83676e77e93ce9ab87c00c0ce6f2e9bbb13de75d5",
     "deal_count": 21,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -208,7 +208,7 @@
       "brand": "Motorola",
       "canonical_key": "GTIN:840493613628",
       "category": "Technology",
-      "checked_at": "2026-11-13T06:38:38Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 93.69,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:38Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "PG38C08162",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/motorola-moto-buds-2-headset-wireless-in-ear-callsmusic-bluetooth-carbon?variant=57316923375998",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 85.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:38Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 102.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:38Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069477355",
       "category": "Other",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 178.85,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "DAP-E9560",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 162.59,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 195.11,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962187",
       "category": "Other",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 483.33,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "GA10896-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-pyrite-wi-fi-gps-satellite?variant=57842640224638",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 439.39,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 527.27,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794034851",
       "category": "Technology",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 75.79,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "TBT932GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-tbt932gl-laptop-case-406-cm-16-briefcase-black?variant=55307385831806",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 68.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 82.68,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161357398",
       "category": "Technology",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "2F1W8AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-mauve-laptop-sleeve?variant=58174209458558",
@@ -546,7 +546,7 @@
           "delivery_price": 3.0,
           "item_price": 31.64,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -580,7 +580,7 @@
       "brand": "Acer",
       "canonical_key": "GTIN:4711721041437",
       "category": "Technology",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.02,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "ZL.ADTCC.00K",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/acer-67w-pd-charger-usb-port-2c1a-uk-plug-100w-usb-c-cable-black?variant=57351189594494",
@@ -608,7 +608,7 @@
           "delivery_price": 3.0,
           "item_price": 32.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 39.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -642,7 +642,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4934295000000",
       "category": "Other",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 100.85,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "VFM-W8X6",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-w8x6-signage-display-mount-2-29-m-90-black?variant=58375201423742",
@@ -670,7 +670,7 @@
           "delivery_price": 3.0,
           "item_price": 91.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 110.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -704,7 +704,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -732,7 +732,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
@@ -1280,7 +1280,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-13T06:38:39Z",
+      "checked_at": "2026-11-13T07:03:18Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 6408.46,
@@ -1296,7 +1296,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T06:38:39Z",
+      "market_verified_at": "2026-11-13T07:03:18Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -1308,7 +1308,7 @@
           "delivery_price": 3.0,
           "item_price": 6408.46,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -1317,7 +1317,7 @@
           "delivery_price": 0.0,
           "item_price": 6408.46,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         },
         {
           "availability": null,
@@ -1326,7 +1326,7 @@
           "delivery_price": 0.0,
           "item_price": 7690.15,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T07:08:39Z"
+          "valid_until": "2026-11-13T07:33:18Z"
         }
       ],
       "publishable": true,
