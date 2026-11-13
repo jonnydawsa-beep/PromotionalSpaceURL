@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T10:55:39Z",
+    "generated_at": "2026-11-13T11:12:56Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "b56efc30a196f2e9a7f024e16e996664632be5c6264f3b79b7cf4a055040a9f2",
+    "revision": "e811d87e6540076f35abb2463f12d2a591fb57d2502b7c1515834d90f5bb0a8f",
     "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -279,7 +279,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-13T10:55:38Z",
+      "checked_at": "2026-11-13T11:12:55Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 39.75,
@@ -295,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T10:55:38Z",
+      "market_verified_at": "2026-11-13T11:12:55Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 39.75,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T11:25:38Z"
+          "valid_until": "2026-11-13T11:42:55Z"
         },
         {
           "availability": null,
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 39.75,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T11:25:38Z"
+          "valid_until": "2026-11-13T11:42:55Z"
         },
         {
           "availability": null,
@@ -325,7 +325,7 @@
           "delivery_price": 0.0,
           "item_price": 47.7,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T11:25:38Z"
+          "valid_until": "2026-11-13T11:42:55Z"
         }
       ],
       "publishable": true,
