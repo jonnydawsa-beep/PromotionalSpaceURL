@@ -3,16 +3,140 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T05:06:07Z",
+    "generated_at": "2026-11-13T05:10:47Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "5a175ba4c5d35803b4bbe4611337424673253105897f964737bfda264038426d",
-    "deal_count": 5,
+    "revision": "a3f00f200f93a61a14824fc698fcc0384f8a8a1d3ddf27a22badeafdb53ede17",
+    "deal_count": 9,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-2578d2d1830c0228a4f3ba798676&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-mini-rgb-microphone%3Fvariant%3D57079280894334&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Streamplify",
+      "canonical_key": "GTIN:4251442513559",
+      "category": "Other",
+      "checked_at": "2026-11-13T05:10:46Z",
+      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
+      "comparison_count": 20,
+      "comparison_price": 46.99,
+      "current_price": 23.99,
+      "deal_id": "db3-2578d2d1830c0228a4f3ba798676",
+      "delivery_price": null,
+      "gtin": "4251442513559",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7426598ee338c99490b077bdb1ffd8f1.jpg%3Fv%3D1773553637&feedId=102827&k=a7f2c94bc2b483baa56d797473933ff5bbd1e336",
+      "item_price": 23.99,
+      "market_best_price": 23.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-13T05:10:46Z",
+      "mpn": "SPMC-MM1C327.11",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-mini-rgb-microphone?variant=57079280894334",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 21:07:08",
+          "delivery_price": 3.0,
+          "item_price": 26.07,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T05:40:46Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 14:17:20",
+          "delivery_price": 0.0,
+          "item_price": 31.28,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T05:40:46Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 48.95,
+      "signal_type": "HISTORICAL_DROP",
+      "source_item_id": "44215472319",
+      "stock_checked_at": "2026-11-13T05:09:55.574881+00:00",
+      "stock_valid_until": "2026-11-13T05:39:55Z",
+      "title": "Streamplify MIC MINI RGB Microphone",
+      "valid_until": "2026-11-13T05:39:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-mini-rgb-microphone-db32578d.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-5c85df3251bc8502eebcfc4bbe00&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-mic-go-black-clip-on-microphone%3Fvariant%3D57079273947518&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Streamplify",
+      "canonical_key": "GTIN:4251442513542",
+      "category": "Other",
+      "checked_at": "2026-11-13T05:10:46Z",
+      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
+      "comparison_count": 20,
+      "comparison_price": 46.99,
+      "current_price": 23.99,
+      "deal_id": "db3-5c85df3251bc8502eebcfc4bbe00",
+      "delivery_price": null,
+      "gtin": "4251442513542",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F765f2f601c2a6c90c40bb445e0805187.jpg%3Fv%3D1773553592&feedId=102827&k=d1cef668495857863b8e2c75082b11a69e11cd29",
+      "item_price": 23.99,
+      "market_best_price": 23.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-13T05:10:46Z",
+      "mpn": "SPML-MG1C051.11",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-mic-go-black-clip-on-microphone?variant=57079273947518",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 21:07:08",
+          "delivery_price": 3.0,
+          "item_price": 26.07,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T05:40:46Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 14:17:20",
+          "delivery_price": 0.0,
+          "item_price": 31.28,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T05:40:46Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 48.95,
+      "signal_type": "HISTORICAL_DROP",
+      "source_item_id": "44215472136",
+      "stock_checked_at": "2026-11-13T05:09:55.574881+00:00",
+      "stock_valid_until": "2026-11-13T05:39:55Z",
+      "title": "Streamplify MIC GO Black Clip-on microphone",
+      "valid_until": "2026-11-13T05:39:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/streamplify-mic-go-black-clip-on-microphone-db35c85d.html"
+    },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
@@ -22,7 +146,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:06:07Z",
+      "checked_at": "2026-11-13T05:10:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 58.16,
@@ -38,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:06:07Z",
+      "market_verified_at": "2026-11-13T05:10:45Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -50,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -59,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         }
       ],
       "publishable": true,
@@ -84,7 +208,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-13T05:06:07Z",
+      "checked_at": "2026-11-13T05:10:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5488.87,
@@ -100,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:06:07Z",
+      "market_verified_at": "2026-11-13T05:10:45Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -112,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 5488.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -121,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 5488.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -130,7 +254,7 @@
           "delivery_price": 0.0,
           "item_price": 6586.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         }
       ],
       "publishable": true,
@@ -149,13 +273,75 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-7a8118b86faaa6b9dfac450da837&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fstreamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black%3Fvariant%3D57837881590142&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Streamplify",
+      "canonical_key": "GTIN:4251442513528",
+      "category": "Technology",
+      "checked_at": "2026-11-13T05:10:46Z",
+      "comparison_baseline_basis": "HISTORICAL_ITEM_PRICE",
+      "comparison_count": 20,
+      "comparison_price": 44.99,
+      "current_price": 28.99,
+      "deal_id": "db3-7a8118b86faaa6b9dfac450da837",
+      "delivery_price": null,
+      "gtin": "4251442513528",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F33f53771ad95a4ee2d8a03d3165bb5f4dd98430c5737b79a832587afbab0ff6c.jpg%3Fv%3D1786602223&feedId=102827&k=5150fafe6a17623ac437b39a14429b5c8fe59b45",
+      "item_price": 28.99,
+      "market_best_price": 28.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-13T05:10:46Z",
+      "mpn": "SPCW-CGQH421.11",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black?variant=57837881590142",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 21:07:08",
+          "delivery_price": 3.0,
+          "item_price": 30.01,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T05:40:46Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 14:17:20",
+          "delivery_price": 0.0,
+          "item_price": 36.01,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T05:40:46Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 35.56,
+      "signal_type": "HISTORICAL_DROP",
+      "source_item_id": "45618341392",
+      "stock_checked_at": "2026-11-13T05:09:55.574881+00:00",
+      "stock_valid_until": "2026-11-13T05:39:55Z",
+      "title": "Streamplify CAM G webcam 4 MP 2560 x 1440 pixels USB Black",
+      "valid_until": "2026-11-13T05:39:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/streamplify-cam-g-webcam-4-mp-2560-x-1440-pixels-usb-black-db37a811.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-832672d92485e31ea239795e8bc5&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fdell-5rgky%3Fvariant%3D55307545903486&platform=pl",
       "availability": 1,
       "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-13T05:06:07Z",
+      "checked_at": "2026-11-13T05:10:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 60.27,
@@ -171,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:06:07Z",
+      "market_verified_at": "2026-11-13T05:10:45Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -183,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -192,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 65.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         }
       ],
       "publishable": true,
@@ -217,7 +403,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-13T05:06:07Z",
+      "checked_at": "2026-11-13T05:10:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 1438.63,
@@ -233,7 +419,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:06:07Z",
+      "market_verified_at": "2026-11-13T05:10:45Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -245,7 +431,7 @@
           "delivery_price": 3.0,
           "item_price": 1438.63,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -254,7 +440,7 @@
           "delivery_price": 0.0,
           "item_price": 1438.63,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -263,7 +449,7 @@
           "delivery_price": 0.0,
           "item_price": 1726.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         }
       ],
       "publishable": true,
@@ -288,7 +474,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:06:07Z",
+      "checked_at": "2026-11-13T05:10:45Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -304,7 +490,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:06:07Z",
+      "market_verified_at": "2026-11-13T05:10:45Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -316,7 +502,7 @@
           "delivery_price": 3.0,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         },
         {
           "availability": null,
@@ -325,7 +511,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T05:36:07Z"
+          "valid_until": "2026-11-13T05:40:45Z"
         }
       ],
       "publishable": true,
@@ -340,6 +526,68 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-52165e433fed09c1ea38cc05a2c1&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Falphacool-nexxxos-xt45-radiator-block%3Fvariant%3D57695571444094&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Alphacool",
+      "canonical_key": "GTIN:4250197142120",
+      "category": "Other",
+      "checked_at": "2026-11-13T05:10:46Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 2,
+      "comparison_price": 27.66,
+      "current_price": 22.99,
+      "deal_id": "db3-52165e433fed09c1ea38cc05a2c1",
+      "delivery_price": null,
+      "gtin": "4250197142120",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe5dee16b4df14e0ccc1e9019a23dc550.jpg%3Fv%3D1784277292&feedId=102827&k=1c86eff8414eca7eb0bab56ebb09cb90e037760e",
+      "item_price": 22.99,
+      "market_best_price": 22.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-13T05:10:46Z",
+      "mpn": "14212",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 21:07:08",
+          "delivery_price": 3.0,
+          "item_price": 25.15,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T05:40:46Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 14:17:20",
+          "delivery_price": 0.0,
+          "item_price": 30.18,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T05:40:46Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 16.9,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "45320304837",
+      "stock_checked_at": "2026-11-13T05:09:55.574881+00:00",
+      "stock_valid_until": "2026-11-13T05:39:55Z",
+      "title": "Alphacool NexXxoS XT45 Radiator block",
+      "valid_until": "2026-11-13T05:39:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/alphacool-nexxxos-xt45-radiator-block-4755fff5.html"
     }
   ]
 }
