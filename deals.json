@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T13:26:58Z",
+    "generated_at": "2026-11-13T13:31:16Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "bd4ff47469ab0d35747d6f995ccac0aac8494ff43f92f4d7e56ad03eeea51574",
+    "revision": "f14ab458bad88ef4e07faf6e977e109998a329e874b07e6924a240008828f0b1",
     "deal_count": 16,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -208,7 +208,7 @@
       "brand": "SumUp",
       "canonical_key": "GTIN:4260325422543",
       "category": "Other",
-      "checked_at": "2026-11-13T13:06:54Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 59.94,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:06:54Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "800604901",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sumup-air-and-cradle?variant=55308642255230",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 54.49,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 65.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Asus",
       "canonical_key": "GTIN:4711387239704",
       "category": "DIY",
-      "checked_at": "2026-11-13T13:06:54Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 98.01,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:06:54Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "90MB1F80-M0EAYC",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/asus-pro-a620m-c-csm-amd-a620-socket-am5-micro-atx?variant=56908501090686",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 89.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 106.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
@@ -651,7 +651,7 @@
       "brand": "Google",
       "canonical_key": "GTIN:840353962224",
       "category": "Other",
-      "checked_at": "2026-11-13T13:06:53Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 516.38,
@@ -667,7 +667,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:06:53Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "GA10894-DE",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-black-wi-fi-gps-satellite?variant=57842639962494",
@@ -679,7 +679,7 @@
           "delivery_price": 3.0,
           "item_price": 469.44,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:53Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -688,7 +688,7 @@
           "delivery_price": 0.0,
           "item_price": 563.33,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:53Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
@@ -713,7 +713,7 @@
       "brand": "Philips",
       "canonical_key": "GTIN:9120056503346",
       "category": "Other",
-      "checked_at": "2026-11-13T13:06:54Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 305.5,
@@ -729,7 +729,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:06:54Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "LFH7277/08",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/philips-lfh7277-foot-control-unit?variant=57404645704062",
@@ -741,7 +741,7 @@
           "delivery_price": 3.0,
           "item_price": 277.73,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -750,7 +750,7 @@
           "delivery_price": 0.0,
           "item_price": 333.28,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
@@ -775,7 +775,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750315883",
       "category": "Other",
-      "checked_at": "2026-11-13T13:06:54Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -791,7 +791,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T13:06:54Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "72-2694",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1u-slotted-finger-19inch-92mm-depth-cable-management-black?variant=58375359824254",
@@ -803,7 +803,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -812,7 +812,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
@@ -837,7 +837,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-13T13:06:54Z",
+      "checked_at": "2026-11-13T13:31:16Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 46.04,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T13:06:54Z",
+      "market_verified_at": "2026-11-13T13:31:16Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -865,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 45.85,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 3.0,
           "item_price": 46.04,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 0.0,
           "item_price": 55.02,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T13:36:54Z"
+          "valid_until": "2026-11-13T14:01:16Z"
         }
       ],
       "publishable": true,
