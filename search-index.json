@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:54:30Z",
+  "generated_at": "2026-11-13T12:58:07Z",
   "items": [
     {
       "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
@@ -11,33 +11,6 @@
       "current_price": 76.99
     },
     {
-      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
-      "active": true,
-      "current_price": 1353.99
-    },
-    {
-      "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html",
-      "active": true,
-      "current_price": 5908.99
-    },
-    {
-      "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
-      "active": true,
-      "current_price": 6236.99
-    },
-    {
       "title": "Google Pixel Watch 5 AMOLED 45 mm Digital Touchscreen Black Wi-Fi GPS (satellite)",
       "brand": "Google",
       "category": "Other",
@@ -47,24 +20,6 @@
       "current_price": 343.99
     },
     {
-      "title": "Jabra Evolve2 65 Flex Ear Cushion",
-      "brand": "Jabra",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
-      "active": true,
-      "current_price": 26.99
-    },
-    {
-      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
-      "brand": "Lenovo",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
-      "active": true,
-      "current_price": 40.99
-    },
-    {
       "title": "Nvidia 980-9I57X-00N010 InfiniBand/fibre optic cable 10 m MPO12 Black",
       "brand": "Nvidia",
       "category": "Other",
@@ -72,15 +27,6 @@
       "url": "products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black-db34950c.html",
       "active": true,
       "current_price": 83.99
-    },
-    {
-      "title": "Vision 2x VGA 15-pin D-Sub, 10m VGA cable VGA (D-Sub) White",
-      "brand": "Vision",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
-      "active": true,
-      "current_price": 27.99
     },
     {
       "title": "Vision TC3 SURR2G wall plate/switch cover White",
@@ -2081,6 +2027,15 @@
       "current_price": null
     },
     {
+      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco Catalyst 9300 48-port data Ntw Ess Managed L2/L3 Gigabit Ethernet (10/100/1000) Grey",
       "brand": "Cisco",
       "category": "Other",
@@ -2122,6 +2077,24 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-c9300-24p-a-network-switch-managed-l2-l3-gigabit-ethern-db323671.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst C9300-48P-A network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst C9300-48P-E network switch Managed L2/L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
       "active": false,
       "current_price": null
     },
@@ -4736,6 +4709,15 @@
       "current_price": null
     },
     {
+      "title": "Jabra Evolve2 65 Flex Ear Cushion",
+      "brand": "Jabra",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Jabra Leather Ear Cushion, Evolve 80",
       "brand": "Jabra",
       "category": "Other",
@@ -5038,6 +5020,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/lenovo-4x90x21427-interface-hub-usb-3-2-gen-2-3-1-gen-2-type-c-20000-m-db3ad0f1.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Lenovo 4X91C47404 USB cable USB 2.0 10 m USB A Black",
+      "brand": "Lenovo",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
       "active": false,
       "current_price": null
     },
@@ -7792,6 +7783,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/vision-2m-black-dp-to-hdmi-cable-8k-db31c5ab.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Vision 2x VGA 15-pin D-Sub, 10m VGA cable VGA (D-Sub) White",
+      "brand": "Vision",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
       "active": false,
       "current_price": null
     },

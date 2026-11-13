@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T12:54:30Z",
+  "generated_at": "2026-11-13T12:58:07Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 11,
+  "active_count": 5,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -4515,9 +4515,9 @@
       "slug": "lenovo-4x91c47404-usb-cable-usb-2-0-10-m-usb-a-black-db39f018.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:195477876194",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-9f01840209b48dfdbc0dbdff8363",
         "publishable": true,
@@ -5242,8 +5242,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:4711387259795",
       "active": true,
-      "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_live_at": "2026-11-13T12:58:07Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-f936943a5c1de8e2faf79e79f94e",
         "publishable": true,
@@ -5260,7 +5260,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:32:00Z",
+        "checked_at": "2026-11-13T12:58:06Z",
         "valid_until": "2026-11-13T13:01:10Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F338f98f5c27097badefec82442ecbfd2.jpg%3Fv%3D1773989463&feedId=102827&k=cfad5530ec1d821616eaef89af1597f861a840f8",
         "delivery_price": null,
@@ -5275,7 +5275,7 @@
             "delivery_price": 3.0,
             "item_price": 107.9,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           },
           {
             "availability": null,
@@ -5284,7 +5284,7 @@
             "delivery_price": 0.0,
             "item_price": 129.48,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx?variant=55308897976702",
@@ -5302,7 +5302,7 @@
         "stock_valid_until": "2026-11-13T13:01:10Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:54:30Z",
+      "lkg_certified_at": "2026-11-13T12:58:07Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-3b72922cbb26941e973e5f853e14": {
@@ -5421,8 +5421,8 @@
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:5812011000000",
       "active": true,
-      "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_live_at": "2026-11-13T12:58:07Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-677f9a04dd7875a0d1fa67f942d0",
         "publishable": true,
@@ -5439,7 +5439,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:32:00Z",
+        "checked_at": "2026-11-13T12:58:06Z",
         "valid_until": "2026-11-13T13:01:10Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F423fa8cd68695fd8a990177e57f6bb35.jpg%3Fv%3D1756095397&feedId=102827&k=af2af9ad8d85756bd0f56cbdefd86dd16dbfc614",
         "delivery_price": null,
@@ -5454,7 +5454,7 @@
             "delivery_price": 3.0,
             "item_price": 130.14,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           },
           {
             "availability": null,
@@ -5463,7 +5463,7 @@
             "delivery_price": 0.0,
             "item_price": 156.17,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dad4-monitor-mount-stand-686-cm-27-desk-black?variant=55468980470142",
@@ -5481,7 +5481,7 @@
         "stock_valid_until": "2026-11-13T13:01:10Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:54:30Z",
+      "lkg_certified_at": "2026-11-13T12:58:07Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-68888d85e6c6159ddb930b625cce": {
@@ -5885,9 +5885,9 @@
       "slug": "cisco-catalyst-c9300-48p-a-network-switch-managed-l2-l3-gigabit-ethern-db3ab0b7.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728051651",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-ab0b7ca962074c22017d151a683c",
         "publishable": true,
@@ -6463,9 +6463,9 @@
       "slug": "vision-2x-vga-15-pin-d-sub-10m-vga-cable-vga-d-sub-white-db3924f5.html",
       "first_seen_at": "2026-10-23T22:18:40Z",
       "canonical_key": "GTIN:3480006000001",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-924f599d9de13096a8b4483124bb",
         "publishable": true,
@@ -10614,8 +10614,8 @@
       "first_seen_at": "2026-10-27T19:27:01Z",
       "canonical_key": "GTIN:3446603000004",
       "active": true,
-      "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_live_at": "2026-11-13T12:58:07Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-4619aff74592b11b5fb6b086568b",
         "publishable": true,
@@ -10632,7 +10632,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:32:00Z",
+        "checked_at": "2026-11-13T12:58:06Z",
         "valid_until": "2026-11-13T13:01:10Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc87cfd3ec23c86c42e33307881a828b3.jpg%3Fv%3D1756137337&feedId=102827&k=fc1efdfbc569b9699edd53385c527d16a2537e0f",
         "delivery_price": null,
@@ -10647,7 +10647,7 @@
             "delivery_price": 3.0,
             "item_price": 32.75,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           },
           {
             "availability": null,
@@ -10656,7 +10656,7 @@
             "delivery_price": 0.0,
             "item_price": 39.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/vision-tc3-surr2g-wall-plateswitch-cover-white?variant=55468879872382",
@@ -10674,7 +10674,7 @@
         "stock_valid_until": "2026-11-13T13:01:10Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:54:30Z",
+      "lkg_certified_at": "2026-11-13T12:58:07Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-53f7446a295b3fb3066b0178c6fb": {
@@ -12433,9 +12433,9 @@
       "slug": "cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0889728035736",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-08be6674abb4a892836a2d9ec522",
         "publishable": true,
@@ -14025,9 +14025,9 @@
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0889728170161",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-13b2e52479583026fc51325aebf3",
         "publishable": true,
@@ -38531,9 +38531,9 @@
       "slug": "jabra-evolve2-65-flex-ear-cushion-db3d8f6c.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:5706991029185",
-      "active": true,
+      "active": false,
       "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-d8f6c676cd15956cc0f99724371c",
         "publishable": true,
@@ -49167,8 +49167,8 @@
       "first_seen_at": "2026-11-05T17:59:36Z",
       "canonical_key": "GTIN:840353962224",
       "active": true,
-      "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_live_at": "2026-11-13T12:58:07Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-4d80505c0fd88aff733a360cec87",
         "publishable": true,
@@ -49185,7 +49185,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:32:00Z",
+        "checked_at": "2026-11-13T12:58:06Z",
         "valid_until": "2026-11-13T13:01:10Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F7bb5f4f4c1189260a0f1c345efb54d940b7a99c03bd29d34613ac3c9a9dd3eb6.jpg%3Fv%3D1786691055&feedId=102827&k=632866280280f45a09e05021d5b082e6c9e5e551",
         "delivery_price": null,
@@ -49200,7 +49200,7 @@
             "delivery_price": 3.0,
             "item_price": 469.44,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           },
           {
             "availability": null,
@@ -49209,7 +49209,7 @@
             "delivery_price": 0.0,
             "item_price": 563.33,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/google-pixel-watch-5-amoled-45-mm-digital-touchscreen-black-wi-fi-gps-satellite?variant=57842639962494",
@@ -49227,7 +49227,7 @@
         "stock_valid_until": "2026-11-13T13:01:10Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:54:30Z",
+      "lkg_certified_at": "2026-11-13T12:58:07Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-d3a8a2f0ce395e365a87f53deecd": {
@@ -52744,8 +52744,8 @@
       "first_seen_at": "2026-11-09T20:32:01Z",
       "canonical_key": "GTIN:7290110490355",
       "active": true,
-      "last_live_at": "2026-11-13T12:54:30Z",
-      "last_seen_at": "2026-11-13T12:54:30Z",
+      "last_live_at": "2026-11-13T12:58:07Z",
+      "last_seen_at": "2026-11-13T12:58:07Z",
       "last_deal": {
         "deal_id": "db3-4950c8886186bd75a8320fafd501",
         "publishable": true,
@@ -52762,7 +52762,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:32:00Z",
+        "checked_at": "2026-11-13T12:58:06Z",
         "valid_until": "2026-11-13T13:01:10Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FhRaLcHFTLUOr_EaAarGe4g.c-r.jpg%3Fv%3D1794189781&feedId=102827&k=d798360b1c54e318723900b46b3e35988e51d12a",
         "delivery_price": null,
@@ -52777,7 +52777,7 @@
             "delivery_price": 3.0,
             "item_price": 115.02,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           },
           {
             "availability": null,
@@ -52786,7 +52786,7 @@
             "delivery_price": 0.0,
             "item_price": 138.02,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T13:02:00Z"
+            "valid_until": "2026-11-13T13:28:06Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/nvidia-980-9i57x-00n010-infiniband-fibre-optic-cable-10-m-mpo12-black?variant=58419420168574",
@@ -52804,7 +52804,7 @@
         "stock_valid_until": "2026-11-13T13:01:10Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:54:30Z",
+      "lkg_certified_at": "2026-11-13T12:58:07Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-42ef278bb234484ad38763bece9f": {
