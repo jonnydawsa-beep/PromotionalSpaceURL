@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T15:14:55Z",
+    "generated_at": "2026-11-13T15:35:31Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "bc78595f8e5e35f3b466591ba0d7464484b38d93a6ace4fcece2ca184f91349d",
+    "revision": "291ee6c6b0816994b8a632e0e8c393162b8a566013d189369fdccb6f6c20fbf3",
     "deal_count": 15,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Intel",
       "canonical_key": "GTIN:735858547291",
       "category": "Other",
-      "checked_at": "2026-11-13T15:14:53Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 43.77,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:53Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "BE200.NGWG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbits?variant=55308927861118",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 39.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 47.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 40.62,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475285755",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:35:30.872289+00:00",
+      "stock_valid_until": "2026-11-13T16:05:30Z",
       "title": "Intel Wi-Fi 7 BE200 Internal WLAN / Bluetooth 5800 Mbit/s",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T16:05:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/intel-wi-fi-7-be200-internal-wlan-bluetooth-5800-mbit-s-db354892.html"
@@ -84,7 +84,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336901",
       "category": "Other",
-      "checked_at": "2026-11-13T15:14:53Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.61,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:53Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "SLEEV-40B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black?variant=55468658131326",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 26.01,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 31.21,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -129,10 +129,10 @@
       "saving_percent": 26.63,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075454690",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:26:01.535615+00:00",
+      "stock_valid_until": "2026-11-13T15:56:01Z",
       "title": "Cablenet 25m Braided Sleeving 20mm-40mm (64mm max) LSOH Black",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T15:56:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-black-db37de7a.html"
@@ -146,7 +146,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439241365",
       "category": "Technology",
-      "checked_at": "2026-11-13T15:14:54Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:54Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "24136",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -191,10 +191,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43749571441",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:35:30.872289+00:00",
+      "stock_valid_until": "2026-11-13T16:05:30Z",
       "title": "Trust 24136 card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-C Aluminium",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T16:05:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/trust-24136-card-reader-usb-3-2-gen-1-3-1-gen-1-type-c-aluminium-db358505.html"
@@ -208,7 +208,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439255485",
       "category": "Technology",
-      "checked_at": "2026-11-13T15:14:54Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:54Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "25548",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-1?variant=56833174765950",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -253,10 +253,10 @@
       "saving_percent": 26.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43749571561",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:35:30.872289+00:00",
+      "stock_valid_until": "2026-11-13T16:05:30Z",
       "title": "Trust Tanor webcam 1920 x 1080 pixels USB Black",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T16:05:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/trust-tanor-webcam-1920-x-1080-pixels-usb-black-db3de170.html"
@@ -642,7 +642,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750345194",
       "category": "Other",
-      "checked_at": "2026-11-13T15:14:53Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.77,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:53Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "65-0020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-pink-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375857897854",
@@ -670,7 +670,7 @@
           "delivery_price": 3.0,
           "item_price": 26.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 31.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -687,10 +687,10 @@
       "saving_percent": 23.58,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566615237",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:26:01.535615+00:00",
+      "stock_valid_until": "2026-11-13T15:56:01Z",
       "title": "Cablenet 2m Cat6a RJ45 Pink S/FTP LSOH 26AWG Snagless Booted Patch Lead (PK 10)",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T15:56:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-2m-cat6a-rj45-pink-s-ftp-lsoh-26awg-snagless-booted-patch-lea-db31b29c.html"
@@ -704,7 +704,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342841",
       "category": "Other",
-      "checked_at": "2026-11-13T15:14:53Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 30.07,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:53Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "65-1020P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-grey-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375350813054",
@@ -732,7 +732,7 @@
           "delivery_price": 3.0,
           "item_price": 27.33,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 32.8,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:53Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -749,10 +749,10 @@
       "saving_percent": 23.53,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614755",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:26:01.535615+00:00",
+      "stock_valid_until": "2026-11-13T15:56:01Z",
       "title": "Cablenet 2m Cat6a RJ45 Grey S/FTP LSOH 26AWG Snagless Booted Patch Lead (PK 10)",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T15:56:01Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cablenet-2m-cat6a-rj45-grey-s-ftp-lsoh-26awg-snagless-booted-patch-lea-db30ee65.html"
@@ -828,7 +828,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4740219000007",
       "category": "Technology",
-      "checked_at": "2026-11-13T15:14:54Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 80.56,
@@ -844,7 +844,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:14:54Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "VFM-DPD2B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-686-cm-27-desk-black?variant=55468880396670",
@@ -856,7 +856,7 @@
           "delivery_price": 3.0,
           "item_price": 73.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -865,7 +865,7 @@
           "delivery_price": 0.0,
           "item_price": 87.89,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -873,10 +873,10 @@
       "saving_percent": 23.06,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458465",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:35:30.872289+00:00",
+      "stock_valid_until": "2026-11-13T16:05:30Z",
       "title": "Vision VFM-DPD2B monitor mount / stand 68.6 cm (27\") Desk Black",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T16:05:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-dpd2b-monitor-mount-stand-68-6-cm-27-desk-black-db386970.html"
@@ -890,7 +890,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-13T15:14:54Z",
+      "checked_at": "2026-11-13T15:35:31Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 118.5,
@@ -906,7 +906,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T15:14:54Z",
+      "market_verified_at": "2026-11-13T15:35:31Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -918,7 +918,7 @@
           "delivery_price": 0.0,
           "item_price": 117.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -927,7 +927,7 @@
           "delivery_price": 3.0,
           "item_price": 118.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         },
         {
           "availability": null,
@@ -936,7 +936,7 @@
           "delivery_price": 0.0,
           "item_price": 141.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T15:44:54Z"
+          "valid_until": "2026-11-13T16:05:31Z"
         }
       ],
       "publishable": true,
@@ -944,10 +944,10 @@
       "saving_percent": 19.0,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614506",
-      "stock_checked_at": "2026-11-13T15:10:09.779151+00:00",
-      "stock_valid_until": "2026-11-13T15:40:09Z",
+      "stock_checked_at": "2026-11-13T15:35:30.872289+00:00",
+      "stock_valid_until": "2026-11-13T16:05:30Z",
       "title": "Cisco 10G Direct Attach Twinax SFP+ Cable, Passive, 30AWG Cable Assembly, 5 M, Grey, 5-Year Standard Warranty (SFP-H10GB-CU5M=)",
-      "valid_until": "2026-11-13T15:40:09Z",
+      "valid_until": "2026-11-13T16:05:30Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html"
