@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T17:43:39Z",
+  "generated_at": "2026-11-13T18:14:27Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 6,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -953,9 +953,9 @@
       "slug": "targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5051794014471",
-      "active": false,
-      "last_live_at": "2026-11-13T12:20:30Z",
-      "last_seen_at": "2026-11-13T12:23:49Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-a0af857d167670e10b8b33f77029",
         "publishable": true,
@@ -972,8 +972,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T11:54:01Z",
-        "valid_until": "2026-11-13T12:23:08Z",
+        "checked_at": "2026-11-13T18:14:25Z",
+        "valid_until": "2026-11-13T18:42:08Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
         "delivery_price": null,
         "item_price": 27.99,
@@ -987,16 +987,16 @@
             "delivery_price": 3.0,
             "item_price": 60.22,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T12:24:01Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
             "item_price": 72.26,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T12:24:01Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -1010,11 +1010,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T11:53:08.714120+00:00",
-        "stock_valid_until": "2026-11-13T12:23:08Z"
+        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
+        "stock_valid_until": "2026-11-13T18:42:08Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:20:30Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-91ccf1746a719978b7621f56f3fe": {
@@ -4216,9 +4216,9 @@
       "slug": "cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170178",
-      "active": false,
-      "last_live_at": "2026-11-13T17:36:37Z",
-      "last_seen_at": "2026-11-13T17:43:39Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-eb49a32eff171514ad69ed1e27f4",
         "publishable": true,
@@ -4235,8 +4235,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T17:10:30Z",
-        "valid_until": "2026-11-13T17:39:38Z",
+        "checked_at": "2026-11-13T18:14:25Z",
+        "valid_until": "2026-11-13T18:26:23Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_5ddda92e-2195-4577-82de-9afa5d8a5e85.jpg%3Fv%3D1762514902&feedId=102827&k=025f8a06151d44fc0f669b6fddc67acb3e02ad0f",
         "delivery_price": null,
         "item_price": 2011.99,
@@ -4250,7 +4250,7 @@
             "delivery_price": 0.0,
             "item_price": 3183.32,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T17:40:30Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
@@ -4259,7 +4259,7 @@
             "delivery_price": 3.0,
             "item_price": 3209.02,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T17:40:30Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
@@ -4268,7 +4268,7 @@
             "delivery_price": 0.0,
             "item_price": 3850.82,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T17:40:30Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -4282,20 +4282,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T17:09:38.782017+00:00",
-        "stock_valid_until": "2026-11-13T17:39:38Z"
+        "stock_checked_at": "2026-11-13T17:56:23.843563+00:00",
+        "stock_valid_until": "2026-11-13T18:26:23Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T17:36:37Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-4ee51a423ad2fd80d086b3fdb826": {
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170192",
-      "active": false,
-      "last_live_at": "2026-11-13T12:17:11Z",
-      "last_seen_at": "2026-11-13T12:20:30Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-4ee51a423ad2fd80d086b3fdb826",
         "publishable": true,
@@ -4312,8 +4312,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:17:10Z",
-        "valid_until": "2026-11-13T12:21:46Z",
+        "checked_at": "2026-11-13T18:14:25Z",
+        "valid_until": "2026-11-13T18:42:08Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0c73a0f9b84faba2057eaa4a589b9099_4b31e7e4-2bdc-48ea-b538-eae4017669c3.jpg%3Fv%3D1778992485&feedId=102827&k=5be15660509c041b8b126472a037644e6a302b8a",
         "delivery_price": null,
         "item_price": 3472.99,
@@ -4327,7 +4327,7 @@
             "delivery_price": 0.0,
             "item_price": 5488.87,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
@@ -4336,16 +4336,16 @@
             "delivery_price": 3.0,
             "item_price": 5533.23,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
-            "item_price": 6586.64,
+            "item_price": 6639.88,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -4359,11 +4359,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T11:51:46.645751+00:00",
-        "stock_valid_until": "2026-11-13T12:21:46Z"
+        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
+        "stock_valid_until": "2026-11-13T18:42:08Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:17:11Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-7fd4b77b4a407b85d73e3fac369a": {
@@ -5663,9 +5663,9 @@
       "slug": "cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728227674",
-      "active": false,
-      "last_live_at": "2026-11-13T12:17:11Z",
-      "last_seen_at": "2026-11-13T12:20:30Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-98e3e423310fed6d04931d1fbd3f",
         "publishable": true,
@@ -5682,8 +5682,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T12:17:10Z",
-        "valid_until": "2026-11-13T12:21:46Z",
+        "checked_at": "2026-11-13T18:14:25Z",
+        "valid_until": "2026-11-13T18:42:08Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc63933741fb7cd037150a80186a9d0ae.jpg%3Fv%3D1762514902&feedId=102827&k=2456864bf74d116a126e715fe8ad778da90adf49",
         "delivery_price": null,
         "item_price": 1055.99,
@@ -5697,7 +5697,7 @@
             "delivery_price": 0.0,
             "item_price": 1438.63,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
@@ -5706,16 +5706,16 @@
             "delivery_price": 3.0,
             "item_price": 1450.21,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
-            "item_price": 1726.36,
+            "item_price": 1740.25,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T12:47:10Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -5729,11 +5729,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T11:51:46.645751+00:00",
-        "stock_valid_until": "2026-11-13T12:21:46Z"
+        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
+        "stock_valid_until": "2026-11-13T18:42:08Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:17:11Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-6866713fc50c3f90f9a717ac4519": {
@@ -13957,9 +13957,9 @@
       "slug": "lenovo-hdmi-vga-0-2-m-black-db3d90e4.html",
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0887037480414",
-      "active": false,
-      "last_live_at": "2026-11-13T17:36:37Z",
-      "last_seen_at": "2026-11-13T17:43:39Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-d90e447707b0267e803366c190c8",
         "publishable": true,
@@ -13976,8 +13976,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T17:10:30Z",
-        "valid_until": "2026-11-13T17:39:38Z",
+        "checked_at": "2026-11-13T18:14:25Z",
+        "valid_until": "2026-11-13T18:26:23Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F909474c59edeb9d419eaa37c503f422c.jpg%3Fv%3D1762945893&feedId=102827&k=b130690a9e05c5d1636804dba7650dae3e5fa344",
         "delivery_price": null,
         "item_price": 23.99,
@@ -13991,7 +13991,7 @@
             "delivery_price": 3.0,
             "item_price": 37.61,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T17:40:30Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           },
           {
             "availability": null,
@@ -14000,7 +14000,7 @@
             "delivery_price": 0.0,
             "item_price": 45.13,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T17:40:30Z"
+            "valid_until": "2026-11-13T18:44:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -14014,11 +14014,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T17:09:38.782017+00:00",
-        "stock_valid_until": "2026-11-13T17:39:38Z"
+        "stock_checked_at": "2026-11-13T17:56:23.843563+00:00",
+        "stock_valid_until": "2026-11-13T18:26:23Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T17:36:37Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-13b2e52479583026fc51325aebf3": {
@@ -46577,9 +46577,9 @@
       "slug": "targus-safeport-strap-tablet-silicone-black-db3c377c.html",
       "first_seen_at": "2026-11-04T07:53:16Z",
       "canonical_key": "GTIN:5051794023206",
-      "active": false,
-      "last_live_at": "2026-11-13T12:20:30Z",
-      "last_seen_at": "2026-11-13T12:23:49Z",
+      "active": true,
+      "last_live_at": "2026-11-13T18:14:27Z",
+      "last_seen_at": "2026-11-13T18:14:27Z",
       "last_deal": {
         "deal_id": "db3-c377c70d64137741753d003ae932",
         "publishable": true,
@@ -46596,8 +46596,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T11:54:02Z",
-        "valid_until": "2026-11-13T12:23:08Z",
+        "checked_at": "2026-11-13T18:14:26Z",
+        "valid_until": "2026-11-13T18:43:34Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F12115e7ebb096366ab0643025c6a5d46.jpg%3Fv%3D1756122639&feedId=102827&k=1a3132ad225004734d027950980c0bdd8be2e2f6",
         "delivery_price": null,
         "item_price": 24.99,
@@ -46611,16 +46611,16 @@
             "delivery_price": 3.0,
             "item_price": 29.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T12:24:02Z"
+            "valid_until": "2026-11-13T18:44:26Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
             "item_price": 35.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T12:24:02Z"
+            "valid_until": "2026-11-13T18:44:26Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -46634,11 +46634,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T11:53:08.714120+00:00",
-        "stock_valid_until": "2026-11-13T12:23:08Z"
+        "stock_checked_at": "2026-11-13T18:13:34.270651+00:00",
+        "stock_valid_until": "2026-11-13T18:43:34Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T12:20:30Z",
+      "lkg_certified_at": "2026-11-13T18:14:27Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-0e0285d2b0c210a68f1de86a39b2": {
