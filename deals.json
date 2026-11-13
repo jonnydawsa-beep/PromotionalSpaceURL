@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T10:24:02Z",
+    "generated_at": "2026-11-13T10:48:20Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "34b502beb730c947390049615a4bf995ea08281cf5da8ca979278c56df536544",
+    "revision": "1a33f57f079e4c9bd501fabd46bce3dcedcfb5a746fbddeb004988a83419a730",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-13T10:24:02Z",
+      "checked_at": "2026-11-13T10:48:20Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.96,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T10:24:02Z",
+      "market_verified_at": "2026-11-13T10:48:20Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T10:54:02Z"
+          "valid_until": "2026-11-13T11:18:20Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 30.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T10:54:02Z"
+          "valid_until": "2026-11-13T11:18:20Z"
         }
       ],
       "publishable": true,
