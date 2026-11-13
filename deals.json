@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T01:24:39Z",
+    "generated_at": "2026-11-13T01:47:30Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "ebaaeb8921054ae919cc5e51c79b298c8bbb6f8e2f6d03b6d568f8b42c1a6254",
+    "revision": "0e6c38318125c513727ba86761b10eddbcde1ff9ae2f77f64e0fb5def687be7c",
     "deal_count": 13,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-13T01:24:38Z",
+      "checked_at": "2026-11-13T01:47:30Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 117.26,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T01:24:38Z",
+      "market_verified_at": "2026-11-13T01:47:30Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 106.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T01:54:38Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 127.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T01:54:38Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Trust",
       "canonical_key": "GTIN:8713439241365",
       "category": "Technology",
-      "checked_at": "2026-11-13T01:24:39Z",
+      "checked_at": "2026-11-13T01:47:30Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.49,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T01:24:39Z",
+      "market_verified_at": "2026-11-13T01:47:30Z",
       "mpn": "24136",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/trust-24136-card-reader-usb-32-gen-1-31-gen-1-type-c-aluminium-1?variant=56833170833790",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 25.9,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T01:54:39Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 31.08,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T01:54:39Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         }
       ],
       "publishable": true,
@@ -766,7 +766,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-13T01:24:39Z",
+      "checked_at": "2026-11-13T01:47:30Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 117.72,
@@ -782,7 +782,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T01:24:39Z",
+      "market_verified_at": "2026-11-13T01:47:30Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -794,7 +794,7 @@
           "delivery_price": 3.0,
           "item_price": 117.72,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T01:54:39Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         },
         {
           "availability": null,
@@ -803,7 +803,7 @@
           "delivery_price": 0.0,
           "item_price": 117.72,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T01:54:39Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         },
         {
           "availability": null,
@@ -812,7 +812,7 @@
           "delivery_price": 0.0,
           "item_price": 141.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T01:54:39Z"
+          "valid_until": "2026-11-13T02:17:30Z"
         }
       ],
       "publishable": true,
