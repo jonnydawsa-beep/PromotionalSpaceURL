@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T14:02:16Z",
+    "generated_at": "2026-11-13T14:25:14Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "27a5bfdae1a84f0ea1aa0c9e3652d5a37d621044f63405b75924d5ef16a22fb1",
+    "revision": "fbbfceb219c9250b7c9221a10464ae0280c01128580f607ced81f498f3c78c7f",
     "deal_count": 9,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "D-Link",
       "canonical_key": "GTIN:790069405983",
       "category": "Other",
-      "checked_at": "2026-11-13T14:02:15Z",
+      "checked_at": "2026-11-13T14:25:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 117.26,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T14:02:15Z",
+      "market_verified_at": "2026-11-13T14:25:14Z",
       "mpn": "DWR-932",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 106.6,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T14:32:15Z"
+          "valid_until": "2026-11-13T14:55:14Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 127.92,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T14:32:15Z"
+          "valid_until": "2026-11-13T14:55:14Z"
         }
       ],
       "publishable": true,
