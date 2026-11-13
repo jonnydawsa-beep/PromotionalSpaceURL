@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T11:23:09Z",
+  "generated_at": "2026-11-13T11:30:51Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 1,
+  "active_count": 2,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -191,9 +191,9 @@
     "4755fff5-c297-4182-b312-b4bac4c5d40e": {
       "slug": "alphacool-nexxxos-xt45-radiator-block-4755fff5.html",
       "first_seen_at": "2026-10-20T19:22:48Z",
-      "active": false,
-      "last_live_at": "2026-11-13T05:34:56Z",
-      "last_seen_at": "2026-11-13T05:40:08Z",
+      "active": true,
+      "last_live_at": "2026-11-13T11:30:51Z",
+      "last_seen_at": "2026-11-13T11:30:51Z",
       "last_deal": {
         "deal_id": "db3-52165e433fed09c1ea38cc05a2c1",
         "publishable": true,
@@ -210,8 +210,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T05:34:53Z",
-        "valid_until": "2026-11-13T05:39:55Z",
+        "checked_at": "2026-11-13T11:30:49Z",
+        "valid_until": "2026-11-13T11:59:58Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe5dee16b4df14e0ccc1e9019a23dc550.jpg%3Fv%3D1784277292&feedId=102827&k=1c86eff8414eca7eb0bab56ebb09cb90e037760e",
         "delivery_price": null,
         "item_price": 22.99,
@@ -221,11 +221,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:07:08",
+            "checked_at": "2026-11-13 11:10:16",
             "delivery_price": 3.0,
             "item_price": 25.15,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T06:04:53Z"
+            "valid_until": "2026-11-13T12:00:49Z"
           },
           {
             "availability": null,
@@ -234,7 +234,7 @@
             "delivery_price": 0.0,
             "item_price": 30.18,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T06:04:53Z"
+            "valid_until": "2026-11-13T12:00:49Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
@@ -248,11 +248,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T05:09:55.574881+00:00",
-        "stock_valid_until": "2026-11-13T05:39:55Z"
+        "stock_checked_at": "2026-11-13T11:29:58.849556+00:00",
+        "stock_valid_until": "2026-11-13T11:59:58Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T05:34:56Z",
+      "lkg_certified_at": "2026-11-13T11:30:51Z",
       "last_changed_date": "2026-11-13",
       "canonical_key": "GTIN:4250197142120"
     },
@@ -15752,8 +15752,8 @@
       "first_seen_at": "2026-10-30T17:45:58Z",
       "canonical_key": "GTIN:190021094680",
       "active": true,
-      "last_live_at": "2026-11-13T11:23:09Z",
-      "last_seen_at": "2026-11-13T11:23:09Z",
+      "last_live_at": "2026-11-13T11:30:51Z",
+      "last_seen_at": "2026-11-13T11:30:51Z",
       "last_deal": {
         "deal_id": "db3-8f3a6755d4da7cd8ad4f53957025",
         "publishable": true,
@@ -15770,7 +15770,7 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T11:19:31Z",
+        "checked_at": "2026-11-13T11:30:49Z",
         "valid_until": "2026-11-13T11:39:25Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F16ddca6c933ae0a762d74bc1c87376a7.jpg%3Fv%3D1756124931&feedId=102827&k=fb9db4898909bf56cc2b13eb319344553807b9af",
         "delivery_price": null,
@@ -15781,11 +15781,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:07:08",
+            "checked_at": "2026-11-13 11:10:16",
             "delivery_price": 3.0,
             "item_price": 25.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T11:49:31Z"
+            "valid_until": "2026-11-13T12:00:49Z"
           },
           {
             "availability": null,
@@ -15794,7 +15794,7 @@
             "delivery_price": 0.0,
             "item_price": 30.5,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T11:49:31Z"
+            "valid_until": "2026-11-13T12:00:49Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -15812,7 +15812,7 @@
         "stock_valid_until": "2026-11-13T11:39:25Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T11:23:09Z",
+      "lkg_certified_at": "2026-11-13T11:30:51Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-b8f01d5f04050c7ec82692c177cc": {

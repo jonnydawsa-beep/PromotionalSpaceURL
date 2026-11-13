@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T11:23:08Z",
+    "generated_at": "2026-11-13T11:30:51Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "a5ac713475f757035fe8a804aad34b40c3ae0300ab7eca1b76e8076818983387",
-    "deal_count": 1,
+    "revision": "7077c8c0f64b30b42804e603a63f6c0268f6d4b329188f7795e1b4809821d236",
+    "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -22,7 +22,7 @@
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-13T11:19:31Z",
+      "checked_at": "2026-11-13T11:30:49Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.96,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T11:19:31Z",
+      "market_verified_at": "2026-11-13T11:30:49Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -46,11 +46,11 @@
         {
           "availability": null,
           "availability_basis": "CURRENT_ACTIVE_LISTING",
-          "checked_at": "2026-11-12 21:07:08",
+          "checked_at": "2026-11-13 11:10:16",
           "delivery_price": 3.0,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T11:49:31Z"
+          "valid_until": "2026-11-13T12:00:49Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 30.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T11:49:31Z"
+          "valid_until": "2026-11-13T12:00:49Z"
         }
       ],
       "publishable": true,
@@ -74,6 +74,68 @@
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cp-dy-00000044-db38f3a6.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-52165e433fed09c1ea38cc05a2c1&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Falphacool-nexxxos-xt45-radiator-block%3Fvariant%3D57695571444094&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Alphacool",
+      "canonical_key": "GTIN:4250197142120",
+      "category": "Other",
+      "checked_at": "2026-11-13T11:30:49Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 2,
+      "comparison_price": 27.66,
+      "current_price": 22.99,
+      "deal_id": "db3-52165e433fed09c1ea38cc05a2c1",
+      "delivery_price": null,
+      "gtin": "4250197142120",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fe5dee16b4df14e0ccc1e9019a23dc550.jpg%3Fv%3D1784277292&feedId=102827&k=1c86eff8414eca7eb0bab56ebb09cb90e037760e",
+      "item_price": 22.99,
+      "market_best_price": 22.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-13T11:30:49Z",
+      "mpn": "14212",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/alphacool-nexxxos-xt45-radiator-block?variant=57695571444094",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 11:10:16",
+          "delivery_price": 3.0,
+          "item_price": 25.15,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T12:00:49Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 14:17:20",
+          "delivery_price": 0.0,
+          "item_price": 30.18,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T12:00:49Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 16.9,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "45320304837",
+      "stock_checked_at": "2026-11-13T11:29:58.849556+00:00",
+      "stock_valid_until": "2026-11-13T11:59:58Z",
+      "title": "Alphacool NexXxoS XT45 Radiator block",
+      "valid_until": "2026-11-13T11:59:58Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/alphacool-nexxxos-xt45-radiator-block-4755fff5.html"
     }
   ]
 }
