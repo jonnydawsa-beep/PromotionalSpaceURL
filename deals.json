@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T05:40:07Z",
+    "generated_at": "2026-11-13T05:47:38Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "2ba06be1b3a5db5c0bb13aae3cdd79b9c2c02042d9750108863e38fba9cfaedf",
+    "revision": "a3f1e881f5c622ecd0d8ac904df5fa899277de5b15e7a178eb921a002119d00a",
     "deal_count": 20,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -394,7 +394,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:34:53Z",
+      "checked_at": "2026-11-13T05:47:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 58.16,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:53Z",
+      "market_verified_at": "2026-11-13T05:47:37Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:53Z",
+      "checked_at": "2026-11-13T05:47:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5488.87,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:34:53Z",
+      "market_verified_at": "2026-11-13T05:47:37Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 5488.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 5488.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -502,7 +502,7 @@
           "delivery_price": 0.0,
           "item_price": 6586.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         }
       ],
       "publishable": true,
@@ -970,7 +970,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397184822555",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:53Z",
+      "checked_at": "2026-11-13T05:47:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 60.27,
@@ -986,7 +986,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:53Z",
+      "market_verified_at": "2026-11-13T05:47:37Z",
       "mpn": "DELL-5RGKY",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-5rgky?variant=55307545903486",
@@ -998,7 +998,7 @@
           "delivery_price": 3.0,
           "item_price": 54.79,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -1007,7 +1007,7 @@
           "delivery_price": 0.0,
           "item_price": 65.75,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         }
       ],
       "publishable": true,
@@ -1032,7 +1032,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:53Z",
+      "checked_at": "2026-11-13T05:47:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 1438.63,
@@ -1048,7 +1048,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:34:53Z",
+      "market_verified_at": "2026-11-13T05:47:37Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -1060,7 +1060,7 @@
           "delivery_price": 3.0,
           "item_price": 1438.63,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -1069,7 +1069,7 @@
           "delivery_price": 0.0,
           "item_price": 1438.63,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -1078,7 +1078,7 @@
           "delivery_price": 0.0,
           "item_price": 1726.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         }
       ],
       "publishable": true,
@@ -1174,7 +1174,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:34:53Z",
+      "checked_at": "2026-11-13T05:47:37Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -1190,7 +1190,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:53Z",
+      "market_verified_at": "2026-11-13T05:47:37Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -1202,7 +1202,7 @@
           "delivery_price": 3.0,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         },
         {
           "availability": null,
@@ -1211,7 +1211,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:53Z"
+          "valid_until": "2026-11-13T06:17:37Z"
         }
       ],
       "publishable": true,
