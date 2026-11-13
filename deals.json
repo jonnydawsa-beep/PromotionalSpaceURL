@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T11:59:16Z",
+    "generated_at": "2026-11-13T12:17:11Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "635cf9a54b1568afddee5cc342c31100bb37e98cca169ead657262be0284842b",
+    "revision": "268fb365964816b22507f675514eeb53ff5838084a47242c1fe5b8b73e06f790",
     "deal_count": 9,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -208,7 +208,7 @@
       "brand": "Dell",
       "canonical_key": "GTIN:5397063961771",
       "category": "Technology",
-      "checked_at": "2026-11-13T11:54:02Z",
+      "checked_at": "2026-11-13T12:17:10Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 58.16,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T11:54:02Z",
+      "market_verified_at": "2026-11-13T12:17:10Z",
       "mpn": "LDD75B-USBC160",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dell-ldd75b-usbc160-cable-gender-changer-dc-75mm-usb-c-black?variant=55467273912702",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 52.87,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T12:24:02Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 63.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T12:24:02Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170192",
       "category": "Other",
-      "checked_at": "2026-11-13T11:54:01Z",
+      "checked_at": "2026-11-13T12:17:10Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 5533.23,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T11:54:01Z",
+      "market_verified_at": "2026-11-13T12:17:10Z",
       "mpn": "C9200L-48P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
@@ -298,7 +298,7 @@
           "delivery_price": 0.0,
           "item_price": 5488.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T12:24:01Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 5533.23,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T12:24:01Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         },
         {
           "availability": null,
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 6586.64,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T12:24:01Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         }
       ],
       "publishable": true,
@@ -465,7 +465,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728227674",
       "category": "Other",
-      "checked_at": "2026-11-13T11:54:02Z",
+      "checked_at": "2026-11-13T12:17:10Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 1450.21,
@@ -481,7 +481,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T11:54:02Z",
+      "market_verified_at": "2026-11-13T12:17:10Z",
       "mpn": "C9120AXI-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 1438.63,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T12:24:02Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         },
         {
           "availability": null,
@@ -502,7 +502,7 @@
           "delivery_price": 3.0,
           "item_price": 1450.21,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T12:24:02Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         },
         {
           "availability": null,
@@ -511,7 +511,7 @@
           "delivery_price": 0.0,
           "item_price": 1726.36,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T12:24:02Z"
+          "valid_until": "2026-11-13T12:47:10Z"
         }
       ],
       "publishable": true,
