@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T10:48:20Z",
+    "generated_at": "2026-11-13T10:52:14Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "1a33f57f079e4c9bd501fabd46bce3dcedcfb5a746fbddeb004988a83419a730",
+    "revision": "c803ab1652f02b7ddca30a3882166c2d4cac944a37a44af89f432dc6024ac367",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "DJI",
       "canonical_key": "GTIN:190021094680",
       "category": "Other",
-      "checked_at": "2026-11-13T10:48:20Z",
+      "checked_at": "2026-11-13T10:52:14Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 27.96,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T10:48:20Z",
+      "market_verified_at": "2026-11-13T10:52:14Z",
       "mpn": "CP.DY.00000044.02",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cpdy00000044?variant=55308678005118",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 25.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T11:18:20Z"
+          "valid_until": "2026-11-13T11:22:14Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 30.5,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T11:18:20Z"
+          "valid_until": "2026-11-13T11:22:14Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 24.93,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475267259",
-      "stock_checked_at": "2026-11-13T10:23:12.905927+00:00",
-      "stock_valid_until": "2026-11-13T10:53:12Z",
+      "stock_checked_at": "2026-11-13T10:52:14.076767+00:00",
+      "stock_valid_until": "2026-11-13T11:22:14Z",
       "title": "DJI SDC to DJI Mavic 3 Charge Cable (CP.DY.00000044)",
-      "valid_until": "2026-11-13T10:53:12Z",
+      "valid_until": "2026-11-13T11:22:14Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/dji-sdc-to-dji-mavic-3-charge-cable-cp-dy-00000044-db38f3a6.html"
