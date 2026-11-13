@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:47:38Z",
+  "generated_at": "2026-11-13T05:50:54Z",
   "items": [
     {
       "title": "ASUS PRIME H610M-E-CSM Intel H610 LGA 1700 micro ATX",
@@ -9,24 +9,6 @@
       "url": "products/asus-prime-h610m-e-csm-intel-h610-lga-1700-micro-atx-db3f9369.html",
       "active": true,
       "current_price": 76.99
-    },
-    {
-      "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html",
-      "active": true,
-      "current_price": 1055.99
-    },
-    {
-      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "brand": "Cisco",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
-      "active": true,
-      "current_price": 3472.99
     },
     {
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
@@ -54,24 +36,6 @@
       "url": "products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
       "active": true,
       "current_price": 6236.99
-    },
-    {
-      "title": "DELL 5RGKY",
-      "brand": "Dell",
-      "category": "Other",
-      "retailer": "Back to the Office",
-      "url": "products/dell-5rgky-db383267.html",
-      "active": true,
-      "current_price": 41.99
-    },
-    {
-      "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
-      "brand": "Dell",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html",
-      "active": true,
-      "current_price": 34.99
     },
     {
       "title": "DICOTA D30933 wireless presenter RF Black",
@@ -135,15 +99,6 @@
       "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-charcoal-db354064.html",
       "active": true,
       "current_price": 20.99
-    },
-    {
-      "title": "Targus SafePort strap Tablet Silicone Black",
-      "brand": "Targus",
-      "category": "Technology",
-      "retailer": "Back to the Office",
-      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
-      "active": true,
-      "current_price": 24.99
     },
     {
       "title": "Vision 2x VGA 15-pin D-Sub, 10m VGA cable VGA (D-Sub) White",
@@ -2135,11 +2090,29 @@
       "current_price": null
     },
     {
+      "title": "Cisco Catalyst 9120AXI-E Wireless Access Point, Wi-Fi 6, 4x4 Dual 5GHz Radio, CleanAir with RF ASIC, MU-MIMO, PoE, Internal antenna (C9120AXI-E)",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "Cisco Catalyst 9200L Managed L3 10G Ethernet (100/1000/10000) Power over Ethernet (PoE) Grey",
       "brand": "Cisco",
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
+      "brand": "Cisco",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
       "active": false,
       "current_price": null
     },
@@ -2450,6 +2423,15 @@
       "current_price": null
     },
     {
+      "title": "DELL 5RGKY",
+      "brand": "Dell",
+      "category": "Other",
+      "retailer": "Back to the Office",
+      "url": "products/dell-5rgky-db383267.html",
+      "active": false,
+      "current_price": null
+    },
+    {
       "title": "DELL CC5626 40.6 cm (16\") Briefcase Black",
       "brand": "DELL",
       "category": "Technology",
@@ -2491,6 +2473,15 @@
       "category": "Technology",
       "retailer": "Back to the Office",
       "url": "products/dell-da225-wired-usb-3-2-gen-1-3-1-gen-1-type-c-black-db34cbd5.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "DELL LDD75B-USBC160 cable gender changer DC 7.5mm USB-C Black",
+      "brand": "Dell",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/dell-ldd75b-usbc160-cable-gender-changer-dc-7-5mm-usb-c-black-db37e7d8.html",
       "active": false,
       "current_price": null
     },
@@ -7144,6 +7135,15 @@
       "category": "Other",
       "retailer": "Back to the Office",
       "url": "products/targus-pulse-ii-ecosmart-40-6-cm-16-sleeve-case-green-db3052b7.html",
+      "active": false,
+      "current_price": null
+    },
+    {
+      "title": "Targus SafePort strap Tablet Silicone Black",
+      "brand": "Targus",
+      "category": "Technology",
+      "retailer": "Back to the Office",
+      "url": "products/targus-safeport-strap-tablet-silicone-black-db3c377c.html",
       "active": false,
       "current_price": null
     },
