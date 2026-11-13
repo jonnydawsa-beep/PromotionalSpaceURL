@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T03:34:47Z",
+    "generated_at": "2026-11-13T03:57:43Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "4ec370ddf404eb26396cf50616873527de5399a5dc7fb51c815ea74defa7f9fd",
+    "revision": "77bd90d89b159894e54f1490459d819559cccfb9712f9a4c295eb502d8855ee7",
     "deal_count": 6,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:4963686000008",
       "category": "Technology",
-      "checked_at": "2026-11-13T03:34:45Z",
+      "checked_at": "2026-11-13T03:57:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 42.57,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:34:45Z",
+      "market_verified_at": "2026-11-13T03:57:43Z",
       "mpn": "VFM-WA1X1B",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-686-cm-27-wall-black?variant=55468880888190",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 38.7,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T04:04:45Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 46.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T04:04:45Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         }
       ],
       "publishable": true,
@@ -67,10 +67,10 @@
       "saving_percent": 45.99,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075458476",
-      "stock_checked_at": "2026-11-13T03:32:35.594387+00:00",
-      "stock_valid_until": "2026-11-13T04:02:35Z",
+      "stock_checked_at": "2026-11-13T03:57:43.047974+00:00",
+      "stock_valid_until": "2026-11-13T04:27:43Z",
       "title": "Vision VFM-WA1X1B monitor mount / stand 68.6 cm (27\") Wall Black",
-      "valid_until": "2026-11-13T04:02:35Z",
+      "valid_until": "2026-11-13T04:27:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/vision-vfm-wa1x1b-monitor-mount-stand-68-6-cm-27-wall-black-323733dd.html"
@@ -84,7 +84,7 @@
       "brand": "Lenovo",
       "canonical_key": "GTIN:0887037480414",
       "category": "Other",
-      "checked_at": "2026-11-13T03:34:46Z",
+      "checked_at": "2026-11-13T03:57:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 41.37,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:34:46Z",
+      "market_verified_at": "2026-11-13T03:57:43Z",
       "mpn": "0B47069",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 37.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T04:04:46Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 45.13,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T04:04:46Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         }
       ],
       "publishable": true,
@@ -129,10 +129,10 @@
       "saving_percent": 42.01,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475275850",
-      "stock_checked_at": "2026-11-13T03:32:35.594387+00:00",
-      "stock_valid_until": "2026-11-13T04:02:35Z",
+      "stock_checked_at": "2026-11-13T03:57:43.047974+00:00",
+      "stock_valid_until": "2026-11-13T04:27:43Z",
       "title": "Lenovo HDMI / VGA 0.2 m Black",
-      "valid_until": "2026-11-13T04:02:35Z",
+      "valid_until": "2026-11-13T04:27:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lenovo-hdmi-vga-0-2-m-black-db3d90e4.html"
@@ -146,7 +146,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170178",
       "category": "Other",
-      "checked_at": "2026-11-13T03:34:46Z",
+      "checked_at": "2026-11-13T03:57:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 3183.32,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T03:34:46Z",
+      "market_verified_at": "2026-11-13T03:57:43Z",
       "mpn": "C9200L-24P-4X-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 3183.32,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T04:04:46Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 3183.32,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T04:04:46Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -192,7 +192,7 @@
           "delivery_price": 0.0,
           "item_price": 3819.98,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T04:04:46Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         }
       ],
       "publishable": true,
@@ -200,10 +200,10 @@
       "saving_percent": 36.8,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447705",
-      "stock_checked_at": "2026-11-13T03:32:35.594387+00:00",
-      "stock_valid_until": "2026-11-13T04:02:35Z",
+      "stock_checked_at": "2026-11-13T03:57:43.047974+00:00",
+      "stock_valid_until": "2026-11-13T04:27:43Z",
       "title": "Cisco Catalyst 9200L Managed L3 10G Ethernet (100/1000/10000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-13T04:02:35Z",
+      "valid_until": "2026-11-13T04:27:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html"
@@ -279,7 +279,7 @@
       "brand": "Lexar",
       "canonical_key": "GTIN:843367135325",
       "category": "Other",
-      "checked_at": "2026-11-13T03:34:47Z",
+      "checked_at": "2026-11-13T03:57:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.79,
@@ -295,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:34:47Z",
+      "market_verified_at": "2026-11-13T03:57:43Z",
       "mpn": "LMSSIPL064G-BNANG",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card?variant=56014830600574",
@@ -307,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 26.17,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T04:04:47Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -316,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 31.4,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T04:04:47Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         }
       ],
       "publishable": true,
@@ -324,10 +324,10 @@
       "saving_percent": 23.61,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "42008114749",
-      "stock_checked_at": "2026-11-13T03:32:35.594387+00:00",
-      "stock_valid_until": "2026-11-13T04:02:35Z",
+      "stock_checked_at": "2026-11-13T03:57:43.047974+00:00",
+      "stock_valid_until": "2026-11-13T04:27:43Z",
       "title": "Lexar Professional SILVER PLUS microSDXC UHS-I Card",
-      "valid_until": "2026-11-13T04:02:35Z",
+      "valid_until": "2026-11-13T04:27:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/lexar-professional-silver-plus-microsdxc-uhs-i-card-db3c3123.html"
@@ -341,7 +341,7 @@
       "brand": "Kensington",
       "canonical_key": "GTIN:5028252643924",
       "category": "Technology",
-      "checked_at": "2026-11-13T03:34:47Z",
+      "checked_at": "2026-11-13T03:57:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.26,
@@ -357,7 +357,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:34:47Z",
+      "market_verified_at": "2026-11-13T03:57:43Z",
       "mpn": "K75507EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/kensington-my430-eq-rechargeable-mouse?variant=55307720393086",
@@ -369,7 +369,7 @@
           "delivery_price": 3.0,
           "item_price": 28.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T04:04:47Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         },
         {
           "availability": null,
@@ -378,7 +378,7 @@
           "delivery_price": 0.0,
           "item_price": 34.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T04:04:47Z"
+          "valid_until": "2026-11-13T04:27:43Z"
         }
       ],
       "publishable": true,
@@ -386,10 +386,10 @@
       "saving_percent": 23.26,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475282506",
-      "stock_checked_at": "2026-11-13T03:32:35.594387+00:00",
-      "stock_valid_until": "2026-11-13T04:02:35Z",
+      "stock_checked_at": "2026-11-13T03:57:43.047974+00:00",
+      "stock_valid_until": "2026-11-13T04:27:43Z",
       "title": "Kensington MY430 EQ Rechargeable Mouse",
-      "valid_until": "2026-11-13T04:02:35Z",
+      "valid_until": "2026-11-13T04:27:43Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/kensington-my430-eq-rechargeable-mouse-db383286.html"
