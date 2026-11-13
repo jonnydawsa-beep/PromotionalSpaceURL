@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T03:06:04Z",
+    "generated_at": "2026-11-13T03:13:34Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "bcaeb1e341ac43ade1c172e3a06c3204249ecfbb7f37fa88d6b50542b04ff462",
+    "revision": "f18d68a6a4378f6b875214be1985d4681b9bda72e9c7b3d16929533845d92cbc",
     "deal_count": 13,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -146,7 +146,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750302685",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.32,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "32-3636",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-15m-hdmi-14b-male-male-1080p-hi-speedethernet-24awg-blk-pvc-cable?variant=55468642140542",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 26.66,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 31.99,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -208,7 +208,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158668740",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 47.77,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "D31696-RPET",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-eco-scale-439-cm-173-backpack-black?variant=55468208980350",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 43.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 52.12,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320283",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.18,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "CN-DAC-10G-1-HP",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-1-hp-infiniband-fibre-optic-cable-1-m-sfp?variant=58376192328062",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 26.53,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 31.84,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "Planet",
       "canonical_key": "GTIN:4711213686764",
       "category": "Technology",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.93,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "MGB-LX",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/planet-mgb-lx-network-transceiver-module-fiber-optic-1000-mbit-s-sfp-1310-nm?variant=58375356318078",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 26.3,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 31.56,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -456,7 +456,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750320382",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.82,
@@ -472,7 +472,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "CN-DAC-10G-5-CIS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-cn-dac-10g-5-cis-infiniband-fibre-optic-cable-5-m-sfp?variant=58376067940734",
@@ -484,7 +484,7 @@
           "delivery_price": 3.0,
           "item_price": 26.2,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -493,7 +493,7 @@
           "delivery_price": 0.0,
           "item_price": 31.44,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750344623",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.77,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "65-4015P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-1-5m-cat6a-rj45-blue-s-ftp-lsoh-26awg-snagless-booted-patch-lead-pk-10?variant=58375357596030",
@@ -546,7 +546,7 @@
           "delivery_price": 3.0,
           "item_price": 26.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 31.39,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -580,7 +580,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750342469",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.96,
@@ -596,7 +596,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "60-4030P",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-3m-cat6-rj45-blue-u-utp-pvc-24awg-flush-moulded-booted-patch-lead-pk10?variant=58375350747518",
@@ -608,7 +608,7 @@
           "delivery_price": 3.0,
           "item_price": 27.24,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -617,7 +617,7 @@
           "delivery_price": 0.0,
           "item_price": 32.69,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -642,7 +642,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:6862534000000",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 127.71,
@@ -658,7 +658,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "TC-HDMIIPRX/3",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-hdmi-over-ip-receiver-av-receiver-black?variant=55468989677950",
@@ -670,7 +670,7 @@
           "delivery_price": 3.0,
           "item_price": 116.1,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -679,7 +679,7 @@
           "delivery_price": 0.0,
           "item_price": 139.32,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -704,7 +704,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.9,
@@ -720,7 +720,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -732,7 +732,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -741,7 +741,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
@@ -766,7 +766,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161359590",
       "category": "Technology",
-      "checked_at": "2026-11-13T03:00:55Z",
+      "checked_at": "2026-11-13T03:13:34Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.14,
@@ -782,7 +782,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T03:00:55Z",
+      "market_verified_at": "2026-11-13T03:13:34Z",
       "mpn": "2F2K5AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-silver-laptop-sleeve?variant=58174208016766",
@@ -794,7 +794,7 @@
           "delivery_price": 3.0,
           "item_price": 28.31,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         },
         {
           "availability": null,
@@ -803,7 +803,7 @@
           "delivery_price": 0.0,
           "item_price": 33.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T03:30:55Z"
+          "valid_until": "2026-11-13T03:43:34Z"
         }
       ],
       "publishable": true,
