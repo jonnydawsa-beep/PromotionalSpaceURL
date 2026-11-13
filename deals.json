@@ -3,13 +3,13 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T19:18:29Z",
+    "generated_at": "2026-11-13T19:22:25Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "976e1e24a635900a33b32a21da106f10e137b2897542a499de7199871198f341",
-    "deal_count": 1,
+    "revision": "1e0cf28e8dc4d1ad05f1b531f2e4e2bbb7df4bcaa895c84173772748efd8c95f",
+    "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
@@ -22,7 +22,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-13T19:18:29Z",
+      "checked_at": "2026-11-13T19:22:25Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 2094.61,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T19:18:29Z",
+      "market_verified_at": "2026-11-13T19:22:25Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -50,7 +50,7 @@
           "delivery_price": 0.0,
           "item_price": 2077.87,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T19:48:29Z"
+          "valid_until": "2026-11-13T19:52:25Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 3.0,
           "item_price": 2094.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T19:48:29Z"
+          "valid_until": "2026-11-13T19:52:25Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 2513.53,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T19:48:29Z"
+          "valid_until": "2026-11-13T19:52:25Z"
         }
       ],
       "publishable": true,
@@ -76,13 +76,84 @@
       "saving_percent": 35.36,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "43075447706",
-      "stock_checked_at": "2026-11-13T18:50:53.933997+00:00",
-      "stock_valid_until": "2026-11-13T19:20:53Z",
+      "stock_checked_at": "2026-11-13T19:22:24.583059+00:00",
+      "stock_valid_until": "2026-11-13T19:52:24Z",
       "title": "Cisco Catalyst 9200L Managed L3 Gigabit Ethernet (10/100/1000) Power over Ethernet (PoE) Grey",
-      "valid_until": "2026-11-13T19:20:53Z",
+      "valid_until": "2026-11-13T19:52:24Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-9c7f402ff5f06a4652cda47427f6&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j%3Fvariant%3D55468146393470&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "Cisco",
+      "canonical_key": "GTIN:0889728136174",
+      "category": "Home",
+      "checked_at": "2026-11-13T19:22:25Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 3,
+      "comparison_price": 46.04,
+      "current_price": 33.99,
+      "deal_id": "db3-9c7f402ff5f06a4652cda47427f6",
+      "delivery_price": null,
+      "gtin": "0889728136174",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F66d635e9b178cbdf49e913ad4f93e344.jpg%3Fv%3D1756134182&feedId=102827&k=b2f690086b6e8f0a424e5eaef03b84bc8c2b4242",
+      "item_price": 33.99,
+      "market_best_price": 33.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 4,
+      "market_merchant_count": 4,
+      "market_verified_at": "2026-11-13T19:22:25Z",
+      "mpn": "CAB-MIC-EXT-J=",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-12 21:02:09",
+          "delivery_price": 0.0,
+          "item_price": 45.85,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-13T19:52:25Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 11:10:16",
+          "delivery_price": 3.0,
+          "item_price": 46.04,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-13T19:52:25Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 14:04:10",
+          "delivery_price": 0.0,
+          "item_price": 55.25,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-13T19:52:25Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 26.17,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "43075447777",
+      "stock_checked_at": "2026-11-13T19:22:24.583059+00:00",
+      "stock_valid_until": "2026-11-13T19:52:24Z",
+      "title": "Cisco Extension Cable for the Performance Microphone, Table Microphone Audio Extension Cable for 4-Pin Mini Jack Cables, 9 Metres, 90-Day Standard Hardware Warranty (CAB-MIC-EXT-J=)",
+      "valid_until": "2026-11-13T19:52:24Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html"
     }
   ]
 }

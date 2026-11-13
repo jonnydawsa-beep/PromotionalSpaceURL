@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T19:18:30Z",
+  "generated_at": "2026-11-13T19:22:26Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 1,
+  "active_count": 2,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -14026,8 +14026,8 @@
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0889728170161",
       "active": true,
-      "last_live_at": "2026-11-13T19:18:30Z",
-      "last_seen_at": "2026-11-13T19:18:30Z",
+      "last_live_at": "2026-11-13T19:22:26Z",
+      "last_seen_at": "2026-11-13T19:22:26Z",
       "last_deal": {
         "deal_id": "db3-13b2e52479583026fc51325aebf3",
         "publishable": true,
@@ -14044,8 +14044,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T19:18:29Z",
-        "valid_until": "2026-11-13T19:20:53Z",
+        "checked_at": "2026-11-13T19:22:25Z",
+        "valid_until": "2026-11-13T19:52:24Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_4ff1ca3c-3df8-44dc-b6ed-8f9a5fa90465.jpg%3Fv%3D1756134161&feedId=102827&k=42c451ca6f5314702ab3bd21f41c6e487c2aa8bb",
         "delivery_price": null,
         "item_price": 1353.99,
@@ -14059,7 +14059,7 @@
             "delivery_price": 0.0,
             "item_price": 2077.87,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T19:48:29Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           },
           {
             "availability": null,
@@ -14068,7 +14068,7 @@
             "delivery_price": 3.0,
             "item_price": 2094.61,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T19:48:29Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           },
           {
             "availability": null,
@@ -14077,7 +14077,7 @@
             "delivery_price": 0.0,
             "item_price": 2513.53,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T19:48:29Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -14091,11 +14091,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:50:53.933997+00:00",
-        "stock_valid_until": "2026-11-13T19:20:53Z"
+        "stock_checked_at": "2026-11-13T19:22:24.583059+00:00",
+        "stock_valid_until": "2026-11-13T19:52:24Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T19:18:30Z",
+      "lkg_certified_at": "2026-11-13T19:22:26Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-e3c939d29587bb6ddc4a082b7f0e": {
@@ -49438,9 +49438,9 @@
       "slug": "cisco-extension-cable-for-the-performance-microphone-table-microphone-db39c7f4.html",
       "first_seen_at": "2026-11-05T18:04:20Z",
       "canonical_key": "GTIN:0889728136174",
-      "active": false,
-      "last_live_at": "2026-11-13T19:14:47Z",
-      "last_seen_at": "2026-11-13T19:18:30Z",
+      "active": true,
+      "last_live_at": "2026-11-13T19:22:26Z",
+      "last_seen_at": "2026-11-13T19:22:26Z",
       "last_deal": {
         "deal_id": "db3-9c7f402ff5f06a4652cda47427f6",
         "publishable": true,
@@ -49457,8 +49457,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T19:14:46Z",
-        "valid_until": "2026-11-13T19:19:28Z",
+        "checked_at": "2026-11-13T19:22:25Z",
+        "valid_until": "2026-11-13T19:52:24Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F66d635e9b178cbdf49e913ad4f93e344.jpg%3Fv%3D1756134182&feedId=102827&k=b2f690086b6e8f0a424e5eaef03b84bc8c2b4242",
         "delivery_price": null,
         "item_price": 33.99,
@@ -49472,7 +49472,7 @@
             "delivery_price": 0.0,
             "item_price": 45.85,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T19:44:46Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           },
           {
             "availability": null,
@@ -49481,7 +49481,7 @@
             "delivery_price": 3.0,
             "item_price": 46.04,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T19:44:46Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           },
           {
             "availability": null,
@@ -49490,7 +49490,7 @@
             "delivery_price": 0.0,
             "item_price": 55.25,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T19:44:46Z"
+            "valid_until": "2026-11-13T19:52:25Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -49504,11 +49504,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:49:28.183319+00:00",
-        "stock_valid_until": "2026-11-13T19:19:28Z"
+        "stock_checked_at": "2026-11-13T19:22:24.583059+00:00",
+        "stock_valid_until": "2026-11-13T19:52:24Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T19:14:47Z",
+      "lkg_certified_at": "2026-11-13T19:22:26Z",
       "last_changed_date": "2026-11-13"
     },
     "db3-8e410211bfa40a3c64f06e10e088": {
