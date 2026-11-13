@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T15:54:39Z",
+    "generated_at": "2026-11-13T15:59:09Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "927fbb64110e133a596b01c7808f61d83e8d08ad8e484c54959ff9a414ba7313",
+    "revision": "01111d9ef10924f6a23a328c8370a1e3dde374d6cbcd5d4a3f3fbf4232f91fd0",
     "deal_count": 10,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5024442896606",
       "category": "Other",
-      "checked_at": "2026-11-13T15:38:51Z",
+      "checked_at": "2026-11-13T15:59:09Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 80.22,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:38:51Z",
+      "market_verified_at": "2026-11-13T15:59:09Z",
       "mpn": "ASF220WEU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-privacy-screen-22w-1610-1?variant=55307009753470",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 72.93,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T16:08:51Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 87.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T16:08:51Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:0888182585603",
       "category": "Other",
-      "checked_at": "2026-11-13T15:38:51Z",
+      "checked_at": "2026-11-13T15:59:09Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.17,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:38:51Z",
+      "market_verified_at": "2026-11-13T15:59:09Z",
       "mpn": "B5L37A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-color-laserjet-b5l37a-toner-collection-unit?variant=55308811698558",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 23.8,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T16:08:51Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 40.55,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T16:08:51Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         }
       ],
       "publishable": true,
@@ -332,7 +332,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750331555",
       "category": "Other",
-      "checked_at": "2026-11-13T15:38:52Z",
+      "checked_at": "2026-11-13T15:59:09Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 28.84,
@@ -348,7 +348,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:38:52Z",
+      "market_verified_at": "2026-11-13T15:59:09Z",
       "mpn": "PE65-6020",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-2m-cat6a-rj45-black-f-ftp-pe-external-flush-moulded-solid-patch-lead?variant=58375356350846",
@@ -360,7 +360,7 @@
           "delivery_price": 3.0,
           "item_price": 26.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         },
         {
           "availability": null,
@@ -369,7 +369,7 @@
           "delivery_price": 0.0,
           "item_price": 31.46,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Cablenet",
       "canonical_key": "GTIN:5056750336918",
       "category": "Other",
-      "checked_at": "2026-11-13T15:38:52Z",
+      "checked_at": "2026-11-13T15:59:09Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 29.9,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:38:52Z",
+      "market_verified_at": "2026-11-13T15:59:09Z",
       "mpn": "SLEEV-40WHI",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cablenet-25m-braided-sleeving-20mm-40mm-64mm-max-lsoh-white?variant=55468658229630",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 27.18,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 32.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         }
       ],
       "publishable": true,
@@ -518,7 +518,7 @@
       "brand": "HP",
       "canonical_key": "GTIN:195161359590",
       "category": "Technology",
-      "checked_at": "2026-11-13T15:38:52Z",
+      "checked_at": "2026-11-13T15:59:09Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 31.14,
@@ -534,7 +534,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T15:38:52Z",
+      "market_verified_at": "2026-11-13T15:59:09Z",
       "mpn": "2F2K5AA",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/hp-reversible-protective-156-inch-silver-laptop-sleeve?variant=58174208016766",
@@ -546,7 +546,7 @@
           "delivery_price": 3.0,
           "item_price": 28.31,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         },
         {
           "availability": null,
@@ -555,7 +555,7 @@
           "delivery_price": 0.0,
           "item_price": 33.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T16:08:52Z"
+          "valid_until": "2026-11-13T16:29:09Z"
         }
       ],
       "publishable": true,
