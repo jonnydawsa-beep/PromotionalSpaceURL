@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-13T05:50:53Z",
+    "generated_at": "2026-11-13T05:55:23Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "042a0d19393cb0bb3cfdb66958c2a5cace7a57507d2b6d40fd5dd3cdedc0e3ed",
+    "revision": "5a347b5c24e0aa610fb2adc06bafddfe5b57c1a3c13209949a956021f37b636f",
     "deal_count": 15,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794014471",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:54Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 66.24,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:54Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "ASF14W9EU",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 60.22,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 72.26,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5063194003092",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:54Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 36.58,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:54Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "TBS97104GL",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-pulse-ii-ecosmart-406-cm-16-sleeve-case-charcoal?variant=55399195443582",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 33.25,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 39.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Dicota",
       "canonical_key": "GTIN:7640158661437",
       "category": "Other",
-      "checked_at": "2026-11-13T05:34:54Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 38.98,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:54Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "D30933-V1",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/dicota-d30933-wireless-presenter-rf-black?variant=55468215632254",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 35.43,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 42.52,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
@@ -394,7 +394,7 @@
       "brand": "Vision",
       "canonical_key": "GTIN:7407487000005",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:34:54Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 35.66,
@@ -410,7 +410,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-13T05:34:54Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "TC-PUSBCEU/30",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/vision-usb-c-charger-with-eu-plug-power-adapterinverter-universal-30-w-white?variant=55468993413502",
@@ -422,7 +422,7 @@
           "delivery_price": 3.0,
           "item_price": 32.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -431,7 +431,7 @@
           "delivery_price": 0.0,
           "item_price": 38.9,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:54Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
@@ -837,7 +837,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:34:55Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7695.81,
@@ -853,7 +853,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:34:55Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -865,7 +865,7 @@
           "delivery_price": 3.0,
           "item_price": 7695.81,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -874,7 +874,7 @@
           "delivery_price": 0.0,
           "item_price": 7695.81,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -883,7 +883,7 @@
           "delivery_price": 0.0,
           "item_price": 9234.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
@@ -908,7 +908,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-13T05:34:55Z",
+      "checked_at": "2026-11-13T05:55:22Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 7695.81,
@@ -924,7 +924,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-13T05:34:55Z",
+      "market_verified_at": "2026-11-13T05:55:22Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -936,7 +936,7 @@
           "delivery_price": 3.0,
           "item_price": 7695.81,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -945,7 +945,7 @@
           "delivery_price": 0.0,
           "item_price": 7695.81,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         },
         {
           "availability": null,
@@ -954,7 +954,7 @@
           "delivery_price": 0.0,
           "item_price": 9234.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-13T06:04:55Z"
+          "valid_until": "2026-11-13T06:25:22Z"
         }
       ],
       "publishable": true,
