@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T08:50:28Z",
+    "generated_at": "2026-11-14T08:58:55Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "3f912453a1f339b02679c2f69632dc566389bda277d833488997351e1a399474",
+    "revision": "7b1b5a37a772e35cbd009f0a45d398a415585040a4e25fbcc1397ff07fa8fdca",
     "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035743",
       "category": "Technology",
-      "checked_at": "2026-11-14T08:50:26Z",
+      "checked_at": "2026-11-14T08:58:55Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 7106.18,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T08:50:26Z",
+      "market_verified_at": "2026-11-14T08:58:55Z",
       "mpn": "C9300-48T-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 6460.16,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T09:20:26Z"
+          "valid_until": "2026-11-14T09:28:55Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 7752.19,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T09:20:26Z"
+          "valid_until": "2026-11-14T09:28:55Z"
         }
       ],
       "publishable": true,
