@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T13:37:08Z",
+    "generated_at": "2026-11-14T13:47:13Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "c50ba2067d5d38c1e26ab97679be773f79418921dce938a52acf69f6ba0986cb",
+    "revision": "8eeffaffeadeb37fa1c222ff68936314ca89eb82c835c825f40a67d5321eb7d3",
     "deal_count": 5,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-14T13:33:56Z",
+      "checked_at": "2026-11-14T13:47:13Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 2304.07,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:33:56Z",
+      "market_verified_at": "2026-11-14T13:47:13Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 2094.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 2513.53,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         }
       ],
       "publishable": true,
@@ -84,7 +84,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-14T13:33:56Z",
+      "checked_at": "2026-11-14T13:47:13Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 50.65,
@@ -100,7 +100,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:33:56Z",
+      "market_verified_at": "2026-11-14T13:47:13Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -112,7 +112,7 @@
           "delivery_price": 3.0,
           "item_price": 46.04,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         },
         {
           "availability": null,
@@ -121,7 +121,7 @@
           "delivery_price": 0.0,
           "item_price": 55.25,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         }
       ],
       "publishable": true,
@@ -146,7 +146,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728168250",
       "category": "Other",
-      "checked_at": "2026-11-14T13:33:56Z",
+      "checked_at": "2026-11-14T13:47:13Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 5862.65,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:33:56Z",
+      "market_verified_at": "2026-11-14T13:47:13Z",
       "mpn": "C9200-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -174,7 +174,7 @@
           "delivery_price": 3.0,
           "item_price": 5329.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 6395.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         }
       ],
       "publishable": true,
@@ -208,7 +208,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-14T13:33:56Z",
+      "checked_at": "2026-11-14T13:47:13Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8533.82,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:33:56Z",
+      "market_verified_at": "2026-11-14T13:47:13Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 9309.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         }
       ],
       "publishable": true,
@@ -270,7 +270,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-14T13:33:56Z",
+      "checked_at": "2026-11-14T13:47:13Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8533.82,
@@ -286,7 +286,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:33:56Z",
+      "market_verified_at": "2026-11-14T13:47:13Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -298,7 +298,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         },
         {
           "availability": null,
@@ -307,7 +307,7 @@
           "delivery_price": 0.0,
           "item_price": 9309.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T14:03:56Z"
+          "valid_until": "2026-11-14T14:17:13Z"
         }
       ],
       "publishable": true,
