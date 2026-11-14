@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T09:02:05Z",
+    "generated_at": "2026-11-14T09:14:49Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "bfb41f2ff482db173fd4e6ba30801d767b47484edf8e7bda07db9ff898f35847",
+    "revision": "a77af2349964f5bf2aafe25fad233d56fd288147c3dc0936e6d78d493b6a9f86",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-14T08:50:27Z",
+      "checked_at": "2026-11-14T09:14:49Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 118.5,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-14T08:50:27Z",
+      "market_verified_at": "2026-11-14T09:14:49Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 118.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T09:20:27Z"
+          "valid_until": "2026-11-14T09:44:49Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 118.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-14T09:20:27Z"
+          "valid_until": "2026-11-14T09:44:49Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 142.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T09:20:27Z"
+          "valid_until": "2026-11-14T09:44:49Z"
         }
       ],
       "publishable": true,
