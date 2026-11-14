@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T10:41:01Z",
+    "generated_at": "2026-11-14T10:56:47Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "ee40e34c0a6b76e70425df53a74543411073d23e66bf309317a00d52b746635d",
+    "revision": "e771bb6ccfdc8e7f3d6921d8a81ca8762a234a9ae494910a8815473a419c9e65",
     "deal_count": 1,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -22,7 +22,7 @@
       "brand": "Sandisk",
       "canonical_key": "GTIN:619659099954",
       "category": "Other",
-      "checked_at": "2026-11-14T10:33:52Z",
+      "checked_at": "2026-11-14T10:56:47Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 38.42,
@@ -38,7 +38,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-14T10:33:52Z",
+      "market_verified_at": "2026-11-14T10:56:47Z",
       "mpn": "SDSDB-064G-B35",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -50,7 +50,7 @@
           "delivery_price": 3.0,
           "item_price": 38.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T11:03:52Z"
+          "valid_until": "2026-11-14T11:26:47Z"
         },
         {
           "availability": null,
@@ -59,7 +59,7 @@
           "delivery_price": 0.0,
           "item_price": 38.42,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-14T11:03:52Z"
+          "valid_until": "2026-11-14T11:26:47Z"
         },
         {
           "availability": null,
@@ -68,7 +68,7 @@
           "delivery_price": 0.0,
           "item_price": 46.1,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T11:03:52Z"
+          "valid_until": "2026-11-14T11:26:47Z"
         }
       ],
       "publishable": true,
@@ -76,10 +76,10 @@
       "saving_percent": 21.94,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278985",
-      "stock_checked_at": "2026-11-14T10:31:39.601544+00:00",
-      "stock_valid_until": "2026-11-14T11:01:39Z",
+      "stock_checked_at": "2026-11-14T10:56:47.191036+00:00",
+      "stock_valid_until": "2026-11-14T11:26:47Z",
       "title": "SanDisk 64GB SDXC Class 4",
-      "valid_until": "2026-11-14T11:01:39Z",
+      "valid_until": "2026-11-14T11:26:47Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/sandisk-64gb-sdxc-class-4-db3978e6.html"
