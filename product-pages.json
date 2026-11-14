@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-14T11:27:07Z",
+  "generated_at": "2026-11-14T11:35:47Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 5,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -2881,9 +2881,9 @@
       "slug": "sandisk-64gb-sdxc-class-4-db3978e6.html",
       "first_seen_at": "2026-10-23T16:32:59Z",
       "canonical_key": "GTIN:619659099954",
-      "active": false,
-      "last_live_at": "2026-11-14T11:23:56Z",
-      "last_seen_at": "2026-11-14T11:27:07Z",
+      "active": true,
+      "last_live_at": "2026-11-14T11:35:47Z",
+      "last_seen_at": "2026-11-14T11:35:47Z",
       "last_deal": {
         "deal_id": "db3-978e65a0799f43451c0ed81ee8a1",
         "publishable": true,
@@ -2900,8 +2900,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-14T10:59:54Z",
-        "valid_until": "2026-11-14T11:26:47Z",
+        "checked_at": "2026-11-14T11:35:43Z",
+        "valid_until": "2026-11-14T11:52:04Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc68876890aa49c4a2724ee777051153d.jpg%3Fv%3D1768552777&feedId=102827&k=e9f6fd497c004cfd045a7e373bfad51a8eb88278",
         "delivery_price": null,
         "item_price": 29.99,
@@ -2911,20 +2911,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 21:06:42",
-            "delivery_price": 3.0,
-            "item_price": 38.42,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-14T11:29:54Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
             "checked_at": "2026-11-13 21:01:56",
             "delivery_price": 0.0,
             "item_price": 38.42,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-14T11:29:54Z"
+            "valid_until": "2026-11-14T12:05:43Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-14 11:08:38",
+            "delivery_price": 3.0,
+            "item_price": 38.42,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-14T12:05:43Z"
           },
           {
             "availability": null,
@@ -2933,7 +2933,7 @@
             "delivery_price": 0.0,
             "item_price": 46.1,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-14T11:29:54Z"
+            "valid_until": "2026-11-14T12:05:43Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -2947,11 +2947,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-14T10:56:47.191036+00:00",
-        "stock_valid_until": "2026-11-14T11:26:47Z"
+        "stock_checked_at": "2026-11-14T11:22:04.977734+00:00",
+        "stock_valid_until": "2026-11-14T11:52:04Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-14T11:23:56Z",
+      "lkg_certified_at": "2026-11-14T11:35:47Z",
       "last_changed_date": "2026-11-14"
     },
     "db3-c21755dc741ffe4b2715323adf3d": {
@@ -5654,9 +5654,9 @@
       "slug": "cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-r-db398e3e.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728227674",
-      "active": false,
-      "last_live_at": "2026-11-13T18:37:27Z",
-      "last_seen_at": "2026-11-13T18:40:47Z",
+      "active": true,
+      "last_live_at": "2026-11-14T11:35:47Z",
+      "last_seen_at": "2026-11-14T11:35:47Z",
       "last_deal": {
         "deal_id": "db3-98e3e423310fed6d04931d1fbd3f",
         "publishable": true,
@@ -5668,13 +5668,13 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 1055.99,
-        "comparison_price": 1450.21,
-        "saving_percent": 27.18,
-        "comparison_count": 3,
+        "comparison_price": 1595.23,
+        "saving_percent": 33.8,
+        "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:37:25Z",
-        "valid_until": "2026-11-13T18:42:08Z",
+        "checked_at": "2026-11-14T11:35:44Z",
+        "valid_until": "2026-11-14T12:03:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc63933741fb7cd037150a80186a9d0ae.jpg%3Fv%3D1762514902&feedId=102827&k=2456864bf74d116a126e715fe8ad778da90adf49",
         "delivery_price": null,
         "item_price": 1055.99,
@@ -5684,20 +5684,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:02:09",
-            "delivery_price": 0.0,
-            "item_price": 1438.63,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T19:07:25Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-14 11:08:38",
             "delivery_price": 3.0,
             "item_price": 1450.21,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           },
           {
             "availability": null,
@@ -5706,13 +5697,13 @@
             "delivery_price": 0.0,
             "item_price": 1740.25,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e?variant=55468141248894",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-98e3e423310fed6d04931d1fbd3f&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9120axi-e-wireless-access-point-wi-fi-6-4x4-dual-5ghz-radio-cleanair-with-rf-asic-mu-mimo-poe-internal-antenna-c9120axi-e%3Fvariant%3D55468141248894&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 1055.99,
         "market_best_retailer": "Back to the Office",
@@ -5720,12 +5711,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
-        "stock_valid_until": "2026-11-13T18:42:08Z"
+        "stock_checked_at": "2026-11-14T11:33:11.724180+00:00",
+        "stock_valid_until": "2026-11-14T12:03:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:37:27Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T11:35:47Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-6866713fc50c3f90f9a717ac4519": {
       "slug": "cisco-c9200-nm-4x-network-switch-module-10-gigabit-ethernet-gigabit-et-db368667.html",
@@ -12356,9 +12347,9 @@
       "slug": "epson-a4-archival-matte-photo-paper-189gsm-50-sheets-db3f6704.html",
       "first_seen_at": "2026-10-29T00:56:18Z",
       "canonical_key": "GTIN:0010343830073",
-      "active": false,
-      "last_live_at": "2026-11-12T19:04:30Z",
-      "last_seen_at": "2026-11-12T19:09:49Z",
+      "active": true,
+      "last_live_at": "2026-11-14T11:35:47Z",
+      "last_seen_at": "2026-11-14T11:35:47Z",
       "last_deal": {
         "deal_id": "db3-f6704b37993501d823a0af024d56",
         "publishable": true,
@@ -12375,8 +12366,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T19:04:27Z",
-        "valid_until": "2026-11-12T19:10:02Z",
+        "checked_at": "2026-11-14T11:35:43Z",
+        "valid_until": "2026-11-14T12:03:11Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F2ad859c1acc8c58fbc520115a8a4bf02.jpg%3Fv%3D1779255935&feedId=102827&k=62acf668fea2fcbd88cf82de0cf42aaed1c0b83a",
         "delivery_price": null,
         "item_price": 21.99,
@@ -12386,20 +12377,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:10:50",
+            "checked_at": "2026-11-13 21:01:56",
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T19:34:27Z"
+            "valid_until": "2026-11-14T12:05:43Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T19:34:27Z"
+            "valid_until": "2026-11-14T12:05:43Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/epson-a4-archival-matte-photo-paper-189gsm-50-sheets?variant=55307060314494",
@@ -12413,12 +12404,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T18:40:02.121355+00:00",
-        "stock_valid_until": "2026-11-12T19:10:02Z"
+        "stock_checked_at": "2026-11-14T11:33:11.724180+00:00",
+        "stock_valid_until": "2026-11-14T12:03:11Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T19:04:30Z",
-      "last_changed_date": "2026-11-12"
+      "lkg_certified_at": "2026-11-14T11:35:47Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-08be6674abb4a892836a2d9ec522": {
       "slug": "cisco-catalyst-c9300-48p-e-network-switch-managed-l2-l3-gigabit-ethern-db308be6.html",
@@ -46568,9 +46559,9 @@
       "slug": "targus-safeport-strap-tablet-silicone-black-db3c377c.html",
       "first_seen_at": "2026-11-04T07:53:16Z",
       "canonical_key": "GTIN:5051794023206",
-      "active": false,
-      "last_live_at": "2026-11-13T18:40:47Z",
-      "last_seen_at": "2026-11-13T18:44:07Z",
+      "active": true,
+      "last_live_at": "2026-11-14T11:35:47Z",
+      "last_seen_at": "2026-11-14T11:35:47Z",
       "last_deal": {
         "deal_id": "db3-c377c70d64137741753d003ae932",
         "publishable": true,
@@ -46587,8 +46578,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:14:26Z",
-        "valid_until": "2026-11-13T18:43:34Z",
+        "checked_at": "2026-11-14T11:35:44Z",
+        "valid_until": "2026-11-14T12:04:53Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F12115e7ebb096366ab0643025c6a5d46.jpg%3Fv%3D1756122639&feedId=102827&k=1a3132ad225004734d027950980c0bdd8be2e2f6",
         "delivery_price": null,
         "item_price": 24.99,
@@ -46598,11 +46589,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-14 11:08:38",
             "delivery_price": 3.0,
             "item_price": 29.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T18:44:26Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           },
           {
             "availability": null,
@@ -46611,7 +46602,7 @@
             "delivery_price": 0.0,
             "item_price": 35.3,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T18:44:26Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -46625,12 +46616,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:13:34.270651+00:00",
-        "stock_valid_until": "2026-11-13T18:43:34Z"
+        "stock_checked_at": "2026-11-14T11:34:53.351504+00:00",
+        "stock_valid_until": "2026-11-14T12:04:53Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:40:47Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T11:35:47Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-0e0285d2b0c210a68f1de86a39b2": {
       "slug": "j5create-jvu430-usb-4k-ultra-hd-webcam-3840-x-2160-video-capture-resol-db30e028.html",
@@ -51791,9 +51782,9 @@
       "slug": "startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html",
       "first_seen_at": "2026-11-06T20:41:10Z",
       "canonical_key": "GTIN:065030854900",
-      "active": false,
-      "last_live_at": "2026-11-12T17:30:13Z",
-      "last_seen_at": "2026-11-12T17:35:27Z",
+      "active": true,
+      "last_live_at": "2026-11-14T11:35:47Z",
+      "last_seen_at": "2026-11-14T11:35:47Z",
       "last_deal": {
         "deal_id": "db3-fa629ddc4812ff59496294441c26",
         "publishable": true,
@@ -51810,8 +51801,8 @@
         "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-12T17:30:10Z",
-        "valid_until": "2026-11-12T17:35:29Z",
+        "checked_at": "2026-11-14T11:35:44Z",
+        "valid_until": "2026-11-14T12:04:53Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Ffb12e3aedbf77d505b623add9ba215d1.jpg%3Fv%3D1773906169&feedId=102827&k=940c26218c59f1e054de165c3c962e388421ba96",
         "delivery_price": null,
         "item_price": 25.99,
@@ -51821,20 +51812,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-11 21:10:50",
+            "checked_at": "2026-11-13 21:01:56",
             "delivery_price": 0.0,
             "item_price": 31.64,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-12T18:00:10Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
             "item_price": 37.97,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-12T18:00:10Z"
+            "valid_until": "2026-11-14T12:05:44Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -51848,12 +51839,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-12T17:05:29.374367+00:00",
-        "stock_valid_until": "2026-11-12T17:35:29Z"
+        "stock_checked_at": "2026-11-14T11:34:53.351504+00:00",
+        "stock_valid_until": "2026-11-14T12:04:53Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-12T17:30:13Z",
-      "last_changed_date": "2026-11-12"
+      "lkg_certified_at": "2026-11-14T11:35:47Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-6b30f04bc26ca0fe6e4bfdce2fab": {
       "slug": "d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html",
