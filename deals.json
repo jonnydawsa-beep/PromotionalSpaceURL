@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T11:58:20Z",
+    "generated_at": "2026-11-14T12:02:05Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "15e096b00a449dcf0b7bc34b0c48c0634cf0d8faf2cca117750d6d260376c310",
+    "revision": "f54d3a4a02deef9de3f3581b7d41ec18b6a24086afe16128c2db7342276e2ac3",
     "deal_count": 4,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -146,7 +146,7 @@
       "brand": "StarTech.com",
       "canonical_key": "GTIN:065030854900",
       "category": "Technology",
-      "checked_at": "2026-11-14T11:35:44Z",
+      "checked_at": "2026-11-14T12:02:04Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 34.8,
@@ -162,7 +162,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T11:35:44Z",
+      "market_verified_at": "2026-11-14T12:02:04Z",
       "mpn": "DP2DVIMM3BS",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/startechcom-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displayport-to-dvi-adapter-cable-displayport-to-dvi-d-cable-converter-single-link-dp-12-to-dvi-monitor-cable?variant=55306439688574",
@@ -174,7 +174,7 @@
           "delivery_price": 0.0,
           "item_price": 31.64,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-14T12:05:44Z"
+          "valid_until": "2026-11-14T12:32:04Z"
         },
         {
           "availability": null,
@@ -183,7 +183,7 @@
           "delivery_price": 0.0,
           "item_price": 37.97,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T12:05:44Z"
+          "valid_until": "2026-11-14T12:32:04Z"
         }
       ],
       "publishable": true,
@@ -191,10 +191,10 @@
       "saving_percent": 25.33,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41475278230",
-      "stock_checked_at": "2026-11-14T11:34:53.351504+00:00",
-      "stock_valid_until": "2026-11-14T12:04:53Z",
+      "stock_checked_at": "2026-11-14T12:02:04.195030+00:00",
+      "stock_valid_until": "2026-11-14T12:32:04Z",
       "title": "StarTech.com 3ft (1m) DisplayPort to DVI Cable - 1080p Video - Active DisplayPort to DVI Adapter Cable - DisplayPort to DVI-D Cable Converter Single Link - DP 1.2 to DVI Monitor Cable",
-      "valid_until": "2026-11-14T12:04:53Z",
+      "valid_until": "2026-11-14T12:32:04Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/startech-com-3ft-1m-displayport-to-dvi-cable-1080p-video-active-displa-db3fa629.html"
@@ -208,7 +208,7 @@
       "brand": "Targus",
       "canonical_key": "GTIN:5051794023206",
       "category": "Technology",
-      "checked_at": "2026-11-14T11:35:44Z",
+      "checked_at": "2026-11-14T12:02:04Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 32.36,
@@ -224,7 +224,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T11:35:44Z",
+      "market_verified_at": "2026-11-14T12:02:04Z",
       "mpn": "THA101GLZ",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/targus-safeport-strap-tablet-silicone-black?variant=55307952750974",
@@ -236,7 +236,7 @@
           "delivery_price": 3.0,
           "item_price": 29.42,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T12:05:44Z"
+          "valid_until": "2026-11-14T12:32:04Z"
         },
         {
           "availability": null,
@@ -245,7 +245,7 @@
           "delivery_price": 0.0,
           "item_price": 35.3,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T12:05:44Z"
+          "valid_until": "2026-11-14T12:32:04Z"
         }
       ],
       "publishable": true,
@@ -253,10 +253,10 @@
       "saving_percent": 22.78,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "41476156516",
-      "stock_checked_at": "2026-11-14T11:34:53.351504+00:00",
-      "stock_valid_until": "2026-11-14T12:04:53Z",
+      "stock_checked_at": "2026-11-14T12:02:04.195030+00:00",
+      "stock_valid_until": "2026-11-14T12:32:04Z",
       "title": "Targus SafePort strap Tablet Silicone Black",
-      "valid_until": "2026-11-14T12:04:53Z",
+      "valid_until": "2026-11-14T12:32:04Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/targus-safeport-strap-tablet-silicone-black-db3c377c.html"
