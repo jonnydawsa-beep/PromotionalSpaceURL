@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-13T23:57:40Z",
+  "generated_at": "2026-11-14T07:48:41Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 1,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -46500,9 +46500,9 @@
       "slug": "cisco-catalyst-c9300-48t-e-network-switch-managed-l2-l3-gigabit-ethern-db3f3d89.html",
       "first_seen_at": "2026-11-04T07:53:16Z",
       "canonical_key": "GTIN:0889728035743",
-      "active": false,
-      "last_live_at": "2026-11-13T14:28:34Z",
-      "last_seen_at": "2026-11-13T14:31:56Z",
+      "active": true,
+      "last_live_at": "2026-11-14T07:48:41Z",
+      "last_seen_at": "2026-11-14T07:48:41Z",
       "last_deal": {
         "deal_id": "db3-f3d89456b5d395c844fcc3f8129d",
         "publishable": true,
@@ -46514,13 +46514,13 @@
         "category": "Technology",
         "retailer": "Back to the Office",
         "current_price": 5181.99,
-        "comparison_price": 6460.16,
-        "saving_percent": 19.79,
-        "comparison_count": 3,
+        "comparison_price": 7106.18,
+        "saving_percent": 27.08,
+        "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T14:02:15Z",
-        "valid_until": "2026-11-13T14:31:23Z",
+        "checked_at": "2026-11-14T07:48:39Z",
+        "valid_until": "2026-11-14T08:15:23Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Faf6f9bade7312c3277e554eba6043813_80ce2a10-33da-44a1-9cd6-3e8ca3f4a5f9.jpg%3Fv%3D1756134168&feedId=102827&k=237ee0629e4cf2be1ba13fa949e232f9a348baa8",
         "delivery_price": null,
         "item_price": 5181.99,
@@ -46530,35 +46530,26 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:02:09",
-            "delivery_price": 0.0,
-            "item_price": 6408.46,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T14:32:15Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-13 21:06:42",
             "delivery_price": 3.0,
             "item_price": 6460.16,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T14:32:15Z"
+            "valid_until": "2026-11-14T08:18:39Z"
           },
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 14:17:20",
+            "checked_at": "2026-11-13 14:04:10",
             "delivery_price": 0.0,
-            "item_price": 7690.15,
+            "item_price": 7752.19,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T14:32:15Z"
+            "valid_until": "2026-11-14T08:18:39Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey?variant=55468145049982",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-f3d89456b5d395c844fcc3f8129d&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48t-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-grey%3Fvariant%3D55468145049982&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 5181.99,
         "market_best_retailer": "Back to the Office",
@@ -46566,12 +46557,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T14:01:23.187896+00:00",
-        "stock_valid_until": "2026-11-13T14:31:23Z"
+        "stock_checked_at": "2026-11-14T07:45:23.856649+00:00",
+        "stock_valid_until": "2026-11-14T08:15:23Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T14:28:34Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T07:48:41Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-c377c70d64137741753d003ae932": {
       "slug": "targus-safeport-strap-tablet-silicone-black-db3c377c.html",
