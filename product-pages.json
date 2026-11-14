@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-14T14:57:40Z",
+  "generated_at": "2026-11-14T16:34:31Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 0,
+  "active_count": 1,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -38554,9 +38554,9 @@
       "slug": "cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html",
       "first_seen_at": "2026-11-03T04:59:39Z",
       "canonical_key": "GTIN:0882658210716",
-      "active": false,
-      "last_live_at": "2026-11-14T10:37:55Z",
-      "last_seen_at": "2026-11-14T10:41:02Z",
+      "active": true,
+      "last_live_at": "2026-11-14T16:34:31Z",
+      "last_seen_at": "2026-11-14T16:34:31Z",
       "last_deal": {
         "deal_id": "db3-6c338597c8391b60a2d51d62dba8",
         "publishable": true,
@@ -38573,8 +38573,8 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-14T10:37:54Z",
-        "valid_until": "2026-11-14T10:42:48Z",
+        "checked_at": "2026-11-14T16:34:30Z",
+        "valid_until": "2026-11-14T17:03:38Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2FduRDGehuF0KgPft-mR1vGw.c-r_39ff41be-6428-43ec-8d17-3762107cae5f.jpg%3Fv%3D1793649818&feedId=102827&k=a8ca8cde3b4e49f87b6af19435522ba1c62f3e6c",
         "delivery_price": null,
         "item_price": 95.99,
@@ -38584,20 +38584,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 21:06:42",
-            "delivery_price": 3.0,
-            "item_price": 118.5,
-            "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-14T11:07:54Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
             "checked_at": "2026-11-13 21:01:56",
             "delivery_price": 0.0,
             "item_price": 118.5,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-14T11:07:54Z"
+            "valid_until": "2026-11-14T17:04:30Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-14 11:08:38",
+            "delivery_price": 3.0,
+            "item_price": 118.5,
+            "retailer": "PcNova.co.uk",
+            "valid_until": "2026-11-14T17:04:30Z"
           },
           {
             "availability": null,
@@ -38606,7 +38606,7 @@
             "delivery_price": 0.0,
             "item_price": 142.2,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-14T11:07:54Z"
+            "valid_until": "2026-11-14T17:04:30Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -38620,11 +38620,11 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-14T10:12:48.359322+00:00",
-        "stock_valid_until": "2026-11-14T10:42:48Z"
+        "stock_checked_at": "2026-11-14T16:33:38.747504+00:00",
+        "stock_valid_until": "2026-11-14T17:03:38Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-14T10:37:55Z",
+      "lkg_certified_at": "2026-11-14T16:34:31Z",
       "last_changed_date": "2026-11-14"
     },
     "db3-7e806299be1c39ffe8354df78539": {
