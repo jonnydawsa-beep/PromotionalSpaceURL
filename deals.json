@@ -3,12 +3,12 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T09:57:50Z",
+    "generated_at": "2026-11-14T10:20:43Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "92edf8b3a3822275f053f2a26e27c97180c6e2ed00c6dad837cb22906c2a3be1",
+    "revision": "33e8e92d5d56127edb3473efce7208ee723299523fb8fad77b8603091603c3c3",
     "deal_count": 2,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
@@ -93,7 +93,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0882658210716",
       "category": "Other",
-      "checked_at": "2026-11-14T09:57:48Z",
+      "checked_at": "2026-11-14T10:20:43Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 3,
       "comparison_price": 118.5,
@@ -109,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 4,
       "market_merchant_count": 4,
-      "market_verified_at": "2026-11-14T09:57:48Z",
+      "market_verified_at": "2026-11-14T10:20:43Z",
       "mpn": "SFP-H10GB-CU5M=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-5-m-grey-5-year-standard-warranty-sfp-h10gb-cu5m?variant=58375200407934",
@@ -121,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 118.5,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T10:27:48Z"
+          "valid_until": "2026-11-14T10:50:43Z"
         },
         {
           "availability": null,
@@ -130,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 118.5,
           "retailer": "PCHUB.UK",
-          "valid_until": "2026-11-14T10:27:48Z"
+          "valid_until": "2026-11-14T10:50:43Z"
         },
         {
           "availability": null,
@@ -139,7 +139,7 @@
           "delivery_price": 0.0,
           "item_price": 142.2,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T10:27:48Z"
+          "valid_until": "2026-11-14T10:50:43Z"
         }
       ],
       "publishable": true,
@@ -147,10 +147,10 @@
       "saving_percent": 19.0,
       "signal_type": "CROSS_MERCHANT_EXACT",
       "source_item_id": "46566614506",
-      "stock_checked_at": "2026-11-14T09:55:24.246000+00:00",
-      "stock_valid_until": "2026-11-14T10:25:24Z",
+      "stock_checked_at": "2026-11-14T10:12:48.359322+00:00",
+      "stock_valid_until": "2026-11-14T10:42:48Z",
       "title": "Cisco 10G Direct Attach Twinax SFP+ Cable, Passive, 30AWG Cable Assembly, 5 M, Grey, 5-Year Standard Warranty (SFP-H10GB-CU5M=)",
-      "valid_until": "2026-11-14T10:25:24Z",
+      "valid_until": "2026-11-14T10:42:48Z",
       "verification_policy": "VERIFICATION_V3_0_5",
       "verification_version": "3.5.2",
       "deal_page_url": "https://dealburrow.co.uk/products/cisco-10g-direct-attach-twinax-sfp-cable-passive-30awg-cable-assembly-db36c338.html"
