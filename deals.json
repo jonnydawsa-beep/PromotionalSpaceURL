@@ -3,16 +3,87 @@
     "schema_version": "1.1",
     "build_version": "3.5.2",
     "verification_policy": "VERIFICATION_V3_0_5",
-    "generated_at": "2026-11-14T13:05:12Z",
+    "generated_at": "2026-11-14T13:09:54Z",
     "publication_mode": "V3_RESOLVED_EVIDENCE_OUTBOX",
     "publisher_revision": "3.5.2-unified-native.20261103.1",
     "growth_revision": "3c6fdf3efc46b3939cb0bc6c11d63e7e4961bc1870bf8971a8131b7ab1f69da6",
     "total_catalogue_cap": null,
-    "revision": "46eb57d85099078263528ead20f6f31b0c9e0b833ccdb82031e7838238057132",
-    "deal_count": 5,
+    "revision": "2e133a5db90cb80d8976fc9f3ce6d45fa69542098338a05c5c761159b56f567b",
+    "deal_count": 7,
     "note": "Exact-product item prices verified across checked retailers; delivery shown separately when known. Live deals are challenged asynchronously and removed only on positive exact-product evidence."
   },
   "deals": [
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4288df1d82d4d646acb557398259&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-mobile-wi-fi-4g-hotspot-150-mbps%3Fvariant%3D56014908227966&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "D-Link",
+      "canonical_key": "GTIN:790069405983",
+      "category": "Other",
+      "checked_at": "2026-11-14T13:09:53Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 3,
+      "comparison_price": 106.6,
+      "current_price": 48.99,
+      "deal_id": "db3-4288df1d82d4d646acb557398259",
+      "delivery_price": null,
+      "gtin": "790069405983",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F6bc872def7bf53044b14a29a6ba2faa5.jpg%3Fv%3D1756151170&feedId=102827&k=b17d28267fbb92c86a3fbfd517c5a0684016af0c",
+      "item_price": 48.99,
+      "market_best_price": 48.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 4,
+      "market_merchant_count": 4,
+      "market_verified_at": "2026-11-14T13:09:53Z",
+      "mpn": "DWR-932",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps?variant=56014908227966",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 21:01:56",
+          "delivery_price": 0.0,
+          "item_price": 106.6,
+          "retailer": "PCHUB.UK",
+          "valid_until": "2026-11-14T13:39:53Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-14 11:08:38",
+          "delivery_price": 3.0,
+          "item_price": 106.6,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-14T13:39:53Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 14:04:10",
+          "delivery_price": 0.0,
+          "item_price": 127.92,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-14T13:39:53Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 54.04,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "41981287584",
+      "stock_checked_at": "2026-11-14T13:08:55.052299+00:00",
+      "stock_valid_until": "2026-11-14T13:38:55Z",
+      "title": "D-Link Mobile Wi-Fi 4G Hotspot 150 Mbps",
+      "valid_until": "2026-11-14T13:38:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/d-link-mobile-wi-fi-4g-hotspot-150-mbps-db34288d.html"
+    },
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
@@ -22,7 +93,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728170161",
       "category": "Other",
-      "checked_at": "2026-11-14T13:05:11Z",
+      "checked_at": "2026-11-14T13:09:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 2304.07,
@@ -38,7 +109,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:05:11Z",
+      "market_verified_at": "2026-11-14T13:09:52Z",
       "mpn": "C9200L-24P-4G-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468143411582",
@@ -50,7 +121,7 @@
           "delivery_price": 3.0,
           "item_price": 2094.61,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         },
         {
           "availability": null,
@@ -59,7 +130,7 @@
           "delivery_price": 0.0,
           "item_price": 2513.53,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         }
       ],
       "publishable": true,
@@ -84,7 +155,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728136174",
       "category": "Home",
-      "checked_at": "2026-11-14T13:05:11Z",
+      "checked_at": "2026-11-14T13:09:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 50.65,
@@ -100,7 +171,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:05:11Z",
+      "market_verified_at": "2026-11-14T13:09:52Z",
       "mpn": "CAB-MIC-EXT-J=",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-extension-cable-for-the-performance-microphone-table-microphone-audio-extension-cable-for-4-pin-mini-jack-cables-9-metres-90-day-standard-hardware-warranty-cab-mic-ext-j?variant=55468146393470",
@@ -112,7 +183,7 @@
           "delivery_price": 3.0,
           "item_price": 46.04,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         },
         {
           "availability": null,
@@ -121,7 +192,7 @@
           "delivery_price": 0.0,
           "item_price": 55.25,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         }
       ],
       "publishable": true,
@@ -146,7 +217,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728168250",
       "category": "Other",
-      "checked_at": "2026-11-14T13:05:11Z",
+      "checked_at": "2026-11-14T13:09:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 5862.65,
@@ -162,7 +233,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:05:11Z",
+      "market_verified_at": "2026-11-14T13:09:52Z",
       "mpn": "C9200-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9200-managed-l3-gigabit-ethernet-101001000-grey-1?variant=55468143640958",
@@ -174,7 +245,7 @@
           "delivery_price": 3.0,
           "item_price": 5329.68,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         },
         {
           "availability": null,
@@ -183,7 +254,7 @@
           "delivery_price": 0.0,
           "item_price": 6395.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         }
       ],
       "publishable": true,
@@ -208,7 +279,7 @@
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728051651",
       "category": "Technology",
-      "checked_at": "2026-11-14T13:05:11Z",
+      "checked_at": "2026-11-14T13:09:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8533.82,
@@ -224,7 +295,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:05:11Z",
+      "market_verified_at": "2026-11-14T13:09:52Z",
       "mpn": "C9300-48P-A",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-a-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144886142",
@@ -236,7 +307,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         },
         {
           "availability": null,
@@ -245,7 +316,7 @@
           "delivery_price": 0.0,
           "item_price": 9309.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         }
       ],
       "publishable": true,
@@ -264,13 +335,75 @@
     {
       "advertiser_id": "61655",
       "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
+      "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-6b30f04bc26ca0fe6e4bfdce2fab&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-nuclias-connect-be9500-wi-fi-7-access-point%3Fvariant%3D56131445326206&platform=pl",
+      "availability": 1,
+      "availability_basis": "EXACT_PRODUCT_PAGE",
+      "brand": "D-Link",
+      "canonical_key": "GTIN:790069477355",
+      "category": "Other",
+      "checked_at": "2026-11-14T13:09:53Z",
+      "comparison_baseline_basis": "ITEM_PRICE",
+      "comparison_count": 2,
+      "comparison_price": 179.39,
+      "current_price": 124.99,
+      "deal_id": "db3-6b30f04bc26ca0fe6e4bfdce2fab",
+      "delivery_price": null,
+      "gtin": "790069477355",
+      "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F389774e2e4bf3b6967d6f0ddb92e8b38.jpg%3Fv%3D1773024738&feedId=102827&k=33279df31019cbae805691dce6629203048f7b2a",
+      "item_price": 124.99,
+      "market_best_price": 124.99,
+      "market_best_retailer": "Back to the Office",
+      "market_comparison_scope": "Lowest current exact-product item price among checked retailers; delivery disclosed separately when known",
+      "market_coverage_only_merchant_count": 0,
+      "market_executable_merchant_count": 3,
+      "market_merchant_count": 3,
+      "market_verified_at": "2026-11-14T13:09:53Z",
+      "mpn": "DAP-E9560",
+      "price_basis": "ITEM_PRICE",
+      "product_url": "https://www.backtotheoffice.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point?variant=56131445326206",
+      "public_comparisons": [
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-14 11:08:38",
+          "delivery_price": 3.0,
+          "item_price": 163.08,
+          "retailer": "PcNova.co.uk",
+          "valid_until": "2026-11-14T13:39:53Z"
+        },
+        {
+          "availability": null,
+          "availability_basis": "CURRENT_ACTIVE_LISTING",
+          "checked_at": "2026-11-13 14:04:10",
+          "delivery_price": 0.0,
+          "item_price": 195.7,
+          "retailer": "GamingKit",
+          "valid_until": "2026-11-14T13:39:53Z"
+        }
+      ],
+      "publishable": true,
+      "retailer": "Back to the Office",
+      "saving_percent": 30.32,
+      "signal_type": "CROSS_MERCHANT_EXACT",
+      "source_item_id": "43075468954",
+      "stock_checked_at": "2026-11-14T13:08:55.052299+00:00",
+      "stock_valid_until": "2026-11-14T13:38:55Z",
+      "title": "D-Link Nuclias Connect BE9500 Wi-Fi 7 Access Point",
+      "valid_until": "2026-11-14T13:38:55Z",
+      "verification_policy": "VERIFICATION_V3_0_5",
+      "verification_version": "3.5.2",
+      "deal_page_url": "https://dealburrow.co.uk/products/d-link-nuclias-connect-be9500-wi-fi-7-access-point-db36b30f.html"
+    },
+    {
+      "advertiser_id": "61655",
+      "affiliate_disclosure": "Ad - affiliate link. We may earn a commission if you buy through it.",
       "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-08be6674abb4a892836a2d9ec522&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey%3Fvariant%3D55468144427390&platform=pl",
       "availability": 1,
       "availability_basis": "EXACT_PRODUCT_PAGE",
       "brand": "Cisco",
       "canonical_key": "GTIN:0889728035736",
       "category": "Technology",
-      "checked_at": "2026-11-14T13:05:11Z",
+      "checked_at": "2026-11-14T13:09:52Z",
       "comparison_baseline_basis": "ITEM_PRICE",
       "comparison_count": 2,
       "comparison_price": 8533.82,
@@ -286,7 +419,7 @@
       "market_coverage_only_merchant_count": 0,
       "market_executable_merchant_count": 3,
       "market_merchant_count": 3,
-      "market_verified_at": "2026-11-14T13:05:11Z",
+      "market_verified_at": "2026-11-14T13:09:52Z",
       "mpn": "C9300-48P-E",
       "price_basis": "ITEM_PRICE",
       "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-c9300-48p-e-network-switch-managed-l2l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey?variant=55468144427390",
@@ -298,7 +431,7 @@
           "delivery_price": 3.0,
           "item_price": 7758.02,
           "retailer": "PcNova.co.uk",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         },
         {
           "availability": null,
@@ -307,7 +440,7 @@
           "delivery_price": 0.0,
           "item_price": 9309.62,
           "retailer": "GamingKit",
-          "valid_until": "2026-11-14T13:35:11Z"
+          "valid_until": "2026-11-14T13:39:52Z"
         }
       ],
       "publishable": true,
