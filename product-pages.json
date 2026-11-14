@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-11-14T10:56:48Z",
+  "generated_at": "2026-11-14T10:59:56Z",
   "base_url": "https://dealburrow.co.uk",
-  "active_count": 1,
+  "active_count": 5,
   "product_count": 888,
   "products": {
     "5ec52dd1-55ff-47b6-9053-9423e3b8ca05": {
@@ -953,9 +953,9 @@
       "slug": "targus-asf14w9eu-display-privacy-filter-35-6-cm-14-db3a0af8.html",
       "first_seen_at": "2026-10-23T16:26:26Z",
       "canonical_key": "GTIN:5051794014471",
-      "active": false,
-      "last_live_at": "2026-11-13T18:37:27Z",
-      "last_seen_at": "2026-11-13T18:40:47Z",
+      "active": true,
+      "last_live_at": "2026-11-14T10:59:56Z",
+      "last_seen_at": "2026-11-14T10:59:56Z",
       "last_deal": {
         "deal_id": "db3-a0af857d167670e10b8b33f77029",
         "publishable": true,
@@ -967,13 +967,13 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 27.99,
-        "comparison_price": 66.24,
-        "saving_percent": 57.74,
-        "comparison_count": 2,
+        "comparison_price": 60.22,
+        "saving_percent": 53.52,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:37:25Z",
-        "valid_until": "2026-11-13T18:42:08Z",
+        "checked_at": "2026-11-14T10:59:54Z",
+        "valid_until": "2026-11-14T11:26:47Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fef68be3caa4c68dfb47e9745e98b2cd3_549d30b8-1fde-45d6-8808-a0b27577b59c.jpg%3Fv%3D1771400575&feedId=102827&k=739688302a400ba529812b4b23ec4ea65305217e",
         "delivery_price": null,
         "item_price": 27.99,
@@ -983,11 +983,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-13 21:06:42",
             "delivery_price": 3.0,
             "item_price": 60.22,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T11:29:54Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-13 21:01:56",
+            "delivery_price": 0.0,
+            "item_price": 60.22,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -996,13 +1005,13 @@
             "delivery_price": 0.0,
             "item_price": 72.26,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/targus-asf14w9eu-display-privacy-filter-356-cm-14-1?variant=55307009393022",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-a0af857d167670e10b8b33f77029&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Ftargus-asf14w9eu-display-privacy-filter-356-cm-14-1%3Fvariant%3D55307009393022&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 27.99,
         "market_best_retailer": "Back to the Office",
@@ -1010,12 +1019,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
-        "stock_valid_until": "2026-11-13T18:42:08Z"
+        "stock_checked_at": "2026-11-14T10:56:47.191036+00:00",
+        "stock_valid_until": "2026-11-14T11:26:47Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:37:27Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T10:59:56Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-91ccf1746a719978b7621f56f3fe": {
       "slug": "epson-workforce-ds-900wn-sheet-fed-scanner-600-x-600-dpi-a4-white-db391ccf.html",
@@ -2873,8 +2882,8 @@
       "first_seen_at": "2026-10-23T16:32:59Z",
       "canonical_key": "GTIN:619659099954",
       "active": true,
-      "last_live_at": "2026-11-14T10:56:48Z",
-      "last_seen_at": "2026-11-14T10:56:48Z",
+      "last_live_at": "2026-11-14T10:59:56Z",
+      "last_seen_at": "2026-11-14T10:59:56Z",
       "last_deal": {
         "deal_id": "db3-978e65a0799f43451c0ed81ee8a1",
         "publishable": true,
@@ -2891,7 +2900,7 @@
         "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-14T10:56:47Z",
+        "checked_at": "2026-11-14T10:59:54Z",
         "valid_until": "2026-11-14T11:26:47Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2Fc68876890aa49c4a2724ee777051153d.jpg%3Fv%3D1768552777&feedId=102827&k=e9f6fd497c004cfd045a7e373bfad51a8eb88278",
         "delivery_price": null,
@@ -2906,7 +2915,7 @@
             "delivery_price": 3.0,
             "item_price": 38.42,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-14T11:26:47Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -2915,7 +2924,7 @@
             "delivery_price": 0.0,
             "item_price": 38.42,
             "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-14T11:26:47Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -2924,7 +2933,7 @@
             "delivery_price": 0.0,
             "item_price": 46.1,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-14T11:26:47Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/sandisk-64gb-sdxc-class-4-1?variant=55306455908734",
@@ -2942,7 +2951,7 @@
         "stock_valid_until": "2026-11-14T11:26:47Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-14T10:56:48Z",
+      "lkg_certified_at": "2026-11-14T10:59:56Z",
       "last_changed_date": "2026-11-14"
     },
     "db3-c21755dc741ffe4b2715323adf3d": {
@@ -4216,9 +4225,9 @@
       "slug": "cisco-catalyst-9200l-managed-l3-10g-ethernet-100-1000-10000-power-over-db3eb49a.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170178",
-      "active": false,
-      "last_live_at": "2026-11-13T18:21:37Z",
-      "last_seen_at": "2026-11-13T18:24:56Z",
+      "active": true,
+      "last_live_at": "2026-11-14T10:59:56Z",
+      "last_seen_at": "2026-11-14T10:59:56Z",
       "last_deal": {
         "deal_id": "db3-eb49a32eff171514ad69ed1e27f4",
         "publishable": true,
@@ -4230,13 +4239,13 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 2011.99,
-        "comparison_price": 3209.02,
-        "saving_percent": 37.3,
-        "comparison_count": 3,
+        "comparison_price": 3529.92,
+        "saving_percent": 43.0,
+        "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:21:36Z",
-        "valid_until": "2026-11-13T18:26:23Z",
+        "checked_at": "2026-11-14T10:59:54Z",
+        "valid_until": "2026-11-14T11:25:23Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F1f255f965eb76ed7f90ad72e28848842_5ddda92e-2195-4577-82de-9afa5d8a5e85.jpg%3Fv%3D1762514902&feedId=102827&k=025f8a06151d44fc0f669b6fddc67acb3e02ad0f",
         "delivery_price": null,
         "item_price": 2011.99,
@@ -4246,20 +4255,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:02:09",
-            "delivery_price": 0.0,
-            "item_price": 3183.32,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T18:51:36Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-13 21:06:42",
             "delivery_price": 3.0,
             "item_price": 3209.02,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T18:51:36Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -4268,13 +4268,13 @@
             "delivery_price": 0.0,
             "item_price": 3850.82,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T18:51:36Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey?variant=55468143378814",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-eb49a32eff171514ad69ed1e27f4&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-10g-ethernet-100100010000-power-over-ethernet-poe-grey%3Fvariant%3D55468143378814&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 2011.99,
         "market_best_retailer": "Back to the Office",
@@ -4282,20 +4282,20 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T17:56:23.843563+00:00",
-        "stock_valid_until": "2026-11-13T18:26:23Z"
+        "stock_checked_at": "2026-11-14T10:55:23.741341+00:00",
+        "stock_valid_until": "2026-11-14T11:25:23Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:21:37Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T10:59:56Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-4ee51a423ad2fd80d086b3fdb826": {
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db34ee51.html",
       "first_seen_at": "2026-10-23T22:12:47Z",
       "canonical_key": "GTIN:0889728170192",
-      "active": false,
-      "last_live_at": "2026-11-13T18:37:27Z",
-      "last_seen_at": "2026-11-13T18:40:47Z",
+      "active": true,
+      "last_live_at": "2026-11-14T10:59:56Z",
+      "last_seen_at": "2026-11-14T10:59:56Z",
       "last_deal": {
         "deal_id": "db3-4ee51a423ad2fd80d086b3fdb826",
         "publishable": true,
@@ -4307,13 +4307,13 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 3472.99,
-        "comparison_price": 5533.23,
-        "saving_percent": 37.23,
-        "comparison_count": 3,
+        "comparison_price": 6086.56,
+        "saving_percent": 42.94,
+        "comparison_count": 2,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:37:25Z",
-        "valid_until": "2026-11-13T18:42:08Z",
+        "checked_at": "2026-11-14T10:59:54Z",
+        "valid_until": "2026-11-14T11:26:47Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F0c73a0f9b84faba2057eaa4a589b9099_4b31e7e4-2bdc-48ea-b538-eae4017669c3.jpg%3Fv%3D1778992485&feedId=102827&k=5be15660509c041b8b126472a037644e6a302b8a",
         "delivery_price": null,
         "item_price": 3472.99,
@@ -4323,20 +4323,11 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-12 21:02:09",
-            "delivery_price": 0.0,
-            "item_price": 5488.87,
-            "retailer": "PCHUB.UK",
-            "valid_until": "2026-11-13T19:07:25Z"
-          },
-          {
-            "availability": null,
-            "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-13 21:06:42",
             "delivery_price": 3.0,
             "item_price": 5533.23,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -4345,13 +4336,13 @@
             "delivery_price": 0.0,
             "item_price": 6639.88,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T19:07:25Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/cisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3?variant=55468144066942",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-4ee51a423ad2fd80d086b3fdb826&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fcisco-catalyst-9200l-managed-l3-gigabit-ethernet-101001000-power-over-ethernet-poe-grey-3%3Fvariant%3D55468144066942&platform=pl",
-        "market_merchant_count": 4,
-        "market_executable_merchant_count": 4,
+        "market_merchant_count": 3,
+        "market_executable_merchant_count": 3,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 3472.99,
         "market_best_retailer": "Back to the Office",
@@ -4359,12 +4350,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T18:12:08.391347+00:00",
-        "stock_valid_until": "2026-11-13T18:42:08Z"
+        "stock_checked_at": "2026-11-14T10:56:47.191036+00:00",
+        "stock_valid_until": "2026-11-14T11:26:47Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:37:27Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T10:59:56Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-7fd4b77b4a407b85d73e3fac369a": {
       "slug": "aoc-27-full-hd-120hz-monitor-27e4cv-db37fd4b.html",
@@ -13957,9 +13948,9 @@
       "slug": "lenovo-hdmi-vga-0-2-m-black-db3d90e4.html",
       "first_seen_at": "2026-10-30T13:33:35Z",
       "canonical_key": "GTIN:0887037480414",
-      "active": false,
-      "last_live_at": "2026-11-13T18:21:37Z",
-      "last_seen_at": "2026-11-13T18:24:56Z",
+      "active": true,
+      "last_live_at": "2026-11-14T10:59:56Z",
+      "last_seen_at": "2026-11-14T10:59:56Z",
       "last_deal": {
         "deal_id": "db3-d90e447707b0267e803366c190c8",
         "publishable": true,
@@ -13971,13 +13962,13 @@
         "category": "Other",
         "retailer": "Back to the Office",
         "current_price": 23.99,
-        "comparison_price": 41.37,
-        "saving_percent": 42.01,
-        "comparison_count": 2,
+        "comparison_price": 37.61,
+        "saving_percent": 36.21,
+        "comparison_count": 3,
         "comparison_baseline_basis": "ITEM_PRICE",
         "price_basis": "ITEM_PRICE",
-        "checked_at": "2026-11-13T18:21:36Z",
-        "valid_until": "2026-11-13T18:26:23Z",
+        "checked_at": "2026-11-14T10:59:54Z",
+        "valid_until": "2026-11-14T11:25:23Z",
         "image_url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0607%2F0190%2F0965%2Ffiles%2F909474c59edeb9d419eaa37c503f422c.jpg%3Fv%3D1762945893&feedId=102827&k=b130690a9e05c5d1636804dba7650dae3e5fa344",
         "delivery_price": null,
         "item_price": 23.99,
@@ -13987,11 +13978,20 @@
           {
             "availability": null,
             "availability_basis": "CURRENT_ACTIVE_LISTING",
-            "checked_at": "2026-11-13 11:10:16",
+            "checked_at": "2026-11-13 21:06:42",
             "delivery_price": 3.0,
             "item_price": 37.61,
             "retailer": "PcNova.co.uk",
-            "valid_until": "2026-11-13T18:51:36Z"
+            "valid_until": "2026-11-14T11:29:54Z"
+          },
+          {
+            "availability": null,
+            "availability_basis": "CURRENT_ACTIVE_LISTING",
+            "checked_at": "2026-11-13 21:01:56",
+            "delivery_price": 0.0,
+            "item_price": 37.61,
+            "retailer": "PCHUB.UK",
+            "valid_until": "2026-11-14T11:29:54Z"
           },
           {
             "availability": null,
@@ -14000,13 +14000,13 @@
             "delivery_price": 0.0,
             "item_price": 45.13,
             "retailer": "GamingKit",
-            "valid_until": "2026-11-13T18:51:36Z"
+            "valid_until": "2026-11-14T11:29:54Z"
           }
         ],
         "product_url": "https://www.backtotheoffice.co.uk/products/lenovo-hdmi-vga-02-m-black?variant=55306358358398",
         "affiliate_url": "https://www.awin1.com/cread.php?awinmid=61655&awinaffid=3115871&campaign=&clickref=DB3-db3-d90e447707b0267e803366c190c8&clickref2=&clickref3=&clickref4=&clickref5=&clickref6=&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flenovo-hdmi-vga-02-m-black%3Fvariant%3D55306358358398&platform=pl",
-        "market_merchant_count": 3,
-        "market_executable_merchant_count": 3,
+        "market_merchant_count": 4,
+        "market_executable_merchant_count": 4,
         "market_coverage_only_merchant_count": 0,
         "market_best_price": 23.99,
         "market_best_retailer": "Back to the Office",
@@ -14014,12 +14014,12 @@
         "revalidation_in_progress": null,
         "availability": 1,
         "availability_basis": "EXACT_PRODUCT_PAGE",
-        "stock_checked_at": "2026-11-13T17:56:23.843563+00:00",
-        "stock_valid_until": "2026-11-13T18:26:23Z"
+        "stock_checked_at": "2026-11-14T10:55:23.741341+00:00",
+        "stock_valid_until": "2026-11-14T11:25:23Z"
       },
       "lkg_grace": true,
-      "lkg_certified_at": "2026-11-13T18:21:37Z",
-      "last_changed_date": "2026-11-13"
+      "lkg_certified_at": "2026-11-14T10:59:56Z",
+      "last_changed_date": "2026-11-14"
     },
     "db3-13b2e52479583026fc51325aebf3": {
       "slug": "cisco-catalyst-9200l-managed-l3-gigabit-ethernet-10-100-1000-power-ove-db313b2e.html",
